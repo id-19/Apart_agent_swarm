@@ -1,0 +1,9 @@
+{
+  "sample_seed": 20260326,
+  "rows": 10000,
+  "distinct_ids": 10000,
+  "citation_coverage": 1.0,
+  "position_order_verified": true,
+  "exact_body_groups": 87,
+  "normalized_groups": 9872
+}

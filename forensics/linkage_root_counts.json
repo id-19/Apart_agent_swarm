@@ -1,0 +1,26 @@
+{
+  "parent_only": {
+    "edges": 61125,
+    "roots": 128454
+  },
+  "parent+rare_marker_exact": {
+    "edges": 93249,
+    "roots": 121485
+  },
+  "parent+command_body_exact": {
+    "edges": 63250,
+    "roots": 126698
+  },
+  "parent+url_identifier": {
+    "edges": 69471,
+    "roots": 124423
+  },
+  "parent+content_defined_all": {
+    "edges": 171332,
+    "roots": 102649
+  },
+  "parent+token20": {
+    "edges": 233585,
+    "roots": 93691
+  }
+}

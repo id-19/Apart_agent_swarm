@@ -1,0 +1,13 @@
+{
+  "sample_seed": 20260326,
+  "source_rows": 187242,
+  "pilot_rows": 10000,
+  "distinct_ids": 10000,
+  "citation_coverage": 1.0,
+  "hash_mismatches": 0,
+  "marker_mismatches": 0,
+  "errors_sample": [],
+  "position_order_verified": false,
+  "random_reread_count": 1000,
+  "random_reread_match_rate": 1.0
+}
