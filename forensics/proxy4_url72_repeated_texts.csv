@@ -1,0 +1,101 @@
+rank,repeat_count,text_len,sha256,sample_ids,excerpt
+1,2,1147,cfb893ffd8a141e3,R0061834;R0077198,"HTTP/1.1 200 Connection established  HTTP/1.1 301 Moved Permanently Date: Sun, 20 Sep 2026 02:33:23 GMT Content-Type: text/html; charset=utf-8 Transfer-Encoding: chunked Conn"
+2,2,1147,91c9411a12807c45,R0061835;R0077171,"HTTP/1.1 200 Connection established  HTTP/1.1 301 Moved Permanently Date: Sun, 20 Sep 2026 02:33:23 GMT Content-Type: text/html; charset=utf-8 Transfer-Encoding: chunked Conn"
+3,2,1147,97bdf1700130a446,R0061836;R0077176,"HTTP/1.1 200 Connection established  HTTP/1.1 301 Moved Permanently Date: Sun, 20 Sep 2026 02:33:24 GMT Content-Type: text/html; charset=utf-8 Transfer-Encoding: chunked Conn"
+4,2,1147,61f4ffd613a31405,R0061837;R0077163,"HTTP/1.1 200 Connection established  HTTP/1.1 301 Moved Permanently Date: Sun, 20 Sep 2026 02:33:24 GMT Content-Type: text/html; charset=utf-8 Transfer-Encoding: chunked Conn"
+5,2,1147,3cec24463c2996f6,R0061838;R0077175,"HTTP/1.1 200 Connection established  HTTP/1.1 301 Moved Permanently Date: Sun, 20 Sep 2026 02:33:23 GMT Content-Type: text/html; charset=utf-8 Transfer-Encoding: chunked Conn"
+6,2,1147,88ba1c519dd2b4a9,R0061839;R0077177,"HTTP/1.1 200 Connection established  HTTP/1.1 301 Moved Permanently Date: Sun, 20 Sep 2026 02:33:23 GMT Content-Type: text/html; charset=utf-8 Transfer-Encoding: chunked Conn"
+7,2,1147,0619c9d9b723b9d0,R0061840;R0077160,"HTTP/1.1 200 Connection established  HTTP/1.1 301 Moved Permanently Date: Sun, 20 Sep 2026 02:33:23 GMT Content-Type: text/html; charset=utf-8 Transfer-Encoding: chunked Conn"
+8,2,1147,a6eec4ae579dad1d,R0061841;R0077194,"HTTP/1.1 200 Connection established  HTTP/1.1 301 Moved Permanently Date: Sun, 20 Sep 2026 02:33:23 GMT Content-Type: text/html; charset=utf-8 Transfer-Encoding: chunked Conn"
+9,2,1147,4d19b6f263977d78,R0061842;R0077182,"HTTP/1.1 200 Connection established  HTTP/1.1 301 Moved Permanently Date: Sun, 20 Sep 2026 02:33:24 GMT Content-Type: text/html; charset=utf-8 Transfer-Encoding: chunked Conn"
+10,2,1147,f32c4e549b667dea,R0061843;R0077159,"HTTP/1.1 200 Connection established  HTTP/1.1 301 Moved Permanently Date: Sun, 20 Sep 2026 02:33:24 GMT Content-Type: text/html; charset=utf-8 Transfer-Encoding: chunked Conn"
+11,2,1147,35e6f179d3323bf7,R0061845;R0077201,"HTTP/1.1 200 Connection established  HTTP/1.1 301 Moved Permanently Date: Sun, 20 Sep 2026 02:33:23 GMT Content-Type: text/html; charset=utf-8 Transfer-Encoding: chunked Conn"
+12,2,733,385a2d18ea0d11c0,R0079020;R0101994,"(async()=>{let u='[PROXY 49 URL 1]https://huggingface.co/api/datasets/[REDACTED:destination:000454]',r=await fetch(u,{method:'POST',headers:{Authorization:'Bearer [CREDENTIAL 170]'"
+13,2,646,84b1596a294042a1,R0078991;R0102286,"(async()=>{let u='[PROXY 49 URL 1]https://huggingface.co/api/datasets/[REDACTED:destination:000454]',r=await fetch(u,{method:'POST',headers:{Authorization:'Bearer [CREDENTIAL 170]'"
+14,2,594,926d99f9e7ed0ab3,R0078953;R0109251,"(async()=>{let r=await fetch('[PROXY 49 URL 1]https://huggingface.co/api/datasets/[REDACTED:destination:000604]',{method:'POST',headers:{Authorization:'Bearer [CREDENTIAL [ENCODED "
+15,2,542,f335f2fbb4e8cc8e,R0079081;R0107260,"(async()=>{let u='[PROXY 49 URL 1]https://huggingface.co/api/datasets/[REDACTED:destination:000454]',r=await fetch(u,{method:'POST',headers:{Authorization:'Bearer [CREDENTIAL 170]'"
+16,2,538,5808758cb77ab2a3,R0078978;R0089538,"(async()=>{let r=await fetch('[PROXY 49 URL 1]https://huggingface.co/api/datasets/[REDACTED:destination:000604]',{method:'POST',headers:{Authorization:'Bearer [CREDENTIAL [ENCODED "
+17,2,536,0bbd9b5b3146513d,R0079084;R0104096,"(async()=>{let r=await fetch('[PROXY 49 URL 1]https://huggingface.co/api/datasets/[REDACTED:destination:000604]',{method:'POST',headers:{Authorization:'Bearer [CREDENTIAL 170]','Co"
+18,2,515,ccdaae0e356941db,R0079086;R0112048,"(async()=>{let u='[PROXY 49 URL 1]https://huggingface.co/api/datasets/[REDACTED:destination:000454]',r=await fetch(u,{method:'POST',headers:{Authorization:'Bearer [CREDENTIAL 170]'"
+19,2,506,fb3f2c0c8940b1cd,R0079144;R0084365,"(async()=>{let P='[REDACTED:secret_key:000049]',T='[CREDENTIAL 220]',D='[HF REPO 555]',out=[];for(let w of [`""task_id"" = '[REDACTED:runtime_identifier:000023]'`,`""task_id"" LIKE '%2"
+20,2,506,8eca6e6a275edbf3,R0078995;R0111044,"(async()=>{let r=await fetch('[PROXY 49 URL 1]https://huggingface.co/api/datasets/[REDACTED:destination:000604]',{method:'POST',headers:{Authorization:'Bearer [CREDENTIAL [ENCODED "
+21,2,506,cdcaefd4f6c5de47,R0079006;R0095965,"(async()=>{let r=await fetch('[PROXY 49 URL 1]https://huggingface.co/api/datasets/[REDACTED:destination:000604]',{method:'POST',headers:{Authorization:'Bearer [CREDENTIAL [ENCODED "
+22,2,506,f64067fc8b39b65f,R0079038;R0107290,"(async()=>{let r=await fetch('[PROXY 49 URL 1]https://huggingface.co/api/datasets/[REDACTED:destination:000604]',{method:'POST',headers:{Authorization:'Bearer [CREDENTIAL [ENCODED "
+23,2,486,7927d8da37931cdf,R0079090;R0090958,"(async()=>{let u='[PROXY 49 URL 1]https://huggingface.co/api/datasets/[REDACTED:destination:000454]',r=await fetch(u,{method:'POST',headers:{Authorization:'Bearer [CREDENTIAL 170]'"
+24,2,477,474419eaa1edc838,R0079150;R0099163,"(async()=>{let P='[REDACTED:secret_key:000049]',T='[CREDENTIAL 220]',D='[HF REPO 555]',out=[];for(let w of [`""task_id"" = '[REDACTED:runtime_identifier:000023]'`,`""task_id"" LIKE '%2"
+25,2,474,3d0435ac0c447400,R0079151;R0090772,"(async()=>{let P='[REDACTED:secret_key:000049]',T='[CREDENTIAL 220]',q=new URLSearchParams({dataset:'[HF REPO 1]',config:'default',split:'train',where:""contains(meta, '24633')"",off"
+26,2,453,53d4d3b06d975236,R0079104;R0087528,"(async()=>{let T='[CREDENTIAL 170]',P='[REDACTED:secret_key:000049]',r=await fetch(P+'https://huggingface.co/api/datasets/[REDACTED:repo_locator:000077]',{method:'PUT',headers:{Aut"
+27,2,390,5a712a9661a9f3b3,R0061810;R0077199,"<!DOCTYPE html> <html>     <head>         <meta charset=""UTF-8"" />         <meta http-equiv=""refresh"" content=""0;url='[PROXY 4 URL 72][ENCODED BLOB 52583]'"" />          <title>Redi"
+28,2,390,aec97d52e173aa8a,R0061811;R0077181,"<!DOCTYPE html> <html>     <head>         <meta charset=""UTF-8"" />         <meta http-equiv=""refresh"" content=""0;url='[PROXY 4 URL 72][ENCODED BLOB 52584]'"" />          <title>Redi"
+29,2,390,f5452b754c1a8500,R0061812;R0077185,"<!DOCTYPE html> <html>     <head>         <meta charset=""UTF-8"" />         <meta http-equiv=""refresh"" content=""0;url='[PROXY 4 URL 72][ENCODED BLOB 52585]'"" />          <title>Redi"
+30,2,390,171a2e7d894f7e4a,R0061813;R0077161,"<!DOCTYPE html> <html>     <head>         <meta charset=""UTF-8"" />         <meta http-equiv=""refresh"" content=""0;url='[PROXY 4 URL 72][ENCODED BLOB 52586]'"" />          <title>Redi"
+31,2,390,5887bbea1ab0d18c,R0061814;R0077192,"<!DOCTYPE html> <html>     <head>         <meta charset=""UTF-8"" />         <meta http-equiv=""refresh"" content=""0;url='[PROXY 4 URL 72][ENCODED BLOB 52587]'"" />          <title>Redi"
+32,2,390,87872da395ccf0ad,R0061815;R0077200,"<!DOCTYPE html> <html>     <head>         <meta charset=""UTF-8"" />         <meta http-equiv=""refresh"" content=""0;url='[PROXY 4 URL 72][ENCODED BLOB 52588]'"" />          <title>Redi"
+33,2,390,d4d3abac995427d9,R0061816;R0077203,"<!DOCTYPE html> <html>     <head>         <meta charset=""UTF-8"" />         <meta http-equiv=""refresh"" content=""0;url='[PROXY 4 URL 72][ENCODED BLOB 52589]'"" />          <title>Redi"
+34,2,390,1f158bd9c63f690e,R0061817;R0077173,"<!DOCTYPE html> <html>     <head>         <meta charset=""UTF-8"" />         <meta http-equiv=""refresh"" content=""0;url='[PROXY 4 URL 72][ENCODED BLOB 52590]'"" />          <title>Redi"
+35,2,390,e7a79df87bb9600b,R0061818;R0077202,"<!DOCTYPE html> <html>     <head>         <meta charset=""UTF-8"" />         <meta http-equiv=""refresh"" content=""0;url='[PROXY 4 URL 72][ENCODED BLOB 52591]'"" />          <title>Redi"
+36,2,390,a71ec5b6fa356e6e,R0061819;R0077174,"<!DOCTYPE html> <html>     <head>         <meta charset=""UTF-8"" />         <meta http-equiv=""refresh"" content=""0;url='[PROXY 4 URL 72][ENCODED BLOB 52592]'"" />          <title>Redi"
+37,2,390,f9fe284c42c97e7c,R0061821;R0077206,"<!DOCTYPE html> <html>     <head>         <meta charset=""UTF-8"" />         <meta http-equiv=""refresh"" content=""0;url='[PROXY 4 URL 72][ENCODED BLOB 52593]'"" />          <title>Redi"
+38,2,390,f8fe3547c4998391,R0062016;R0077478,"<!DOCTYPE html> <html>     <head>         <meta charset=""UTF-8"" />         <meta http-equiv=""refresh"" content=""0;url='[PROXY 4 URL 72][ENCODED BLOB 52615]'"" />          <title>Redi"
+39,2,390,286cc8520c165fab,R0062017;R0077452,"<!DOCTYPE html> <html>     <head>         <meta charset=""UTF-8"" />         <meta http-equiv=""refresh"" content=""0;url='[PROXY 4 URL 72][ENCODED BLOB 52616]'"" />          <title>Redi"
+40,2,390,013999b38a0809af,R0062018;R0077453,"<!DOCTYPE html> <html>     <head>         <meta charset=""UTF-8"" />         <meta http-equiv=""refresh"" content=""0;url='[PROXY 4 URL 72][ENCODED BLOB 52617]'"" />          <title>Redi"
+41,2,390,5e7809d3fd23b102,R0062019;R0077479,"<!DOCTYPE html> <html>     <head>         <meta charset=""UTF-8"" />         <meta http-equiv=""refresh"" content=""0;url='[PROXY 4 URL 72][ENCODED BLOB 52618]'"" />          <title>Redi"
+42,2,390,cc7cd6f79f7bba36,R0062020;R0077450,"<!DOCTYPE html> <html>     <head>         <meta charset=""UTF-8"" />         <meta http-equiv=""refresh"" content=""0;url='[PROXY 4 URL 72][ENCODED BLOB 52619]'"" />          <title>Redi"
+43,2,390,8fca36bc717d9ffd,R0062021;R0077467,"<!DOCTYPE html> <html>     <head>         <meta charset=""UTF-8"" />         <meta http-equiv=""refresh"" content=""0;url='[PROXY 4 URL 72][ENCODED BLOB 52620]'"" />          <title>Redi"
+44,2,390,b2e04c0ebbf372b7,R0062022;R0077493,"<!DOCTYPE html> <html>     <head>         <meta charset=""UTF-8"" />         <meta http-equiv=""refresh"" content=""0;url='[PROXY 4 URL 72][ENCODED BLOB 52621]'"" />          <title>Redi"
+45,2,364,840a925af15aae43,R0079131;R0096973,"(async()=>{let u='[PROXY 49 URL 1]https://huggingface.co/api/datasets/[REDACTED:destination:000454]',r=  [PROXY 4 URL 72][ENCODED BLOB 53484][REDACTED:opaque_marker_tail:000007]  x"
+46,2,356,cab4d87134707b78,R0079132;R0110241,(async()=>{let r=await fetch('[PROXY 49 URL 1]https://huggingface.co/api/datasets/[HF REPO 33]/  [PROXY 4 URL 72][ENCODED BLOB 53486][REDACTED:opaque_marker_tail:000007]  x+='[REDA
+47,2,340,5682fd27c9afa724,R0079134;R0083779,(async()=>{let u='[PROXY 49 URL 1]https://huggingface.co/api/datasets/[HF REPO]  x+='[REDACTED:opaque_fragment:000638]';document.write('<script src=[SHORTENER URL 88108]><\/script>
+48,2,172,83ecad82e4694e61,R0055124;R0065873,[PROXY 4 URL 72][ENCODED BLOB 2420][REDACTED:opaque_marker_tail:000400];client=[SHORTENER-1]&amp;request_id=[REDACTED:destination:008485][REDACTED:source_identifier:005636]
+49,2,172,b814d566c7ff6fbd,R0055125;R0065879,[PROXY 4 URL 72][ENCODED BLOB 2421][REDACTED:opaque_marker_tail:000401];client=[SHORTENER-1]&amp;request_id=[REDACTED:destination:008485][REDACTED:source_identifier:005636]
+50,2,161,8bf0c2571090411b,R0058804;R0071588,[PROXY 4 URL 72][ENCODED BLOB 22394][REDACTED:opaque_marker_tail:000415][SHORTENER-1]&request_id=[REDACTED:destination:008514][REDACTED:source_identifier:005649]
+51,2,161,8b07e9b8a9451102,R0058805;R0071589,[PROXY 4 URL 72][ENCODED BLOB 22394][REDACTED:opaque_marker_tail:000416][SHORTENER-1]&request_id=[REDACTED:destination:008514][REDACTED:source_identifier:005649]
+52,2,132,ab7fc19216c0f043,R0056129;R0067649,[PROXY 4 URL 72][ENCODED BLOB 9775]&client=[SHORTENER-1]&request_id=[REDACTED:destination:008502][REDACTED:source_identifier:005640]
+53,2,102,971e0bfb2de58edf,R0150181;R0160482,[PROXY 4 URL 72][ENCODED BLOB 109592][REDACTED:opaque_marker_tail:000183][REDACTED:destination:029684]
+54,2,73,888bac1e464212ad,R0056213;R0067755,[PROXY 4 URL 72][ENCODED BLOB 10050][REDACTED:opaque_marker_tail:000004] 
+55,2,73,4f5096e09a72eb28,R0056219;R0067765,[PROXY 4 URL 72][ENCODED BLOB 10051][REDACTED:opaque_marker_tail:000007] 
+56,2,73,9238d37ac8dab7f4,R0056222;R0067756,[PROXY 4 URL 72][ENCODED BLOB 10053][REDACTED:opaque_marker_tail:000004] 
+57,2,73,6d811d371795c563,R0150184;R0171256,[PROXY 4 URL 72][ENCODED BLOB 109593][REDACTED:opaque_marker_tail:001491]
+58,2,73,556933b18adbdd7a,R0150192;R0188302,[PROXY 4 URL 72][ENCODED BLOB 109594][REDACTED:opaque_marker_tail:000008]
+59,2,73,f8313581641dedc4,R0056396;R0068083,[PROXY 4 URL 72][ENCODED BLOB 11005][REDACTED:opaque_marker_tail:000008] 
+60,2,73,67f0af50a46a1b08,R0056402;R0068084,[PROXY 4 URL 72][ENCODED BLOB 11007][REDACTED:opaque_marker_tail:000007] 
+61,2,73,3a9d00dd909a55d4,R0056404;R0068047,[PROXY 4 URL 72][ENCODED BLOB 11009][REDACTED:opaque_marker_tail:000007] 
+62,2,73,64aca7ac82797516,R0056410;R0068066,[PROXY 4 URL 72][ENCODED BLOB 11011][REDACTED:opaque_marker_tail:000004] 
+63,2,73,528b4a0409312d9b,R0056416;R0068063,[PROXY 4 URL 72][ENCODED BLOB 11012][REDACTED:opaque_marker_tail:000004] 
+64,2,73,f13fd40badce7624,R0056485;R0068226,[PROXY 4 URL 72][ENCODED BLOB 11158][REDACTED:opaque_marker_tail:000007] 
+65,2,73,3cbbb36b2b7ff626,R0056492;R0068216,[PROXY 4 URL 72][ENCODED BLOB 11160][REDACTED:opaque_marker_tail:000004] 
+66,2,73,093b13f9f963bad5,R0056497;R0068244,[PROXY 4 URL 72][ENCODED BLOB 11161][REDACTED:opaque_marker_tail:000007] 
+67,2,73,e0b0faa8a397ff61,R0056498;R0068199,[PROXY 4 URL 72][ENCODED BLOB 11163][REDACTED:opaque_marker_tail:000004] 
+68,2,73,653e8a2e7ae33590,R0056503;R0068172,[PROXY 4 URL 72][ENCODED BLOB 11164][REDACTED:opaque_marker_tail:000004] 
+69,2,73,3673eac87cdc3b5f,R0056511;R0068245,[PROXY 4 URL 72][ENCODED BLOB 11165][REDACTED:opaque_marker_tail:000007] 
+70,2,73,54a6fc0927c400f5,R0056515;R0068210,[PROXY 4 URL 72][ENCODED BLOB 11167][REDACTED:opaque_marker_tail:000004] 
+71,2,73,59df210f4980e8a5,R0056520;R0068192,[PROXY 4 URL 72][ENCODED BLOB 11168][REDACTED:opaque_marker_tail:000004] 
+72,2,73,3b50010b0509343f,R0056524;R0068207,[PROXY 4 URL 72][ENCODED BLOB 11169][REDACTED:opaque_marker_tail:000007] 
+73,2,73,3881933b3f06d7a4,R0056528;R0068174,[PROXY 4 URL 72][ENCODED BLOB 11171][REDACTED:opaque_marker_tail:000004] 
+74,2,73,898656eca0638049,R0056535;R0068202,[PROXY 4 URL 72][ENCODED BLOB 11172][REDACTED:opaque_marker_tail:000007] 
+75,2,73,4b1c1224f64caf91,R0056538;R0068173,[PROXY 4 URL 72][ENCODED BLOB 11174][REDACTED:opaque_marker_tail:000004] 
+76,2,73,7e88331fcdd6106c,R0056545;R0068197,[PROXY 4 URL 72][ENCODED BLOB 11175][REDACTED:opaque_marker_tail:000004] 
+77,2,73,d188f2fa110ff8d2,R0058638;R0071350,[PROXY 4 URL 72][ENCODED BLOB 21664][REDACTED:opaque_marker_tail:000007] 
+78,2,73,8fd9cec9df298140,R0058643;R0071351,[PROXY 4 URL 72][ENCODED BLOB 21666][REDACTED:opaque_marker_tail:000007] 
+79,2,73,75d94954f2a70d64,R0058649;R0071362,[PROXY 4 URL 72][ENCODED BLOB 21668][REDACTED:opaque_marker_tail:000004] 
+80,2,73,9f3cf6be65dc685f,R0058651;R0071335,[PROXY 4 URL 72][ENCODED BLOB 21669][REDACTED:opaque_marker_tail:000004] 
+81,2,73,bc13e74e46ca7ba3,R0058659;R0071358,[PROXY 4 URL 72][ENCODED BLOB 21670][REDACTED:opaque_marker_tail:000004] 
+82,2,73,686d69f07f4d416d,R0060609;R0074618,[PROXY 4 URL 72][ENCODED BLOB 30351][REDACTED:opaque_marker_tail:000004] 
+83,2,73,de7ebb074cf54040,R0147939;R0161116,[PROXY 4 URL 72][ENCODED BLOB 53239][REDACTED:opaque_marker_tail:000004] 
+84,2,73,541753fc2adb88d7,R0147946;R0169746,[PROXY 4 URL 72][ENCODED BLOB 53240][REDACTED:opaque_marker_tail:000007] 
+85,2,73,dd175c92664c11ce,R0147949;R0160155,[PROXY 4 URL 72][ENCODED BLOB 53243][REDACTED:opaque_marker_tail:000007] 
+86,2,73,130b0da5795d567a,R0147955;R0166980,[PROXY 4 URL 72][ENCODED BLOB 53245][REDACTED:opaque_marker_tail:000008] 
+87,2,73,431221235f816c7d,R0147963;R0185799,[PROXY 4 URL 72][ENCODED BLOB 53247][REDACTED:opaque_marker_tail:000008] 
+88,2,73,13f65e5326ef2537,R0147969;R0166065,[PROXY 4 URL 72][ENCODED BLOB 53253][REDACTED:opaque_marker_tail:000004] 
+89,2,73,2ba388a58ac31d13,R0148006;R0172108,[PROXY 4 URL 72][ENCODED BLOB 53258][REDACTED:opaque_marker_tail:000004] 
+90,2,73,19a2823f37788444,R0148036;R0176653,[PROXY 4 URL 72][ENCODED BLOB 53264][REDACTED:opaque_marker_tail:000007] 
+91,2,73,b5dc5039e15631aa,R0148085;R0185515,[PROXY 4 URL 72][ENCODED BLOB 53270][REDACTED:opaque_marker_tail:000007] 
+92,2,73,73686164dae57688,R0148088;R0171736,[PROXY 4 URL 72][ENCODED BLOB 53272][REDACTED:opaque_marker_tail:000007] 
+93,2,73,11f182667791c39c,R0148095;R0174285,[PROXY 4 URL 72][ENCODED BLOB 53275][REDACTED:opaque_marker_tail:000004] 
+94,2,73,182f61e2b4457256,R0148098;R0171295,[PROXY 4 URL 72][ENCODED BLOB 53276][REDACTED:opaque_marker_tail:000007] 
+95,2,73,9ffd8e3168ec4247,R0148121;R0180155,[PROXY 4 URL 72][ENCODED BLOB 53282][REDACTED:opaque_marker_tail:000004] 
+96,2,73,c993ead36d5b61d7,R0148126;R0175071,[PROXY 4 URL 72][ENCODED BLOB 53284][REDACTED:opaque_marker_tail:000004] 
+97,2,73,be4f56537154bd80,R0148146;R0185373,[PROXY 4 URL 72][ENCODED BLOB 53290][REDACTED:opaque_marker_tail:000004] 
+98,2,73,da9f69107dddeecd,R0148151;R0184435,[PROXY 4 URL 72][ENCODED BLOB 53291][REDACTED:opaque_marker_tail:000004] 
+99,2,73,c3b37a4258def46c,R0148162;R0165483,[PROXY 4 URL 72][ENCODED BLOB 53294][REDACTED:opaque_marker_tail:000004] 
+100,2,73,6ab400499f3d2b28,R0148169;R0185833,[PROXY 4 URL 72][ENCODED BLOB 53295][REDACTED:opaque_marker_tail:000008] 

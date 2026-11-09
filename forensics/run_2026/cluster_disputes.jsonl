@@ -1,0 +1,8 @@
+{"dispute_id":"D-0001","cluster_or_edge":"PARENT_DIRECT","issue":"two unresolved parent endpoints documented; ghost parent R0113768","status":"retained"}
+{"dispute_id":"D-0002","cluster_or_edge":"SC-L4-COMP-00001","issue":"largest component 141970 rows is held by shared marker/endpoint co-occurrence, not single operational intent","status":"quarantined_as_broad_hub"}
+{"dispute_id":"D-0003","cluster_or_edge":"structure_segments","issue":"graph_segments_v1 covers 46.6979% of rows with 100 fixed structural signatures; not a cluster coverage solution","status":"retained"}
+{"dispute_id":"D-0004","cluster_or_edge":"candidate_relation","issue":"D1-D3 near-body candidate matrix intentionally not materialized (18852564 rows)","status":"retained"}
+{"dispute_id":"D-0005","cluster_or_edge":"timestamp","issue":"time_utc null for all retained rows; only 1882 timestamp cues and 31 invalid","status":"retained"}
+{"dispute_id":"D-0006","issue":"267,427 of 267,439 profiles reuse the same 3-row disproof triple, so disproof samples are not family-local.","status":"documented_limitation"}
+{"dispute_id":"D-0007","issue":"143,217 singleton L1 rows (88.4% of 161,945 L1 clusters); they represent absence of body repetition, not coordination.","status":"documented_limitation"}
+{"dispute_id":"D-0008","issue":"46 L3 markers each recur in >=1,000 rows, including redaction and URL literals; quarantined broad traits remain retained as clusters.","status":"quarantined_as_broad_hub"}

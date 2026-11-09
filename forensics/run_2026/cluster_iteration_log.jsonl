@@ -1,0 +1,5 @@
+{"iteration":1,"action":"inspect_components","components":26043,"largest_component":144075,"singletons":22894}
+{"iteration":2,"action":"build_L1_exact_body_clusters","clusters":161945,"coverage_percent":100.0}
+{"iteration":3,"action":"build_L3_repeating_marker_clusters","clusters":79451,"excluded_generic_markers":true}
+{"iteration":4,"action":"build_L4_union_find_components","clusters":26043,"broad_hubs":4}
+{"iteration":5,"action":"coverage_audit","gate_95_percent_met":true,"unresolved_disputes_retained":true}

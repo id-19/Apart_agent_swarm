@@ -1,0 +1,340 @@
+{
+  "date_regex": "(?i)(\\b\\d{4}-\\d{2}-\\d{2}(?:[ T]\\d{2}:\\d{2}(?::\\d{2})?)?\\b|\\b\\d{1,2}/\\d{1,2}/\\d{4}\\b|\\b(?:Jan|January|Feb|February|Mar|March|Apr|April|May|Jun|June|Jul|July|Aug|August|Sep|Sept|September|Oct|October|Nov|November|Dec|December)\\s+\\d{1,2},?\\s+\\d{4}\\b|\\b\\d{1,2}\\s+(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\\s+\\d{4}\\b)",
+  "timestamped_rows": 1769,
+  "timestamped_rows_by_kind": {
+    "payload": 862,
+    "response": 307,
+    "recovered_text": 600
+  },
+  "gateway_marker_rows": 11978,
+  "overlap_rows": 43,
+  "overlap_ids_sample": [
+    "R0008200",
+    "R0008228",
+    "R0049250",
+    "R0061834",
+    "R0061835",
+    "R0061836",
+    "R0061837",
+    "R0061838",
+    "R0061839",
+    "R0061840",
+    "R0061841",
+    "R0061842",
+    "R0061843",
+    "R0061845",
+    "R0062032",
+    "R0062033",
+    "R0062034",
+    "R0062035",
+    "R0062036",
+    "R0062037",
+    "R0062038",
+    "R0077159",
+    "R0077160",
+    "R0077163",
+    "R0077171"
+  ],
+  "top_markers": [
+    {
+      "marker": "[REDACTED:source_path:000012]",
+      "occurrences": 2128,
+      "rows": 327
+    },
+    {
+      "marker": "[REDACTED:opaque_base64:000003]",
+      "occurrences": 1223,
+      "rows": 313
+    },
+    {
+      "marker": "[REDACTED SENSITIVE CONTENT]",
+      "occurrences": 1117,
+      "rows": 486
+    },
+    {
+      "marker": "[ENCODED BLOB]",
+      "occurrences": 932,
+      "rows": 428
+    },
+    {
+      "marker": "[REDACTED:destination:000121]",
+      "occurrences": 863,
+      "rows": 391
+    },
+    {
+      "marker": "[REDACTED REPOSITORY]",
+      "occurrences": 474,
+      "rows": 430
+    },
+    {
+      "marker": "[REDACTED:source_identifier:000125]",
+      "occurrences": 461,
+      "rows": 399
+    },
+    {
+      "marker": "[CREDENTIAL 15]",
+      "occurrences": 393,
+      "rows": 378
+    },
+    {
+      "marker": "[SHORTENER CODE]",
+      "occurrences": 333,
+      "rows": 20
+    },
+    {
+      "marker": "[USER 8]",
+      "occurrences": 327,
+      "rows": 314
+    },
+    {
+      "marker": "[REDACTED:destination:000058]",
+      "occurrences": 304,
+      "rows": 292
+    },
+    {
+      "marker": "[SHORTENER-1]",
+      "occurrences": 298,
+      "rows": 149
+    },
+    {
+      "marker": "[REDACTED:source_identifier:000129]",
+      "occurrences": 268,
+      "rows": 222
+    },
+    {
+      "marker": "[REDACTED:runtime_identifier]",
+      "occurrences": 243,
+      "rows": 219
+    },
+    {
+      "marker": "[CREDENTIAL 25]",
+      "occurrences": 199,
+      "rows": 195
+    },
+    {
+      "marker": "[REDACTED:query_value:000027]",
+      "occurrences": 178,
+      "rows": 170
+    },
+    {
+      "marker": "[CREDENTIAL 27]",
+      "occurrences": 165,
+      "rows": 161
+    },
+    {
+      "marker": "[CREDENTIAL 24]",
+      "occurrences": 159,
+      "rows": 155
+    },
+    {
+      "marker": "[CREDENTIAL 223]",
+      "occurrences": 158,
+      "rows": 133
+    },
+    {
+      "marker": "[REDACTED:cookie_value]",
+      "occurrences": 152,
+      "rows": 152
+    },
+    {
+      "marker": "[REDACTED:hf_repo:000002]",
+      "occurrences": 149,
+      "rows": 137
+    },
+    {
+      "marker": "[REDACTED:destination:000063]",
+      "occurrences": 143,
+      "rows": 130
+    },
+    {
+      "marker": "[REDACTED:runtime_identifier:000001]",
+      "occurrences": 135,
+      "rows": 130
+    },
+    {
+      "marker": "[SHORTENER-3]",
+      "occurrences": 126,
+      "rows": 42
+    },
+    {
+      "marker": "[SERVICE 1 URL 1]",
+      "occurrences": 123,
+      "rows": 112
+    },
+    {
+      "marker": "[SERVICE 2 URL 1]",
+      "occurrences": 121,
+      "rows": 118
+    },
+    {
+      "marker": "[REDACTED:username:000004]",
+      "occurrences": 120,
+      "rows": 116
+    },
+    {
+      "marker": "[PROXY 4 URL 72]",
+      "occurrences": 118,
+      "rows": 43
+    },
+    {
+      "marker": "[CREDENTIAL 23]",
+      "occurrences": 117,
+      "rows": 117
+    },
+    {
+      "marker": "[CREDENTIAL 1]",
+      "occurrences": 103,
+      "rows": 101
+    },
+    {
+      "marker": "[REDACTED PRIVATE BUCKET]",
+      "occurrences": 103,
+      "rows": 92
+    },
+    {
+      "marker": "[REDACTED:destination:000002]",
+      "occurrences": 103,
+      "rows": 100
+    },
+    {
+      "marker": "[REDACTED:opaque_binary_carrier; exact original bytes retained privately]",
+      "occurrences": 102,
+      "rows": 102
+    },
+    {
+      "marker": "[CREDENTIAL 43]",
+      "occurrences": 101,
+      "rows": 97
+    },
+    {
+      "marker": "[WORKLOAD ID]",
+      "occurrences": 96,
+      "rows": 65
+    },
+    {
+      "marker": "[SERVICE 9 URL 2]",
+      "occurrences": 94,
+      "rows": 93
+    },
+    {
+      "marker": "[REDACTED:destination:008491]",
+      "occurrences": 92,
+      "rows": 1
+    },
+    {
+      "marker": "[REDACTED:destination:000451]",
+      "occurrences": 86,
+      "rows": 40
+    },
+    {
+      "marker": "[REDACTED:destination:013289]",
+      "occurrences": 85,
+      "rows": 1
+    },
+    {
+      "marker": "[REDACTED:destination:000923]",
+      "occurrences": 77,
+      "rows": 70
+    },
+    {
+      "marker": "[REDACTED:source_path:000263]",
+      "occurrences": 75,
+      "rows": 7
+    },
+    {
+      "marker": "[REDACTED:opaque_base64:000016]",
+      "occurrences": 70,
+      "rows": 13
+    },
+    {
+      "marker": "[REDACTED:source_identifier:000177]",
+      "occurrences": 69,
+      "rows": 64
+    },
+    {
+      "marker": "[REDACTED:runtime_identifier:000003]",
+      "occurrences": 65,
+      "rows": 63
+    },
+    {
+      "marker": "[CREDENTIAL 1067]",
+      "occurrences": 63,
+      "rows": 51
+    },
+    {
+      "marker": "[CREDENTIAL 1068]",
+      "occurrences": 63,
+      "rows": 51
+    },
+    {
+      "marker": "[REDACTED:opaque_base64:000370]",
+      "occurrences": 62,
+      "rows": 51
+    },
+    {
+      "marker": "[REDACTED:source_path:000192]",
+      "occurrences": 62,
+      "rows": 16
+    },
+    {
+      "marker": "[REDACTED:opaque_marker_tail:000183]",
+      "occurrences": 60,
+      "rows": 27
+    },
+    {
+      "marker": "[REDACTED:destination:001505]",
+      "occurrences": 58,
+      "rows": 46
+    },
+    {
+      "marker": "[REDACTED:destination:002985]",
+      "occurrences": 58,
+      "rows": 48
+    },
+    {
+      "marker": "[REDACTED:source_identifier:000980]",
+      "occurrences": 57,
+      "rows": 56
+    },
+    {
+      "marker": "[REDACTED:source_path:000257]",
+      "occurrences": 57,
+      "rows": 7
+    },
+    {
+      "marker": "[REDACTED:source_path:000259]",
+      "occurrences": 57,
+      "rows": 7
+    },
+    {
+      "marker": "[REDACTED:source_path:000220]",
+      "occurrences": 54,
+      "rows": 12
+    },
+    {
+      "marker": "[SERVICE 3 URL 69]",
+      "occurrences": 54,
+      "rows": 54
+    },
+    {
+      "marker": "[REDACTED:secret_key:000002]",
+      "occurrences": 52,
+      "rows": 47
+    },
+    {
+      "marker": "[REDACTED:source_identifier:000983]",
+      "occurrences": 51,
+      "rows": 50
+    },
+    {
+      "marker": "[CREDENTIAL 372]",
+      "occurrences": 49,
+      "rows": 40
+    },
+    {
+      "marker": "[REDACTED OPAQUE BINARY CONTENT]",
+      "occurrences": 47,
+      "rows": 40
+    }
+  ]
+}

