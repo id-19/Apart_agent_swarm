@@ -1,0 +1,448 @@
+{
+  "part_bytes": 45000000,
+  "files": [
+    {
+      "original": "Data/redacted.jsonl",
+      "bytes": 92801525,
+      "sha256": "91e9158487a63acb12e54faa8490c4a23f664e1650c947a87d270d2022b0451e",
+      "parts": [
+        {
+          "path": "Data/redacted.jsonl.part-000",
+          "bytes": 45000000
+        },
+        {
+          "path": "Data/redacted.jsonl.part-001",
+          "bytes": 45000000
+        },
+        {
+          "path": "Data/redacted.jsonl.part-002",
+          "bytes": 2801525
+        }
+      ]
+    },
+    {
+      "original": "Data/redacted_filtered.jsonl",
+      "bytes": 92423255,
+      "sha256": "5a048060a8fc2a90246b42c10c5bdd2e35d1b59f98b48b2849155853e4dc28ee",
+      "parts": [
+        {
+          "path": "Data/redacted_filtered.jsonl.part-000",
+          "bytes": 45000000
+        },
+        {
+          "path": "Data/redacted_filtered.jsonl.part-001",
+          "bytes": 45000000
+        },
+        {
+          "path": "Data/redacted_filtered.jsonl.part-002",
+          "bytes": 2423255
+        }
+      ]
+    },
+    {
+      "original": "FINAL_ARTIFACT/evidence_bundle/Data/redacted_filtered.jsonl",
+      "bytes": 92423255,
+      "sha256": "5a048060a8fc2a90246b42c10c5bdd2e35d1b59f98b48b2849155853e4dc28ee",
+      "parts": [
+        {
+          "path": "FINAL_ARTIFACT/evidence_bundle/Data/redacted_filtered.jsonl.part-000",
+          "bytes": 45000000
+        },
+        {
+          "path": "FINAL_ARTIFACT/evidence_bundle/Data/redacted_filtered.jsonl.part-001",
+          "bytes": 45000000
+        },
+        {
+          "path": "FINAL_ARTIFACT/evidence_bundle/Data/redacted_filtered.jsonl.part-002",
+          "bytes": 2423255
+        }
+      ]
+    },
+    {
+      "original": "FINAL_ARTIFACT/evidence_bundle/forensics/run_2026/cluster_signature_profiles.json",
+      "bytes": 106874624,
+      "sha256": "cb1b5df787b5013c45566aceb80f50dfc962bd52be7e2841bd481eccd94cdc56",
+      "parts": [
+        {
+          "path": "FINAL_ARTIFACT/evidence_bundle/forensics/run_2026/cluster_signature_profiles.json.part-000",
+          "bytes": 45000000
+        },
+        {
+          "path": "FINAL_ARTIFACT/evidence_bundle/forensics/run_2026/cluster_signature_profiles.json.part-001",
+          "bytes": 45000000
+        },
+        {
+          "path": "FINAL_ARTIFACT/evidence_bundle/forensics/run_2026/cluster_signature_profiles.json.part-002",
+          "bytes": 16874624
+        }
+      ]
+    },
+    {
+      "original": "FINAL_ARTIFACT/evidence_bundle/forensics/run_2026/core/core_edges.ndjson",
+      "bytes": 103697603,
+      "sha256": "e271f3cd73cdbe6cea38f961698886834de1a63bc05db9686e8cf671aa656a88",
+      "parts": [
+        {
+          "path": "FINAL_ARTIFACT/evidence_bundle/forensics/run_2026/core/core_edges.ndjson.part-000",
+          "bytes": 45000000
+        },
+        {
+          "path": "FINAL_ARTIFACT/evidence_bundle/forensics/run_2026/core/core_edges.ndjson.part-001",
+          "bytes": 45000000
+        },
+        {
+          "path": "FINAL_ARTIFACT/evidence_bundle/forensics/run_2026/core/core_edges.ndjson.part-002",
+          "bytes": 13697603
+        }
+      ]
+    },
+    {
+      "original": "FINAL_ARTIFACT/evidence_bundle/forensics/run_2026/core/core_rows.ndjson",
+      "bytes": 73999270,
+      "sha256": "2e10714a42eb782c022329c9a74b4af78c5036cef2f4213715845b993d5e6850",
+      "parts": [
+        {
+          "path": "FINAL_ARTIFACT/evidence_bundle/forensics/run_2026/core/core_rows.ndjson.part-000",
+          "bytes": 45000000
+        },
+        {
+          "path": "FINAL_ARTIFACT/evidence_bundle/forensics/run_2026/core/core_rows.ndjson.part-001",
+          "bytes": 28999270
+        }
+      ]
+    },
+    {
+      "original": "FINAL_ARTIFACT/evidence_bundle/forensics/run_2026/node_taxonomy_labels.jsonl",
+      "bytes": 81457306,
+      "sha256": "473b6587ed3274248fb76fa18c8a073a3b07cabac81855a77ebb0495ed7189b7",
+      "parts": [
+        {
+          "path": "FINAL_ARTIFACT/evidence_bundle/forensics/run_2026/node_taxonomy_labels.jsonl.part-000",
+          "bytes": 45000000
+        },
+        {
+          "path": "FINAL_ARTIFACT/evidence_bundle/forensics/run_2026/node_taxonomy_labels.jsonl.part-001",
+          "bytes": 36457306
+        }
+      ]
+    },
+    {
+      "original": "FINAL_ARTIFACT/evidence_bundle/forensics/run_2026/reconstruction_graph_v1.jsonl",
+      "bytes": 83843245,
+      "sha256": "eb303e68f8f400b273adcbbbe842c52af0349874028a9b43d1adfc7971edefd6",
+      "parts": [
+        {
+          "path": "FINAL_ARTIFACT/evidence_bundle/forensics/run_2026/reconstruction_graph_v1.jsonl.part-000",
+          "bytes": 45000000
+        },
+        {
+          "path": "FINAL_ARTIFACT/evidence_bundle/forensics/run_2026/reconstruction_graph_v1.jsonl.part-001",
+          "bytes": 38843245
+        }
+      ]
+    },
+    {
+      "original": "FINAL_ARTIFACT/evidence_bundle.tar.gz",
+      "bytes": 80141716,
+      "sha256": "e2ce43471c3e95e5077cff5c2c88ee75d971e4466d83a224483d8c596358a209",
+      "parts": [
+        {
+          "path": "FINAL_ARTIFACT/evidence_bundle.tar.gz.part-000",
+          "bytes": 45000000
+        },
+        {
+          "path": "FINAL_ARTIFACT/evidence_bundle.tar.gz.part-001",
+          "bytes": 35141716
+        }
+      ]
+    },
+    {
+      "original": "forensics/early_detection.json",
+      "bytes": 57198615,
+      "sha256": "dd515dbedb364bd97461df3dafdea5d2fbde72ff9114a9c88ba934c70b1ca03b",
+      "parts": [
+        {
+          "path": "forensics/early_detection.json.part-000",
+          "bytes": 45000000
+        },
+        {
+          "path": "forensics/early_detection.json.part-001",
+          "bytes": 12198615
+        }
+      ]
+    },
+    {
+      "original": "forensics/graph_edges_v2.jsonl",
+      "bytes": 313045717,
+      "sha256": "c5863ef6ae929210fb7decc07aaa3d2262bd53c20c5ad09a0af7b1995fb8cbb9",
+      "parts": [
+        {
+          "path": "forensics/graph_edges_v2.jsonl.part-000",
+          "bytes": 45000000
+        },
+        {
+          "path": "forensics/graph_edges_v2.jsonl.part-001",
+          "bytes": 45000000
+        },
+        {
+          "path": "forensics/graph_edges_v2.jsonl.part-002",
+          "bytes": 45000000
+        },
+        {
+          "path": "forensics/graph_edges_v2.jsonl.part-003",
+          "bytes": 45000000
+        },
+        {
+          "path": "forensics/graph_edges_v2.jsonl.part-004",
+          "bytes": 45000000
+        },
+        {
+          "path": "forensics/graph_edges_v2.jsonl.part-005",
+          "bytes": 45000000
+        },
+        {
+          "path": "forensics/graph_edges_v2.jsonl.part-006",
+          "bytes": 43045717
+        }
+      ]
+    },
+    {
+      "original": "forensics/graph_info_dependency_edges.ndjson",
+      "bytes": 120756492,
+      "sha256": "65213c9d458cf0fcc033d6dce974660cb9f0f8a14668e756cb16a63b9e616df4",
+      "parts": [
+        {
+          "path": "forensics/graph_info_dependency_edges.ndjson.part-000",
+          "bytes": 45000000
+        },
+        {
+          "path": "forensics/graph_info_dependency_edges.ndjson.part-001",
+          "bytes": 45000000
+        },
+        {
+          "path": "forensics/graph_info_dependency_edges.ndjson.part-002",
+          "bytes": 30756492
+        }
+      ]
+    },
+    {
+      "original": "forensics/graph_rows_index.json",
+      "bytes": 87108199,
+      "sha256": "4c84f53e98b5cc1421b0ebb08ba5323ef13c03b26bc5fa805a7da51c96e3bf3c",
+      "parts": [
+        {
+          "path": "forensics/graph_rows_index.json.part-000",
+          "bytes": 45000000
+        },
+        {
+          "path": "forensics/graph_rows_index.json.part-001",
+          "bytes": 42108199
+        }
+      ]
+    },
+    {
+      "original": "forensics/projections/intent_signature.ndjson",
+      "bytes": 56628958,
+      "sha256": "bee0da49537808d0d269b45471c3f720d5fc86d8053cb9d9b35e4f3e67bb9d88",
+      "parts": [
+        {
+          "path": "forensics/projections/intent_signature.ndjson.part-000",
+          "bytes": 45000000
+        },
+        {
+          "path": "forensics/projections/intent_signature.ndjson.part-001",
+          "bytes": 11628958
+        }
+      ]
+    },
+    {
+      "original": "forensics/projections/marker_same.ndjson",
+      "bytes": 68907814,
+      "sha256": "3ef2cede7b6d500d30c2a720cb16b1b1f9a54de25552e6d8298e7fa414684e01",
+      "parts": [
+        {
+          "path": "forensics/projections/marker_same.ndjson.part-000",
+          "bytes": 45000000
+        },
+        {
+          "path": "forensics/projections/marker_same.ndjson.part-001",
+          "bytes": 23907814
+        }
+      ]
+    },
+    {
+      "original": "forensics/projections/same_parent_sibling.ndjson",
+      "bytes": 117236560,
+      "sha256": "a63ebd7ec725f8a130f2a854158b721e606ae78094d388e7ea0692820e26ed03",
+      "parts": [
+        {
+          "path": "forensics/projections/same_parent_sibling.ndjson.part-000",
+          "bytes": 45000000
+        },
+        {
+          "path": "forensics/projections/same_parent_sibling.ndjson.part-001",
+          "bytes": 45000000
+        },
+        {
+          "path": "forensics/projections/same_parent_sibling.ndjson.part-002",
+          "bytes": 27236560
+        }
+      ]
+    },
+    {
+      "original": "forensics/run_2026/cluster_signature_profiles.json",
+      "bytes": 106874624,
+      "sha256": "cb1b5df787b5013c45566aceb80f50dfc962bd52be7e2841bd481eccd94cdc56",
+      "parts": [
+        {
+          "path": "forensics/run_2026/cluster_signature_profiles.json.part-000",
+          "bytes": 45000000
+        },
+        {
+          "path": "forensics/run_2026/cluster_signature_profiles.json.part-001",
+          "bytes": 45000000
+        },
+        {
+          "path": "forensics/run_2026/cluster_signature_profiles.json.part-002",
+          "bytes": 16874624
+        }
+      ]
+    },
+    {
+      "original": "forensics/run_2026/core/core_edges.ndjson",
+      "bytes": 103697603,
+      "sha256": "e271f3cd73cdbe6cea38f961698886834de1a63bc05db9686e8cf671aa656a88",
+      "parts": [
+        {
+          "path": "forensics/run_2026/core/core_edges.ndjson.part-000",
+          "bytes": 45000000
+        },
+        {
+          "path": "forensics/run_2026/core/core_edges.ndjson.part-001",
+          "bytes": 45000000
+        },
+        {
+          "path": "forensics/run_2026/core/core_edges.ndjson.part-002",
+          "bytes": 13697603
+        }
+      ]
+    },
+    {
+      "original": "forensics/run_2026/core/core_rows.ndjson",
+      "bytes": 73999270,
+      "sha256": "2e10714a42eb782c022329c9a74b4af78c5036cef2f4213715845b993d5e6850",
+      "parts": [
+        {
+          "path": "forensics/run_2026/core/core_rows.ndjson.part-000",
+          "bytes": 45000000
+        },
+        {
+          "path": "forensics/run_2026/core/core_rows.ndjson.part-001",
+          "bytes": 28999270
+        }
+      ]
+    },
+    {
+      "original": "forensics/run_2026/node_taxonomy_labels.jsonl",
+      "bytes": 81457306,
+      "sha256": "473b6587ed3274248fb76fa18c8a073a3b07cabac81855a77ebb0495ed7189b7",
+      "parts": [
+        {
+          "path": "forensics/run_2026/node_taxonomy_labels.jsonl.part-000",
+          "bytes": 45000000
+        },
+        {
+          "path": "forensics/run_2026/node_taxonomy_labels.jsonl.part-001",
+          "bytes": 36457306
+        }
+      ]
+    },
+    {
+      "original": "forensics/run_2026/reconstruction_graph_v1.jsonl",
+      "bytes": 83843245,
+      "sha256": "eb303e68f8f400b273adcbbbe842c52af0349874028a9b43d1adfc7971edefd6",
+      "parts": [
+        {
+          "path": "forensics/run_2026/reconstruction_graph_v1.jsonl.part-000",
+          "bytes": 45000000
+        },
+        {
+          "path": "forensics/run_2026/reconstruction_graph_v1.jsonl.part-001",
+          "bytes": 38843245
+        }
+      ]
+    },
+    {
+      "original": "forensics/swarm_propagation_full/nodes.ndjson",
+      "bytes": 78340960,
+      "sha256": "9cbafebcf99172fc5c86b5296e4d652db27a407ebaecd738f90300a65a5dbb2e",
+      "parts": [
+        {
+          "path": "forensics/swarm_propagation_full/nodes.ndjson.part-000",
+          "bytes": 45000000
+        },
+        {
+          "path": "forensics/swarm_propagation_full/nodes.ndjson.part-001",
+          "bytes": 33340960
+        }
+      ]
+    },
+    {
+      "original": "forensics/swarm_propagation_full/swarm_reconstruction.sqlite3",
+      "bytes": 152936448,
+      "sha256": "864fa49e0f06e9d7574215d01d3bdbe452df1323b771243f7fc2481d3f9ed1f5",
+      "parts": [
+        {
+          "path": "forensics/swarm_propagation_full/swarm_reconstruction.sqlite3.part-000",
+          "bytes": 45000000
+        },
+        {
+          "path": "forensics/swarm_propagation_full/swarm_reconstruction.sqlite3.part-001",
+          "bytes": 45000000
+        },
+        {
+          "path": "forensics/swarm_propagation_full/swarm_reconstruction.sqlite3.part-002",
+          "bytes": 45000000
+        },
+        {
+          "path": "forensics/swarm_propagation_full/swarm_reconstruction.sqlite3.part-003",
+          "bytes": 17936448
+        }
+      ]
+    },
+    {
+      "original": "forensics/swarm_reconstruction_full/nodes.ndjson",
+      "bytes": 78374262,
+      "sha256": "fb263fee17de11d04bca6c1eba927c26b507670c668d26916eef1c370498c4d3",
+      "parts": [
+        {
+          "path": "forensics/swarm_reconstruction_full/nodes.ndjson.part-000",
+          "bytes": 45000000
+        },
+        {
+          "path": "forensics/swarm_reconstruction_full/nodes.ndjson.part-001",
+          "bytes": 33374262
+        }
+      ]
+    },
+    {
+      "original": "forensics/swarm_reconstruction_full/swarm_reconstruction.sqlite3",
+      "bytes": 130297856,
+      "sha256": "8b190ab562dc9bd9bb294a09c3e0542abbc5f25d72d3297ee1f61b9c09288b03",
+      "parts": [
+        {
+          "path": "forensics/swarm_reconstruction_full/swarm_reconstruction.sqlite3.part-000",
+          "bytes": 45000000
+        },
+        {
+          "path": "forensics/swarm_reconstruction_full/swarm_reconstruction.sqlite3.part-001",
+          "bytes": 45000000
+        },
+        {
+          "path": "forensics/swarm_reconstruction_full/swarm_reconstruction.sqlite3.part-002",
+          "bytes": 40297856
+        }
+      ]
+    }
+  ]
+}
