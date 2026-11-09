@@ -1,0 +1,13 @@
+{
+  "rows": 187242,
+  "distinct_ids": 187242,
+  "parent_refs": 59313,
+  "parents_present": 59311,
+  "distinct_parents": 25847,
+  "timestamp_iso_datetime": 482,
+  "timestamp_iso_date": 495,
+  "rows_with_markers": 180929,
+  "distinct_marker_groups": 228450,
+  "repeat_marker_groups": 79653,
+  "repeat_rows_in_groups": 641276
+}

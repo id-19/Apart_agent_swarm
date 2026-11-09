@@ -1,0 +1,170 @@
+{
+  "valid_anchors": 1851,
+  "cue_rows_total": 1882,
+  "invalid_calendar_cues": 31,
+  "invalid_cue_examples": [
+    {
+      "row_id": "R0046439",
+      "cues": [
+        "2026-45-09"
+      ]
+    },
+    {
+      "row_id": "R0046469",
+      "cues": [
+        "2026-45-09"
+      ]
+    },
+    {
+      "row_id": "R0046582",
+      "cues": [
+        "2026-45-09"
+      ]
+    },
+    {
+      "row_id": "R0046587",
+      "cues": [
+        "2026-45-09"
+      ]
+    },
+    {
+      "row_id": "R0046631",
+      "cues": [
+        "2026-45-09"
+      ]
+    },
+    {
+      "row_id": "R0046646",
+      "cues": [
+        "2026-45-09"
+      ]
+    },
+    {
+      "row_id": "R0046707",
+      "cues": [
+        "2026-45-09"
+      ]
+    },
+    {
+      "row_id": "R0046826",
+      "cues": [
+        "2026-45-09"
+      ]
+    },
+    {
+      "row_id": "R0046853",
+      "cues": [
+        "2026-45-09"
+      ]
+    },
+    {
+      "row_id": "R0046871",
+      "cues": [
+        "2026-45-09"
+      ]
+    },
+    {
+      "row_id": "R0046898",
+      "cues": [
+        "2026-45-09"
+      ]
+    },
+    {
+      "row_id": "R0047052",
+      "cues": [
+        "2026-45-09"
+      ]
+    },
+    {
+      "row_id": "R0047136",
+      "cues": [
+        "2026-45-09"
+      ]
+    },
+    {
+      "row_id": "R0047137",
+      "cues": [
+        "2026-45-09"
+      ]
+    },
+    {
+      "row_id": "R0047145",
+      "cues": [
+        "2026-45-09"
+      ]
+    }
+  ],
+  "anchor_kind_counts": {
+    "payload": 909,
+    "response": 301,
+    "recovered_text": 641
+  },
+  "anchor_precision_counts": {
+    "day": 466,
+    "second": 1385
+  },
+  "top_rare_markers": [
+    [
+      "[CREDENTIAL 31]",
+      25
+    ],
+    [
+      "[ENCODED BLOB 21540]",
+      16
+    ],
+    [
+      "[PROXY 4 URL 46]",
+      13
+    ],
+    [
+      "[IP ADDRESS 48]",
+      13
+    ],
+    [
+      "zzer_api_deploy",
+      12
+    ],
+    [
+      "[SERVICE 21 URL 1231]",
+      12
+    ],
+    [
+      "[ENV VALUE 13]",
+      11
+    ],
+    [
+      "[CREDENTIAL 277]",
+      11
+    ],
+    [
+      "[ENCODED BLOB 21539]",
+      11
+    ],
+    [
+      "[SHORTENER CODE 274]",
+      10
+    ],
+    [
+      "[CREDENTIAL 1224]",
+      10
+    ],
+    [
+      "[CREDENTIAL 1694]",
+      10
+    ],
+    [
+      "[CREDENTIAL 2874]",
+      10
+    ],
+    [
+      "[IP ADDRESS 253]",
+      10
+    ],
+    [
+      "[CREDENTIAL 1519]",
+      10
+    ]
+  ],
+  "ordinary_temporal_links": 945,
+  "status": "metadata only; no TIME_DEPENDENCY relation is asserted without valid grounded chronology"
+}

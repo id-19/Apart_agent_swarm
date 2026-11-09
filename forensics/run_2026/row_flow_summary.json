@@ -1,0 +1,23 @@
+{
+  "source_file": "Data/redacted_filtered.jsonl",
+  "source_sha256": "5a048060a8fc2a90246b42c10c5bdd2e35d1b59f98b48b2849155853e4dc28ee",
+  "row_count": 187242,
+  "valid_timestamp_anchors": 1851,
+  "non_candidate_graph_edges": 1505515,
+  "edge_class_counts": {
+    "EXACT_BODY": 66313,
+    "INTENT_SIGNATURE": 249052,
+    "MARKER_ENDPOINT": 134537,
+    "MARKER_SAME": 350851,
+    "NORMALIZED_REPLAY": 8941,
+    "PARENT_DIRECT": 59311,
+    "PARENT_MUTATION": 58045,
+    "SAME_PARENT_SIBLING": 577520,
+    "TIMESTAMP_ANCHOR": 945
+  },
+  "components": 9874,
+  "largest_component": 165876,
+  "singletons": 8832,
+  "candidate_relation_materialized": false,
+  "notes": "No near-body D1/D2/D3 relation is materialized; counts remain from the historical candidate run and stats summary."
+}

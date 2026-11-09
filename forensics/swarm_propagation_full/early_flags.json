@@ -1,0 +1,65 @@
+{
+  "alerts": [
+    {
+      "name": "img_reaches_10",
+      "row_id": "R0000016",
+      "row_index": 16,
+      "count": 10
+    },
+    {
+      "name": "link_reaches_10",
+      "row_id": "R0000027",
+      "row_index": 27,
+      "count": 10
+    },
+    {
+      "name": "first_repeated_payload_template",
+      "row_id": "R0000040",
+      "row_index": 40,
+      "template": "1651d39d1a42f3a6db149607b2ab9d12a70af517c9a10b3f9ba60c2f18adbc2f"
+    },
+    {
+      "name": "cmd_reaches_10",
+      "row_id": "R0000045",
+      "row_index": 45,
+      "count": 10
+    },
+    {
+      "name": "first_exact_duplicate_content",
+      "row_id": "R0000046",
+      "row_index": 46,
+      "sha256": "930404f40c91b6d63dbca20bdd4c900f00b9e6c04364ecfd3892e00dd739cf81"
+    },
+    {
+      "name": "eval_reaches_10",
+      "row_id": "R0000081",
+      "row_index": 81,
+      "count": 10
+    },
+    {
+      "name": "first_repeated_rare_marker",
+      "row_id": "R0000197",
+      "row_index": 197,
+      "marker": "[SHORTENER URL 18]"
+    },
+    {
+      "name": "first_passed_identical_content",
+      "row_id": "R0053436",
+      "row_index": 53436,
+      "parent": "R0000071"
+    }
+  ],
+  "family_cumulative_final": {
+    "link": 54161,
+    "api": 35154,
+    "img": 9122,
+    "eval": 8838,
+    "cmd": 8996,
+    "canvas": 2871
+  },
+  "first_passed_identical_content": [
+    "R0053436",
+    53436,
+    "R0000071"
+  ]
+}

@@ -1,0 +1,9 @@
+name,row_id,row_index
+img_reaches_10,R0000016,16
+link_reaches_10,R0000027,27
+first_repeated_payload_template,R0000040,40
+cmd_reaches_10,R0000045,45
+first_exact_duplicate_content,R0000046,46
+eval_reaches_10,R0000081,81
+first_repeated_rare_marker,R0000197,197
+first_passed_identical_content,R0053436,53436

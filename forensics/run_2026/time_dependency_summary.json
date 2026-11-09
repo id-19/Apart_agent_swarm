@@ -1,0 +1,104 @@
+{
+  "time_anchor_rows": 1851,
+  "time_anchor_kinds": {
+    "payload": 909,
+    "recovered_text": 641,
+    "response": 301
+  },
+  "time_dependency_edges": 5714,
+  "edges_with_both_endpoints_timed": 4326,
+  "single_anchor_parent_edges": 1388,
+  "single_anchor_rows_not_in_filtered_sample_index?": "Core parent source IDs may not be rows, unlike Graph generation gap",
+  "components_among_time_anchors": 73,
+  "max_time_anchor_component": 1311,
+  "support_class_counts": {
+    "EXACT_BODY": 143,
+    "MARKER_ENDPOINT": 972,
+    "MARKER_SAME": 2706,
+    "NORMALIZED_REPLAY": 6,
+    "PARENT_DIRECT": 1765,
+    "SAME_PARENT_SIBLING": 122
+  },
+  "top_time_anchor_markers": [
+    [
+      "[CREDENTIAL 31]",
+      25
+    ],
+    [
+      "[ENCODED BLOB 21540]",
+      16
+    ],
+    [
+      "[PROXY 4 URL 46]",
+      13
+    ],
+    [
+      "[IP ADDRESS 48]",
+      13
+    ],
+    [
+      "zzer_api_deploy",
+      12
+    ],
+    [
+      "[SERVICE 21 URL 1231]",
+      12
+    ],
+    [
+      "[ENV VALUE 13]",
+      11
+    ],
+    [
+      "[CREDENTIAL 277]",
+      11
+    ],
+    [
+      "[ENCODED BLOB 21539]",
+      11
+    ],
+    [
+      "[SHORTENER CODE 274]",
+      10
+    ],
+    [
+      "[CREDENTIAL 1224]",
+      10
+    ],
+    [
+      "[CREDENTIAL 1694]",
+      10
+    ],
+    [
+      "[CREDENTIAL 2874]",
+      10
+    ],
+    [
+      "[IP ADDRESS 253]",
+      10
+    ],
+    [
+      "[CREDENTIAL 1519]",
+      10
+    ],
+    [
+      "[ENCODED BLOB 1741]",
+      9
+    ],
+    [
+      "[ENCODED BLOB 18103]",
+      9
+    ],
+    [
+      "[CREDENTIAL 1266]",
+      9
+    ],
+    [
+      "[CREDENTIAL 1474]",
+      9
+    ],
+    [
+      "[CREDENTIAL 1475]",
+      9
+    ]
+  ]
+}
