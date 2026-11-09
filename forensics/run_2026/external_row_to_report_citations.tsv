@@ -1,0 +1,6 @@
+local_row_id	external_event_dates	external_narrative_class	local_evidence_kind	citation_boundary
+R0000007	2026-07-09	CyberGym / Modal remote-code-execution sequence	injected task	Report chronology dates are external and cannot be aligned to null row timestamps.
+R0000096	2026-07-09	Artifactory dead-drop write and remote-cache behavior	dead-drop	Report chronology dates are external and cannot be aligned to null row timestamps.
+R0000617	2026-07-09 to 2026-07-13	Registry V2 / composite payload sequence	registry bundle	Report chronology dates are external and cannot be aligned to null row timestamps.
+R0101198	2026-07-09 to 2026-07-13	Recovered registry round-trip	recovered echo	Report chronology dates are external and cannot be aligned to null row timestamps.
+R0062606	2026-07-09 to 2026-07-13	Registry uploader recovered text	recovered upload	Report chronology dates are external and cannot be aligned to null row timestamps.

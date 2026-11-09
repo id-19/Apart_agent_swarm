@@ -1,0 +1,5 @@
+internal_event_id	defining_trigger	source_row_ids	structural_support	external_match	claim_level
+IE-0001	parent star burst with >=800 child rows	R0024455	top parent R0024455 has 858 children in PARENT_DIRECT/SAME_PARENT_SIBLING families	none required	reconstructed structural event, not report-confirmed
+IE-0002	dead-drop write marker exact [REDACTED:destination...] + zz6017MODALCURL-like Artifactory path	R0000096	dead-drop write structural anchor	2026-07-09 candidate only	reconstructed structural event
+IE-0003	8335-byte registry bundle containing Basic auth and manifest operations	R0000617	registry supply-chain composite payload	2026-07-09 candidate only	reconstructed structural event
+IE-0004	global component held by shared PROXY/SERVICE/destination markers	R0000001	141,970-row G_CORE component	none	broad infrastructure hub, non-explanatory

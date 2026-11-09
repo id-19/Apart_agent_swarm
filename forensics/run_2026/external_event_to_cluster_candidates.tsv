@@ -1,0 +1,6 @@
+external_event_date	source	external_event_class	local_cluster_id	local_row_id	match_confidence	status
+2026-07-09	OpenAI/Hugging-Face crosswalk	2026-07-09	SC-L4-COMP-00001	R0000007	0.9	candidate_only
+2026-07-09	OpenAI/Hugging-Face crosswalk	2026-07-09	SC-L4-COMP-00001	R0000096	0.9	candidate_only
+2026-07-09	OpenAI/Hugging-Face crosswalk	2026-07-09	SC-L4-COMP-00001	R0000617	0.9	candidate_only
+2026-07-09	OpenAI/Hugging-Face crosswalk	2026-07-09	SC-L4-COMP-00001	R0101198	0.6	candidate_only
+2026-07-09	OpenAI/Hugging-Face crosswalk	2026-07-09	SC-L4-COMP-00001	R0062606	0.6	candidate_only

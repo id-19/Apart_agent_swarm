@@ -1,0 +1,27 @@
+{
+  "R0000007": {
+    "external_event_date": "2026-07-09",
+    "score": 0.9,
+    "basis": "old local sample-to-report crosswalk; no row timestamp"
+  },
+  "R0000096": {
+    "external_event_date": "2026-07-09",
+    "score": 0.9,
+    "basis": "old local sample-to-report crosswalk; no row timestamp"
+  },
+  "R0000617": {
+    "external_event_date": "2026-07-09",
+    "score": 0.9,
+    "basis": "old local sample-to-report crosswalk; no row timestamp"
+  },
+  "R0101198": {
+    "external_event_date": "2026-07-09",
+    "score": 0.6,
+    "basis": "old local sample-to-report crosswalk; no row timestamp"
+  },
+  "R0062606": {
+    "external_event_date": "2026-07-09",
+    "score": 0.6,
+    "basis": "old local sample-to-report crosswalk; no row timestamp"
+  }
+}

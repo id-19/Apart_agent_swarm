@@ -1,0 +1,24 @@
+{
+  "checks": {
+    "required_plan_artifacts_present": true,
+    "required_plan_artifacts_missing_count": 0,
+    "cleaned_rows": 187242,
+    "distinct_retained_ids": true,
+    "core_edge_count": true,
+    "sampled_edges_resolve": true,
+    "taxonomy_labels": true,
+    "cluster_profiles": true,
+    "cluster_coverage_percent": true,
+    "curated_nodes": true,
+    "curated_edges": true,
+    "temporal_anchors": true,
+    "grounded_links": true,
+    "info_flow_edges": true,
+    "reconstruction_paths": true,
+    "source_sha256_ok": true,
+    "adversarial_validation_exists": true,
+    "git tracked tree (except .claude)": true
+  },
+  "missing": [],
+  "all_pass": true
+}
