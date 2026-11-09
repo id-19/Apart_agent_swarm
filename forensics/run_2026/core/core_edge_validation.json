@@ -1,0 +1,63 @@
+{
+  "rows": 187242,
+  "rows_source": 187242,
+  "edges": 459448,
+  "validation": {
+    "EXACT_BODY": {
+      "edges": 23471,
+      "accepted_10pct": 2347,
+      "loopholes_10pct": 0,
+      "adversarial_5pct": 1173,
+      "adversarial_loopholes_5pct": 0,
+      "sample_loopholes": [],
+      "adversarial_loopholes": []
+    },
+    "MARKER_ENDPOINT": {
+      "edges": 118877,
+      "accepted_10pct": 11887,
+      "loopholes_10pct": 0,
+      "adversarial_5pct": 5943,
+      "adversarial_loopholes_5pct": 0,
+      "sample_loopholes": [],
+      "adversarial_loopholes": []
+    },
+    "MARKER_SAME": {
+      "edges": 222495,
+      "accepted_10pct": 22249,
+      "loopholes_10pct": 0,
+      "adversarial_5pct": 11124,
+      "adversarial_loopholes_5pct": 0,
+      "sample_loopholes": [],
+      "adversarial_loopholes": []
+    },
+    "NORMALIZED_REPLAY": {
+      "edges": 1826,
+      "accepted_10pct": 182,
+      "loopholes_10pct": 0,
+      "adversarial_5pct": 91,
+      "adversarial_loopholes_5pct": 0,
+      "sample_loopholes": [],
+      "adversarial_loopholes": []
+    },
+    "PARENT_DIRECT": {
+      "edges": 59313,
+      "accepted_10pct": 5931,
+      "loopholes_10pct": 0,
+      "adversarial_5pct": 2965,
+      "adversarial_loopholes_5pct": 0,
+      "sample_loopholes": [],
+      "adversarial_loopholes": []
+    },
+    "SAME_PARENT_SIBLING": {
+      "edges": 33466,
+      "accepted_10pct": 3346,
+      "loopholes_10pct": 0,
+      "adversarial_5pct": 1673,
+      "adversarial_loopholes_5pct": 0,
+      "sample_loopholes": [],
+      "adversarial_loopholes": []
+    }
+  },
+  "loophole_count": 0,
+  "loopholes": []
+}

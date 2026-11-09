@@ -1,0 +1,245 @@
+[
+  {
+    "component_id": "R0000001",
+    "size": 1,
+    "edge_counts": {
+      "MARKER_SAME": 2,
+      "MARKER_ENDPOINT": 1
+    },
+    "kind_counts": {
+      "payload": 1
+    },
+    "top_marker_routes": []
+  },
+  {
+    "component_id": "R0000002",
+    "size": 1,
+    "edge_counts": {
+      "EXACT_BODY": 1,
+      "MARKER_SAME": 2,
+      "MARKER_ENDPOINT": 1
+    },
+    "kind_counts": {
+      "payload": 1
+    },
+    "top_marker_routes": []
+  },
+  {
+    "component_id": "R0000003",
+    "size": 1,
+    "edge_counts": {
+      "MARKER_SAME": 4,
+      "MARKER_ENDPOINT": 1
+    },
+    "kind_counts": {
+      "payload": 1
+    },
+    "top_marker_routes": []
+  },
+  {
+    "component_id": "R0000004",
+    "size": 1,
+    "edge_counts": {
+      "MARKER_SAME": 2,
+      "MARKER_ENDPOINT": 1
+    },
+    "kind_counts": {
+      "payload": 1
+    },
+    "top_marker_routes": []
+  },
+  {
+    "component_id": "R0000005",
+    "size": 1,
+    "edge_counts": {
+      "MARKER_SAME": 1,
+      "MARKER_ENDPOINT": 1
+    },
+    "kind_counts": {
+      "payload": 1
+    },
+    "top_marker_routes": []
+  },
+  {
+    "component_id": "R0000006",
+    "size": 1,
+    "edge_counts": {
+      "EXACT_BODY": 1,
+      "NORMALIZED_REPLAY": 1,
+      "MARKER_SAME": 3,
+      "MARKER_ENDPOINT": 1
+    },
+    "kind_counts": {
+      "payload": 1
+    },
+    "top_marker_routes": []
+  },
+  {
+    "component_id": "R0000007",
+    "size": 1,
+    "edge_counts": {
+      "MARKER_SAME": 1,
+      "MARKER_ENDPOINT": 2
+    },
+    "kind_counts": {
+      "payload": 1
+    },
+    "top_marker_routes": []
+  },
+  {
+    "component_id": "R0000008",
+    "size": 1,
+    "edge_counts": {
+      "MARKER_ENDPOINT": 4,
+      "MARKER_SAME": 2
+    },
+    "kind_counts": {
+      "payload": 1
+    },
+    "top_marker_routes": []
+  },
+  {
+    "component_id": "R0000009",
+    "size": 1,
+    "edge_counts": {
+      "MARKER_SAME": 2,
+      "MARKER_ENDPOINT": 2
+    },
+    "kind_counts": {
+      "payload": 1
+    },
+    "top_marker_routes": []
+  },
+  {
+    "component_id": "R0000010",
+    "size": 1,
+    "edge_counts": {
+      "MARKER_SAME": 7,
+      "MARKER_ENDPOINT": 1
+    },
+    "kind_counts": {
+      "payload": 1
+    },
+    "top_marker_routes": []
+  },
+  {
+    "component_id": "R0000011",
+    "size": 1,
+    "edge_counts": {
+      "MARKER_SAME": 3,
+      "MARKER_ENDPOINT": 1
+    },
+    "kind_counts": {
+      "payload": 1
+    },
+    "top_marker_routes": []
+  },
+  {
+    "component_id": "R0000012",
+    "size": 1,
+    "edge_counts": {
+      "MARKER_SAME": 3,
+      "MARKER_ENDPOINT": 1
+    },
+    "kind_counts": {
+      "payload": 1
+    },
+    "top_marker_routes": []
+  },
+  {
+    "component_id": "R0000013",
+    "size": 1,
+    "edge_counts": {
+      "MARKER_SAME": 2,
+      "MARKER_ENDPOINT": 1
+    },
+    "kind_counts": {
+      "payload": 1
+    },
+    "top_marker_routes": []
+  },
+  {
+    "component_id": "R0000014",
+    "size": 1,
+    "edge_counts": {
+      "MARKER_SAME": 3,
+      "MARKER_ENDPOINT": 1
+    },
+    "kind_counts": {
+      "payload": 1
+    },
+    "top_marker_routes": []
+  },
+  {
+    "component_id": "R0000015",
+    "size": 1,
+    "edge_counts": {
+      "MARKER_SAME": 3,
+      "MARKER_ENDPOINT": 1
+    },
+    "kind_counts": {
+      "payload": 1
+    },
+    "top_marker_routes": []
+  },
+  {
+    "component_id": "R0000016",
+    "size": 1,
+    "edge_counts": {
+      "MARKER_SAME": 3,
+      "MARKER_ENDPOINT": 2
+    },
+    "kind_counts": {
+      "payload": 1
+    },
+    "top_marker_routes": []
+  },
+  {
+    "component_id": "R0000017",
+    "size": 1,
+    "edge_counts": {
+      "MARKER_SAME": 2,
+      "MARKER_ENDPOINT": 2
+    },
+    "kind_counts": {
+      "payload": 1
+    },
+    "top_marker_routes": []
+  },
+  {
+    "component_id": "R0000018",
+    "size": 1,
+    "edge_counts": {
+      "MARKER_SAME": 4,
+      "MARKER_ENDPOINT": 2
+    },
+    "kind_counts": {
+      "payload": 1
+    },
+    "top_marker_routes": []
+  },
+  {
+    "component_id": "R0000019",
+    "size": 1,
+    "edge_counts": {
+      "MARKER_SAME": 2,
+      "MARKER_ENDPOINT": 1
+    },
+    "kind_counts": {
+      "payload": 1
+    },
+    "top_marker_routes": []
+  },
+  {
+    "component_id": "R0000020",
+    "size": 1,
+    "edge_counts": {
+      "MARKER_ENDPOINT": 2,
+      "MARKER_SAME": 2
+    },
+    "kind_counts": {
+      "payload": 1
+    },
+    "top_marker_routes": []
+  }
+]
