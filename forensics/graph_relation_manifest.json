@@ -1,0 +1,48 @@
+{
+  "relations": {
+    "INFO_DEPENDENCY": {
+      "edges": 459448,
+      "classes": {
+        "EXACT_BODY": 23471,
+        "NORMALIZED_REPLAY": 1826,
+        "PARENT_DIRECT": 59313,
+        "SAME_PARENT_SIBLING": 33466,
+        "MARKER_OBJECT": 222495,
+        "MARKER_ENDPOINT": 118877
+      },
+      "components": 26043,
+      "largest_component": 144075,
+      "singletons": 22894
+    },
+    "NEAR_BODY": {
+      "distance_0": {
+        "edge_count": 66592,
+        "endpoints": 42494,
+        "components": 18964
+      },
+      "distance_1": {
+        "edge_count": 367859,
+        "endpoints": 74612,
+        "components": 13280
+      },
+      "distance_2": {
+        "edge_count": 3182877,
+        "endpoints": 96209,
+        "components": 13310
+      },
+      "distance_3": {
+        "edge_count": 18359221,
+        "endpoints": 108245,
+        "components": 13955
+      },
+      "materialized": false,
+      "status": "candidate-only summary; no 18.9M-row relation is materialized in the active workspace",
+      "archived_candidate_artifact": "forensics/archive/candidate_artifacts/graph_edges_v2.original_20162602.ndjson"
+    }
+  },
+  "note": "INFO_DEPENDENCY retains structural row-relation classes. TIME_DEPENDENCY withdrawn: timestamp-anchor inventory retained as metadata only. NEAR_BODY d1-d3 are candidate-only adjacency and are not materialized as a relation artifact.",
+  "cleanup": {
+    "non_candidate_edge_rows": 1310038,
+    "note": "graph_edges_v2.jsonl now contains non-candidate edges only (9 classes, 1310038 rows)."
+  }
+}
