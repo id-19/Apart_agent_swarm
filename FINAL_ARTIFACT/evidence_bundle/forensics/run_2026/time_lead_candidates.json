@@ -1,0 +1,126 @@
+{
+  "candidate_count": 11,
+  "candidates": [
+    {
+      "chain_id": "TCH0010",
+      "source": "R0002403",
+      "target": "R0053708",
+      "source_min_epoch": 1777162241,
+      "target_min_epoch": 1777162259,
+      "delta_seconds": 18,
+      "edge_type": "parent_of",
+      "confidence": 1.0,
+      "proof": "direct parent_id field"
+    },
+    {
+      "chain_id": "TCH0034",
+      "source": "R0005999",
+      "target": "R0054242",
+      "source_min_epoch": 1777162241,
+      "target_min_epoch": 1783707900,
+      "delta_seconds": 6545659,
+      "edge_type": "parent_of",
+      "confidence": 1.0,
+      "proof": "direct parent_id field"
+    },
+    {
+      "chain_id": "TCH0119",
+      "source": "R0002403",
+      "target": "R0063230",
+      "source_min_epoch": 1777162241,
+      "target_min_epoch": 1777162259,
+      "delta_seconds": 18,
+      "edge_type": "parent_of",
+      "confidence": 1.0,
+      "proof": "direct parent_id field"
+    },
+    {
+      "chain_id": "TCH0157",
+      "source": "R0005173",
+      "target": "R0064115",
+      "source_min_epoch": 1777162241,
+      "target_min_epoch": 1783633500,
+      "delta_seconds": 6471259,
+      "edge_type": "parent_of",
+      "confidence": 1.0,
+      "proof": "direct parent_id field"
+    },
+    {
+      "chain_id": "TCH0169",
+      "source": "R0005999",
+      "target": "R0064432",
+      "source_min_epoch": 1777162241,
+      "target_min_epoch": 1783707900,
+      "delta_seconds": 6545659,
+      "edge_type": "parent_of",
+      "confidence": 1.0,
+      "proof": "direct parent_id field"
+    },
+    {
+      "chain_id": "TCH0240",
+      "source": "R0032369",
+      "target": "R0072109",
+      "source_min_epoch": 1669593600,
+      "target_min_epoch": 1783850939,
+      "delta_seconds": 114257339,
+      "edge_type": "parent_of",
+      "confidence": 1.0,
+      "proof": "direct parent_id field"
+    },
+    {
+      "chain_id": "TCH0299",
+      "source": "R0112956",
+      "target": "R0147666",
+      "source_min_epoch": 1563926400,
+      "target_min_epoch": 1789861539,
+      "delta_seconds": 225935139,
+      "edge_type": "parent_of",
+      "confidence": 1.0,
+      "proof": "direct parent_id field"
+    },
+    {
+      "chain_id": "TCH0348",
+      "source": "R0080012",
+      "target": "R0169506",
+      "source_min_epoch": 1767225600,
+      "target_min_epoch": 1777162241,
+      "delta_seconds": 9936641,
+      "edge_type": "parent_of",
+      "confidence": 1.0,
+      "proof": "direct parent_id field"
+    },
+    {
+      "chain_id": "TCH0371",
+      "source": "R0112956",
+      "target": "R0183204",
+      "source_min_epoch": 1563926400,
+      "target_min_epoch": 1789861539,
+      "delta_seconds": 225935139,
+      "edge_type": "parent_of",
+      "confidence": 1.0,
+      "proof": "direct parent_id field"
+    },
+    {
+      "chain_id": "TCH0666",
+      "source": "R0113120",
+      "target": "R0113121",
+      "source_min_epoch": 1262304000,
+      "target_min_epoch": 1483228800,
+      "delta_seconds": 220924800,
+      "edge_type": "near_match_candidate",
+      "confidence": null,
+      "proof": "binned_levenshtein candidates.ndjson (distance=2)"
+    },
+    {
+      "chain_id": "TCH0667",
+      "source": "R0113120",
+      "target": "R0113122",
+      "source_min_epoch": 1262304000,
+      "target_min_epoch": 1577836800,
+      "delta_seconds": 315532800,
+      "edge_type": "near_match_candidate",
+      "confidence": null,
+      "proof": "binned_levenshtein candidates.ndjson (distance=1)"
+    }
+  ]
+}

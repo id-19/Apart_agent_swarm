@@ -1,0 +1,232 @@
+{
+  "valid_anchor_sample": [
+    {
+      "id": "R0000512",
+      "kind": "payload",
+      "min_epoch": 1766016000,
+      "max_epoch": 1766016000,
+      "time_precision": "day",
+      "cue_count": 1,
+      "rare_marker_count": 0
+    },
+    {
+      "id": "R0000593",
+      "kind": "payload",
+      "min_epoch": 1783555200,
+      "max_epoch": 1783555200,
+      "time_precision": "second",
+      "cue_count": 2,
+      "rare_marker_count": 0
+    },
+    {
+      "id": "R0000598",
+      "kind": "payload",
+      "min_epoch": 1783555200,
+      "max_epoch": 1783555200,
+      "time_precision": "second",
+      "cue_count": 2,
+      "rare_marker_count": 0
+    },
+    {
+      "id": "R0000602",
+      "kind": "payload",
+      "min_epoch": 1783555200,
+      "max_epoch": 1783555200,
+      "time_precision": "second",
+      "cue_count": 2,
+      "rare_marker_count": 0
+    },
+    {
+      "id": "R0000609",
+      "kind": "payload",
+      "min_epoch": 1783555200,
+      "max_epoch": 1783555200,
+      "time_precision": "second",
+      "cue_count": 2,
+      "rare_marker_count": 0
+    },
+    {
+      "id": "R0000652",
+      "kind": "payload",
+      "min_epoch": 1783555200,
+      "max_epoch": 1783555200,
+      "time_precision": "second",
+      "cue_count": 1,
+      "rare_marker_count": 1
+    },
+    {
+      "id": "R0000653",
+      "kind": "payload",
+      "min_epoch": 1783555200,
+      "max_epoch": 1783555200,
+      "time_precision": "second",
+      "cue_count": 1,
+      "rare_marker_count": 1
+    },
+    {
+      "id": "R0000669",
+      "kind": "payload",
+      "min_epoch": 1778302161,
+      "max_epoch": 1783621800,
+      "time_precision": "second",
+      "cue_count": 22,
+      "rare_marker_count": 0
+    },
+    {
+      "id": "R0000717",
+      "kind": "payload",
+      "min_epoch": 1783555200,
+      "max_epoch": 1783555200,
+      "time_precision": "second",
+      "cue_count": 1,
+      "rare_marker_count": 1
+    },
+    {
+      "id": "R0000733",
+      "kind": "payload",
+      "min_epoch": 1782172800,
+      "max_epoch": 1783622400,
+      "time_precision": "second",
+      "cue_count": 5,
+      "rare_marker_count": 0
+    },
+    {
+      "id": "R0000734",
+      "kind": "payload",
+      "min_epoch": 1783555200,
+      "max_epoch": 1783555200,
+      "time_precision": "second",
+      "cue_count": 1,
+      "rare_marker_count": 0
+    },
+    {
+      "id": "R0000778",
+      "kind": "payload",
+      "min_epoch": 1771918206,
+      "max_epoch": 1776067898,
+      "time_precision": "second",
+      "cue_count": 22,
+      "rare_marker_count": 0
+    },
+    {
+      "id": "R0000801",
+      "kind": "payload",
+      "min_epoch": 1783622400,
+      "max_epoch": 1783622400,
+      "time_precision": "second",
+      "cue_count": 2,
+      "rare_marker_count": 1
+    },
+    {
+      "id": "R0000870",
+      "kind": "payload",
+      "min_epoch": 1777161132,
+      "max_epoch": 1777161149,
+      "time_precision": "second",
+      "cue_count": 4,
+      "rare_marker_count": 0
+    },
+    {
+      "id": "R0000899",
+      "kind": "payload",
+      "min_epoch": 1783623600,
+      "max_epoch": 1783623600,
+      "time_precision": "second",
+      "cue_count": 1,
+      "rare_marker_count": 1
+    },
+    {
+      "id": "R0000971",
+      "kind": "payload",
+      "min_epoch": 1783624800,
+      "max_epoch": 1783624800,
+      "time_precision": "second",
+      "cue_count": 2,
+      "rare_marker_count": 2
+    },
+    {
+      "id": "R0000985",
+      "kind": "payload",
+      "min_epoch": 1777161132,
+      "max_epoch": 1777161149,
+      "time_precision": "second",
+      "cue_count": 4,
+      "rare_marker_count": 0
+    },
+    {
+      "id": "R0000998",
+      "kind": "payload",
+      "min_epoch": 1777162145,
+      "max_epoch": 1777162147,
+      "time_precision": "second",
+      "cue_count": 4,
+      "rare_marker_count": 0
+    },
+    {
+      "id": "R0001038",
+      "kind": "payload",
+      "min_epoch": 1783623600,
+      "max_epoch": 1783623600,
+      "time_precision": "second",
+      "cue_count": 1,
+      "rare_marker_count": 1
+    },
+    {
+      "id": "R0001061",
+      "kind": "payload",
+      "min_epoch": 1783624500,
+      "max_epoch": 1783624500,
+      "time_precision": "second",
+      "cue_count": 2,
+      "rare_marker_count": 0
+    },
+    {
+      "id": "R0001072",
+      "kind": "payload",
+      "min_epoch": 1783623600,
+      "max_epoch": 1783623600,
+      "time_precision": "second",
+      "cue_count": 1,
+      "rare_marker_count": 1
+    },
+    {
+      "id": "R0001098",
+      "kind": "payload",
+      "min_epoch": 1777161448,
+      "max_epoch": 1777161449,
+      "time_precision": "second",
+      "cue_count": 4,
+      "rare_marker_count": 3
+    },
+    {
+      "id": "R0001104",
+      "kind": "payload",
+      "min_epoch": 1777162145,
+      "max_epoch": 1783623600,
+      "time_precision": "second",
+      "cue_count": 6,
+      "rare_marker_count": 0
+    },
+    {
+      "id": "R0001131",
+      "kind": "payload",
+      "min_epoch": 1783623600,
+      "max_epoch": 1783623600,
+      "time_precision": "second",
+      "cue_count": 2,
+      "rare_marker_count": 0
+    },
+    {
+      "id": "R0001151",
+      "kind": "payload",
+      "min_epoch": 1777160887,
+      "max_epoch": 1777160910,
+      "time_precision": "second",
+      "cue_count": 4,
+      "rare_marker_count": 1
+    }
+  ],
+  "single_anchor_rows_example_count": 0,
+  "both_anchor_rows_count": 940,
+  "no_time_rows_count": 185391
+}

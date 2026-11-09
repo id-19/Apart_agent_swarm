@@ -1,0 +1,4401 @@
+[
+  {
+    "id": "R0000001",
+    "line": 1,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000001"
+    ],
+    "source_ids": [
+      "source_identifier:000001"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000001",
+        4852
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000001",
+        1
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000002",
+    "line": 2,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000003",
+    "line": 3,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000001"
+    ],
+    "source_ids": [
+      "source_identifier:000002"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000001",
+        4852
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000002",
+        1
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000004",
+    "line": 4,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000005",
+    "line": 5,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000006",
+    "line": 6,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000001"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000001",
+        4852
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000007",
+    "line": 7,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000001"
+    ],
+    "source_ids": [
+      "source_identifier:000003"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000001",
+        4852
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000003",
+        1
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000008",
+    "line": 8,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000009",
+    "line": 9,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000001"
+    ],
+    "source_ids": [
+      "source_identifier:000004"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000001",
+        4852
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000004",
+        2
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000010",
+    "line": 10,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000001"
+    ],
+    "source_ids": [
+      "source_identifier:000005"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000001",
+        4852
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000005",
+        2
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000011",
+    "line": 11,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000002"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000002",
+        5
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000012",
+    "line": 12,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000013",
+    "line": 13,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000003"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000003",
+        3735
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000014",
+    "line": 14,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000003"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000003",
+        3735
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000015",
+    "line": 15,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000003"
+    ],
+    "source_ids": [
+      "source_identifier:000006"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000003",
+        3735
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000006",
+        1
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000016",
+    "line": 16,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000017",
+    "line": 17,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000001"
+    ],
+    "source_ids": [
+      "source_identifier:000007"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000001",
+        4852
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000007",
+        1
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000018",
+    "line": 18,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000001"
+    ],
+    "source_ids": [
+      "source_identifier:000008"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000001",
+        4852
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000008",
+        1
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000019",
+    "line": 19,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000020",
+    "line": 20,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000021",
+    "line": 21,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000022",
+    "line": 22,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000023",
+    "line": 23,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000024",
+    "line": 24,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000003"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000003",
+        3735
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000025",
+    "line": 25,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000026",
+    "line": 26,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000005"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000005",
+        2
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000027",
+    "line": 27,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [
+      "R0053434",
+      "R0062486"
+    ],
+    "child_overlap_score": "R0053434=0/R0062486=0",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000028",
+    "line": 28,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000029",
+    "line": 29,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000030",
+    "line": 30,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000031",
+    "line": 31,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000032",
+    "line": 32,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": true,
+    "zz_markers": [
+      "zzourtestd1783603749"
+    ]
+  },
+  {
+    "id": "R0000033",
+    "line": 33,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000006"
+    ],
+    "source_ids": [
+      "source_identifier:000009"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000006",
+        2
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000009",
+        2
+      ]
+    ],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000034",
+    "line": 34,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000035",
+    "line": 35,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000036",
+    "line": 36,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000002"
+    ],
+    "source_ids": [
+      "source_identifier:000010"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000002",
+        5
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000010",
+        1
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000037",
+    "line": 37,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [
+      "R0062487"
+    ],
+    "child_overlap_score": "R0062487=3",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000038",
+    "line": 38,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [
+      "R0053435",
+      "R0062488"
+    ],
+    "child_overlap_score": "R0053435=2/R0062488=2",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000039",
+    "line": 39,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000007"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000007",
+        3
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000040",
+    "line": 40,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000041",
+    "line": 41,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000006"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000006",
+        2
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000042",
+    "line": 42,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000008"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000008",
+        29
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000043",
+    "line": 43,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000044",
+    "line": 44,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000045",
+    "line": 45,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000001"
+    ],
+    "source_ids": [
+      "source_identifier:000011"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000001",
+        4852
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000011",
+        3
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000046",
+    "line": 46,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [
+      "R0062489"
+    ],
+    "child_overlap_score": "R0062489=3",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000047",
+    "line": 47,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000009"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000009",
+        8
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000048",
+    "line": 48,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000049",
+    "line": 49,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000050",
+    "line": 50,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [
+      "source_identifier:000012"
+    ],
+    "handle_globals": [],
+    "source_globals": [
+      [
+        "source_identifier:000012",
+        1
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000051",
+    "line": 51,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [
+      "source_identifier:000013"
+    ],
+    "handle_globals": [],
+    "source_globals": [
+      [
+        "source_identifier:000013",
+        4
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000052",
+    "line": 52,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000053",
+    "line": 53,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000054",
+    "line": 54,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000001"
+    ],
+    "source_ids": [
+      "source_identifier:000013"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000001",
+        4852
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000013",
+        4
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000055",
+    "line": 55,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000001"
+    ],
+    "source_ids": [
+      "source_identifier:000013"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000001",
+        4852
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000013",
+        4
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000056",
+    "line": 56,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000001"
+    ],
+    "source_ids": [
+      "source_identifier:000013"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000001",
+        4852
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000013",
+        4
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000057",
+    "line": 57,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000058",
+    "line": 58,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000059",
+    "line": 59,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000008"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000008",
+        29
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000060",
+    "line": 60,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000061",
+    "line": 61,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [
+      "R0062490"
+    ],
+    "child_overlap_score": "R0062490=3",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000062",
+    "line": 62,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000063",
+    "line": 63,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000001"
+    ],
+    "source_ids": [
+      "source_identifier:000011"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000001",
+        4852
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000011",
+        3
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000064",
+    "line": 64,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000065",
+    "line": 65,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000011"
+    ],
+    "source_ids": [
+      "source_identifier:000014"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000011",
+        1
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000014",
+        1
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000066",
+    "line": 66,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [
+      "R0062491"
+    ],
+    "child_overlap_score": "R0062491=3",
+    "task_handles": [
+      "runtime_identifier:000012"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000012",
+        2
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000067",
+    "line": 67,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000001"
+    ],
+    "source_ids": [
+      "source_identifier:000015"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000001",
+        4852
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000015",
+        2
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000068",
+    "line": 68,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000069",
+    "line": 69,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000008"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000008",
+        29
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000070",
+    "line": 70,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [
+      "R0062492"
+    ],
+    "child_overlap_score": "R0062492=3",
+    "task_handles": [
+      "runtime_identifier:000002"
+    ],
+    "source_ids": [
+      "source_identifier:000016"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000002",
+        5
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000016",
+        1
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000071",
+    "line": 71,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [
+      "R0053436",
+      "R0062493"
+    ],
+    "child_overlap_score": "R0053436=2/R0062493=2",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000072",
+    "line": 72,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000073",
+    "line": 73,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [
+      "R0062494"
+    ],
+    "child_overlap_score": "R0062494=3",
+    "task_handles": [
+      "runtime_identifier:000007"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000007",
+        3
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000074",
+    "line": 74,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [
+      "R0062495"
+    ],
+    "child_overlap_score": "R0062495=4",
+    "task_handles": [
+      "runtime_identifier:000010"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000010",
+        16
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000075",
+    "line": 75,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000076",
+    "line": 76,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [
+      "R0053438",
+      "R0053439",
+      "R0062496",
+      "R0062497"
+    ],
+    "child_overlap_score": "R0053438=1/R0053439=3/R0062496=1/R0062497=2",
+    "task_handles": [
+      "runtime_identifier:000001"
+    ],
+    "source_ids": [
+      "source_identifier:000017"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000001",
+        4852
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000017",
+        2
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": true,
+    "zz_markers": [
+      "zzC5DFROOT4TEST_"
+    ]
+  },
+  {
+    "id": "R0000077",
+    "line": 77,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000078",
+    "line": 78,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000079",
+    "line": 79,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000001"
+    ],
+    "source_ids": [
+      "source_identifier:000018"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000001",
+        4852
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000018",
+        2
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000080",
+    "line": 80,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000081",
+    "line": 81,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000082",
+    "line": 82,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000008"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000008",
+        29
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000083",
+    "line": 83,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000001"
+    ],
+    "source_ids": [
+      "source_identifier:000019"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000001",
+        4852
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000019",
+        2
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000084",
+    "line": 84,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000010"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000010",
+        16
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000085",
+    "line": 85,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000086",
+    "line": 86,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000003"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000003",
+        3735
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000087",
+    "line": 87,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000001"
+    ],
+    "source_ids": [
+      "source_identifier:000020"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000001",
+        4852
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000020",
+        1
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000088",
+    "line": 88,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000013"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000013",
+        2
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000089",
+    "line": 89,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [
+      "R0062498"
+    ],
+    "child_overlap_score": "R0062498=3",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000090",
+    "line": 90,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000091",
+    "line": 91,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000014"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000014",
+        21
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000092",
+    "line": 92,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000093",
+    "line": 93,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000008"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000008",
+        29
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000094",
+    "line": 94,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000015"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000015",
+        1
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000095",
+    "line": 95,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000014"
+    ],
+    "source_ids": [
+      "source_identifier:000021"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000014",
+        21
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000021",
+        1
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000096",
+    "line": 96,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000001"
+    ],
+    "source_ids": [
+      "source_identifier:000022"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000001",
+        4852
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000022",
+        2
+      ]
+    ],
+    "credential_placeholders": 0,
+    "has_zzer?": true,
+    "zz_markers": [
+      "zz6017MODALCURL"
+    ]
+  },
+  {
+    "id": "R0000097",
+    "line": 97,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000001"
+    ],
+    "source_ids": [
+      "source_identifier:000011"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000001",
+        4852
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000011",
+        3
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000098",
+    "line": 98,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [
+      "R0062499"
+    ],
+    "child_overlap_score": "R0062499=3",
+    "task_handles": [
+      "runtime_identifier:000016"
+    ],
+    "source_ids": [
+      "source_identifier:000023"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000016",
+        2
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000023",
+        2
+      ]
+    ],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000099",
+    "line": 99,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [
+      "R0053440",
+      "R0062500"
+    ],
+    "child_overlap_score": "R0053440=3/R0062500=2",
+    "task_handles": [
+      "runtime_identifier:000017"
+    ],
+    "source_ids": [
+      "source_identifier:000024"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000017",
+        5
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000024",
+        2
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000100",
+    "line": 100,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000018"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000018",
+        6
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000101",
+    "line": 101,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000001"
+    ],
+    "source_ids": [
+      "source_identifier:000025"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000001",
+        4852
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000025",
+        1
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000102",
+    "line": 102,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000103",
+    "line": 103,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000014"
+    ],
+    "source_ids": [
+      "source_identifier:000026"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000014",
+        21
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000026",
+        2
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000104",
+    "line": 104,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000001"
+    ],
+    "source_ids": [
+      "source_identifier:000027"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000001",
+        4852
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000027",
+        2
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000105",
+    "line": 105,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000106",
+    "line": 106,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000107",
+    "line": 107,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000108",
+    "line": 108,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000010"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000010",
+        16
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000109",
+    "line": 109,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [
+      "R0053444"
+    ],
+    "child_overlap_score": "R0053444=0",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000110",
+    "line": 110,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000014"
+    ],
+    "source_ids": [
+      "source_identifier:000028"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000014",
+        21
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000028",
+        1
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000111",
+    "line": 111,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000112",
+    "line": 112,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000003"
+    ],
+    "source_ids": [
+      "source_identifier:000029"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000003",
+        3735
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000029",
+        1
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000113",
+    "line": 113,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000001"
+    ],
+    "source_ids": [
+      "source_identifier:000030"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000001",
+        4852
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000030",
+        1
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000114",
+    "line": 114,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000001"
+    ],
+    "source_ids": [
+      "source_identifier:000031"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000001",
+        4852
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000031",
+        1
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000115",
+    "line": 115,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000008"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000008",
+        29
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000116",
+    "line": 116,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000117",
+    "line": 117,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000019"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000019",
+        4
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000118",
+    "line": 118,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [
+      "R0062504"
+    ],
+    "child_overlap_score": "R0062504=3",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000119",
+    "line": 119,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000120",
+    "line": 120,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000121",
+    "line": 121,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000122",
+    "line": 122,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000001"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000001",
+        4852
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000123",
+    "line": 123,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000019"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000019",
+        4
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000124",
+    "line": 124,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000001"
+    ],
+    "source_ids": [
+      "source_identifier:000032"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000001",
+        4852
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000032",
+        1
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000125",
+    "line": 125,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000019"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000019",
+        4
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000126",
+    "line": 126,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000127",
+    "line": 127,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000010"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000010",
+        16
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000128",
+    "line": 128,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000129",
+    "line": 129,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000130",
+    "line": 130,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000131",
+    "line": 131,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000019"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000019",
+        4
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000132",
+    "line": 132,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000008"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000008",
+        29
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000133",
+    "line": 133,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000003"
+    ],
+    "source_ids": [
+      "source_identifier:000015"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000003",
+        3735
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000015",
+        2
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000134",
+    "line": 134,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000135",
+    "line": 135,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000001"
+    ],
+    "source_ids": [
+      "source_identifier:000033"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000001",
+        4852
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000033",
+        1
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000136",
+    "line": 136,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000137",
+    "line": 137,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000138",
+    "line": 138,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000139",
+    "line": 139,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000140",
+    "line": 140,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000141",
+    "line": 141,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000142",
+    "line": 142,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000143",
+    "line": 143,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000020"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000020",
+        2
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000144",
+    "line": 144,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000145",
+    "line": 145,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000008"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000008",
+        29
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000146",
+    "line": 146,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000147",
+    "line": 147,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000148",
+    "line": 148,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000149",
+    "line": 149,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000010"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000010",
+        16
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000150",
+    "line": 150,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000151",
+    "line": 151,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000152",
+    "line": 152,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000017"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000017",
+        5
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000153",
+    "line": 153,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000020"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000020",
+        2
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000154",
+    "line": 154,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000021"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000021",
+        2
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000155",
+    "line": 155,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000156",
+    "line": 156,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000157",
+    "line": 157,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000158",
+    "line": 158,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000159",
+    "line": 159,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000160",
+    "line": 160,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000161",
+    "line": 161,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000162",
+    "line": 162,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000008"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000008",
+        29
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000163",
+    "line": 163,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000022"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000022",
+        2
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000164",
+    "line": 164,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000023"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000023",
+        45
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000165",
+    "line": 165,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000166",
+    "line": 166,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000167",
+    "line": 167,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000008"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000008",
+        29
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000168",
+    "line": 168,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000021"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000021",
+        2
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000169",
+    "line": 169,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000170",
+    "line": 170,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000171",
+    "line": 171,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000001"
+    ],
+    "source_ids": [
+      "source_identifier:000034"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000001",
+        4852
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000034",
+        1
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000172",
+    "line": 172,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000014"
+    ],
+    "source_ids": [
+      "source_identifier:000035"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000014",
+        21
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000035",
+        1
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000173",
+    "line": 173,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000174",
+    "line": 174,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000175",
+    "line": 175,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000176",
+    "line": 176,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000177",
+    "line": 177,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000178",
+    "line": 178,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000179",
+    "line": 179,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000180",
+    "line": 180,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000181",
+    "line": 181,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000008"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000008",
+        29
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000182",
+    "line": 182,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000183",
+    "line": 183,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000024"
+    ],
+    "source_ids": [
+      "source_identifier:000036"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000024",
+        2
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000036",
+        1
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000184",
+    "line": 184,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000185",
+    "line": 185,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000008"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000008",
+        29
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000186",
+    "line": 186,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000187",
+    "line": 187,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000025"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000025",
+        1
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000188",
+    "line": 188,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000189",
+    "line": 189,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000190",
+    "line": 190,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000004"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000004",
+        5
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000191",
+    "line": 191,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000192",
+    "line": 192,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [
+      "R0053455"
+    ],
+    "child_overlap_score": "R0053455=0",
+    "task_handles": [
+      "runtime_identifier:000003"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000003",
+        3735
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000193",
+    "line": 193,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000026"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000026",
+        1
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000194",
+    "line": 194,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000195",
+    "line": 195,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000008"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000008",
+        29
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000196",
+    "line": 196,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000014"
+    ],
+    "source_ids": [
+      "source_identifier:000037"
+    ],
+    "handle_globals": [
+      [
+        "runtime_identifier:000014",
+        21
+      ]
+    ],
+    "source_globals": [
+      [
+        "source_identifier:000037",
+        1
+      ]
+    ],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000197",
+    "line": 197,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 0,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000198",
+    "line": 198,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000027"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000027",
+        17
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000199",
+    "line": 199,
+    "cite_suffix_ok": true,
+    "node_parse_ok": true,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [],
+    "source_ids": [],
+    "handle_globals": [],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  },
+  {
+    "id": "R0000200",
+    "line": 200,
+    "cite_suffix_ok": true,
+    "node_parse_ok": false,
+    "kind": "payload",
+    "parent_id": null,
+    "children": [],
+    "child_overlap_score": "none",
+    "task_handles": [
+      "runtime_identifier:000028"
+    ],
+    "source_ids": [],
+    "handle_globals": [
+      [
+        "runtime_identifier:000028",
+        3
+      ]
+    ],
+    "source_globals": [],
+    "credential_placeholders": 1,
+    "has_zzer?": false,
+    "zz_markers": []
+  }
+]

@@ -1,0 +1,97 @@
+{
+  "valid_anchors": 1851,
+  "invalid_cues": 31,
+  "invention_rule": "No temporal order is derived from row order, IDs, response-clean timing, or structural facets except explicit cue records.",
+  "marker_counts": [
+    [
+      "[CREDENTIAL 31]",
+      25
+    ],
+    [
+      "[ENCODED BLOB 21540]",
+      16
+    ],
+    [
+      "[PROXY 4 URL 46]",
+      13
+    ],
+    [
+      "[IP ADDRESS 48]",
+      13
+    ],
+    [
+      "zzer_api_deploy",
+      12
+    ],
+    [
+      "[SERVICE 21 URL 1231]",
+      12
+    ],
+    [
+      "[ENV VALUE 13]",
+      11
+    ],
+    [
+      "[CREDENTIAL 277]",
+      11
+    ],
+    [
+      "[ENCODED BLOB 21539]",
+      11
+    ],
+    [
+      "[SHORTENER CODE 274]",
+      10
+    ],
+    [
+      "[CREDENTIAL 1224]",
+      10
+    ],
+    [
+      "[CREDENTIAL 1694]",
+      10
+    ],
+    [
+      "[CREDENTIAL 2874]",
+      10
+    ],
+    [
+      "[IP ADDRESS 253]",
+      10
+    ],
+    [
+      "[CREDENTIAL 1519]",
+      10
+    ],
+    [
+      "[ENCODED BLOB 1741]",
+      9
+    ],
+    [
+      "[ENCODED BLOB 18103]",
+      9
+    ],
+    [
+      "[CREDENTIAL 1266]",
+      9
+    ],
+    [
+      "[CREDENTIAL 1474]",
+      9
+    ],
+    [
+      "[CREDENTIAL 1475]",
+      9
+    ]
+  ],
+  "sorted_cue_kinds": {
+    "payload": 909,
+    "response": 301,
+    "recovered_text": 641
+  },
+  "precision": {
+    "day": 466,
+    "second": 1385
+  },
+  "source": "/Users/id19/scratchpad/temporal_subset/temporal_timestamps.jsonl"
+}

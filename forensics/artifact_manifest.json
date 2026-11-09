@@ -1,0 +1,77 @@
+[
+  {
+    "bytes": 1922,
+    "file": "RUN.md",
+    "sha256": "b3e8d1e5643a23e1d5c53366fd713d62a5318716e6f7e1d8328af0637c8e4067"
+  },
+  {
+    "bytes": 9869,
+    "file": "FINAL_RECONSTRUCTION_REPORT.md",
+    "sha256": "88b5c7d19882f69499fefe096dc23394107ec7e725c9c7461e8c8b91a8138f36"
+  },
+  {
+    "bytes": 1922,
+    "file": "forensics/RUN.md",
+    "sha256": "b3e8d1e5643a23e1d5c53366fd713d62a5318716e6f7e1d8328af0637c8e4067"
+  },
+  {
+    "bytes": 12223,
+    "file": "forensics/build_graph_core.py",
+    "sha256": "afc5a2f19d8401a1e12f76901ed7ce2b0bb85ace9bc5f22d8ae926565a33dea3"
+  },
+  {
+    "bytes": 15024,
+    "file": "forensics/build_near_body_candidates.cpp",
+    "sha256": "3543bdd60de8a88f101b39040425499093185d280d62cfba3f7440751309efc9"
+  },
+  {
+    "bytes": 10584,
+    "file": "forensics/swarm_reconstruction_plan.md",
+    "sha256": "eaa369a3da106872e925b48b817c00d708b0af3481e9952995c2d4d113a51ed2"
+  },
+  {
+    "bytes": 73999270,
+    "file": "forensics/run_2026/core/core_rows.ndjson",
+    "sha256": "2e10714a42eb782c022329c9a74b4af78c5036cef2f4213715845b993d5e6850"
+  },
+  {
+    "bytes": 52758188,
+    "file": "forensics/run_2026/core/core_edges.ndjson",
+    "sha256": "677fe3e0813a68ac2a95a499e3aeb28af4b5b3660e5e2703efc884c7f18a0ce1"
+  },
+  {
+    "bytes": 10417,
+    "file": "forensics/run_2026/core/core_edge_validation_v2.json",
+    "sha256": "f2cb80fcf8e0aaeccdaba347734eeec2185772337a48c7befe03a024eda26918"
+  },
+  {
+    "bytes": 7570,
+    "file": "forensics/run_2026/graph_metrics.md",
+    "sha256": "ea19aa26ae0acd0f95d2e8423fb73518bd6a38aefe0948966dddb911f67f865e"
+  },
+  {
+    "bytes": 4163,
+    "file": "forensics/run_2026/near_distance_stats.json",
+    "sha256": "4c37e974808fdc136e64592635e0a6a4c0ed45efda21eaeb57658c84287ecf95"
+  },
+  {
+    "bytes": 1199,
+    "file": "forensics/run_2026/near_distance_candidate_audit.json",
+    "sha256": "603b3f8d271859c8870306631088b9241b1da37370e4530cfe8e6c1274fbe008"
+  },
+  {
+    "bytes": 1164200,
+    "file": "forensics/run_2026/time_dependency_links.ndjson",
+    "sha256": "e1221873ea2ad471632197289c0c5a8d63d10244ef0ede31ca6a9971f2bec66c"
+  },
+  {
+    "bytes": 1653,
+    "file": "forensics/run_2026/time_dependency_summary.json",
+    "sha256": "15e3a2f2d6d26fa98f0b9e7343ca22222bf2196e92475bee085acfff39427bdc"
+  },
+  {
+    "bytes": 128546,
+    "file": "forensics/run_2026/graph_segments_v1.json",
+    "sha256": "8e1767c74f6f95b561aa4ffbae286527000da12c2a8f33a704dc98d2f51a73b8"
+  }
+]

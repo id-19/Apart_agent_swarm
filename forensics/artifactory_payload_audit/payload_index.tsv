@@ -1,0 +1,1228 @@
+row_id	kind	parent_id	text_len	has_cred	tags	category	children_nonpayload	child_diff_texts	children_list
+R0000032	payload	None	238	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0000076	payload	None	897	True	xhr,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	4	4	R0053438;R0053439;R0062496;R0062497
+R0000096	payload	None	601	False	fetch,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0000441	payload	None	895	True	fetch,mkcol,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0000539	payload	None	712	False	xhr	BROWSER-OR-RELAY-FETCH	0	0	
+R0000614	payload	None	367	False	fetch,eval-atob,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0000619	payload	None	366	False	fetch,eval-atob,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0000627	payload	None	281	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0000650	payload	None	1227	False	fetch,python-urllib,beacon,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0000668	payload	None	763	False	xhr	BROWSER-OR-RELAY-FETCH	0	0	
+R0000687	payload	None	1103	True	fetch,python-urllib,beacon,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0000689	payload	None	1038	False	fetch,xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0000703	payload	None	669	True	fetch,python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0000717	payload	None	5145	True	python-urllib,mkcol,docker-manifest,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0000736	payload	None	2937	False	fetch,xhr,cyber-shell,zz-marker	CYBERGYM-INJECTED-SHELL	4	4	R0053536;R0062662;R0062663;R0062664
+R0000757	payload	None	3060	False	fetch,xhr,cyber-shell,zz-marker	CYBERGYM-INJECTED-SHELL	2	2	R0062671;R0062672
+R0000771	payload	None	1106	True	fetch,python-urllib,mkcol,beacon,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0000805	payload	None	943	True	fetch,python-urllib,beacon,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0000809	payload	None	1939	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0000823	payload	None	1865	True	fetch,python-urllib,mkcol,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0000833	payload	None	534	False	xhr,cyber-shell	CYBERGYM-INJECTED-SHELL	0	0	
+R0000837	payload	None	320	False	fetch,beacon,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0000848	payload	None	3467	True	fetch,docker-manifest,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	1	1	R0062712
+R0000850	payload	None	345	False	fetch,beacon,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0000852	payload	None	452	False	fetch,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	2	2	R0053551;R0062713
+R0000856	payload	None	1931	True	fetch,python-urllib,beacon,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	3	3	R0053553;R0062715;R0062716
+R0000877	payload	None	1115	True	fetch,python-urllib,beacon,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0000885	payload	None	864	True	fetch,mkcol,beacon,cyber-shell,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0000889	payload	None	1124	True	fetch,python-urllib,beacon,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0000894	payload	None	483	False	fetch,eval-atob,dir-list-assembly,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0000899	payload	None	4513	True	fetch,python-urllib,mkcol,docker-manifest,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0000906	payload	None	1768	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	1	1	R0062724
+R0000908	payload	None	2579	True	fetch,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0000910	payload	None	1396	True	xhr	BROWSER-OR-RELAY-FETCH	0	0	
+R0000933	payload	None	1104	True	fetch,python-urllib,beacon,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0000942	payload	None	886	True	fetch,mkcol,beacon,cyber-shell	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0000948	payload	None	2718	True	fetch,python-urllib,docker-manifest,zz-marker	PYTHON-REMOTE-READ/WRITE	2	2	R0062745;R0062746
+R0000953	payload	None	1311	True	xhr,python-urllib,beacon,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0000961	payload	None	1939	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0000964	payload	None	527	False	xhr,eval-atob,dir-list-assembly,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	3	3	R0053566;R0062750;R0062751
+R0000965	payload	None	507	False	xhr,eval-atob,dir-list-assembly,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0000971	payload	None	11784	True	xhr,python-urllib,mkcol,docker-manifest,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	5	5	R0053571;R0062757;R0062758;R0062759;R0062760
+R0000984	payload	None	864	True	fetch,getent,beacon,cyber-shell,proxy-text	CYBERGYM-INJECTED-SHELL	1	0	R0062771
+R0001003	payload	None	1125	True	fetch,python-urllib,beacon,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0001007	payload	None	1274	True	fetch,python-urllib,beacon,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0001009	payload	None	446	False	fetch,dir-list-assembly,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001013	payload	None	954	True	fetch,python-urllib,mkcol,beacon,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0001020	payload	None	888	True	fetch,mkcol,beacon,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0001025	payload	None	358	False	fetch,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0001031	payload	None	2725	True	fetch,python-urllib,docker-manifest,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0001036	payload	None	943	True	xhr,python-urllib,beacon,cyber-shell,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0001045	payload	None	933	True	fetch,python-urllib,mkcol,beacon,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0001047	payload	None	910	True	fetch,python-urllib,beacon,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0001060	payload	None	847	True	xhr,mkcol,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0001067	payload	None	316	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001072	payload	None	4551	True	fetch,python-urllib,mkcol,docker-manifest,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0001076	payload	None	329	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001077	payload	None	934	True	fetch,python-urllib,mkcol,beacon,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0001080	payload	None	794	True	fetch,python-urllib,beacon,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0001085	payload	None	341	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001088	payload	None	243	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001093	payload	None	368	False	fetch,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0001096	payload	None	384	False	fetch,eval-atob,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001097	payload	None	358	False	fetch,eval-atob,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001101	payload	None	1056	True	xhr,python-urllib,beacon,cyber-shell,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0001104	payload	None	17591	True	fetch,python-urllib,mkcol,docker-manifest,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	4	4	R0062843;R0062844;R0062845;R0062846
+R0001109	payload	None	263	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001127	payload	None	1047	True	fetch,python-urllib,beacon,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	2	2	R0062863;R0062864
+R0001132	payload	None	394	False	fetch,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0001137	payload	None	1890	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001138	payload	None	849	False	fetch,dir-list-assembly,cyber-shell,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001144	payload	None	442	False	fetch,eval-atob,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001150	payload	None	332	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001151	payload	None	6990	True	fetch,docker-manifest,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	5	5	R0053586;R0062874;R0062875;R0062876;R0062877
+R0001154	payload	None	7674	True	fetch,docker-manifest,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0001157	payload	None	420	False	fetch,eval-atob,dir-list-assembly,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001158	payload	None	255	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001160	payload	None	1853	True	fetch,dir-list-assembly,docker-manifest,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001164	payload	None	1951	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001167	payload	None	2048	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001168	payload	None	800	True	fetch,python-urllib,beacon,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0001180	payload	None	571	False	fetch,eval-atob,dir-list-assembly,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	3	3	R0053588;R0062884;R0062885
+R0001189	payload	None	7040	True	fetch,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0001190	payload	None	314	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001192	payload	None	4456	True	fetch,python-urllib,mkcol,docker-manifest,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	3	3	R0053589;R0062886;R0062887
+R0001193	payload	None	6891	True	fetch,python-urllib,mkcol,docker-manifest,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0001201	payload	None	963	True	fetch,python-urllib,beacon,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0001203	payload	None	314	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001207	payload	None	422	False	fetch,eval-atob,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001211	payload	None	335	False	fetch,mkcol,beacon,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001219	payload	None	394	False	fetch,beacon,zz-marker	BROWSER-OR-RELAY-FETCH	2	2	R0053591;R0062893
+R0001221	payload	None	263	False	fetch,beacon,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001232	payload	None	1122	True	fetch,python-urllib,beacon,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0001236	payload	None	419	False	fetch,eval-atob,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001245	payload	None	3941	True	fetch,python-urllib,beacon,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	1	1	R0062898
+R0001246	payload	None	424	False	fetch,eval-atob,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001254	payload	None	2189	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001255	payload	None	423	False	fetch,eval-atob,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001261	payload	None	439	False	fetch,beacon,zz-marker	BROWSER-OR-RELAY-FETCH	2	2	R0053593;R0062901
+R0001262	payload	None	289	False	fetch,beacon,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001264	payload	None	614	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	3	3	R0053594;R0062902;R0062903
+R0001265	payload	None	458	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001266	payload	None	1720	True	python-urllib,docker-manifest,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0001271	payload	None	205	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001274	payload	None	7088	True	fetch,python-urllib,mkcol,docker-manifest,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0001286	payload	None	329	False	fetch,eval-atob,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	2	2	R0053601;R0062912
+R0001287	payload	None	328	False	fetch,eval-atob,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001289	payload	None	998	True	xhr,python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0001298	payload	None	416	False	fetch,eval-atob,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001312	payload	None	360	False	fetch,eval-atob,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001316	payload	None	726	False	fetch,dir-list-assembly,beacon,zz-marker,proxy-text	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001320	payload	None	586	False	fetch,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0001323	payload	None	2001	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001324	payload	None	642	True	fetch,python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0001325	payload	None	4464	True	fetch,python-urllib,mkcol,docker-manifest,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0001329	payload	None	293	False	fetch,beacon,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001330	payload	None	1165	True	fetch,python-urllib,beacon,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0001334	payload	None	1155	True	fetch,python-urllib,beacon,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0001340	payload	None	337	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	2	2	R0053611;R0062937
+R0001342	payload	None	336	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001346	payload	None	1733	True	fetch,dir-list-assembly,docker-manifest,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001349	payload	None	298	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001352	payload	None	1101	True	fetch,python-urllib,beacon,cyber-shell,proxy-text	PYTHON-REMOTE-READ/WRITE	1	1	R0062940
+R0001375	payload	None	4402	True	fetch,python-urllib,mkcol,docker-manifest,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	1	1	R0062945
+R0001385	payload	None	2096	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker,proxy-text	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001391	payload	None	1735	True	fetch,dir-list-assembly,docker-manifest,zz-marker	BY-STEALTH-ASSEMBLY-CODE	2	0	R0053621;R0062953
+R0001392	payload	None	1736	True	fetch,dir-list-assembly,docker-manifest,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001402	payload	None	436	False	fetch,mkcol,beacon,zz-marker	BROWSER-OR-RELAY-FETCH	1	0	R0062960
+R0001404	payload	None	2030	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	2	2	R0053626;R0062961
+R0001406	payload	None	2029	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001407	payload	None	862	True	xhr,mkcol,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0001410	payload	None	2009	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001413	payload	None	2366	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001416	payload	None	238	False	fetch,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001418	payload	None	448	False	fetch,eval-atob,beacon,zz-marker,proxy-text	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001430	payload	None	2124	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001435	payload	None	566	True	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001437	payload	None	822	True	fetch,python-urllib,mkcol,beacon,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0001456	payload	None	420	False	fetch,eval-atob,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001457	payload	None	2504	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001462	payload	None	2133	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001469	payload	None	440	False	fetch,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001487	payload	None	1243	True	fetch,python-urllib,beacon,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0001490	payload	None	598	True	fetch,cyber-shell	CYBERGYM-INJECTED-SHELL	0	0	
+R0001494	payload	None	1476	True	fetch,python-urllib,beacon,cyber-shell	PYTHON-REMOTE-READ/WRITE	0	0	
+R0001502	payload	None	2516	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001503	payload	None	2466	True	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001504	payload	None	151	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	1	0	R0062989
+R0001507	payload	None	287	False	xhr	BROWSER-OR-RELAY-FETCH	0	0	
+R0001509	payload	None	966	True	fetch,python-urllib,beacon,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0001510	payload	None	459	False	fetch,eval-atob,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001519	payload	None	438	False	fetch,dir-list-assembly,zz-marker,proxy-text	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001523	payload	None	205	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001524	payload	None	283	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001525	payload	None	867	True	fetch,python-urllib,beacon,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0001526	payload	None	768	True	fetch,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	1	1	R0062996
+R0001530	payload	None	529	False	fetch,eval-atob,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001531	payload	None	2504	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001535	payload	None	306	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001536	payload	None	777	True	fetch,python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0001537	payload	None	552	False	fetch,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001538	payload	None	639	True	fetch,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0001539	payload	None	279	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001541	payload	None	252	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001546	payload	None	572	False	fetch,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001550	payload	None	386	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001562	payload	None	2345	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001564	payload	None	289	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	2	2	R0053643;R0063016
+R0001565	payload	None	288	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001566	payload	None	389	False	fetch,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	2	2	R0053644;R0063017
+R0001567	payload	None	388	False	fetch,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0001568	payload	None	788	False	fetch,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	2	2	R0053645;R0063018
+R0001569	payload	None	787	False	fetch,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001570	payload	None	1189	True	fetch,python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	3	3	R0053646;R0063019;R0063020
+R0001585	payload	None	2011	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001600	payload	None	667	True	fetch,python-urllib,cyber-shell	PYTHON-REMOTE-READ/WRITE	2	2	R0053654;R0063035
+R0001602	payload	None	2106	True	fetch,python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0001604	payload	None	836	True	xhr,python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0001606	payload	None	2011	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001612	payload	None	851	True	fetch,python-urllib,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0001621	payload	None	2011	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001632	payload	None	1267	True	fetch,python-urllib,beacon,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0001633	payload	None	2138	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001641	payload	None	2155	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker,proxy-text	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001652	payload	None	335	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001656	payload	None	434	False	fetch,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001657	payload	None	323	False	fetch,mkcol,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0001658	payload	None	466	False	fetch,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0001660	payload	None	2016	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	1	0	R0063071
+R0001661	payload	None	1181	True	fetch,python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0001672	payload	None	340	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001676	payload	None	277	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001678	payload	None	1020	True	xhr,python-urllib,cyber-shell	PYTHON-REMOTE-READ/WRITE	0	0	
+R0001679	payload	None	2271	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001682	payload	None	2043	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001686	payload	None	279	False	fetch	BROWSER-OR-RELAY-FETCH	2	2	R0053659;R0063074
+R0001687	payload	None	278	False	fetch	BROWSER-OR-RELAY-FETCH	0	0	
+R0001700	payload	None	3910	True	fetch,python-urllib,mkcol,docker-manifest,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	3	3	R0063079;R0063080;R0063081
+R0001705	payload	None	364	False	xhr,mkcol,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0001706	payload	None	246	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	1	0	R0063082
+R0001712	payload	None	325	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001715	payload	None	330	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	1	0	R0063085
+R0001718	payload	None	233	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001769	payload	None	2013	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001772	payload	None	351	False	fetch,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	1	0	R0063086
+R0001780	payload	None	879	False	fetch,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0001783	payload	None	2356	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001784	payload	None	457	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001797	payload	None	298	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001799	payload	None	278	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001802	payload	None	230	False	fetch,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001804	payload	None	2029	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001807	payload	None	940	True	fetch,python-urllib,beacon,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	1	0	R0063092
+R0001866	payload	None	383	False	fetch,beacon,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0001872	payload	None	2047	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001895	payload	None	385	False	fetch,eval-atob,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001905	payload	None	686	False	fetch,python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0001922	payload	None	386	False	fetch,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001928	payload	None	2600	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0001935	payload	None	532	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001943	payload	None	973	True	fetch,python-urllib,beacon,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0001947	payload	None	378	False	fetch,beacon,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0001949	payload	None	583	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0002044	payload	None	2150	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	1	0	R0063103
+R0002045	payload	None	428	False	fetch,eval-atob,dir-list-assembly,beacon,zz-marker,proxy-text	BY-STEALTH-ASSEMBLY-CODE	1	0	R0063104
+R0002078	payload	None	799	True	fetch,mkcol,beacon,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	2	0	R0053764;R0063107
+R0002081	payload	None	403	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	2	2	R0053669;R0063108
+R0002084	payload	None	364	False	fetch,beacon,zz-marker	BROWSER-OR-RELAY-FETCH	2	2	R0053670;R0063116
+R0002085	payload	None	363	False	fetch,beacon,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0002088	payload	None	582	False	fetch,beacon,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0002103	payload	None	607	False	fetch,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0002108	payload	None	3399	True	fetch,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	1	1	R0063123
+R0002112	payload	None	2663	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0002126	payload	None	304	False	fetch,eval-atob,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0002137	payload	None	132	False	none	OTHER-MARKER	0	0	
+R0002171	payload	None	132	False	none	OTHER-MARKER	0	0	
+R0002174	payload	None	3399	True	fetch,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	1	1	R0063146
+R0002180	payload	None	132	False	none	OTHER-MARKER	0	0	
+R0002181	payload	None	2189	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0002208	payload	None	2029	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0002214	payload	None	508	False	xhr,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0002220	payload	None	430	False	fetch,eval-atob,dir-list-assembly,beacon,zz-marker,proxy-text	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0002235	payload	None	1798	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0002237	payload	None	132	False	none	OTHER-MARKER	0	0	
+R0002244	payload	None	426	False	fetch,eval-atob,dir-list-assembly,beacon,zz-marker,proxy-text	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0002253	payload	None	345	False	fetch,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0002255	payload	None	2193	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0002263	payload	None	377	False	fetch,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0002269	payload	None	2088	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0002273	payload	None	643	True	fetch,python-urllib,mkcol,cyber-shell,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0002283	payload	None	521	False	fetch,cyber-shell,zz-marker	CYBERGYM-INJECTED-SHELL	0	0	
+R0002290	payload	None	2336	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0002296	payload	None	2100	True	fetch,python-urllib,docker-manifest,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0002298	payload	None	2320	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker,proxy-text	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0002304	payload	None	132	False	none	OTHER-MARKER	0	0	
+R0002305	payload	None	987	True	fetch,python-urllib,beacon,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0002319	payload	None	413	False	fetch,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0002320	payload	None	2429	True	fetch,dir-list-assembly,docker-manifest,zz-marker	BY-STEALTH-ASSEMBLY-CODE	2	2	R0053679;R0063176
+R0002321	payload	None	1698	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0002322	payload	None	2265	True	fetch,dir-list-assembly,docker-manifest,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0002328	payload	None	392	False	fetch,eval-atob,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0002359	payload	None	503	False	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	2	0	R0053684;R0063190
+R0002361	payload	None	504	False	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0002393	payload	None	274	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0002408	payload	None	3960	True	fetch,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	1	1	R0063238
+R0002420	payload	None	259	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0002422	payload	None	2073	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0002424	payload	None	654	False	python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	1	1	R0063242
+R0002431	payload	None	722	True	fetch,python-urllib,cyber-shell	PYTHON-REMOTE-READ/WRITE	1	0	R0063247
+R0002432	payload	None	384	False	fetch,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0002440	payload	None	1852	True	fetch,docker-manifest	BROWSER-OR-RELAY-FETCH	0	0	
+R0002443	payload	None	805	True	fetch,python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	1	0	R0063250
+R0002452	payload	None	2095	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0002454	payload	None	425	False	fetch,eval-atob,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0002460	payload	None	320	False	fetch,beacon,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0002461	payload	None	1966	True	fetch,docker-manifest,beacon,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0002464	payload	None	74	False	none	OTHER-MARKER	0	0	
+R0002497	payload	None	430	False	fetch,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0002546	payload	None	526	False	fetch,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0002567	payload	None	710	False	python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	2	2	R0063272;R0063273
+R0002582	payload	None	406	False	fetch,eval-atob,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0002629	payload	None	2172	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	1	0	R0063289
+R0002641	payload	None	987	True	fetch,python-urllib,beacon,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0002642	payload	None	400	False	fetch,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0002648	payload	None	2186	True	xhr,python-urllib,docker-manifest,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0002704	payload	None	2157	True	fetch,python-urllib,beacon,proxy-text	PYTHON-REMOTE-READ/WRITE	1	1	R0063329
+R0002753	payload	None	1107	True	fetch,python-urllib,beacon,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0002773	payload	None	901	True	fetch,python-urllib,beacon,cyber-shell,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0002810	payload	None	275	False	fetch,mkcol,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0002892	payload	None	296	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0002908	payload	None	485	False	python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	2	2	R0063388;R0063389
+R0002916	payload	None	790	True	fetch,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0002919	payload	None	754	False	fetch,python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	2	2	R0053763;R0063392
+R0002920	payload	None	800	True	fetch,mkcol,beacon,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0002929	payload	None	831	True	fetch,mkcol,beacon,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0002951	payload	None	808	True	fetch,beacon,cyber-shell,proxy-text	CYBERGYM-INJECTED-SHELL	0	0	
+R0002965	payload	None	1458	True	fetch,dir-list-assembly,docker-manifest,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0002976	payload	None	721	False	fetch,python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0002993	payload	None	363	False	fetch,beacon,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0003005	payload	None	378	False	fetch,beacon,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0003304	payload	None	616	True	fetch,cyber-shell	CYBERGYM-INJECTED-SHELL	0	0	
+R0003321	payload	None	9475	True	fetch,python-urllib,mkcol,docker-manifest,beacon,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	18	18	R0053912;R0063609;R0063610;R0063611;R0063612;R0063613;R0063614;R0063615;R0063616;R0063617;R0063618;R0063619;R0063620;R0063621;R0063622;R0063623;R0063624;R0063625
+R0003358	payload	None	872	False	python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	2	2	R0063642;R0063643
+R0003360	payload	None	1450	True	fetch,python-urllib,mkcol,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0003432	payload	None	2010	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker,proxy-text	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0003472	payload	None	620	False	python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	2	2	R0063696;R0063697
+R0003474	payload	None	318	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0003539	payload	None	2198	True	fetch,python-urllib,docker-manifest,cyber-shell	PYTHON-REMOTE-READ/WRITE	0	0	
+R0003562	payload	None	1866	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	1	0	R0063749
+R0003578	payload	None	654	False	xhr,python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0003579	payload	None	1115	True	fetch,python-urllib,mkcol,beacon,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	2	2	R0063754;R0063755
+R0003582	payload	None	442	False	fetch,beacon,zz-marker	BROWSER-OR-RELAY-FETCH	1	0	R0063756
+R0003586	payload	None	442	False	fetch,beacon,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0003591	payload	None	1278	True	fetch,python-urllib,mkcol,beacon,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	1	1	R0063759
+R0003603	payload	None	448	False	python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0003623	payload	None	1226	True	fetch,python-urllib,beacon,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	3	3	R0063764;R0063765;R0063766
+R0003631	payload	None	537	False	fetch,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0003697	payload	None	607	True	fetch,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0003704	payload	None	991	True	fetch,python-urllib,beacon,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0003846	payload	None	1503	True	fetch,python-urllib,mkcol,beacon,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0003848	payload	None	874	True	fetch,getent,beacon,cyber-shell,proxy-text	CYBERGYM-INJECTED-SHELL	0	0	
+R0004073	payload	None	2042	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	2	2	R0053981;R0063832
+R0004074	payload	None	2041	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0004077	payload	None	225	False	python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0004093	payload	None	1113	True	fetch,python-urllib,beacon,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0004098	payload	None	989	True	fetch,python-urllib,mkcol,beacon,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0004146	payload	None	2154	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	2	2	R0053992;R0063846
+R0004149	payload	None	2153	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0004291	payload	None	2217	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0004297	payload	None	1113	True	fetch,python-urllib,beacon,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0004321	payload	None	854	False	fetch,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0004322	payload	None	1029	False	fetch,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0004324	payload	None	2394	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	2	2	R0053999;R0063861
+R0004325	payload	None	2393	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0004327	payload	None	207	False	python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0004480	payload	None	174	False	beacon,zz-marker	OTHER-MARKER	1	0	R0063867
+R0004560	payload	None	354	False	fetch,beacon,zz-marker	BROWSER-OR-RELAY-FETCH	1	0	R0063874
+R0004570	payload	None	317	False	zz-marker	OTHER-MARKER	0	0	
+R0004573	payload	None	440	False	fetch,beacon,zz-marker	BROWSER-OR-RELAY-FETCH	1	0	R0063877
+R0004596	payload	None	811	True	fetch,python-urllib,mkcol,beacon,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	1	1	R0063891
+R0004620	payload	None	213	False	python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0004622	payload	None	746	False	python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	1	1	R0063914
+R0004836	payload	None	297	False	fetch,dir-list-assembly	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0004839	payload	None	325	False	xhr,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0004842	payload	None	459	False	xhr,eval-atob,dir-list-assembly	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0004846	payload	None	483	False	xhr,eval-atob,dir-list-assembly	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0004847	payload	None	483	False	xhr,eval-atob,dir-list-assembly	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0004848	payload	None	483	False	xhr,eval-atob,dir-list-assembly	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0004854	payload	None	8800	True	fetch,python-urllib,mkcol,docker-manifest,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	8	8	R0054051;R0054052;R0063975;R0063976;R0063977;R0063978;R0063979;R0063980
+R0004859	payload	None	370	False	xhr,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0004861	payload	None	325	False	xhr,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0004884	payload	None	14441	True	fetch,python-urllib,mkcol,docker-manifest,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	7	7	R0054072;R0054073;R0063997;R0063998;R0063999;R0064000;R0064001
+R0004997	payload	None	2409	True	fetch,python-urllib,docker-manifest,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0005120	payload	None	2239	True	fetch,python-urllib,docker-manifest,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	4	4	R0054120;R0064094;R0064095;R0064096
+R0005121	payload	None	2371	True	fetch,python-urllib,docker-manifest,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0005157	payload	None	924	True	fetch,python-urllib,mkcol,beacon,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0005196	payload	None	1058	True	fetch,python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	2	2	R0064130;R0064131
+R0005225	payload	None	536	False	fetch,python-urllib,cyber-shell	PYTHON-REMOTE-READ/WRITE	0	0	
+R0005239	payload	None	1904	True	fetch,docker-manifest	BROWSER-OR-RELAY-FETCH	0	0	
+R0005267	payload	None	852	True	fetch,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0005284	payload	None	2228	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	2	2	R0054146;R0064164
+R0005285	payload	None	2227	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0005291	payload	None	201	False	fetch	BROWSER-OR-RELAY-FETCH	2	2	R0054151;R0064176
+R0005293	payload	None	226	False	fetch	BROWSER-OR-RELAY-FETCH	2	2	R0054153;R0064178
+R0005294	payload	None	225	False	fetch	BROWSER-OR-RELAY-FETCH	0	0	
+R0005295	payload	None	479	False	fetch,dir-list-assembly,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	2	2	R0054154;R0064179
+R0005300	payload	None	478	False	fetch,dir-list-assembly,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0005302	payload	None	398	False	fetch,dir-list-assembly,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0005372	payload	None	911	True	fetch,mkcol,beacon,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0005563	payload	None	1660	False	fetch,python-urllib,mkcol,cyber-shell	CYBERGYM-SHELL->DEAD-DROP-WRITE	1	0	R0064267
+R0005565	payload	None	924	True	fetch,python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	2	2	R0064270;R0064271
+R0005612	payload	None	613	True	xhr,python-urllib,cyber-shell	PYTHON-REMOTE-READ/WRITE	0	0	
+R0005620	payload	None	487	True	fetch,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0005712	payload	None	273	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0005713	payload	None	957	True	fetch,python-urllib,beacon,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0005719	payload	None	956	True	fetch,python-urllib,beacon,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0005726	payload	None	962	True	fetch,python-urllib,beacon,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0005730	payload	None	248	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0005734	payload	None	868	True	fetch,python-urllib,mkcol,beacon,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0005822	payload	None	706	False	python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	2	2	R0064344;R0064345
+R0005882	payload	None	288	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0005885	payload	None	263	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0005961	payload	None	1252	True	fetch,getent,cyber-shell	CYBERGYM-INJECTED-SHELL	1	0	R0064411
+R0005989	payload	None	714	False	python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	2	2	R0064429;R0064430
+R0006004	payload	None	1794	True	fetch,dir-list-assembly,docker-manifest,zz-marker	BY-STEALTH-ASSEMBLY-CODE	4	4	R0054249;R0054250;R0064440;R0064441
+R0006006	payload	None	2045	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	1	0	R0064444
+R0006010	payload	None	228	False	fetch,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0006016	payload	None	1224	True	fetch,python-urllib,beacon,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0006034	payload	None	1234	True	fetch,python-urllib,beacon,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0006039	payload	None	360	False	fetch,eval-atob,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	1	0	R0064452
+R0006048	payload	None	1884	True	xhr,python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	4	4	R0054254;R0054255;R0064454;R0064455
+R0006050	payload	None	1286	True	fetch,getent,cyber-shell	CYBERGYM-INJECTED-SHELL	0	0	
+R0006070	payload	None	610	False	fetch,eval-atob,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	4	4	R0054258;R0054259;R0064462;R0064463
+R0006071	payload	None	428	False	fetch,eval-atob,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0006085	payload	None	356	False	fetch,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0006086	payload	None	376	False	fetch,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0006089	payload	None	2001	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	1	0	R0064466
+R0006099	payload	None	290	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0006143	payload	None	722	False	fetch,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0006180	payload	None	717	True	fetch,python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	2	2	R0054282;R0064535
+R0006291	payload	None	716	True	fetch,python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0006473	payload	None	301	False	fetch,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	1	0	R0064628
+R0006575	payload	None	641	False	fetch,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0006576	payload	None	643	True	fetch,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0006712	payload	None	305	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	1	0	R0064672
+R0006878	payload	None	1117	True	xhr,python-urllib,mkcol,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0006884	payload	None	636	False	xhr,python-urllib,mkcol,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0006923	payload	None	645	False	xhr,python-urllib,mkcol,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0007143	payload	None	328	False	fetch,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0007191	payload	None	556	True	fetch,mkcol,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0007209	payload	None	289	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0007240	payload	None	1123	True	fetch,python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0007245	payload	None	565	True	fetch,mkcol,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0007260	payload	None	756	False	python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	2	2	R0065308;R0065309
+R0007263	payload	None	1070	True	xhr,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0007275	payload	None	585	True	fetch,mkcol,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0007280	payload	None	422	False	fetch,mkcol,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0007314	payload	None	650	True	fetch,python-urllib,mkcol,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0007316	payload	None	655	True	fetch,python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0007320	payload	None	1252	True	fetch,python-urllib,beacon,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	1	0	R0065318
+R0007327	payload	None	679	False	fetch,mkcol,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0007328	payload	None	1072	True	fetch,python-urllib,mkcol,beacon,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0007425	payload	None	2626	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker,proxy-text	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0007446	payload	None	311	False	python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0007528	payload	None	96	False	zz-marker	OTHER-MARKER	0	0	
+R0007529	payload	None	2624	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker,proxy-text	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0007662	payload	None	600	True	fetch,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0007666	payload	None	2703	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker,proxy-text	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0007697	payload	None	633	True	fetch,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0007724	payload	None	398	False	fetch,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	2	2	R0054885;R0065458
+R0007797	payload	None	334	False	fetch,mkcol,beacon,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0007820	payload	None	277	False	fetch,mkcol,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	2	2	R0054928;R0065527
+R0007867	payload	None	331	False	fetch,mkcol,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0007926	payload	None	777	True	fetch,python-urllib,mkcol,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	2	2	R0054975;R0065620
+R0007943	payload	None	550	False	fetch,mkcol,beacon,zz-marker	BROWSER-OR-RELAY-FETCH	2	2	R0054982;R0065631
+R0007971	payload	None	1896	True	fetch,python-urllib,beacon,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	3	3	R0054996;R0065653;R0065654
+R0007973	payload	None	1852	True	fetch,python-urllib,mkcol,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	4	4	R0054997;R0065655;R0065656;R0065657
+R0008007	payload	None	790	True	fetch,python-urllib,mkcol,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	1	1	R0065685
+R0008025	payload	None	1097	True	fetch,python-urllib,beacon,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	2	2	R0065697;R0065698
+R0008048	payload	None	1659	False	fetch,python-urllib,beacon,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0008049	payload	None	1658	False	fetch,python-urllib,beacon,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0008053	payload	None	1042	True	fetch,python-urllib,mkcol,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	2	2	R0065715;R0065716
+R0008114	payload	None	1387	False	python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	4	4	R0055048;R0065758;R0065759;R0065760
+R0008215	payload	None	2079	True	fetch,docker-manifest,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	2	2	R0055106;R0065856
+R0008216	payload	None	2078	True	fetch,docker-manifest,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0008263	payload	None	613	False	python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	2	2	R0065902;R0065903
+R0008299	payload	None	2155	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker,proxy-text	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0008322	payload	None	114	False	none	OTHER-MARKER	0	0	
+R0008333	payload	None	473	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0008339	payload	None	1287	False	python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	2	2	R0065937;R0065938
+R0008378	payload	None	693	False	mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	1	1	R0065939
+R0008537	payload	None	427	False	mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0008540	payload	None	700	True	fetch,python-urllib,cyber-shell	PYTHON-REMOTE-READ/WRITE	0	0	
+R0008565	payload	None	363	False	fetch,beacon	BROWSER-OR-RELAY-FETCH	0	0	
+R0008584	payload	None	383	False	fetch,beacon	BROWSER-OR-RELAY-FETCH	0	0	
+R0008671	payload	None	403	False	fetch,beacon	BROWSER-OR-RELAY-FETCH	0	0	
+R0008755	payload	None	972	True	fetch,mkcol,beacon,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0008800	payload	None	2339	True	fetch,python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0008887	payload	None	252	False	fetch,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0008922	payload	None	2199	True	fetch,dir-list-assembly,docker-manifest	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0008923	payload	None	602	True	fetch,getent,cyber-shell	CYBERGYM-INJECTED-SHELL	0	0	
+R0009181	payload	None	570	False	python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0009183	payload	None	610	False	python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0009415	payload	None	2898	False	xhr,python-urllib,mkcol,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0009416	payload	None	872	False	mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	2	2	R0066056;R0066057
+R0009457	payload	None	992	True	xhr,python-urllib,mkcol,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0009537	payload	None	1276	True	fetch,python-urllib,beacon,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0009691	payload	None	859	True	fetch,python-urllib,getent,beacon,cyber-shell,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0009702	payload	None	279	False	fetch,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0009766	payload	None	571	False	fetch	BROWSER-OR-RELAY-FETCH	0	0	
+R0009846	payload	None	813	False	fetch,mkcol,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0009889	payload	None	2268	True	xhr,python-urllib,docker-manifest,beacon,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0009892	payload	None	2182	True	fetch,python-urllib,docker-manifest,beacon,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0010054	payload	None	507	False	fetch,dir-list-assembly,beacon	BY-STEALTH-ASSEMBLY-CODE	1	0	R0066192
+R0010062	payload	None	843	True	xhr,python-urllib,mkcol,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0010101	payload	None	449	False	fetch	BROWSER-OR-RELAY-FETCH	0	0	
+R0010124	payload	None	532	False	fetch,dir-list-assembly,beacon	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0010157	payload	None	164	False	python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	1	0	R0066209
+R0010203	payload	None	1064	True	fetch,python-urllib,beacon,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0010228	payload	None	231	False	mkcol,zz-marker	OTHER-MARKER	0	0	
+R0010230	payload	None	741	True	xhr,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0010283	payload	None	878	True	fetch,mkcol,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0010297	payload	None	715	False	python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	1	1	R0066246
+R0010319	payload	None	307	False	fetch,eval-atob,beacon,zz-marker,proxy-text	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0010362	payload	None	1314	True	fetch,python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0010428	payload	None	93	False	zz-marker	OTHER-MARKER	0	0	
+R0010487	payload	None	247	False	mkcol,zz-marker	OTHER-MARKER	0	0	
+R0010492	payload	None	715	True	xhr,mkcol,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0010520	payload	None	2243	True	fetch,beacon	BROWSER-OR-RELAY-FETCH	0	0	
+R0010549	payload	None	2278	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0010582	payload	None	215	False	fetch,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0010595	payload	None	272	False	beacon	OTHER-MARKER	0	0	
+R0010645	payload	None	1170	True	fetch,python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0010655	payload	None	472	False	fetch	BROWSER-OR-RELAY-FETCH	0	0	
+R0010656	payload	None	384	False	beacon,proxy-text	OTHER-MARKER	0	0	
+R0010658	payload	None	754	True	python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0010663	payload	None	857	True	fetch,python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0010666	payload	None	274	False	beacon,proxy-text	OTHER-MARKER	0	0	
+R0010674	payload	None	276	False	xhr,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0010795	payload	None	496	False	python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0010823	payload	None	588	False	fetch,python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0010857	payload	None	10850	True	python-urllib,mkcol,docker-manifest,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	8	8	R0066354;R0066355;R0066356;R0066357;R0066358;R0066359;R0066360;R0066361
+R0010881	payload	None	819	True	fetch,mkcol,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0010946	payload	None	10680	True	python-urllib,docker-manifest,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0011057	payload	None	282	False	fetch,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0011063	payload	None	851	False	fetch,python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	1	1	R0066428
+R0011085	payload	None	692	False	fetch,python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0011088	payload	None	597	False	fetch,python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0011095	payload	None	497	False	fetch,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0011098	payload	None	1249	False	fetch,python-urllib,mkcol,beacon,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0011144	payload	None	122	False	zz-marker	OTHER-MARKER	0	0	
+R0011178	payload	None	827	False	fetch,mkcol,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0011333	payload	None	790	True	xhr,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0011351	payload	None	2272	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0011361	payload	None	277	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0011413	payload	None	284	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0011419	payload	None	483	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0011468	payload	None	330	False	fetch,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0011554	payload	None	765	True	fetch,cyber-shell	CYBERGYM-INJECTED-SHELL	0	0	
+R0011555	payload	None	573	False	fetch,docker-manifest	BROWSER-OR-RELAY-FETCH	0	0	
+R0011644	payload	None	1300	True	xhr,cyber-shell	CYBERGYM-INJECTED-SHELL	9	9	R0055465;R0055466;R0055467;R0055468;R0055469;R0066514;R0066515;R0066516;R0066517
+R0011655	payload	None	738	True	fetch,python-urllib,cyber-shell	PYTHON-REMOTE-READ/WRITE	0	0	
+R0011670	payload	None	321	False	fetch,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0011743	payload	None	738	True	fetch,python-urllib,cyber-shell	PYTHON-REMOTE-READ/WRITE	0	0	
+R0011819	payload	None	1134	True	fetch,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0011919	payload	None	1133	True	fetch,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0012019	payload	None	1065	True	fetch,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0012020	payload	None	1117	True	fetch,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0012037	payload	None	2750	True	fetch,python-urllib,docker-manifest,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0012047	payload	None	2426	False	fetch	BROWSER-OR-RELAY-FETCH	0	0	
+R0012158	payload	None	1213	True	fetch,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0012167	payload	None	984	True	fetch,beacon,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0012206	payload	None	2893	True	fetch,python-urllib,docker-manifest,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0012224	payload	None	602	False	python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0012377	payload	None	256	False	fetch	BROWSER-OR-RELAY-FETCH	0	0	
+R0012400	payload	None	706	False	fetch,python-urllib,mkcol,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0012417	payload	None	666	True	fetch,mkcol,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0012489	payload	None	220	False	fetch,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0012499	payload	None	408	True	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0012611	payload	None	8561	True	fetch,python-urllib,mkcol,docker-manifest,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0012615	payload	None	309	False	xhr	BROWSER-OR-RELAY-FETCH	0	0	
+R0012631	payload	None	641	True	fetch,python-urllib,mkcol,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0012654	payload	None	1690	True	fetch,docker-manifest,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0012655	payload	None	625	True	fetch,python-urllib,mkcol,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0012674	payload	None	114	False	mkcol,cyber-shell	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0012712	payload	None	860	False	mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	2	2	R0066679;R0066680
+R0012795	payload	None	907	True	fetch,mkcol,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0012896	payload	None	384	False	fetch,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0012904	payload	None	750	False	xhr,python-urllib,mkcol,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0012965	payload	None	865	False	mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	2	2	R0066714;R0066715
+R0013007	payload	None	659	True	fetch,python-urllib,mkcol,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0013121	payload	None	233	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0013224	payload	None	1106	True	fetch,python-urllib,beacon,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0013285	payload	None	359	False	fetch,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0013383	payload	None	866	True	xhr,cyber-shell,zz-marker,proxy-text	CYBERGYM-INJECTED-SHELL	0	0	
+R0013479	payload	None	714	False	xhr,python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0013501	payload	None	640	True	fetch,python-urllib,mkcol,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0013609	payload	None	398	False	python-urllib,mkcol,cyber-shell	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0013665	payload	None	9260	False	python-urllib,mkcol,docker-manifest,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	14	14	R0066849;R0066850;R0066851;R0066852;R0066853;R0066854;R0066855;R0066856;R0066857;R0066858;R0066859;R0066860;R0066861;R0066862
+R0013668	payload	None	2185	False	fetch,python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	5	5	R0055626;R0055627;R0066863;R0066864;R0066865
+R0013801	payload	None	1159	True	fetch	BROWSER-OR-RELAY-FETCH	0	0	
+R0013913	payload	None	811	True	fetch,python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	1	1	R0066914
+R0013955	payload	None	309	False	fetch,mkcol,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0014013	payload	None	743	True	fetch,python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0014029	payload	None	284	False	fetch,mkcol,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0014249	payload	None	281	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0014372	payload	None	262	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0014429	payload	None	267	False	xhr,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0014528	payload	None	310	False	xhr,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0015420	payload	None	866	True	fetch,python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0015439	payload	None	230	False	fetch,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0015606	payload	None	4566	True	xhr,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	2	2	R0055856;R0067228
+R0015720	payload	None	217	False	fetch,mkcol	BROWSER-OR-RELAY-FETCH	1	0	R0067247
+R0015737	payload	None	1711	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker,proxy-text	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0015757	payload	None	547	False	fetch,dir-list-assembly,beacon,proxy-text	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0015772	payload	None	498	False	fetch,eval-atob,dir-list-assembly,beacon,zz-marker,proxy-text	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0015967	payload	None	447	False	fetch,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0016059	payload	None	600	False	xhr,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0016063	payload	None	202	False	fetch,mkcol	BROWSER-OR-RELAY-FETCH	1	0	R0067282
+R0016074	payload	None	561	False	fetch,dir-list-assembly,beacon,proxy-text	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0016115	payload	None	559	False	fetch,dir-list-assembly,beacon,proxy-text	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0016127	payload	None	258	False	fetch,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0016146	payload	None	1490	True	fetch,python-urllib,mkcol,beacon,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	1	1	R0067319
+R0016257	payload	None	1808	True	fetch,dir-list-assembly,docker-manifest,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0016262	payload	None	3034	True	fetch,python-urllib,dir-list-assembly,docker-manifest,beacon,cyber-shell,zz-marker,proxy-text	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0016342	payload	None	619	False	python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0016447	payload	None	889	True	fetch,python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0016470	payload	None	3045	True	fetch,python-urllib,dir-list-assembly,docker-manifest,beacon,cyber-shell,zz-marker,proxy-text	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0016504	payload	None	143	False	none	OTHER-MARKER	0	0	
+R0016532	payload	None	6848	False	python-urllib,mkcol,docker-manifest,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	1	1	R0067437
+R0016534	payload	None	7185	False	python-urllib,mkcol,docker-manifest,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	2	2	R0067438;R0067439
+R0016609	payload	None	332	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0016612	payload	None	592	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0016651	payload	None	308	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0016759	payload	None	1531	False	fetch,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0016836	payload	None	1552	False	fetch,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0016928	payload	None	1624	False	fetch,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0016929	payload	None	93	False	fetch	BROWSER-OR-RELAY-FETCH	0	0	
+R0016936	payload	None	547	False	fetch,dir-list-assembly,beacon,zz-marker,proxy-text	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0017029	payload	None	324	False	fetch	BROWSER-OR-RELAY-FETCH	0	0	
+R0017045	payload	None	344	False	fetch	BROWSER-OR-RELAY-FETCH	0	0	
+R0017061	payload	None	350	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0017092	payload	None	326	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0017118	payload	None	330	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0017156	payload	None	333	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0017171	payload	None	1442	True	fetch,python-urllib,mkcol,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0017197	payload	None	325	False	fetch,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0017286	payload	None	648	False	fetch,dir-list-assembly,cyber-shell,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0017340	payload	None	1248	False	python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	4	4	R0056130;R0067659;R0067660;R0067661
+R0017372	payload	None	608	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0017422	payload	None	346	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0017465	payload	None	260	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0017540	payload	None	252	False	fetch,mkcol	BROWSER-OR-RELAY-FETCH	0	0	
+R0017548	payload	None	763	True	fetch,python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0017564	payload	None	1015	True	fetch,python-urllib,beacon,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0017565	payload	None	515	False	fetch,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0017620	payload	None	242	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0017621	payload	None	3765	True	fetch,python-urllib	PYTHON-REMOTE-READ/WRITE	0	0	
+R0017645	payload	None	324	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0017648	payload	None	337	False	fetch,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0017655	payload	None	284	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0017748	payload	None	179	False	fetch	BROWSER-OR-RELAY-FETCH	0	0	
+R0017831	payload	None	518	True	fetch	BROWSER-OR-RELAY-FETCH	0	0	
+R0017836	payload	None	591	True	fetch	BROWSER-OR-RELAY-FETCH	0	0	
+R0017843	payload	None	544	True	fetch	BROWSER-OR-RELAY-FETCH	0	0	
+R0017922	payload	None	273	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0017931	payload	None	346	False	fetch	BROWSER-OR-RELAY-FETCH	0	0	
+R0017938	payload	None	548	False	fetch,dir-list-assembly,beacon,zz-marker,proxy-text	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0017967	payload	None	277	False	fetch,mkcol	BROWSER-OR-RELAY-FETCH	0	0	
+R0018144	payload	None	1253	False	python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	4	4	R0056320;R0067957;R0067958;R0067959
+R0018467	payload	None	194	False	fetch,mkcol,beacon,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0018595	payload	None	847	True	xhr,cyber-shell,zz-marker	CYBERGYM-INJECTED-SHELL	0	0	
+R0018632	payload	None	860	True	xhr,cyber-shell,zz-marker	CYBERGYM-INJECTED-SHELL	0	0	
+R0018814	payload	None	313	False	getent	NAME-RESOLVER-PROBE	0	0	
+R0018835	payload	None	274	False	fetch,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0019070	payload	None	1085	True	xhr,python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0019267	payload	None	1103	True	xhr,python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0019385	payload	None	1084	True	xhr,python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0019389	payload	None	810	True	xhr,cyber-shell	CYBERGYM-INJECTED-SHELL	0	0	
+R0019501	payload	None	4845	True	fetch,python-urllib,docker-manifest,beacon,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	1	1	R0068394
+R0019502	payload	None	4844	True	fetch,python-urllib,docker-manifest,beacon,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0019519	payload	None	922	True	fetch,python-urllib,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0019565	payload	None	418	False	fetch,eval-atob,dir-list-assembly,beacon	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0019594	payload	None	905	True	xhr,python-urllib,mkcol,cyber-shell	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0019622	payload	None	124	False	fetch,eval-atob	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0019669	payload	None	357	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0019730	payload	None	4913	True	fetch,python-urllib,docker-manifest,beacon,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	1	1	R0068435
+R0019731	payload	None	4912	True	fetch,python-urllib,docker-manifest,beacon,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0020123	payload	None	516	False	fetch	BROWSER-OR-RELAY-FETCH	0	0	
+R0020152	payload	None	827	False	fetch	BROWSER-OR-RELAY-FETCH	0	0	
+R0020168	payload	None	1007	True	fetch,python-urllib,mkcol,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0020487	payload	None	268	False	xhr	BROWSER-OR-RELAY-FETCH	0	0	
+R0020497	payload	None	1005	True	xhr,python-urllib,cyber-shell	PYTHON-REMOTE-READ/WRITE	0	0	
+R0020538	payload	None	348	False	beacon	OTHER-MARKER	0	0	
+R0020575	payload	None	559	True	fetch,beacon,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0020880	payload	None	1322	True	fetch,python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	1	1	R0068678
+R0020954	payload	None	272	False	xhr	BROWSER-OR-RELAY-FETCH	0	0	
+R0021048	payload	None	6595	True	xhr,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	1	1	R0056913
+R0021357	payload	None	3299	True	xhr,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	1	1	R0056973
+R0021380	payload	None	7811	True	xhr,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0021467	payload	None	105	False	python-urllib	PYTHON-REMOTE-READ/WRITE	0	0	
+R0021904	payload	None	1491	True	fetch,mkcol,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	3	3	R0057058;R0057059;R0068874
+R0021922	payload	None	296	False	fetch,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0021961	payload	None	2488	True	xhr,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	2	2	R0068892;R0068893
+R0021982	payload	None	1519	True	xhr,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	3	3	R0057071;R0057072;R0068901
+R0022290	payload	None	8227	True	fetch,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	2	2	R0057136;R0057137
+R0022326	payload	None	4259	True	python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0022345	payload	None	4388	True	python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0022386	payload	None	2935	True	fetch,mkcol,dir-list-assembly,docker-manifest,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0022483	payload	None	5507	True	xhr,python-urllib,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0022542	payload	None	3952	True	fetch,python-urllib	PYTHON-REMOTE-READ/WRITE	3	3	R0057203;R0057204;R0069069
+R0022645	payload	None	1376	True	fetch,python-urllib,mkcol,cyber-shell	CYBERGYM-SHELL->DEAD-DROP-WRITE	3	3	R0057237;R0069116;R0069117
+R0022660	payload	None	4817	True	fetch,python-urllib	PYTHON-REMOTE-READ/WRITE	4	4	R0057238;R0057239;R0057240;R0069126
+R0022662	payload	None	6712	True	xhr,python-urllib	PYTHON-REMOTE-READ/WRITE	5	5	R0057241;R0057242;R0057243;R0069127;R0069128
+R0022672	payload	None	6706	True	fetch,python-urllib,beacon,proxy-text	PYTHON-REMOTE-READ/WRITE	4	4	R0057249;R0057250;R0069132;R0069133
+R0022740	payload	None	3234	True	fetch,python-urllib	PYTHON-REMOTE-READ/WRITE	2	2	R0057270;R0069161
+R0022741	payload	None	2702	False	python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	2	2	R0069162;R0069163
+R0022757	payload	None	5727	True	xhr,python-urllib	PYTHON-REMOTE-READ/WRITE	0	0	
+R0022791	payload	None	3058	True	xhr,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	4	4	R0057278;R0069182;R0069183;R0069184
+R0023099	payload	None	10051	True	fetch,python-urllib,mkcol,docker-manifest,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0023144	payload	None	3130	True	xhr,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	3	3	R0057326;R0069274;R0069275
+R0023254	payload	None	5336	True	python-urllib	PYTHON-REMOTE-READ/WRITE	2	2	R0069325;R0069326
+R0023333	payload	None	1600	True	python-urllib	PYTHON-REMOTE-READ/WRITE	0	0	
+R0023336	payload	None	834	True	fetch,python-urllib,cyber-shell	PYTHON-REMOTE-READ/WRITE	0	0	
+R0023345	payload	None	4920	True	python-urllib	PYTHON-REMOTE-READ/WRITE	0	0	
+R0023354	payload	None	192	False	fetch	BROWSER-OR-RELAY-FETCH	0	0	
+R0023373	payload	None	899	True	fetch,python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0023404	payload	None	7686	True	python-urllib	PYTHON-REMOTE-READ/WRITE	1	1	R0069359
+R0023527	payload	None	2425	True	none	OTHER-MARKER	0	0	
+R0023602	payload	None	8167	True	fetch,python-urllib	PYTHON-REMOTE-READ/WRITE	1	1	R0057402
+R0023624	payload	None	2682	True	xhr,python-urllib	PYTHON-REMOTE-READ/WRITE	4	4	R0057415;R0057416;R0069410;R0069411
+R0023646	payload	None	828	True	xhr,python-urllib,cyber-shell	PYTHON-REMOTE-READ/WRITE	0	0	
+R0023701	payload	None	9768	True	xhr,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	1	1	R0057422
+R0023743	payload	None	876	True	xhr,python-urllib,cyber-shell	PYTHON-REMOTE-READ/WRITE	0	0	
+R0023775	payload	None	730	True	fetch,python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0023885	payload	None	5957	True	fetch,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0023892	payload	None	966	True	fetch,python-urllib,mkcol,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0023998	payload	None	650	True	fetch,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0024020	payload	None	8792	True	fetch,python-urllib	PYTHON-REMOTE-READ/WRITE	2	2	R0057455;R0069481
+R0024105	payload	None	392	False	fetch,eval-atob,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0024117	payload	None	952	True	fetch,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0024153	payload	None	849	True	xhr,python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0024201	payload	None	366	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0024395	payload	None	1704	False	python-urllib,cyber-shell	PYTHON-REMOTE-READ/WRITE	4	4	R0057502;R0069593;R0069594;R0069595
+R0024501	payload	None	1482	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	1	1	R0057939
+R0024502	payload	None	1570	True	xhr	BROWSER-OR-RELAY-FETCH	1	1	R0057940
+R0024628	payload	None	2147	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker,proxy-text	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0024671	payload	None	1317	False	python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	3	3	R0070089;R0070090;R0070091
+R0024682	payload	None	426	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0024684	payload	None	2200	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker,proxy-text	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0024687	payload	None	9575	True	fetch,python-urllib,mkcol,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0024741	payload	None	2334	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker,proxy-text	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0024760	payload	None	1449	False	python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	2	2	R0070118;R0070119
+R0024790	payload	None	1564	True	xhr,python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0024792	payload	None	1530	True	xhr,python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0024811	payload	None	989	False	fetch,python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0024889	payload	None	2408	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker,proxy-text	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0024911	payload	None	1484	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0024942	payload	None	2388	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker,proxy-text	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0024987	payload	None	255	False	xhr,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0025022	payload	None	1486	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	1	1	R0057998
+R0025037	payload	None	108	False	none	OTHER-MARKER	0	0	
+R0025190	payload	None	555	True	xhr,mkcol	BROWSER-OR-RELAY-FETCH	1	1	R0058016
+R0025222	payload	None	1489	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	1	1	R0058019
+R0025241	payload	None	1758	True	xhr,python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0025242	payload	None	1724	True	xhr,python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0025360	payload	None	775	False	fetch,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0025394	payload	None	19874	True	fetch,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	3	3	R0070237;R0070238;R0070239
+R0025461	payload	None	707	True	xhr,cyber-shell,zz-marker	CYBERGYM-INJECTED-SHELL	0	0	
+R0025464	payload	None	673	True	xhr,cyber-shell,zz-marker	CYBERGYM-INJECTED-SHELL	0	0	
+R0025582	payload	None	1313	False	python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	3	3	R0070275;R0070276;R0070277
+R0025644	payload	None	507	True	fetch,python-urllib,cyber-shell	PYTHON-REMOTE-READ/WRITE	0	0	
+R0025662	payload	None	4897	True	fetch,python-urllib,docker-manifest,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	2	2	R0070314;R0070315
+R0025913	payload	None	374	True	fetch,mkcol,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0025943	payload	None	12635	True	fetch,python-urllib,proxy-text	PYTHON-REMOTE-READ/WRITE	2	2	R0070352;R0070353
+R0026016	payload	None	427	False	fetch,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0026035	payload	None	683	True	fetch,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0026295	payload	None	12968	True	fetch,python-urllib,proxy-text	PYTHON-REMOTE-READ/WRITE	2	2	R0070413;R0070414
+R0026302	payload	None	806	True	xhr,python-urllib,cyber-shell	PYTHON-REMOTE-READ/WRITE	0	0	
+R0026305	payload	None	772	True	xhr,python-urllib,cyber-shell	PYTHON-REMOTE-READ/WRITE	0	0	
+R0026319	payload	None	1442	True	fetch,xhr,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	4	4	R0058136;R0070416;R0070417;R0070418
+R0026422	payload	None	912	True	fetch,python-urllib,mkcol,beacon,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0026524	payload	None	1282	False	python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	2	2	R0070453;R0070454
+R0026799	payload	None	925	True	fetch,python-urllib,beacon,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0027085	payload	None	1147	True	fetch,beacon,cyber-shell	CYBERGYM-INJECTED-SHELL	1	1	R0070561
+R0027086	payload	None	1146	True	fetch,beacon,cyber-shell	CYBERGYM-INJECTED-SHELL	0	0	
+R0027246	payload	None	1420	False	python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	3	3	R0070579;R0070580;R0070581
+R0027500	payload	None	1204	True	fetch,getent,cyber-shell	CYBERGYM-INJECTED-SHELL	0	0	
+R0027561	payload	None	2479	True	xhr,proxy-text	BROWSER-OR-RELAY-FETCH	4	4	R0058258;R0058259;R0070654;R0070655
+R0027673	payload	None	849	True	fetch,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0027675	payload	None	901	True	fetch,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0027699	payload	None	17020	True	fetch,python-urllib,docker-manifest,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	4	4	R0058306;R0058307;R0070713;R0070714
+R0027707	payload	None	952	True	fetch,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0027741	payload	None	357	False	fetch,eval-atob,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0027742	payload	None	1279	True	fetch,python-urllib,cyber-shell,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0027753	payload	None	1072	True	fetch,python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0027888	payload	None	1540	True	fetch,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	4	4	R0058331;R0058332;R0070751;R0070752
+R0027922	payload	None	10023	True	fetch,python-urllib,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0027954	payload	None	7754	True	xhr,python-urllib,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0027962	payload	None	1784	True	fetch,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	2	2	R0070787;R0070788
+R0027980	payload	None	580	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0028006	payload	None	1489	True	xhr,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	1	1	R0058362
+R0028059	payload	None	458	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0028097	payload	None	8762	True	xhr,python-urllib	PYTHON-REMOTE-READ/WRITE	3	3	R0058383;R0058384;R0058385
+R0028377	payload	None	1264	True	xhr,getent	NAME-RESOLVER-PROBE	2	2	R0058408;R0070891
+R0028430	payload	None	14929	True	fetch,python-urllib,proxy-text	PYTHON-REMOTE-READ/WRITE	2	2	R0070901;R0070902
+R0028498	payload	None	1598	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	4	4	R0058425;R0058426;R0070926;R0070927
+R0028572	payload	None	15272	True	fetch,python-urllib	PYTHON-REMOTE-READ/WRITE	2	2	R0070937;R0070938
+R0028601	payload	None	1420	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	4	4	R0058442;R0058443;R0070954;R0070955
+R0028613	payload	None	16461	True	python-urllib	PYTHON-REMOTE-READ/WRITE	0	0	
+R0028615	payload	None	1325	True	fetch,python-urllib,beacon,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	4	4	R0058445;R0058446;R0070959;R0070960
+R0028639	payload	None	321	False	fetch,beacon,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0028647	payload	None	1543	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	4	4	R0058454;R0058455;R0070977;R0070978
+R0028651	payload	None	1641	True	fetch,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	2	2	R0058456;R0058457
+R0028678	payload	None	2458	True	xhr,proxy-text	BROWSER-OR-RELAY-FETCH	2	2	R0058471;R0070998
+R0028697	payload	None	923	True	fetch,python-urllib,mkcol,beacon,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0028708	payload	None	788	False	fetch,python-urllib,beacon,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0028711	payload	None	2235	True	fetch,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	5	5	R0071012;R0071013;R0071014;R0071015;R0071016
+R0028722	payload	None	12515	True	python-urllib,mkcol,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	11	11	R0058479;R0058480;R0058481;R0071024;R0071025;R0071026;R0071027;R0071028;R0071029;R0071030;R0071031
+R0028794	payload	None	5906	True	python-urllib	PYTHON-REMOTE-READ/WRITE	0	0	
+R0028890	payload	None	788	False	fetch,python-urllib,beacon,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0028940	payload	None	928	False	fetch,python-urllib	PYTHON-REMOTE-READ/WRITE	0	0	
+R0028962	payload	None	935	False	fetch,python-urllib	PYTHON-REMOTE-READ/WRITE	0	0	
+R0029041	payload	None	1026	False	fetch,python-urllib	PYTHON-REMOTE-READ/WRITE	0	0	
+R0029043	payload	None	2594	True	xhr,python-urllib	PYTHON-REMOTE-READ/WRITE	3	3	R0058531;R0071137;R0071138
+R0029124	payload	None	1127	True	fetch,python-urllib,beacon,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0029133	payload	None	4360	False	python-urllib	PYTHON-REMOTE-READ/WRITE	0	0	
+R0029222	payload	None	1185	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	2	2	R0058569;R0071207
+R0029223	payload	None	41229	True	fetch,python-urllib,mkcol,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0029253	payload	None	13192	True	fetch,python-urllib,proxy-text	PYTHON-REMOTE-READ/WRITE	2	2	R0071209;R0071210
+R0029345	payload	None	9328	True	xhr,python-urllib	PYTHON-REMOTE-READ/WRITE	4	4	R0058594;R0058595;R0071246;R0071247
+R0029357	payload	None	5761	True	xhr,python-urllib,getent,proxy-text	PYTHON-REMOTE-READ/WRITE	4	4	R0058596;R0071251;R0071252;R0071253
+R0029421	payload	None	7790	True	xhr,python-urllib	PYTHON-REMOTE-READ/WRITE	4	4	R0058607;R0058608;R0071278;R0071279
+R0029422	payload	None	256	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0029424	payload	None	610	True	fetch	BROWSER-OR-RELAY-FETCH	0	0	
+R0029426	payload	None	2016	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker,proxy-text	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0029437	payload	None	12797	True	xhr,python-urllib,proxy-text	PYTHON-REMOTE-READ/WRITE	4	4	R0058609;R0058610;R0071280;R0071281
+R0029471	payload	None	528	False	fetch,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0029479	payload	None	231	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0029492	payload	None	12369	True	fetch,python-urllib,getent,beacon,proxy-text	PYTHON-REMOTE-READ/WRITE	9	9	R0071293;R0071294;R0071295;R0071296;R0071297;R0071298;R0071299;R0071300;R0071301
+R0029493	payload	None	11959	True	fetch,python-urllib,getent,beacon,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0029508	payload	None	1540	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	2	2	R0058622;R0071310
+R0029673	payload	None	524	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0029678	payload	None	384	False	fetch,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0029702	payload	None	2521	True	xhr,proxy-text	BROWSER-OR-RELAY-FETCH	1	1	R0071394
+R0029710	payload	None	3081	True	fetch,xhr,python-urllib,proxy-text	PYTHON-REMOTE-READ/WRITE	1	1	R0058683
+R0029713	payload	None	18345	True	python-urllib	PYTHON-REMOTE-READ/WRITE	5	5	R0058685;R0071398;R0071399;R0071400;R0071401
+R0029799	payload	None	349	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0029817	payload	None	5763	True	xhr,python-urllib,getent,proxy-text	PYTHON-REMOTE-READ/WRITE	1	1	R0071425
+R0029819	payload	None	5763	True	xhr,python-urllib,getent,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0029852	payload	None	815	True	fetch,python-urllib,beacon,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0029897	payload	None	12072	True	python-urllib	PYTHON-REMOTE-READ/WRITE	2	2	R0058710;R0071444
+R0029998	payload	None	283	False	getent	NAME-RESOLVER-PROBE	0	0	
+R0030086	payload	None	9142	True	xhr,python-urllib,getent,proxy-text	PYTHON-REMOTE-READ/WRITE	5	5	R0058727;R0058728;R0071484;R0071485;R0071486
+R0030122	payload	None	2518	True	xhr,proxy-text	BROWSER-OR-RELAY-FETCH	2	2	R0058730;R0058731
+R0030128	payload	None	10985	True	fetch,python-urllib,getent,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0030259	payload	None	2318	True	xhr,python-urllib	PYTHON-REMOTE-READ/WRITE	4	4	R0058744;R0058745;R0071512;R0071513
+R0030410	payload	None	3476	True	fetch,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0030698	payload	None	1762	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	3	3	R0058834;R0071649;R0071650
+R0030702	payload	None	9302	True	xhr,python-urllib,getent,proxy-text	PYTHON-REMOTE-READ/WRITE	4	4	R0058835;R0058836;R0071651;R0071652
+R0030703	payload	None	15301	True	xhr,python-urllib,getent,proxy-text	PYTHON-REMOTE-READ/WRITE	2	2	R0058837;R0071653
+R0030820	payload	None	1848	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	6	6	R0058859;R0058860;R0071687;R0071688;R0071689;R0071690
+R0030826	payload	None	3476	True	fetch,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0030884	payload	None	607	True	python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0031052	payload	None	1404	True	fetch,python-urllib,beacon,cyber-shell	PYTHON-REMOTE-READ/WRITE	0	0	
+R0031056	payload	None	2251	True	fetch,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	1	1	R0071757
+R0031087	payload	None	8570	True	xhr,python-urllib,getent,proxy-text	PYTHON-REMOTE-READ/WRITE	1	1	R0058912
+R0031098	payload	None	16370	True	xhr,python-urllib,getent,proxy-text	PYTHON-REMOTE-READ/WRITE	2	2	R0058916;R0071771
+R0031267	payload	None	595	True	xhr	BROWSER-OR-RELAY-FETCH	1	1	R0058941
+R0031346	payload	None	984	True	xhr,python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0031395	payload	None	1157	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	1	1	R0058949
+R0031545	payload	None	323	False	none	OTHER-MARKER	1	1	R0071871
+R0031560	payload	None	10899	True	xhr,python-urllib,getent,proxy-text	PYTHON-REMOTE-READ/WRITE	5	5	R0058971;R0071883;R0071884;R0071885;R0071886
+R0031563	payload	None	10899	True	xhr,python-urllib,getent,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0031600	payload	None	1624	True	fetch,python-urllib	PYTHON-REMOTE-READ/WRITE	1	1	R0071907
+R0031686	payload	None	3358	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	5	5	R0059003;R0059004;R0059005;R0071941;R0071942
+R0031950	payload	None	1297	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	3	3	R0059040;R0072015;R0072016
+R0032080	payload	None	2277	True	fetch,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	4	4	R0059061;R0072050;R0072051;R0072052
+R0032257	payload	None	594	True	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0032320	payload	None	1430	True	fetch,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0032334	payload	None	8462	True	xhr,python-urllib,beacon	PYTHON-REMOTE-READ/WRITE	0	0	
+R0032366	payload	None	2187	True	python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	1	1	R0072106
+R0032408	payload	None	442	False	python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0032491	payload	None	174	False	python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0032630	payload	None	2880	True	xhr,proxy-text	BROWSER-OR-RELAY-FETCH	3	3	R0059122;R0059123;R0072159
+R0032845	payload	None	300	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	1	0	R0072185
+R0032870	payload	None	347	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0032947	payload	None	1598	False	python-urllib,getent	PYTHON-REMOTE-READ/WRITE	3	3	R0059159;R0072221;R0072222
+R0032972	payload	None	1807	True	fetch,python-urllib,beacon,cyber-shell	PYTHON-REMOTE-READ/WRITE	1	1	R0072229
+R0032985	payload	None	1282	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	3	3	R0059171;R0072233;R0072234
+R0032996	payload	None	651	True	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	1	1	R0072235
+R0033041	payload	None	485	False	python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0033048	payload	None	2368	False	python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	1	1	R0072245
+R0033122	payload	None	3350	True	fetch,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0033123	payload	None	2863	True	xhr,getent	NAME-RESOLVER-PROBE	2	2	R0059183;R0072259
+R0033126	payload	None	6693	True	xhr,python-urllib,getent,proxy-text	PYTHON-REMOTE-READ/WRITE	5	5	R0059184;R0072260;R0072261;R0072262;R0072263
+R0033127	payload	None	6693	True	xhr,python-urllib,getent,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0033182	payload	None	3357	True	fetch,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0033259	payload	None	2742	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0033282	payload	None	305	False	fetch,eval-atob,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0033293	payload	None	1163	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	3	3	R0059224;R0072351;R0072352
+R0033433	payload	None	350	False	proxy-text	OTHER-MARKER	0	0	
+R0033461	payload	None	983	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	3	3	R0059244;R0072392;R0072393
+R0033462	payload	None	2454	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	4	4	R0059245;R0059246;R0072394;R0072395
+R0033466	payload	None	875	True	fetch,python-urllib,getent,proxy-text	PYTHON-REMOTE-READ/WRITE	2	2	R0072397;R0072398
+R0033508	payload	None	983	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	2	2	R0059249;R0072403
+R0033542	payload	None	1294	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	3	3	R0059253;R0072412;R0072413
+R0033629	payload	None	1539	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	3	3	R0059271;R0072445;R0072446
+R0033638	payload	None	3408	True	fetch,python-urllib,mkcol,beacon,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	4	4	R0059273;R0059274;R0072449;R0072450
+R0033645	payload	None	2641	True	xhr,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	4	4	R0059277;R0059278;R0072455;R0072456
+R0033672	payload	None	505	True	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0033732	payload	None	427	False	fetch,eval-atob,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0033825	payload	None	2626	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0033835	payload	None	381	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0033838	payload	None	5709	True	fetch,python-urllib,mkcol,beacon,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	4	4	R0059314;R0072513;R0072514;R0072515
+R0033847	payload	None	367	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0034039	payload	None	3333	True	fetch,python-urllib,cyber-shell	PYTHON-REMOTE-READ/WRITE	3	3	R0059335;R0072545;R0072546
+R0034040	payload	None	2988	True	fetch,python-urllib,cyber-shell	PYTHON-REMOTE-READ/WRITE	0	0	
+R0034111	payload	None	6205	True	fetch,python-urllib,mkcol,beacon,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	4	4	R0059350;R0072571;R0072572;R0072573
+R0034177	payload	None	1071	True	fetch,python-urllib,beacon,proxy-text	PYTHON-REMOTE-READ/WRITE	2	2	R0059365;R0072596
+R0034302	payload	None	2978	True	fetch,beacon,cyber-shell	CYBERGYM-INJECTED-SHELL	0	0	
+R0034328	payload	None	2325	True	xhr,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0034345	payload	None	873	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	3	3	R0059388;R0072647;R0072648
+R0034648	payload	None	12768	True	xhr,python-urllib	PYTHON-REMOTE-READ/WRITE	2	2	R0059453;R0072746
+R0034813	payload	None	12868	True	xhr,python-urllib	PYTHON-REMOTE-READ/WRITE	2	2	R0059475;R0072779
+R0034817	payload	None	497	True	python-urllib	PYTHON-REMOTE-READ/WRITE	0	0	
+R0034832	payload	None	251	False	fetch,eval-atob,dir-list-assembly	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0034993	payload	None	1302	True	fetch,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	3	3	R0059519;R0072832;R0072833
+R0035043	payload	None	861	True	python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0035183	payload	None	12776	True	xhr,python-urllib,mkcol,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	7	7	R0059567;R0059568;R0072915;R0072916;R0072917;R0072918;R0072919
+R0035322	payload	None	1176	True	fetch,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	2	2	R0059593;R0072978
+R0035396	payload	None	367	False	xhr,beacon	BROWSER-OR-RELAY-FETCH	0	0	
+R0035422	payload	None	647	True	fetch,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0035539	payload	None	753	True	fetch,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0035578	payload	None	859	True	python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0035611	payload	None	245	False	python-urllib	PYTHON-REMOTE-READ/WRITE	0	0	
+R0035727	payload	None	260	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0035737	payload	None	747	True	fetch,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0035753	payload	None	4362	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0035788	payload	None	1168	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	2	2	R0059677;R0073130
+R0036045	payload	None	1466	True	fetch,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	4	4	R0059705;R0059706;R0073178;R0073179
+R0036046	payload	None	114	False	python-urllib	PYTHON-REMOTE-READ/WRITE	0	0	
+R0036052	payload	None	860	True	python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0036181	payload	None	6233	True	fetch,python-urllib,mkcol,beacon,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	2	2	R0059732;R0073231
+R0036247	payload	None	7463	True	xhr,python-urllib	PYTHON-REMOTE-READ/WRITE	4	4	R0059744;R0059745;R0059746;R0073263
+R0036253	payload	None	7428	True	xhr,python-urllib	PYTHON-REMOTE-READ/WRITE	0	0	
+R0036369	payload	None	1362	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	2	2	R0073279;R0073280
+R0036504	payload	None	344	False	fetch,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0036506	payload	None	6447	True	xhr,python-urllib	PYTHON-REMOTE-READ/WRITE	0	0	
+R0036508	payload	None	6413	True	xhr,python-urllib	PYTHON-REMOTE-READ/WRITE	0	0	
+R0036565	payload	None	359	False	fetch,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0036599	payload	None	135	False	none	OTHER-MARKER	0	0	
+R0036876	payload	None	1227	True	fetch,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	3	3	R0060022;R0073643;R0073644
+R0037003	payload	None	863	True	python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0037096	payload	None	8891	True	xhr,python-urllib,proxy-text	PYTHON-REMOTE-READ/WRITE	4	4	R0060057;R0060058;R0073697;R0073698
+R0037191	payload	None	7693	True	fetch,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	19	19	R0073742;R0073743;R0073744;R0073745;R0073746;R0073747;R0073748;R0073749;R0073750;R0073751;R0073752;R0073753;R0073754;R0073755;R0073756;R0073757;R0073758;R0073759;R0073760
+R0037192	payload	None	4768	True	fetch,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0037193	payload	None	611	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	1	1	R0060082
+R0037316	payload	None	641	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	2	2	R0060101;R0073783
+R0037461	payload	None	1610	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	4	4	R0060117;R0060118;R0073809;R0073810
+R0037579	payload	None	4004	True	xhr,python-urllib	PYTHON-REMOTE-READ/WRITE	0	0	
+R0037764	payload	None	247	False	xhr,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0038054	payload	None	1623	True	xhr,python-urllib,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	3	3	R0060194;R0073982;R0073983
+R0038068	payload	None	3633	True	xhr,python-urllib	PYTHON-REMOTE-READ/WRITE	2	2	R0060199;R0073990
+R0038140	payload	None	14055	True	fetch,mkcol,beacon,zz-marker	BROWSER-OR-RELAY-FETCH	6	6	R0060221;R0060222;R0074032;R0074033;R0074034;R0074035
+R0038323	payload	None	14064	True	fetch,mkcol,beacon,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0038510	payload	None	1620	True	xhr,python-urllib,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0038560	payload	None	9942	True	fetch,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	11	11	R0074149;R0074150;R0074151;R0074152;R0074153;R0074154;R0074155;R0074156;R0074157;R0074158;R0074159
+R0038561	payload	None	9314	True	fetch,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0038951	payload	None	1276	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	2	2	R0060342;R0074257
+R0039124	payload	None	3948	True	xhr,python-urllib	PYTHON-REMOTE-READ/WRITE	0	0	
+R0039419	payload	None	2307	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	3	3	R0060400;R0060401;R0074362
+R0039432	payload	None	606	False	fetch,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0039528	payload	None	1258	True	fetch,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	1	1	R0074388
+R0039895	payload	None	8876	True	fetch,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	2	2	R0060438;R0074406
+R0039937	payload	None	754	True	fetch,dir-list-assembly,beacon,proxy-text	BY-STEALTH-ASSEMBLY-CODE	1	0	R0074423
+R0039955	payload	None	2142	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	4	4	R0060460;R0060461;R0074429;R0074430
+R0040003	payload	None	733	False	fetch,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0040105	payload	None	1834	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	3	3	R0060573;R0074588;R0074589
+R0040356	payload	None	1621	True	xhr,python-urllib	PYTHON-REMOTE-READ/WRITE	3	3	R0060661;R0060662;R0074731
+R0040431	payload	None	1999	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	3	3	R0060681;R0074762;R0074763
+R0040629	payload	None	1986	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	4	4	R0060695;R0060696;R0074787;R0074788
+R0040983	payload	None	7028	True	fetch,mkcol,beacon,zz-marker	BROWSER-OR-RELAY-FETCH	4	4	R0060743;R0074854;R0074855;R0074856
+R0040999	payload	None	1916	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	4	4	R0060748;R0074863;R0074864;R0074865
+R0041173	payload	None	4650	True	xhr,python-urllib	PYTHON-REMOTE-READ/WRITE	2	2	R0060750;R0074869
+R0041319	payload	None	78	False	zz-marker	OTHER-MARKER	0	0	
+R0041326	payload	None	211	False	none	OTHER-MARKER	0	0	
+R0041385	payload	None	1375	True	fetch,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0041574	payload	None	1374	True	fetch,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0041635	payload	None	1373	True	fetch,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0041646	payload	None	476	True	fetch,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0041699	payload	None	9202	True	xhr,python-urllib,proxy-text	PYTHON-REMOTE-READ/WRITE	3	3	R0060816;R0074995;R0074996
+R0041738	payload	None	1258	True	fetch,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	1	1	R0060827
+R0041782	payload	None	1434	False	python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	4	4	R0060840;R0075027;R0075028;R0075029
+R0041820	payload	None	1622	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	4	4	R0060853;R0060854;R0075048;R0075049
+R0041834	payload	None	609	False	fetch,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0042212	payload	None	1306	True	xhr,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	3	3	R0060925;R0075163;R0075164
+R0042255	payload	None	2164	True	xhr,python-urllib	PYTHON-REMOTE-READ/WRITE	2	2	R0060930;R0075179
+R0042269	payload	None	1328	True	xhr,python-urllib	PYTHON-REMOTE-READ/WRITE	1	1	R0060932
+R0042424	payload	None	2938	True	xhr,python-urllib	PYTHON-REMOTE-READ/WRITE	5	5	R0060945;R0075218;R0075219;R0075220;R0075221
+R0042428	payload	None	1469	True	fetch,python-urllib,getent	PYTHON-REMOTE-READ/WRITE	0	0	
+R0042488	payload	None	1462	True	fetch,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	2	2	R0075242;R0075243
+R0042659	payload	None	1621	True	xhr,python-urllib	PYTHON-REMOTE-READ/WRITE	3	3	R0060992;R0060993;R0075324
+R0042707	payload	None	1462	True	fetch,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	2	2	R0075335;R0075336
+R0042715	payload	None	1462	True	fetch,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	2	2	R0075338;R0075339
+R0042815	payload	None	3688	True	xhr,python-urllib,mkcol,docker-manifest,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	2	2	R0075391;R0075392
+R0042848	payload	None	2107	True	xhr,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	2	2	R0075412;R0075413
+R0043005	payload	None	1755	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	2	2	R0061080;R0075509
+R0043044	payload	None	1679	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	4	4	R0061092;R0061093;R0075522;R0075523
+R0043078	payload	None	1953	True	xhr,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	2	2	R0061101;R0075539
+R0043086	payload	None	1310	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	3	3	R0061104;R0075541;R0075542
+R0043139	payload	None	1531	True	xhr,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	2	2	R0061117;R0075578
+R0043169	payload	None	2157	True	xhr,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0043212	payload	None	1070	True	xhr,python-urllib	PYTHON-REMOTE-READ/WRITE	0	0	
+R0043266	payload	None	198	False	mkcol,zz-marker	OTHER-MARKER	0	0	
+R0043269	payload	None	2730	True	xhr,python-urllib	PYTHON-REMOTE-READ/WRITE	2	2	R0061147;R0075617
+R0043346	payload	None	1470	True	fetch,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	3	3	R0061160;R0075641;R0075642
+R0043355	payload	None	1531	True	xhr,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0043391	payload	None	1560	True	xhr,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0043510	payload	None	1560	True	xhr,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0043589	payload	None	2553	True	xhr,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	2	2	R0075752;R0075753
+R0043631	payload	None	1979	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	1	1	R0061224
+R0043639	payload	None	315	False	fetch,mkcol,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0043741	payload	None	362	False	fetch,eval-atob,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0043765	payload	None	1611	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	2	2	R0075817;R0075818
+R0043776	payload	None	424	False	fetch,eval-atob,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0043831	payload	None	348	False	fetch,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0043846	payload	None	465	False	fetch,eval-atob,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0043851	payload	None	555	True	fetch,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	2	2	R0061274;R0075852
+R0043870	payload	None	1261	True	fetch,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	2	2	R0061275;R0075854
+R0043883	payload	None	1611	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0044016	payload	None	214	False	zz-marker	OTHER-MARKER	0	0	
+R0044018	payload	None	96	False	zz-marker	OTHER-MARKER	0	0	
+R0044234	payload	None	874	True	fetch,cyber-shell	CYBERGYM-INJECTED-SHELL	0	0	
+R0044400	payload	None	964	True	fetch,python-urllib,mkcol,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0044550	payload	None	664	True	fetch,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0044675	payload	None	774	True	xhr,python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0044716	payload	None	401	False	beacon,zz-marker	OTHER-MARKER	0	0	
+R0045185	payload	None	1839	False	xhr,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	4	4	R0061384;R0061385;R0076130;R0076131
+R0045230	payload	None	2556	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	5	5	R0076146;R0076147;R0076148;R0076149;R0076150
+R0045240	payload	None	2780	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	1	1	R0076151
+R0045261	payload	None	271	False	fetch,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0045366	payload	None	1017	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	1	1	R0076168
+R0045523	payload	None	144	False	python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0045685	payload	None	1869	True	fetch,dir-list-assembly,docker-manifest,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0045746	payload	None	1126	True	fetch,python-urllib,cyber-shell	PYTHON-REMOTE-READ/WRITE	0	0	
+R0045942	payload	None	296	False	fetch,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0045995	payload	None	1323	True	fetch,python-urllib,cyber-shell,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0046036	payload	None	249	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0046237	payload	None	2141	False	python-urllib	PYTHON-REMOTE-READ/WRITE	0	0	
+R0046373	payload	None	313	False	xhr,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0046423	payload	None	1420	True	python-urllib	PYTHON-REMOTE-READ/WRITE	0	0	
+R0046481	payload	None	195	False	python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0046493	payload	None	712	True	fetch,python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0046614	payload	None	754	True	fetch,getent	NAME-RESOLVER-PROBE	2	2	R0061526;R0076444
+R0046744	payload	None	894	True	xhr,python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0046776	payload	None	375	False	fetch,eval-atob,beacon,zz-marker,proxy-text	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0046790	payload	None	800	True	fetch,getent,cyber-shell	CYBERGYM-INJECTED-SHELL	0	0	
+R0046876	payload	None	868	True	fetch,python-urllib,cyber-shell	PYTHON-REMOTE-READ/WRITE	0	0	
+R0046905	payload	None	681	True	fetch,python-urllib,cyber-shell	PYTHON-REMOTE-READ/WRITE	0	0	
+R0046937	payload	None	923	True	fetch,cyber-shell	CYBERGYM-INJECTED-SHELL	0	0	
+R0047098	payload	None	376	False	fetch,eval-atob,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0047104	payload	None	250	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0047128	payload	None	382	False	xhr,eval-atob,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0047132	payload	None	414	False	xhr,eval-atob,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0047147	payload	None	426	False	xhr,eval-atob,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0047166	payload	None	2062	False	python-urllib	PYTHON-REMOTE-READ/WRITE	0	0	
+R0047168	payload	None	228	False	fetch,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0047170	payload	None	284	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0047187	payload	None	426	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0047213	payload	None	1604	True	fetch,docker-manifest,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0047349	payload	None	286	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0047356	payload	None	314	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0047486	payload	None	247	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0047489	payload	None	327	False	fetch,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0047499	payload	None	1239	True	fetch,dir-list-assembly,zz-marker,proxy-text	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0047514	payload	None	309	False	fetch,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0047531	payload	None	404	False	fetch,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0047816	payload	None	189	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0047817	payload	None	1142	False	python-urllib,cyber-shell	PYTHON-REMOTE-READ/WRITE	2	2	R0076684;R0076685
+R0048173	payload	None	2853	True	fetch,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	2	2	R0061613;R0076782
+R0048224	payload	None	232	False	fetch,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0048319	payload	None	494	False	fetch,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0048374	payload	None	2863	True	fetch,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	2	2	R0061636;R0076864
+R0048484	payload	None	382	False	fetch,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0049005	payload	None	1144	False	python-urllib	PYTHON-REMOTE-READ/WRITE	0	0	
+R0049136	payload	None	1345	False	python-urllib	PYTHON-REMOTE-READ/WRITE	0	0	
+R0049206	payload	None	298	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0049208	payload	None	147	False	none	OTHER-MARKER	0	0	
+R0049298	payload	None	323	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0049547	payload	None	338	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0049662	payload	None	201	False	none	OTHER-MARKER	0	0	
+R0049672	payload	None	1343	False	python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0049686	payload	None	1192	False	fetch	BROWSER-OR-RELAY-FETCH	2	2	R0077269;R0077270
+R0049717	payload	None	1166	False	fetch,getent	NAME-RESOLVER-PROBE	2	2	R0077290;R0077291
+R0050123	payload	None	5337	True	fetch,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	3	3	R0077541;R0077542;R0077543
+R0050124	payload	None	3094	True	python-urllib	PYTHON-REMOTE-READ/WRITE	0	0	
+R0050351	payload	None	3521	True	fetch,python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	2	2	R0062103;R0077647
+R0050565	payload	None	293	False	fetch,eval-atob,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0050589	payload	None	1483	False	fetch,getent	NAME-RESOLVER-PROBE	2	2	R0077737;R0077738
+R0050591	payload	None	663	True	fetch,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	2	2	R0062174;R0077739
+R0050632	payload	None	144	False	fetch,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	1	0	R0077751
+R0050650	payload	None	144	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0050714	payload	None	897	True	fetch,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0050782	payload	None	144	False	getent	NAME-RESOLVER-PROBE	0	0	
+R0050797	payload	None	646	False	python-urllib,docker-manifest,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	1	1	R0077812
+R0050862	payload	None	270	False	mkcol,cyber-shell	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0050894	payload	None	4904	True	python-urllib,cyber-shell,proxy-text	PYTHON-REMOTE-READ/WRITE	2	2	R0077847;R0077848
+R0050896	payload	None	1673	True	fetch,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0050899	payload	None	599	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0050901	payload	None	591	False	fetch,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0051151	payload	None	724	True	fetch,cyber-shell	CYBERGYM-INJECTED-SHELL	0	0	
+R0051153	payload	None	150	False	python-urllib	PYTHON-REMOTE-READ/WRITE	0	0	
+R0051201	payload	None	322	False	fetch,mkcol,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0051297	payload	None	527	False	python-urllib	PYTHON-REMOTE-READ/WRITE	0	0	
+R0051329	payload	None	517	False	python-urllib	PYTHON-REMOTE-READ/WRITE	0	0	
+R0051446	payload	None	5070	True	python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0051453	payload	None	1313	True	fetch,python-urllib,cyber-shell	PYTHON-REMOTE-READ/WRITE	0	0	
+R0051464	payload	None	1192	True	fetch,cyber-shell	CYBERGYM-INJECTED-SHELL	0	0	
+R0051467	payload	None	574	True	fetch,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	2	2	R0062282;R0078072
+R0051516	payload	None	485	True	none	OTHER-MARKER	0	0	
+R0051551	payload	None	147	False	none	OTHER-MARKER	0	0	
+R0051582	payload	None	228	False	fetch,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0051586	payload	None	260	False	fetch,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0051623	payload	None	116	False	none	OTHER-MARKER	0	0	
+R0051626	payload	None	87	False	none	OTHER-MARKER	0	0	
+R0051633	payload	None	114	False	none	OTHER-MARKER	0	0	
+R0051677	payload	None	1064	False	python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	1	1	R0078120
+R0051812	payload	None	525	False	python-urllib,mkcol,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0051894	payload	None	830	False	mkcol,zz-marker	OTHER-MARKER	0	0	
+R0051897	payload	None	1252	False	fetch,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0051916	payload	None	1636	True	fetch,python-urllib,mkcol,docker-manifest,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	3	3	R0062317;R0078189;R0078190
+R0051934	payload	None	1399	False	fetch,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0051941	payload	None	81	False	none	OTHER-MARKER	0	0	
+R0051956	payload	None	3005	True	fetch,mkcol,getent,zz-marker	NAME-RESOLVER-PROBE	0	0	
+R0051976	payload	None	5526	False	fetch,python-urllib,mkcol,getent,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	6	6	R0062323;R0062324;R0078210;R0078211;R0078212;R0078213
+R0051977	payload	None	4662	False	fetch,python-urllib,mkcol,getent,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0051986	payload	None	3065	False	python-urllib,getent,cyber-shell	PYTHON-REMOTE-READ/WRITE	7	7	R0062326;R0062327;R0062328;R0078215;R0078216;R0078217;R0078218
+R0051996	payload	None	974	True	fetch,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	2	2	R0062329;R0078222
+R0051997	payload	None	4776	True	fetch,mkcol,getent,zz-marker	NAME-RESOLVER-PROBE	4	4	R0062330;R0062331;R0078223;R0078224
+R0051998	payload	None	10017	True	fetch,python-urllib,mkcol,getent,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	1	1	R0078225
+R0051999	payload	None	5267	True	fetch,python-urllib,mkcol,getent,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0052022	payload	None	1537	True	fetch,python-urllib,beacon,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	1	1	R0078228
+R0052023	payload	None	1536	True	fetch,python-urllib,beacon,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0052044	payload	None	165	False	none	OTHER-MARKER	0	0	
+R0052052	payload	None	149	False	none	OTHER-MARKER	1	1	R0078230
+R0052066	payload	None	652	True	fetch	BROWSER-OR-RELAY-FETCH	0	0	
+R0052084	payload	None	81	False	none	OTHER-MARKER	0	0	
+R0052099	payload	None	1237	True	fetch,dir-list-assembly,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0052106	payload	None	3737	True	fetch,mkcol,zz-marker	BROWSER-OR-RELAY-FETCH	4	4	R0062332;R0062333;R0078248;R0078249
+R0052132	payload	None	1713	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0052134	payload	None	326	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0052193	payload	None	96	False	none	OTHER-MARKER	0	0	
+R0052230	payload	None	1861	True	fetch	BROWSER-OR-RELAY-FETCH	5	5	R0062337;R0062338;R0078290;R0078291;R0078292
+R0052248	payload	None	281	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0052255	payload	None	320	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0052256	payload	None	256	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0052260	payload	None	1841	True	fetch	BROWSER-OR-RELAY-FETCH	0	0	
+R0052281	payload	None	95803	True	python-urllib,mkcol,docker-manifest,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	5	5	R0062341;R0078310;R0078311;R0078312;R0078313
+R0052294	payload	None	2284	True	fetch,python-urllib,mkcol,docker-manifest,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0052295	payload	None	1906	True	fetch	BROWSER-OR-RELAY-FETCH	4	4	R0062342;R0062343;R0078317;R0078318
+R0052302	payload	None	1819	True	fetch,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0052304	payload	None	307	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0052306	payload	None	282	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0052307	payload	None	2024	True	fetch	BROWSER-OR-RELAY-FETCH	4	4	R0062344;R0062345;R0078319;R0078320
+R0052354	payload	None	1717	True	fetch,python-urllib,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0052359	payload	None	3311	False	python-urllib,mkcol,docker-manifest,cyber-shell	CYBERGYM-SHELL->DEAD-DROP-WRITE	3	3	R0062347;R0078335;R0078336
+R0052400	payload	None	3562	False	python-urllib,mkcol,docker-manifest,cyber-shell	CYBERGYM-SHELL->DEAD-DROP-WRITE	1	1	R0078342
+R0052406	payload	None	3933	False	python-urllib,mkcol,docker-manifest,cyber-shell	CYBERGYM-SHELL->DEAD-DROP-WRITE	1	1	R0078345
+R0052411	payload	None	260	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0052422	payload	None	671	False	fetch,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0052424	payload	None	387	False	fetch,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0052426	payload	None	305	False	fetch,beacon,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0052428	payload	None	313	False	fetch,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0052429	payload	None	353	False	fetch,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0052432	payload	None	485	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0052468	payload	None	2026	False	python-urllib,mkcol,cyber-shell	CYBERGYM-SHELL->DEAD-DROP-WRITE	1	1	R0078400
+R0052471	payload	None	2145	False	python-urllib,mkcol,cyber-shell	CYBERGYM-SHELL->DEAD-DROP-WRITE	1	1	R0078401
+R0052475	payload	None	3754	False	python-urllib,mkcol,docker-manifest,cyber-shell	CYBERGYM-SHELL->DEAD-DROP-WRITE	1	1	R0078408
+R0052571	payload	None	423	False	fetch,beacon,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0052637	payload	None	271	False	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	1	0	R0078448
+R0052693	payload	None	377	False	fetch	BROWSER-OR-RELAY-FETCH	0	0	
+R0052694	payload	None	352	False	fetch	BROWSER-OR-RELAY-FETCH	0	0	
+R0052702	payload	None	651	False	fetch,docker-manifest	BROWSER-OR-RELAY-FETCH	2	2	R0062377;R0078463
+R0052703	payload	None	770	False	fetch,docker-manifest	BROWSER-OR-RELAY-FETCH	0	0	
+R0052741	payload	None	1687	True	xhr,mkcol,getent	NAME-RESOLVER-PROBE	0	0	
+R0052748	payload	None	1712	True	xhr,mkcol	BROWSER-OR-RELAY-FETCH	0	0	
+R0052751	payload	None	2112	True	xhr,mkcol	BROWSER-OR-RELAY-FETCH	0	0	
+R0052754	payload	None	1803	True	xhr,mkcol	BROWSER-OR-RELAY-FETCH	0	0	
+R0052819	payload	None	341	False	mkcol,zz-marker	OTHER-MARKER	0	0	
+R0053218	payload	None	566	False	fetch,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0053240	payload	None	362	False	fetch,eval-atob,dir-list-assembly	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0053242	payload	None	251	False	fetch	BROWSER-OR-RELAY-FETCH	0	0	
+R0053275	payload	None	323	False	fetch,eval-atob	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0053294	payload	None	1037	False	xhr,cyber-shell	CYBERGYM-INJECTED-SHELL	0	0	
+R0053328	payload	None	854	True	fetch,mkcol,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0053358	payload	None	894	True	fetch,python-urllib,mkcol,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	1	1	R0078628
+R0053374	payload	None	1912	True	fetch,python-urllib,mkcol,beacon,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	2	2	R0062482;R0078633
+R0053383	payload	None	1304	False	xhr,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0053399	payload	None	775	True	xhr,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0053409	payload	None	840	True	fetch,python-urllib,mkcol,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0053413	payload	None	476	False	xhr,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0053426	payload	None	1011	True	xhr,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0079204	payload	None	760	True	fetch,zz-marker	BROWSER-OR-RELAY-FETCH	1	1	R0150297
+R0079379	payload	None	672	False	zz-marker	OTHER-MARKER	0	0	
+R0079719	payload	None	1743	True	fetch,dir-list-assembly	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0079746	payload	None	1442	True	xhr,python-urllib,mkcol,beacon,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	1	1	R0179943
+R0079803	payload	None	796	True	fetch,python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0079814	payload	None	956	False	fetch,python-urllib,beacon,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0079833	payload	None	889	False	xhr,mkcol,getent,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0079844	payload	None	503	False	fetch,eval-atob,zz-marker,proxy-text	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0079845	payload	None	473	False	python-urllib,cyber-shell	PYTHON-REMOTE-READ/WRITE	0	0	
+R0079854	payload	None	916	False	fetch,dir-list-assembly,docker-manifest,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0079860	payload	None	788	False	fetch,python-urllib,cyber-shell,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0079861	payload	None	2197	True	fetch,dir-list-assembly,docker-manifest,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0079874	payload	None	919	False	fetch,cyber-shell,zz-marker,proxy-text	CYBERGYM-INJECTED-SHELL	0	0	
+R0079899	payload	None	720	False	fetch,python-urllib,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0079913	payload	None	699	False	fetch,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	1	1	R0172365
+R0079922	payload	None	175	False	proxy-text	OTHER-MARKER	0	0	
+R0079990	payload	None	351	False	fetch	BROWSER-OR-RELAY-FETCH	0	0	
+R0080029	payload	None	1310	False	fetch,python-urllib,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0080037	payload	None	2085	True	fetch,dir-list-assembly,docker-manifest,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0080060	payload	None	607	False	fetch,python-urllib,cyber-shell	PYTHON-REMOTE-READ/WRITE	0	0	
+R0080082	payload	None	1579	True	fetch,dir-list-assembly,docker-manifest,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0080087	payload	None	3938	True	python-urllib,mkcol,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	8	8	R0158598;R0158599;R0160849;R0162447;R0162677;R0164122;R0169804;R0187476
+R0080097	payload	None	861	True	fetch,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	1	1	R0185355
+R0080102	payload	None	195	False	zz-marker	OTHER-MARKER	0	0	
+R0080134	payload	None	827	True	fetch,python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0080153	payload	None	483	False	fetch,beacon,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0080197	payload	None	538	False	fetch,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	1	1	R0177369
+R0080212	payload	None	856	False	mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	1	1	R0168530
+R0080250	payload	None	1937	True	fetch,dir-list-assembly,docker-manifest,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0080322	payload	None	504	False	fetch,eval-atob,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0080363	payload	None	406	False	fetch,beacon,zz-marker	BROWSER-OR-RELAY-FETCH	0	0	
+R0080366	payload	None	482	False	fetch,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0080414	payload	None	1642	False	python-urllib,proxy-text	PYTHON-REMOTE-READ/WRITE	6	6	R0158828;R0170232;R0172809;R0176900;R0184076;R0187746
+R0080418	payload	None	1591	True	python-urllib,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	2	2	R0158829;R0188978
+R0080425	payload	None	155	False	proxy-text	OTHER-MARKER	0	0	
+R0080463	payload	None	1650	True	fetch,dir-list-assembly,beacon	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0080509	payload	None	985	True	fetch,python-urllib,beacon,cyber-shell	PYTHON-REMOTE-READ/WRITE	0	0	
+R0080553	payload	None	747	False	xhr,python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0080557	payload	None	458	False	fetch,dir-list-assembly,beacon,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0080580	payload	None	351	False	fetch	BROWSER-OR-RELAY-FETCH	0	0	
+R0080602	payload	None	1082	False	fetch,python-urllib,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0080688	payload	None	1841	True	fetch,dir-list-assembly,docker-manifest,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0080690	payload	None	703	False	fetch,mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	1	1	R0180999
+R0080703	payload	None	810	False	fetch,python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0080704	payload	None	997	True	fetch,python-urllib,beacon,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	1	1	R0182660
+R0080707	payload	None	499	False	fetch,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	1	1	R0183760
+R0080734	payload	None	794	False	fetch,python-urllib,beacon,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0080743	payload	None	589	False	fetch,python-urllib,mkcol,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0080766	payload	None	981	False	mkcol,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	2	2	R0161735;R0175067
+R0080772	payload	None	1534	True	fetch,dir-list-assembly,docker-manifest,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0080803	payload	None	815	False	python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	3	3	R0159001;R0171859;R0173283
+R0080864	payload	None	680	False	fetch,python-urllib,cyber-shell,zz-marker,proxy-text	PYTHON-REMOTE-READ/WRITE	0	0	
+R0080883	payload	None	912	False	fetch,python-urllib,mkcol,beacon,cyber-shell,zz-marker,proxy-text	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0080903	payload	None	1454	True	fetch,dir-list-assembly,docker-manifest,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0080909	payload	None	1583	True	xhr,python-urllib,zz-marker	PYTHON-REMOTE-READ/WRITE	4	4	R0159048;R0171616;R0171992;R0185026
+R0080950	payload	None	1295	True	fetch,python-urllib,cyber-shell,zz-marker	PYTHON-REMOTE-READ/WRITE	0	0	
+R0080962	payload	None	292	False	fetch,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0081038	payload	None	256	False	zz-marker	OTHER-MARKER	0	0	
+R0081053	payload	None	1733	True	fetch,dir-list-assembly,docker-manifest,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0081059	payload	None	778	True	fetch,mkcol,beacon,cyber-shell,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0081118	payload	None	1250	True	python-urllib,mkcol,beacon,zz-marker	CYBERGYM-SHELL->DEAD-DROP-WRITE	0	0	
+R0081122	payload	None	480	False	fetch,dir-list-assembly,zz-marker	BY-STEALTH-ASSEMBLY-CODE	0	0	
+R0081126	payload	None	1410	True	fetch,zz-marker,proxy-text	BROWSER-OR-RELAY-FETCH	0	0	
+R0125101	payload	None	250	False	none	OTHER-MARKER	3	3	R0159136;R0175581;R0187844
