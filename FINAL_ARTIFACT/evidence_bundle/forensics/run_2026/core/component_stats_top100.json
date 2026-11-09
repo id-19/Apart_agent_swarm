@@ -1,0 +1,8365 @@
+[
+  {
+    "rank": 1,
+    "component_id": "R0077064",
+    "size": 153561,
+    "edge_counts": {
+      "EXACT_BODY": 21158,
+      "MARKER_ENDPOINT": 119093,
+      "MARKER_SAME": 254901,
+      "NORMALIZED_REPLAY": 1536,
+      "PARENT_DIRECT": 57712,
+      "SAME_PARENT_SIBLING": 32729
+    },
+    "mechanical_kinds": {
+      "payload": 75828,
+      "recovered_text": 56908,
+      "response": 20825
+    },
+    "top_markers": [
+      [
+        "[REDACTED SENSITIVE CONTENT]",
+        17687
+      ],
+      [
+        "[REDACTED:destination:000003]",
+        17074
+      ],
+      [
+        "[ENCODED BLOB]",
+        16785
+      ],
+      [
+        "[REDACTED:runtime_identifier]",
+        15396
+      ],
+      [
+        "[PROXY 4 URL 72]",
+        12938
+      ],
+      [
+        "[0]",
+        12482
+      ],
+      [
+        "[SERVICE 3 URL 209]",
+        11232
+      ],
+      [
+        "[1]",
+        8554
+      ],
+      [
+        "[REDACTED:opaque_marker_tail:000008]",
+        7165
+      ],
+      [
+        "[SERVICE HOST 1]",
+        6442
+      ],
+      [
+        "[SHORTENER-1-HOST]",
+        6371
+      ],
+      [
+        "[CREDENTIAL 1]",
+        6130
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0024455",
+        "degree": 862
+      },
+      {
+        "id": "R0036471",
+        "degree": 293
+      },
+      {
+        "id": "R0080310",
+        "degree": 158
+      },
+      {
+        "id": "R0029223",
+        "degree": 135
+      },
+      {
+        "id": "R0036645",
+        "degree": 134
+      },
+      {
+        "id": "R0049534",
+        "degree": 113
+      },
+      {
+        "id": "R0050038",
+        "degree": 112
+      },
+      {
+        "id": "R0033567",
+        "degree": 104
+      }
+    ],
+    "sample_members": [
+      "R0000001",
+      "R0000002",
+      "R0000003",
+      "R0000004",
+      "R0000005",
+      "R0000006",
+      "R0000007",
+      "R0000008",
+      "R0000009",
+      "R0000010",
+      "R0000011",
+      "R0000012"
+    ]
+  },
+  {
+    "rank": 2,
+    "component_id": "R0112758",
+    "size": 9280,
+    "edge_counts": {
+      "MARKER_ENDPOINT": 22,
+      "MARKER_SAME": 9267,
+      "NORMALIZED_REPLAY": 10,
+      "PARENT_DIRECT": 12
+    },
+    "mechanical_kinds": {
+      "payload": 12,
+      "recovered_text": 9268
+    },
+    "top_markers": [
+      [
+        "[SERVICE 14 URL 4]",
+        9268
+      ],
+      [
+        "[REDACTED:destination:009642]",
+        3
+      ],
+      [
+        "[REDACTED:destination:009748]",
+        3
+      ],
+      [
+        "[REDACTED:destination:009759]",
+        3
+      ],
+      [
+        "[REDACTED:destination:009828]",
+        3
+      ],
+      [
+        "[REDACTED:destination:009839]",
+        3
+      ],
+      [
+        "[REDACTED:destination:009849]",
+        3
+      ],
+      [
+        "[REDACTED:destination:009885]",
+        3
+      ],
+      [
+        "[REDACTED:destination:009915]",
+        3
+      ],
+      [
+        "[REDACTED:destination:009971]",
+        3
+      ],
+      [
+        "[REDACTED:destination:009977]",
+        3
+      ],
+      [
+        "[REDACTED:destination:009730]",
+        2
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0080160",
+        "degree": 5
+      },
+      {
+        "id": "R0080189",
+        "degree": 5
+      },
+      {
+        "id": "R0080538",
+        "degree": 5
+      },
+      {
+        "id": "R0080574",
+        "degree": 5
+      },
+      {
+        "id": "R0080612",
+        "degree": 5
+      },
+      {
+        "id": "R0080763",
+        "degree": 5
+      },
+      {
+        "id": "R0080874",
+        "degree": 5
+      },
+      {
+        "id": "R0081035",
+        "degree": 5
+      }
+    ],
+    "sample_members": [
+      "R0079768",
+      "R0080098",
+      "R0080160",
+      "R0080189",
+      "R0080538",
+      "R0080574",
+      "R0080612",
+      "R0080763",
+      "R0080874",
+      "R0080994",
+      "R0081035",
+      "R0081078"
+    ]
+  },
+  {
+    "rank": 3,
+    "component_id": "R0116360",
+    "size": 253,
+    "edge_counts": {
+      "EXACT_BODY": 1,
+      "MARKER_SAME": 253,
+      "PARENT_DIRECT": 1
+    },
+    "mechanical_kinds": {
+      "payload": 252,
+      "recovered_text": 1
+    },
+    "top_markers": [
+      [
+        "[ENCODED BLOB 65714]",
+        253
+      ],
+      [
+        "[REDACTED:opaque_fragment:001349]",
+        2
+      ],
+      [
+        "[REDACTED:opaque_fragment:001203]",
+        1
+      ],
+      [
+        "[REDACTED:opaque_fragment:001209]",
+        1
+      ],
+      [
+        "[REDACTED:opaque_fragment:001210]",
+        1
+      ],
+      [
+        "[REDACTED:opaque_fragment:001216]",
+        1
+      ],
+      [
+        "[REDACTED:opaque_fragment:001219]",
+        1
+      ],
+      [
+        "[REDACTED:opaque_fragment:001221]",
+        1
+      ],
+      [
+        "[REDACTED:opaque_fragment:001227]",
+        1
+      ],
+      [
+        "[REDACTED:opaque_fragment:001232]",
+        1
+      ],
+      [
+        "[REDACTED:opaque_fragment:001252]",
+        1
+      ],
+      [
+        "[REDACTED:opaque_fragment:001263]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0114390",
+        "degree": 5
+      },
+      {
+        "id": "R0187986",
+        "degree": 4
+      },
+      {
+        "id": "R0114248",
+        "degree": 2
+      },
+      {
+        "id": "R0114249",
+        "degree": 2
+      },
+      {
+        "id": "R0114255",
+        "degree": 2
+      },
+      {
+        "id": "R0114258",
+        "degree": 2
+      },
+      {
+        "id": "R0114260",
+        "degree": 2
+      },
+      {
+        "id": "R0114266",
+        "degree": 2
+      }
+    ],
+    "sample_members": [
+      "R0114242",
+      "R0114248",
+      "R0114249",
+      "R0114255",
+      "R0114258",
+      "R0114260",
+      "R0114266",
+      "R0114271",
+      "R0114291",
+      "R0114302",
+      "R0114322",
+      "R0114334"
+    ]
+  },
+  {
+    "rank": 4,
+    "component_id": "R0032503",
+    "size": 51,
+    "edge_counts": {
+      "EXACT_BODY": 1,
+      "MARKER_SAME": 50,
+      "PARENT_DIRECT": 1
+    },
+    "mechanical_kinds": {
+      "payload": 50,
+      "recovered_text": 1
+    },
+    "top_markers": [
+      [
+        "[Uint8Array.from(atob(x.split('').reverse().join('')),c=>c.charCodeAt())]",
+        51
+      ],
+      [
+        "[ENCODED BLOB 5107]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 5137]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 5223]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 5290]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 5372]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 5376]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 5561]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 5642]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 5993]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 6090]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 6222]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0026695",
+        "degree": 3
+      },
+      {
+        "id": "R0070508",
+        "degree": 3
+      },
+      {
+        "id": "R0012239",
+        "degree": 2
+      },
+      {
+        "id": "R0012346",
+        "degree": 2
+      },
+      {
+        "id": "R0012399",
+        "degree": 2
+      },
+      {
+        "id": "R0012520",
+        "degree": 2
+      },
+      {
+        "id": "R0012576",
+        "degree": 2
+      },
+      {
+        "id": "R0012687",
+        "degree": 2
+      }
+    ],
+    "sample_members": [
+      "R0012239",
+      "R0012346",
+      "R0012399",
+      "R0012520",
+      "R0012576",
+      "R0012687",
+      "R0012710",
+      "R0012878",
+      "R0012917",
+      "R0013278",
+      "R0013327",
+      "R0013410"
+    ]
+  },
+  {
+    "rank": 5,
+    "component_id": "R0187208",
+    "size": 44,
+    "edge_counts": {
+      "EXACT_BODY": 21,
+      "MARKER_ENDPOINT": 72,
+      "PARENT_DIRECT": 43,
+      "SAME_PARENT_SIBLING": 42
+    },
+    "mechanical_kinds": {
+      "payload": 1,
+      "recovered_text": 21,
+      "response": 22
+    },
+    "top_markers": [
+      [
+        "[REDACTED:destination:026091]",
+        5
+      ],
+      [
+        "[REDACTED:destination:026092]",
+        5
+      ],
+      [
+        "[REDACTED:destination:026093]",
+        5
+      ],
+      [
+        "[REDACTED:destination:026094]",
+        5
+      ],
+      [
+        "[REDACTED:destination:026095]",
+        5
+      ],
+      [
+        "[REDACTED:destination:026096]",
+        5
+      ],
+      [
+        "[REDACTED:destination:026097]",
+        5
+      ],
+      [
+        "[REDACTED:destination:026098]",
+        5
+      ],
+      [
+        "[REDACTED:destination:026099]",
+        5
+      ],
+      [
+        "[REDACTED:destination:026100]",
+        5
+      ],
+      [
+        "[REDACTED:destination:026101]",
+        5
+      ],
+      [
+        "[REDACTED:destination:026102]",
+        5
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0117640",
+        "degree": 55
+      },
+      {
+        "id": "R0154675",
+        "degree": 35
+      },
+      {
+        "id": "R0172746",
+        "degree": 34
+      },
+      {
+        "id": "R0154667",
+        "degree": 6
+      },
+      {
+        "id": "R0154668",
+        "degree": 6
+      },
+      {
+        "id": "R0154669",
+        "degree": 6
+      },
+      {
+        "id": "R0154670",
+        "degree": 6
+      },
+      {
+        "id": "R0154671",
+        "degree": 6
+      }
+    ],
+    "sample_members": [
+      "R0117640",
+      "R0154665",
+      "R0154666",
+      "R0154667",
+      "R0154668",
+      "R0154669",
+      "R0154670",
+      "R0154671",
+      "R0154672",
+      "R0154673",
+      "R0154674",
+      "R0154675"
+    ]
+  },
+  {
+    "rank": 6,
+    "component_id": "R0072768",
+    "size": 42,
+    "edge_counts": {
+      "EXACT_BODY": 28,
+      "MARKER_ENDPOINT": 41,
+      "MARKER_SAME": 28
+    },
+    "mechanical_kinds": {
+      "payload": 14,
+      "recovered_text": 14,
+      "response": 14
+    },
+    "top_markers": [
+      [
+        "[REDACTED:destination:003436]",
+        42
+      ],
+      [
+        "[REDACTED:query_value:001004]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:001043]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:001164]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:001168]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:001173]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:001180]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:001199]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:001204]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:001212]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:001219]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:001225]",
+        3
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0057485",
+        "degree": 6
+      },
+      {
+        "id": "R0058145",
+        "degree": 6
+      },
+      {
+        "id": "R0058921",
+        "degree": 6
+      },
+      {
+        "id": "R0058940",
+        "degree": 6
+      },
+      {
+        "id": "R0058974",
+        "degree": 6
+      },
+      {
+        "id": "R0059020",
+        "degree": 6
+      },
+      {
+        "id": "R0059085",
+        "degree": 6
+      },
+      {
+        "id": "R0059092",
+        "degree": 6
+      }
+    ],
+    "sample_members": [
+      "R0024277",
+      "R0026342",
+      "R0031106",
+      "R0031265",
+      "R0031574",
+      "R0031805",
+      "R0032342",
+      "R0032419",
+      "R0032699",
+      "R0032967",
+      "R0033133",
+      "R0033288"
+    ]
+  },
+  {
+    "rank": 7,
+    "component_id": "R0111251",
+    "size": 32,
+    "edge_counts": {
+      "MARKER_ENDPOINT": 38
+    },
+    "mechanical_kinds": {
+      "recovered_text": 32
+    },
+    "top_markers": [
+      [
+        "[REDACTED:destination:013669]",
+        15
+      ],
+      [
+        "[REDACTED:destination:011989]",
+        10
+      ],
+      [
+        "[REDACTED:destination:010814]",
+        7
+      ],
+      [
+        "[REDACTED:destination:010815]",
+        3
+      ],
+      [
+        "[REDACTED:destination:013557]",
+        2
+      ],
+      [
+        "[REDACTED:destination:014455]",
+        2
+      ],
+      [
+        "[REDACTED:destination:015883]",
+        2
+      ],
+      [
+        "[REDACTED:destination:016923]",
+        2
+      ],
+      [
+        "[REDACTED:destination:018253]",
+        2
+      ],
+      [
+        "[REDACTED:destination:019145]",
+        2
+      ],
+      [
+        "[REDACTED:destination:023563]",
+        2
+      ],
+      [
+        "[REDACTED:destination:011924]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0092027",
+        "degree": 4
+      },
+      {
+        "id": "R0090440",
+        "degree": 3
+      },
+      {
+        "id": "R0092152",
+        "degree": 3
+      },
+      {
+        "id": "R0095076",
+        "degree": 3
+      },
+      {
+        "id": "R0095143",
+        "degree": 3
+      },
+      {
+        "id": "R0097317",
+        "degree": 3
+      },
+      {
+        "id": "R0099697",
+        "degree": 3
+      },
+      {
+        "id": "R0101595",
+        "degree": 3
+      }
+    ],
+    "sample_members": [
+      "R0085293",
+      "R0087301",
+      "R0087426",
+      "R0087787",
+      "R0090440",
+      "R0090640",
+      "R0091513",
+      "R0092027",
+      "R0092152",
+      "R0093553",
+      "R0094198",
+      "R0095076"
+    ]
+  },
+  {
+    "rank": 8,
+    "component_id": "R0078585",
+    "size": 30,
+    "edge_counts": {
+      "MARKER_ENDPOINT": 16,
+      "MARKER_SAME": 16,
+      "PARENT_DIRECT": 18,
+      "SAME_PARENT_SIBLING": 6
+    },
+    "mechanical_kinds": {
+      "payload": 12,
+      "recovered_text": 18
+    },
+    "top_markers": [
+      [
+        "[REDACTED:destination:008415]",
+        12
+      ],
+      [
+        "[REDACTED:destination:008416]",
+        8
+      ],
+      [
+        "[REDACTED:source_identifier:005613]",
+        5
+      ],
+      [
+        "[\n      \"var k='[REDACTED:secret_key:000291]",
+        4
+      ],
+      [
+        "[\n      \"window.__u=[]",
+        4
+      ],
+      [
+        "[REDACTED:secret_key:000291]",
+        4
+      ],
+      [
+        "[REDACTED:source_identifier:005612]",
+        2
+      ],
+      [
+        "[REDACTED:destination:008445]",
+        2
+      ],
+      [
+        "[...S]",
+        2
+      ],
+      [
+        "[REDACTED:source_identifier:005616]",
+        2
+      ],
+      [
+        "[\n      \"var p=document.createElement('pre');p.textContent='MK_S '+window.__u.join(' ~~ ')+' MK_E';document.documentElement.appendChild(p);\"\n    ]",
+        1
+      ],
+      [
+        "[\n      \"window.__c=[]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0053167",
+        "degree": 9
+      },
+      {
+        "id": "R0052877",
+        "degree": 6
+      },
+      {
+        "id": "R0052861",
+        "degree": 5
+      },
+      {
+        "id": "R0052864",
+        "degree": 5
+      },
+      {
+        "id": "R0052870",
+        "degree": 5
+      },
+      {
+        "id": "R0052872",
+        "degree": 5
+      },
+      {
+        "id": "R0052873",
+        "degree": 5
+      },
+      {
+        "id": "R0052874",
+        "degree": 5
+      }
+    ],
+    "sample_members": [
+      "R0052850",
+      "R0052861",
+      "R0052864",
+      "R0052870",
+      "R0052871",
+      "R0052872",
+      "R0052873",
+      "R0052874",
+      "R0052877",
+      "R0052878",
+      "R0052879",
+      "R0053167"
+    ]
+  },
+  {
+    "rank": 9,
+    "component_id": "R0187924",
+    "size": 27,
+    "edge_counts": {
+      "MARKER_ENDPOINT": 12,
+      "MARKER_SAME": 14,
+      "PARENT_DIRECT": 12
+    },
+    "mechanical_kinds": {
+      "payload": 15,
+      "recovered_text": 12
+    },
+    "top_markers": [
+      [
+        "[SERVICE 25 URL 431]",
+        15
+      ],
+      [
+        "[REDACTED:destination:027403]",
+        2
+      ],
+      [
+        "[REDACTED:destination:027691]",
+        2
+      ],
+      [
+        "[REDACTED:destination:027740]",
+        2
+      ],
+      [
+        "[REDACTED:destination:027786]",
+        2
+      ],
+      [
+        "[REDACTED:destination:027807]",
+        2
+      ],
+      [
+        "[REDACTED:destination:027897]",
+        2
+      ],
+      [
+        "[REDACTED:destination:027946]",
+        2
+      ],
+      [
+        "[REDACTED:destination:027994]",
+        2
+      ],
+      [
+        "[REDACTED:destination:028103]",
+        2
+      ],
+      [
+        "[REDACTED:destination:028168]",
+        2
+      ],
+      [
+        "[REDACTED:destination:028201]",
+        2
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0119278",
+        "degree": 4
+      },
+      {
+        "id": "R0121027",
+        "degree": 4
+      },
+      {
+        "id": "R0121488",
+        "degree": 4
+      },
+      {
+        "id": "R0121804",
+        "degree": 4
+      },
+      {
+        "id": "R0121981",
+        "degree": 4
+      },
+      {
+        "id": "R0122716",
+        "degree": 4
+      },
+      {
+        "id": "R0123287",
+        "degree": 4
+      },
+      {
+        "id": "R0123601",
+        "degree": 4
+      }
+    ],
+    "sample_members": [
+      "R0119062",
+      "R0119278",
+      "R0121027",
+      "R0121488",
+      "R0121804",
+      "R0121817",
+      "R0121981",
+      "R0122716",
+      "R0123287",
+      "R0123601",
+      "R0123708",
+      "R0124335"
+    ]
+  },
+  {
+    "rank": 10,
+    "component_id": "R0112680",
+    "size": 26,
+    "edge_counts": {
+      "EXACT_BODY": 25,
+      "MARKER_SAME": 25
+    },
+    "mechanical_kinds": {
+      "recovered_text": 26
+    },
+    "top_markers": [
+      [
+        "[REDACTED:URL_CHAIN]",
+        26
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0103256",
+        "degree": 4
+      },
+      {
+        "id": "R0103309",
+        "degree": 4
+      },
+      {
+        "id": "R0105462",
+        "degree": 4
+      },
+      {
+        "id": "R0106094",
+        "degree": 4
+      },
+      {
+        "id": "R0107233",
+        "degree": 4
+      },
+      {
+        "id": "R0107274",
+        "degree": 4
+      },
+      {
+        "id": "R0107405",
+        "degree": 4
+      },
+      {
+        "id": "R0107920",
+        "degree": 4
+      }
+    ],
+    "sample_members": [
+      "R0103228",
+      "R0103256",
+      "R0103309",
+      "R0105462",
+      "R0106094",
+      "R0107233",
+      "R0107274",
+      "R0107405",
+      "R0107920",
+      "R0108030",
+      "R0108103",
+      "R0108125"
+    ]
+  },
+  {
+    "rank": 11,
+    "component_id": "R0067783",
+    "size": 24,
+    "edge_counts": {
+      "EXACT_BODY": 16,
+      "MARKER_ENDPOINT": 23,
+      "MARKER_SAME": 16
+    },
+    "mechanical_kinds": {
+      "payload": 8,
+      "recovered_text": 8,
+      "response": 8
+    },
+    "top_markers": [
+      [
+        "[REDACTED:destination:001380]",
+        24
+      ],
+      [
+        "[REDACTED:query_value:000329]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:000331]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:000334]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:000353]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:000360]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:000377]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:000531]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:000621]",
+        3
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0055417",
+        "degree": 6
+      },
+      {
+        "id": "R0055419",
+        "degree": 6
+      },
+      {
+        "id": "R0055421",
+        "degree": 6
+      },
+      {
+        "id": "R0055483",
+        "degree": 6
+      },
+      {
+        "id": "R0055493",
+        "degree": 6
+      },
+      {
+        "id": "R0055536",
+        "degree": 6
+      },
+      {
+        "id": "R0055852",
+        "degree": 6
+      },
+      {
+        "id": "R0056233",
+        "degree": 6
+      }
+    ],
+    "sample_members": [
+      "R0010936",
+      "R0010962",
+      "R0010995",
+      "R0011818",
+      "R0011960",
+      "R0012125",
+      "R0015548",
+      "R0017542",
+      "R0055417",
+      "R0055419",
+      "R0055421",
+      "R0055483"
+    ]
+  },
+  {
+    "rank": 12,
+    "component_id": "R0068601",
+    "size": 20,
+    "edge_counts": {
+      "EXACT_BODY": 13,
+      "MARKER_ENDPOINT": 19,
+      "MARKER_SAME": 13
+    },
+    "mechanical_kinds": {
+      "payload": 6,
+      "recovered_text": 7,
+      "response": 7
+    },
+    "top_markers": [
+      [
+        "[REDACTED:destination:001570]",
+        20
+      ],
+      [
+        "[REDACTED:query_value:000364]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:000628]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:000745]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:000782]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:000798]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:000803]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:001783]",
+        2
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0055500",
+        "degree": 6
+      },
+      {
+        "id": "R0056239",
+        "degree": 6
+      },
+      {
+        "id": "R0056713",
+        "degree": 6
+      },
+      {
+        "id": "R0056797",
+        "degree": 6
+      },
+      {
+        "id": "R0056847",
+        "degree": 6
+      },
+      {
+        "id": "R0056859",
+        "degree": 6
+      },
+      {
+        "id": "R0017563",
+        "degree": 4
+      },
+      {
+        "id": "R0019786",
+        "degree": 4
+      }
+    ],
+    "sample_members": [
+      "R0011994",
+      "R0017563",
+      "R0019786",
+      "R0020349",
+      "R0020529",
+      "R0020691",
+      "R0055500",
+      "R0056239",
+      "R0056713",
+      "R0056797",
+      "R0056828",
+      "R0056847"
+    ]
+  },
+  {
+    "rank": 13,
+    "component_id": "R0182371",
+    "size": 19,
+    "edge_counts": {
+      "EXACT_BODY": 11,
+      "MARKER_ENDPOINT": 19,
+      "PARENT_DIRECT": 10,
+      "SAME_PARENT_SIBLING": 1
+    },
+    "mechanical_kinds": {
+      "payload": 9,
+      "recovered_text": 9,
+      "response": 1
+    },
+    "top_markers": [
+      [
+        "[SHORTENER URL 151986]",
+        15
+      ],
+      [
+        "[REDACTED:destination:028324]",
+        8
+      ],
+      [
+        "[SHORTENER URL 151892]",
+        2
+      ],
+      [
+        "[SHORTENER URL 142862]",
+        2
+      ],
+      [
+        "[REDACTED:destination:028808]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0126311",
+        "degree": 6
+      },
+      {
+        "id": "R0126512",
+        "degree": 6
+      },
+      {
+        "id": "R0125709",
+        "degree": 5
+      },
+      {
+        "id": "R0125940",
+        "degree": 5
+      },
+      {
+        "id": "R0159263",
+        "degree": 5
+      },
+      {
+        "id": "R0167926",
+        "degree": 5
+      },
+      {
+        "id": "R0169566",
+        "degree": 5
+      },
+      {
+        "id": "R0171651",
+        "degree": 5
+      }
+    ],
+    "sample_members": [
+      "R0125411",
+      "R0125599",
+      "R0125709",
+      "R0125940",
+      "R0126311",
+      "R0126494",
+      "R0126511",
+      "R0126512",
+      "R0126537",
+      "R0159263",
+      "R0166166",
+      "R0167926"
+    ]
+  },
+  {
+    "rank": 14,
+    "component_id": "R0068955",
+    "size": 18,
+    "edge_counts": {
+      "EXACT_BODY": 12,
+      "MARKER_ENDPOINT": 17,
+      "MARKER_SAME": 12
+    },
+    "mechanical_kinds": {
+      "payload": 6,
+      "recovered_text": 6,
+      "response": 6
+    },
+    "top_markers": [
+      [
+        "[REDACTED:destination:002964]",
+        18
+      ],
+      [
+        "[REDACTED:query_value:000882]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:000883]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:000884]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:000885]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:000886]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:000887]",
+        3
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0057114",
+        "degree": 6
+      },
+      {
+        "id": "R0057115",
+        "degree": 6
+      },
+      {
+        "id": "R0057116",
+        "degree": 6
+      },
+      {
+        "id": "R0057117",
+        "degree": 6
+      },
+      {
+        "id": "R0057118",
+        "degree": 6
+      },
+      {
+        "id": "R0057119",
+        "degree": 6
+      },
+      {
+        "id": "R0022223",
+        "degree": 4
+      },
+      {
+        "id": "R0022225",
+        "degree": 4
+      }
+    ],
+    "sample_members": [
+      "R0022220",
+      "R0022223",
+      "R0022225",
+      "R0022226",
+      "R0022228",
+      "R0022229",
+      "R0057114",
+      "R0057115",
+      "R0057116",
+      "R0057117",
+      "R0057118",
+      "R0057119"
+    ]
+  },
+  {
+    "rank": 15,
+    "component_id": "R0075039",
+    "size": 18,
+    "edge_counts": {
+      "EXACT_BODY": 12,
+      "MARKER_ENDPOINT": 12,
+      "MARKER_SAME": 17
+    },
+    "mechanical_kinds": {
+      "payload": 6,
+      "recovered_text": 6,
+      "response": 6
+    },
+    "top_markers": [
+      [
+        "[REDACTED:query_value:000889]",
+        18
+      ],
+      [
+        "[REDACTED:destination:002977]",
+        3
+      ],
+      [
+        "[REDACTED:destination:002978]",
+        3
+      ],
+      [
+        "[REDACTED:destination:002980]",
+        3
+      ],
+      [
+        "[REDACTED:destination:002981]",
+        3
+      ],
+      [
+        "[REDACTED:destination:002983]",
+        3
+      ],
+      [
+        "[REDACTED:destination:006238]",
+        3
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0057131",
+        "degree": 6
+      },
+      {
+        "id": "R0057132",
+        "degree": 6
+      },
+      {
+        "id": "R0057133",
+        "degree": 6
+      },
+      {
+        "id": "R0057134",
+        "degree": 6
+      },
+      {
+        "id": "R0057135",
+        "degree": 6
+      },
+      {
+        "id": "R0060843",
+        "degree": 6
+      },
+      {
+        "id": "R0022275",
+        "degree": 4
+      },
+      {
+        "id": "R0022278",
+        "degree": 4
+      }
+    ],
+    "sample_members": [
+      "R0022273",
+      "R0022275",
+      "R0022278",
+      "R0022279",
+      "R0022282",
+      "R0041805",
+      "R0057131",
+      "R0057132",
+      "R0057133",
+      "R0057134",
+      "R0057135",
+      "R0060843"
+    ]
+  },
+  {
+    "rank": 16,
+    "component_id": "R0100047",
+    "size": 18,
+    "edge_counts": {
+      "EXACT_BODY": 8,
+      "MARKER_SAME": 17
+    },
+    "mechanical_kinds": {
+      "payload": 10,
+      "recovered_text": 8
+    },
+    "top_markers": [
+      [
+        "[SERVICE 121 URL 19]",
+        18
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0081149",
+        "degree": 3
+      },
+      {
+        "id": "R0081157",
+        "degree": 3
+      },
+      {
+        "id": "R0081186",
+        "degree": 3
+      },
+      {
+        "id": "R0081189",
+        "degree": 3
+      },
+      {
+        "id": "R0081197",
+        "degree": 3
+      },
+      {
+        "id": "R0081201",
+        "degree": 3
+      },
+      {
+        "id": "R0081242",
+        "degree": 3
+      },
+      {
+        "id": "R0096161",
+        "degree": 3
+      }
+    ],
+    "sample_members": [
+      "R0081127",
+      "R0081134",
+      "R0081149",
+      "R0081157",
+      "R0081186",
+      "R0081189",
+      "R0081196",
+      "R0081197",
+      "R0081201",
+      "R0081242",
+      "R0096161",
+      "R0096806"
+    ]
+  },
+  {
+    "rank": 17,
+    "component_id": "R0066882",
+    "size": 15,
+    "edge_counts": {
+      "EXACT_BODY": 10,
+      "MARKER_SAME": 14
+    },
+    "mechanical_kinds": {
+      "payload": 5,
+      "recovered_text": 5,
+      "response": 5
+    },
+    "top_markers": [
+      [
+        "[REDACTED:query_value:000405]",
+        15
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0055642",
+        "degree": 4
+      },
+      {
+        "id": "R0055643",
+        "degree": 4
+      },
+      {
+        "id": "R0055644",
+        "degree": 4
+      },
+      {
+        "id": "R0055645",
+        "degree": 4
+      },
+      {
+        "id": "R0055646",
+        "degree": 4
+      },
+      {
+        "id": "R0013790",
+        "degree": 3
+      },
+      {
+        "id": "R0013792",
+        "degree": 3
+      },
+      {
+        "id": "R0013794",
+        "degree": 3
+      }
+    ],
+    "sample_members": [
+      "R0013789",
+      "R0013790",
+      "R0013792",
+      "R0013794",
+      "R0013797",
+      "R0055642",
+      "R0055643",
+      "R0055644",
+      "R0055645",
+      "R0055646",
+      "R0066876",
+      "R0066877"
+    ]
+  },
+  {
+    "rank": 18,
+    "component_id": "R0068591",
+    "size": 15,
+    "edge_counts": {
+      "EXACT_BODY": 10,
+      "MARKER_ENDPOINT": 14,
+      "MARKER_SAME": 10
+    },
+    "mechanical_kinds": {
+      "payload": 5,
+      "recovered_text": 5,
+      "response": 5
+    },
+    "top_markers": [
+      [
+        "[REDACTED:destination:002711]",
+        15
+      ],
+      [
+        "[REDACTED:query_value:000766]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:000784]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:000785]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:000786]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:000787]",
+        3
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0056765",
+        "degree": 6
+      },
+      {
+        "id": "R0056812",
+        "degree": 6
+      },
+      {
+        "id": "R0056815",
+        "degree": 6
+      },
+      {
+        "id": "R0056816",
+        "degree": 6
+      },
+      {
+        "id": "R0056817",
+        "degree": 6
+      },
+      {
+        "id": "R0020384",
+        "degree": 4
+      },
+      {
+        "id": "R0020394",
+        "degree": 4
+      },
+      {
+        "id": "R0020395",
+        "degree": 4
+      }
+    ],
+    "sample_members": [
+      "R0020133",
+      "R0020384",
+      "R0020394",
+      "R0020395",
+      "R0020396",
+      "R0056765",
+      "R0056812",
+      "R0056815",
+      "R0056816",
+      "R0056817",
+      "R0068516",
+      "R0068587"
+    ]
+  },
+  {
+    "rank": 19,
+    "component_id": "R0074980",
+    "size": 15,
+    "edge_counts": {
+      "EXACT_BODY": 10,
+      "MARKER_ENDPOINT": 14,
+      "MARKER_SAME": 10
+    },
+    "mechanical_kinds": {
+      "payload": 5,
+      "recovered_text": 5,
+      "response": 5
+    },
+    "top_markers": [
+      [
+        "[REDACTED:destination:003295]",
+        15
+      ],
+      [
+        "[REDACTED:query_value:000988]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:000997]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:001024]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:001042]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:001465]",
+        3
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0057427",
+        "degree": 6
+      },
+      {
+        "id": "R0057454",
+        "degree": 6
+      },
+      {
+        "id": "R0057989",
+        "degree": 6
+      },
+      {
+        "id": "R0058144",
+        "degree": 6
+      },
+      {
+        "id": "R0060810",
+        "degree": 6
+      },
+      {
+        "id": "R0024009",
+        "degree": 4
+      },
+      {
+        "id": "R0024989",
+        "degree": 4
+      },
+      {
+        "id": "R0026336",
+        "degree": 4
+      }
+    ],
+    "sample_members": [
+      "R0023748",
+      "R0024009",
+      "R0024989",
+      "R0026336",
+      "R0041656",
+      "R0057427",
+      "R0057454",
+      "R0057989",
+      "R0058144",
+      "R0060810",
+      "R0069427",
+      "R0069474"
+    ]
+  },
+  {
+    "rank": 20,
+    "component_id": "R0075019",
+    "size": 15,
+    "edge_counts": {
+      "EXACT_BODY": 10,
+      "MARKER_ENDPOINT": 10,
+      "MARKER_SAME": 14
+    },
+    "mechanical_kinds": {
+      "payload": 5,
+      "recovered_text": 5,
+      "response": 5
+    },
+    "top_markers": [
+      [
+        "[REDACTED:query_value:000888]",
+        15
+      ],
+      [
+        "[REDACTED:destination:002973]",
+        3
+      ],
+      [
+        "[REDACTED:destination:006227]",
+        3
+      ],
+      [
+        "[REDACTED:destination:006229]",
+        3
+      ],
+      [
+        "[REDACTED:destination:006230]",
+        3
+      ],
+      [
+        "[REDACTED:destination:006231]",
+        3
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0057126",
+        "degree": 6
+      },
+      {
+        "id": "R0060831",
+        "degree": 6
+      },
+      {
+        "id": "R0060832",
+        "degree": 6
+      },
+      {
+        "id": "R0060834",
+        "degree": 6
+      },
+      {
+        "id": "R0060836",
+        "degree": 6
+      },
+      {
+        "id": "R0041743",
+        "degree": 4
+      },
+      {
+        "id": "R0041745",
+        "degree": 4
+      },
+      {
+        "id": "R0041751",
+        "degree": 4
+      }
+    ],
+    "sample_members": [
+      "R0022240",
+      "R0041743",
+      "R0041745",
+      "R0041751",
+      "R0041758",
+      "R0057126",
+      "R0060831",
+      "R0060832",
+      "R0060834",
+      "R0060836",
+      "R0068966",
+      "R0075014"
+    ]
+  },
+  {
+    "rank": 21,
+    "component_id": "R0049441",
+    "size": 14,
+    "edge_counts": {
+      "EXACT_BODY": 13,
+      "MARKER_ENDPOINT": 13
+    },
+    "mechanical_kinds": {
+      "payload": 14
+    },
+    "top_markers": [
+      [
+        "[SHORTENER URL 57072]",
+        14
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0038226",
+        "degree": 4
+      },
+      {
+        "id": "R0040252",
+        "degree": 4
+      },
+      {
+        "id": "R0041406",
+        "degree": 4
+      },
+      {
+        "id": "R0041453",
+        "degree": 4
+      },
+      {
+        "id": "R0042957",
+        "degree": 4
+      },
+      {
+        "id": "R0043394",
+        "degree": 4
+      },
+      {
+        "id": "R0043759",
+        "degree": 4
+      },
+      {
+        "id": "R0045599",
+        "degree": 4
+      }
+    ],
+    "sample_members": [
+      "R0038122",
+      "R0038226",
+      "R0040252",
+      "R0041406",
+      "R0041453",
+      "R0042957",
+      "R0043394",
+      "R0043759",
+      "R0045599",
+      "R0045625",
+      "R0046449",
+      "R0049252"
+    ]
+  },
+  {
+    "rank": 22,
+    "component_id": "R0078171",
+    "size": 14,
+    "edge_counts": {
+      "EXACT_BODY": 11,
+      "MARKER_SAME": 11,
+      "PARENT_DIRECT": 3,
+      "SAME_PARENT_SIBLING": 2
+    },
+    "mechanical_kinds": {
+      "payload": 1,
+      "recovered_text": 7,
+      "response": 6
+    },
+    "top_markers": [
+      [
+        "[REDACTED:incomplete_zlib_stream; exact original and partial decoded bytes retained privately]",
+        12
+      ],
+      [
+        "[ENCODED BLOB 46355]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0077547",
+        "degree": 7
+      },
+      {
+        "id": "R0062060",
+        "degree": 6
+      },
+      {
+        "id": "R0059228",
+        "degree": 4
+      },
+      {
+        "id": "R0061539",
+        "degree": 4
+      },
+      {
+        "id": "R0061695",
+        "degree": 4
+      },
+      {
+        "id": "R0062314",
+        "degree": 4
+      },
+      {
+        "id": "R0068763",
+        "degree": 4
+      },
+      {
+        "id": "R0072361",
+        "degree": 4
+      }
+    ],
+    "sample_members": [
+      "R0050137",
+      "R0056962",
+      "R0059228",
+      "R0061539",
+      "R0061695",
+      "R0062060",
+      "R0062314",
+      "R0068763",
+      "R0072361",
+      "R0076524",
+      "R0076972",
+      "R0077547"
+    ]
+  },
+  {
+    "rank": 23,
+    "component_id": "R0108106",
+    "size": 14,
+    "edge_counts": {
+      "MARKER_ENDPOINT": 11,
+      "PARENT_DIRECT": 4,
+      "SAME_PARENT_SIBLING": 2
+    },
+    "mechanical_kinds": {
+      "payload": 3,
+      "recovered_text": 11
+    },
+    "top_markers": [
+      [
+        "[REDACTED:destination:009707]",
+        10
+      ],
+      [
+        "[SHORTENER URL 88533]",
+        2
+      ],
+      [
+        "[SHORTENER URL 88864]",
+        2
+      ],
+      [
+        "[SHORTENER URL 88863]",
+        1
+      ],
+      [
+        "[SHORTENER URL 88532]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0080309",
+        "degree": 5
+      },
+      {
+        "id": "R0080902",
+        "degree": 5
+      },
+      {
+        "id": "R0166739",
+        "degree": 3
+      },
+      {
+        "id": "R0167575",
+        "degree": 3
+      },
+      {
+        "id": "R0085341",
+        "degree": 2
+      },
+      {
+        "id": "R0086768",
+        "degree": 2
+      },
+      {
+        "id": "R0089770",
+        "degree": 2
+      },
+      {
+        "id": "R0093560",
+        "degree": 2
+      }
+    ],
+    "sample_members": [
+      "R0080018",
+      "R0080309",
+      "R0080902",
+      "R0085341",
+      "R0086768",
+      "R0089770",
+      "R0093560",
+      "R0096085",
+      "R0107223",
+      "R0108106",
+      "R0166739",
+      "R0167575"
+    ]
+  },
+  {
+    "rank": 24,
+    "component_id": "R0174898",
+    "size": 14,
+    "edge_counts": {
+      "EXACT_BODY": 7,
+      "MARKER_ENDPOINT": 11,
+      "MARKER_SAME": 3,
+      "PARENT_DIRECT": 7
+    },
+    "mechanical_kinds": {
+      "payload": 7,
+      "recovered_text": 7
+    },
+    "top_markers": [
+      [
+        "[IP ADDRESS 659]",
+        14
+      ],
+      [
+        "[ENCODED BLOB 65162]",
+        6
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0113489",
+        "degree": 6
+      },
+      {
+        "id": "R0185278",
+        "degree": 5
+      },
+      {
+        "id": "R0113490",
+        "degree": 4
+      },
+      {
+        "id": "R0113491",
+        "degree": 4
+      },
+      {
+        "id": "R0113492",
+        "degree": 4
+      },
+      {
+        "id": "R0113493",
+        "degree": 4
+      },
+      {
+        "id": "R0160639",
+        "degree": 4
+      },
+      {
+        "id": "R0166909",
+        "degree": 4
+      }
+    ],
+    "sample_members": [
+      "R0113487",
+      "R0113488",
+      "R0113489",
+      "R0113490",
+      "R0113491",
+      "R0113492",
+      "R0113493",
+      "R0160639",
+      "R0166909",
+      "R0172651",
+      "R0174898",
+      "R0182994"
+    ]
+  },
+  {
+    "rank": 25,
+    "component_id": "R0072062",
+    "size": 13,
+    "edge_counts": {
+      "EXACT_BODY": 8,
+      "MARKER_SAME": 18
+    },
+    "mechanical_kinds": {
+      "payload": 5,
+      "recovered_text": 4,
+      "response": 4
+    },
+    "top_markers": [
+      [
+        "[HF REPO 444]",
+        13
+      ],
+      [
+        "[REDACTED:query_value:000976]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:000977]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:001177]",
+        3
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0057389",
+        "degree": 6
+      },
+      {
+        "id": "R0057394",
+        "degree": 6
+      },
+      {
+        "id": "R0058998",
+        "degree": 6
+      },
+      {
+        "id": "R0023454",
+        "degree": 4
+      },
+      {
+        "id": "R0023544",
+        "degree": 4
+      },
+      {
+        "id": "R0031653",
+        "degree": 4
+      },
+      {
+        "id": "R0059067",
+        "degree": 4
+      },
+      {
+        "id": "R0069377",
+        "degree": 4
+      }
+    ],
+    "sample_members": [
+      "R0022946",
+      "R0023454",
+      "R0023544",
+      "R0031653",
+      "R0032138",
+      "R0057389",
+      "R0057394",
+      "R0058998",
+      "R0059067",
+      "R0069377",
+      "R0069388",
+      "R0071928"
+    ]
+  },
+  {
+    "rank": 26,
+    "component_id": "R0112154",
+    "size": 13,
+    "edge_counts": {
+      "MARKER_SAME": 20
+    },
+    "mechanical_kinds": {
+      "recovered_text": 13
+    },
+    "top_markers": [
+      [
+        "[REDACTED:partial_repo_name:000027]",
+        13
+      ],
+      [
+        "[REDACTED:source_identifier:006708]",
+        9
+      ],
+      [
+        "[REDACTED:opaque_base64:001922]",
+        2
+      ],
+      [
+        "[ENCODED BLOB 59184]",
+        2
+      ],
+      [
+        "[REDACTED:source_identifier:007096]",
+        2
+      ],
+      [
+        "[REDACTED:opaque_base64:002008]",
+        2
+      ],
+      [
+        "[ENCODED BLOB 58164]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 58689]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 59830]",
+        1
+      ],
+      [
+        "[REDACTED:source_identifier:007544]",
+        1
+      ],
+      [
+        "[REDACTED:source_identifier:008469]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0089614",
+        "degree": 4
+      },
+      {
+        "id": "R0090455",
+        "degree": 4
+      },
+      {
+        "id": "R0096822",
+        "degree": 4
+      },
+      {
+        "id": "R0106738",
+        "degree": 4
+      },
+      {
+        "id": "R0112023",
+        "degree": 4
+      },
+      {
+        "id": "R0088332",
+        "degree": 3
+      },
+      {
+        "id": "R0091602",
+        "degree": 3
+      },
+      {
+        "id": "R0095024",
+        "degree": 3
+      }
+    ],
+    "sample_members": [
+      "R0085974",
+      "R0087079",
+      "R0088332",
+      "R0089614",
+      "R0090455",
+      "R0091602",
+      "R0094507",
+      "R0095024",
+      "R0096822",
+      "R0104715",
+      "R0106738",
+      "R0112023"
+    ]
+  },
+  {
+    "rank": 27,
+    "component_id": "R0063786",
+    "size": 12,
+    "edge_counts": {
+      "EXACT_BODY": 8,
+      "MARKER_SAME": 19,
+      "PARENT_DIRECT": 8,
+      "SAME_PARENT_SIBLING": 4
+    },
+    "mechanical_kinds": {
+      "payload": 4,
+      "recovered_text": 4,
+      "response": 4
+    },
+    "top_markers": [
+      [
+        "[ENCODED BLOB 846]",
+        12
+      ],
+      [
+        "[SHORTENER CODE 3900]",
+        3
+      ],
+      [
+        "[SHORTENER CODE 3902]",
+        3
+      ],
+      [
+        "[SHORTENER CODE 3904]",
+        3
+      ],
+      [
+        "[SHORTENER CODE 3906]",
+        3
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0053964",
+        "degree": 8
+      },
+      {
+        "id": "R0053966",
+        "degree": 8
+      },
+      {
+        "id": "R0053968",
+        "degree": 8
+      },
+      {
+        "id": "R0053970",
+        "degree": 8
+      },
+      {
+        "id": "R0003647",
+        "degree": 6
+      },
+      {
+        "id": "R0003649",
+        "degree": 6
+      },
+      {
+        "id": "R0003651",
+        "degree": 6
+      },
+      {
+        "id": "R0063780",
+        "degree": 6
+      }
+    ],
+    "sample_members": [
+      "R0003645",
+      "R0003647",
+      "R0003649",
+      "R0003651",
+      "R0053964",
+      "R0053966",
+      "R0053968",
+      "R0053970",
+      "R0063780",
+      "R0063782",
+      "R0063784",
+      "R0063786"
+    ]
+  },
+  {
+    "rank": 28,
+    "component_id": "R0063787",
+    "size": 12,
+    "edge_counts": {
+      "EXACT_BODY": 8,
+      "MARKER_SAME": 19,
+      "PARENT_DIRECT": 8,
+      "SAME_PARENT_SIBLING": 4
+    },
+    "mechanical_kinds": {
+      "payload": 4,
+      "recovered_text": 4,
+      "response": 4
+    },
+    "top_markers": [
+      [
+        "[ENCODED BLOB 847]",
+        12
+      ],
+      [
+        "[SHORTENER CODE 3901]",
+        3
+      ],
+      [
+        "[SHORTENER CODE 3903]",
+        3
+      ],
+      [
+        "[SHORTENER CODE 3905]",
+        3
+      ],
+      [
+        "[SHORTENER CODE 3907]",
+        3
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0053965",
+        "degree": 8
+      },
+      {
+        "id": "R0053967",
+        "degree": 8
+      },
+      {
+        "id": "R0053969",
+        "degree": 8
+      },
+      {
+        "id": "R0053971",
+        "degree": 8
+      },
+      {
+        "id": "R0003648",
+        "degree": 6
+      },
+      {
+        "id": "R0003650",
+        "degree": 6
+      },
+      {
+        "id": "R0003652",
+        "degree": 6
+      },
+      {
+        "id": "R0063781",
+        "degree": 6
+      }
+    ],
+    "sample_members": [
+      "R0003646",
+      "R0003648",
+      "R0003650",
+      "R0003652",
+      "R0053965",
+      "R0053967",
+      "R0053969",
+      "R0053971",
+      "R0063781",
+      "R0063783",
+      "R0063785",
+      "R0063787"
+    ]
+  },
+  {
+    "rank": 29,
+    "component_id": "R0068659",
+    "size": 12,
+    "edge_counts": {
+      "EXACT_BODY": 8,
+      "MARKER_ENDPOINT": 11,
+      "MARKER_SAME": 8
+    },
+    "mechanical_kinds": {
+      "payload": 4,
+      "recovered_text": 4,
+      "response": 4
+    },
+    "top_markers": [
+      [
+        "[REDACTED:destination:002588]",
+        12
+      ],
+      [
+        "[REDACTED:query_value:000694]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:000695]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:000696]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:000809]",
+        3
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0056578",
+        "degree": 6
+      },
+      {
+        "id": "R0056582",
+        "degree": 6
+      },
+      {
+        "id": "R0056583",
+        "degree": 6
+      },
+      {
+        "id": "R0056873",
+        "degree": 6
+      },
+      {
+        "id": "R0018998",
+        "degree": 4
+      },
+      {
+        "id": "R0019027",
+        "degree": 4
+      },
+      {
+        "id": "R0020742",
+        "degree": 4
+      },
+      {
+        "id": "R0068295",
+        "degree": 4
+      }
+    ],
+    "sample_members": [
+      "R0018981",
+      "R0018998",
+      "R0019027",
+      "R0020742",
+      "R0056578",
+      "R0056582",
+      "R0056583",
+      "R0056873",
+      "R0068295",
+      "R0068302",
+      "R0068306",
+      "R0068659"
+    ]
+  },
+  {
+    "rank": 30,
+    "component_id": "R0072437",
+    "size": 12,
+    "edge_counts": {
+      "EXACT_BODY": 8,
+      "MARKER_ENDPOINT": 9,
+      "MARKER_SAME": 10
+    },
+    "mechanical_kinds": {
+      "payload": 4,
+      "recovered_text": 4,
+      "response": 4
+    },
+    "top_markers": [
+      [
+        "[REDACTED:query_value:000425]",
+        9
+      ],
+      [
+        "[REDACTED:destination:001918]",
+        6
+      ],
+      [
+        "[REDACTED:destination:001854]",
+        3
+      ],
+      [
+        "[REDACTED:destination:001940]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:001245]",
+        3
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0055685",
+        "degree": 6
+      },
+      {
+        "id": "R0055737",
+        "degree": 6
+      },
+      {
+        "id": "R0055756",
+        "degree": 6
+      },
+      {
+        "id": "R0059264",
+        "degree": 6
+      },
+      {
+        "id": "R0067056",
+        "degree": 5
+      },
+      {
+        "id": "R0014443",
+        "degree": 4
+      },
+      {
+        "id": "R0014595",
+        "degree": 4
+      },
+      {
+        "id": "R0033597",
+        "degree": 4
+      }
+    ],
+    "sample_members": [
+      "R0014197",
+      "R0014443",
+      "R0014595",
+      "R0033597",
+      "R0055685",
+      "R0055737",
+      "R0055756",
+      "R0059264",
+      "R0066988",
+      "R0067056",
+      "R0067079",
+      "R0072437"
+    ]
+  },
+  {
+    "rank": 31,
+    "component_id": "R0072836",
+    "size": 12,
+    "edge_counts": {
+      "EXACT_BODY": 4,
+      "MARKER_SAME": 19,
+      "NORMALIZED_REPLAY": 4
+    },
+    "mechanical_kinds": {
+      "payload": 4,
+      "recovered_text": 4,
+      "response": 4
+    },
+    "top_markers": [
+      [
+        "[SHORTENER CODE 38412]",
+        12
+      ],
+      [
+        "[ENCODED BLOB 18669]",
+        3
+      ],
+      [
+        "[ENCODED BLOB 21987]",
+        3
+      ],
+      [
+        "[ENCODED BLOB 25710]",
+        3
+      ],
+      [
+        "[ENCODED BLOB 25764]",
+        3
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0058146",
+        "degree": 6
+      },
+      {
+        "id": "R0058717",
+        "degree": 6
+      },
+      {
+        "id": "R0059505",
+        "degree": 6
+      },
+      {
+        "id": "R0059524",
+        "degree": 6
+      },
+      {
+        "id": "R0029934",
+        "degree": 4
+      },
+      {
+        "id": "R0034975",
+        "degree": 4
+      },
+      {
+        "id": "R0035030",
+        "degree": 4
+      },
+      {
+        "id": "R0070431",
+        "degree": 4
+      }
+    ],
+    "sample_members": [
+      "R0026376",
+      "R0029934",
+      "R0034975",
+      "R0035030",
+      "R0058146",
+      "R0058717",
+      "R0059505",
+      "R0059524",
+      "R0070431",
+      "R0071458",
+      "R0072823",
+      "R0072836"
+    ]
+  },
+  {
+    "rank": 32,
+    "component_id": "R0075047",
+    "size": 12,
+    "edge_counts": {
+      "EXACT_BODY": 8,
+      "MARKER_ENDPOINT": 8,
+      "MARKER_SAME": 11
+    },
+    "mechanical_kinds": {
+      "payload": 4,
+      "recovered_text": 4,
+      "response": 4
+    },
+    "top_markers": [
+      [
+        "[REDACTED:query_value:001471]",
+        12
+      ],
+      [
+        "[REDACTED:destination:006242]",
+        3
+      ],
+      [
+        "[REDACTED:destination:006243]",
+        3
+      ],
+      [
+        "[REDACTED:destination:006244]",
+        3
+      ],
+      [
+        "[REDACTED:destination:006245]",
+        3
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0060846",
+        "degree": 6
+      },
+      {
+        "id": "R0060850",
+        "degree": 6
+      },
+      {
+        "id": "R0060851",
+        "degree": 6
+      },
+      {
+        "id": "R0060852",
+        "degree": 6
+      },
+      {
+        "id": "R0041816",
+        "degree": 4
+      },
+      {
+        "id": "R0041817",
+        "degree": 4
+      },
+      {
+        "id": "R0041818",
+        "degree": 4
+      },
+      {
+        "id": "R0075041",
+        "degree": 4
+      }
+    ],
+    "sample_members": [
+      "R0041814",
+      "R0041816",
+      "R0041817",
+      "R0041818",
+      "R0060846",
+      "R0060850",
+      "R0060851",
+      "R0060852",
+      "R0075041",
+      "R0075045",
+      "R0075046",
+      "R0075047"
+    ]
+  },
+  {
+    "rank": 33,
+    "component_id": "R0075832",
+    "size": 12,
+    "edge_counts": {
+      "EXACT_BODY": 8,
+      "MARKER_ENDPOINT": 11,
+      "MARKER_SAME": 9
+    },
+    "mechanical_kinds": {
+      "payload": 4,
+      "recovered_text": 4,
+      "response": 4
+    },
+    "top_markers": [
+      [
+        "[REDACTED:destination:006471]",
+        12
+      ],
+      [
+        "[REDACTED:query_value:001532]",
+        6
+      ],
+      [
+        "[REDACTED:query_value:001564]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:001565]",
+        3
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0061128",
+        "degree": 6
+      },
+      {
+        "id": "R0061129",
+        "degree": 6
+      },
+      {
+        "id": "R0061262",
+        "degree": 6
+      },
+      {
+        "id": "R0061263",
+        "degree": 6
+      },
+      {
+        "id": "R0043178",
+        "degree": 5
+      },
+      {
+        "id": "R0075596",
+        "degree": 5
+      },
+      {
+        "id": "R0043785",
+        "degree": 4
+      },
+      {
+        "id": "R0043786",
+        "degree": 4
+      }
+    ],
+    "sample_members": [
+      "R0043177",
+      "R0043178",
+      "R0043785",
+      "R0043786",
+      "R0061128",
+      "R0061129",
+      "R0061262",
+      "R0061263",
+      "R0075596",
+      "R0075597",
+      "R0075831",
+      "R0075832"
+    ]
+  },
+  {
+    "rank": 34,
+    "component_id": "R0109001",
+    "size": 12,
+    "edge_counts": {
+      "EXACT_BODY": 5,
+      "MARKER_ENDPOINT": 12,
+      "PARENT_DIRECT": 3
+    },
+    "mechanical_kinds": {
+      "payload": 4,
+      "recovered_text": 8
+    },
+    "top_markers": [
+      [
+        "[REDACTED:destination:009677]",
+        9
+      ],
+      [
+        "[SHORTENER URL 88289]",
+        3
+      ],
+      [
+        "[SHORTENER URL 88312]",
+        2
+      ],
+      [
+        "[SHORTENER URL 88741]",
+        2
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0080941",
+        "degree": 5
+      },
+      {
+        "id": "R0079891",
+        "degree": 4
+      },
+      {
+        "id": "R0079936",
+        "degree": 4
+      },
+      {
+        "id": "R0080670",
+        "degree": 4
+      },
+      {
+        "id": "R0095614",
+        "degree": 4
+      },
+      {
+        "id": "R0105886",
+        "degree": 4
+      },
+      {
+        "id": "R0105987",
+        "degree": 4
+      },
+      {
+        "id": "R0090232",
+        "degree": 3
+      }
+    ],
+    "sample_members": [
+      "R0079891",
+      "R0079936",
+      "R0080670",
+      "R0080941",
+      "R0090232",
+      "R0095614",
+      "R0105886",
+      "R0105987",
+      "R0109001",
+      "R0167701",
+      "R0169520",
+      "R0185327"
+    ]
+  },
+  {
+    "rank": 35,
+    "component_id": "R0186947",
+    "size": 12,
+    "edge_counts": {
+      "EXACT_BODY": 8,
+      "MARKER_ENDPOINT": 11,
+      "MARKER_SAME": 15,
+      "PARENT_DIRECT": 8,
+      "SAME_PARENT_SIBLING": 4
+    },
+    "mechanical_kinds": {
+      "payload": 4,
+      "recovered_text": 4,
+      "response": 4
+    },
+    "top_markers": [
+      [
+        "[REDACTED:destination:024234]",
+        12
+      ],
+      [
+        "[REDACTED:source_path:001280]",
+        12
+      ],
+      [
+        "[REDACTED:source_path:001279]",
+        9
+      ],
+      [
+        "[REDACTED:source_path:001281]",
+        3
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0147650",
+        "degree": 10
+      },
+      {
+        "id": "R0147647",
+        "degree": 9
+      },
+      {
+        "id": "R0147649",
+        "degree": 9
+      },
+      {
+        "id": "R0112765",
+        "degree": 8
+      },
+      {
+        "id": "R0112766",
+        "degree": 8
+      },
+      {
+        "id": "R0147648",
+        "degree": 8
+      },
+      {
+        "id": "R0164310",
+        "degree": 8
+      },
+      {
+        "id": "R0112764",
+        "degree": 7
+      }
+    ],
+    "sample_members": [
+      "R0112763",
+      "R0112764",
+      "R0112765",
+      "R0112766",
+      "R0147647",
+      "R0147648",
+      "R0147649",
+      "R0147650",
+      "R0164310",
+      "R0171812",
+      "R0172703",
+      "R0186947"
+    ]
+  },
+  {
+    "rank": 36,
+    "component_id": "R0188109",
+    "size": 12,
+    "edge_counts": {
+      "MARKER_ENDPOINT": 5,
+      "MARKER_SAME": 6,
+      "PARENT_DIRECT": 5
+    },
+    "mechanical_kinds": {
+      "payload": 7,
+      "recovered_text": 5
+    },
+    "top_markers": [
+      [
+        "[SERVICE 25 URL 556]",
+        7
+      ],
+      [
+        "[REDACTED:destination:027764]",
+        2
+      ],
+      [
+        "[REDACTED:destination:027964]",
+        2
+      ],
+      [
+        "[REDACTED:destination:027976]",
+        2
+      ],
+      [
+        "[REDACTED:destination:028156]",
+        2
+      ],
+      [
+        "[REDACTED:destination:028224]",
+        2
+      ],
+      [
+        "[REDACTED:destination:027712]",
+        1
+      ],
+      [
+        "[REDACTED:destination:027739]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0121673",
+        "degree": 4
+      },
+      {
+        "id": "R0123386",
+        "degree": 4
+      },
+      {
+        "id": "R0123438",
+        "degree": 4
+      },
+      {
+        "id": "R0124575",
+        "degree": 4
+      },
+      {
+        "id": "R0125000",
+        "degree": 3
+      },
+      {
+        "id": "R0121485",
+        "degree": 2
+      },
+      {
+        "id": "R0170916",
+        "degree": 2
+      },
+      {
+        "id": "R0173039",
+        "degree": 2
+      }
+    ],
+    "sample_members": [
+      "R0121277",
+      "R0121485",
+      "R0121673",
+      "R0123386",
+      "R0123438",
+      "R0124575",
+      "R0125000",
+      "R0170916",
+      "R0173039",
+      "R0175216",
+      "R0186584",
+      "R0188109"
+    ]
+  },
+  {
+    "rank": 37,
+    "component_id": "R0020597",
+    "size": 11,
+    "edge_counts": {
+      "MARKER_SAME": 10
+    },
+    "mechanical_kinds": {
+      "payload": 11
+    },
+    "top_markers": [
+      [
+        "[ENCODED BLOB 8208]",
+        11
+      ],
+      [
+        "[ENCODED BLOB 8207]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 8209]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 8210]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 8211]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 8212]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 8213]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 8214]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 8215]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 9554]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 9555]",
+        1
+      ],
+      [
+        "[REDACTED:opaque_base64:000328]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0015669",
+        "degree": 2
+      },
+      {
+        "id": "R0015670",
+        "degree": 2
+      },
+      {
+        "id": "R0015671",
+        "degree": 2
+      },
+      {
+        "id": "R0017074",
+        "degree": 2
+      },
+      {
+        "id": "R0018705",
+        "degree": 2
+      },
+      {
+        "id": "R0018710",
+        "degree": 2
+      },
+      {
+        "id": "R0018723",
+        "degree": 2
+      },
+      {
+        "id": "R0018922",
+        "degree": 2
+      }
+    ],
+    "sample_members": [
+      "R0015668",
+      "R0015669",
+      "R0015670",
+      "R0015671",
+      "R0017074",
+      "R0018705",
+      "R0018710",
+      "R0018723",
+      "R0018922",
+      "R0020586",
+      "R0020597"
+    ]
+  },
+  {
+    "rank": 38,
+    "component_id": "R0043259",
+    "size": 11,
+    "edge_counts": {
+      "MARKER_SAME": 10
+    },
+    "mechanical_kinds": {
+      "payload": 11
+    },
+    "top_markers": [
+      [
+        "[SHORTENER CODE 64534]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 64535]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 64536]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 64537]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 64538]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 64539]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 64540]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 64541]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 64542]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 64543]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 64544]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 64545]",
+        2
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0043257",
+        "degree": 3
+      },
+      {
+        "id": "R0043236",
+        "degree": 2
+      },
+      {
+        "id": "R0043237",
+        "degree": 2
+      },
+      {
+        "id": "R0043239",
+        "degree": 2
+      },
+      {
+        "id": "R0043241",
+        "degree": 2
+      },
+      {
+        "id": "R0043255",
+        "degree": 2
+      },
+      {
+        "id": "R0043256",
+        "degree": 2
+      },
+      {
+        "id": "R0043258",
+        "degree": 2
+      }
+    ],
+    "sample_members": [
+      "R0043235",
+      "R0043236",
+      "R0043237",
+      "R0043238",
+      "R0043239",
+      "R0043241",
+      "R0043255",
+      "R0043256",
+      "R0043257",
+      "R0043258",
+      "R0043259"
+    ]
+  },
+  {
+    "rank": 39,
+    "component_id": "R0103555",
+    "size": 11,
+    "edge_counts": {
+      "MARKER_SAME": 10
+    },
+    "mechanical_kinds": {
+      "recovered_text": 11
+    },
+    "top_markers": [
+      [
+        "[\"submit-function\",\"{\\\"submitted_code\\\":\\\"x\\\",\\\"checksum\\\":\\\"[REDACTED:source_identifier:006591]",
+        10
+      ],
+      [
+        "[ENCODED BLOB 59049]",
+        2
+      ],
+      [
+        "[ENCODED BLOB 57317]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 58006]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 58481]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 60960]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 61373]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 61608]",
+        1
+      ],
+      [
+        "[REDACTED:source_identifier:008379]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 25192]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 63962]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 64017]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0089256",
+        "degree": 3
+      },
+      {
+        "id": "R0086577",
+        "degree": 2
+      },
+      {
+        "id": "R0087949",
+        "degree": 2
+      },
+      {
+        "id": "R0095244",
+        "degree": 2
+      },
+      {
+        "id": "R0096383",
+        "degree": 2
+      },
+      {
+        "id": "R0097285",
+        "degree": 2
+      },
+      {
+        "id": "R0103746",
+        "degree": 2
+      },
+      {
+        "id": "R0106767",
+        "degree": 2
+      }
+    ],
+    "sample_members": [
+      "R0084864",
+      "R0086577",
+      "R0087949",
+      "R0089256",
+      "R0095244",
+      "R0096383",
+      "R0097285",
+      "R0103555",
+      "R0103746",
+      "R0106767",
+      "R0107115"
+    ]
+  },
+  {
+    "rank": 40,
+    "component_id": "R0109563",
+    "size": 11,
+    "edge_counts": {
+      "MARKER_ENDPOINT": 10
+    },
+    "mechanical_kinds": {
+      "recovered_text": 11
+    },
+    "top_markers": [
+      [
+        "[PROXY 167 URL 1]",
+        11
+      ],
+      [
+        "[REDACTED:destination:011188]",
+        1
+      ],
+      [
+        "[REDACTED:destination:012161]",
+        1
+      ],
+      [
+        "[REDACTED:destination:013488]",
+        1
+      ],
+      [
+        "[REDACTED:destination:015510]",
+        1
+      ],
+      [
+        "[REDACTED:destination:015643]",
+        1
+      ],
+      [
+        "[REDACTED:destination:016499]",
+        1
+      ],
+      [
+        "[REDACTED:destination:018304]",
+        1
+      ],
+      [
+        "[REDACTED:destination:020255]",
+        1
+      ],
+      [
+        "[REDACTED:destination:022414]",
+        1
+      ],
+      [
+        "[REDACTED:destination:022509]",
+        1
+      ],
+      [
+        "[REDACTED:destination:022762]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0087694",
+        "degree": 2
+      },
+      {
+        "id": "R0090341",
+        "degree": 2
+      },
+      {
+        "id": "R0094314",
+        "degree": 2
+      },
+      {
+        "id": "R0094562",
+        "degree": 2
+      },
+      {
+        "id": "R0096517",
+        "degree": 2
+      },
+      {
+        "id": "R0099805",
+        "degree": 2
+      },
+      {
+        "id": "R0104212",
+        "degree": 2
+      },
+      {
+        "id": "R0108763",
+        "degree": 2
+      }
+    ],
+    "sample_members": [
+      "R0086049",
+      "R0087694",
+      "R0090341",
+      "R0094314",
+      "R0094562",
+      "R0096517",
+      "R0099805",
+      "R0104212",
+      "R0108763",
+      "R0108932",
+      "R0109563"
+    ]
+  },
+  {
+    "rank": 41,
+    "component_id": "R0189426",
+    "size": 11,
+    "edge_counts": {
+      "EXACT_BODY": 5,
+      "MARKER_ENDPOINT": 6,
+      "MARKER_SAME": 4,
+      "PARENT_DIRECT": 10,
+      "SAME_PARENT_SIBLING": 9
+    },
+    "mechanical_kinds": {
+      "payload": 1,
+      "recovered_text": 5,
+      "response": 5
+    },
+    "top_markers": [
+      [
+        "[REDACTED:destination:026000]",
+        8
+      ],
+      [
+        "[ENCODED BLOB 70345]",
+        3
+      ],
+      [
+        "[REDACTED:opaque_marker_tail:000912]",
+        3
+      ],
+      [
+        "[ENCODED BLOB 70346]",
+        3
+      ],
+      [
+        "[REDACTED:destination:026001]",
+        3
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0117560",
+        "degree": 14
+      },
+      {
+        "id": "R0154387",
+        "degree": 6
+      },
+      {
+        "id": "R0154388",
+        "degree": 6
+      },
+      {
+        "id": "R0154389",
+        "degree": 6
+      },
+      {
+        "id": "R0154390",
+        "degree": 6
+      },
+      {
+        "id": "R0176810",
+        "degree": 6
+      },
+      {
+        "id": "R0154386",
+        "degree": 5
+      },
+      {
+        "id": "R0159742",
+        "degree": 5
+      }
+    ],
+    "sample_members": [
+      "R0117560",
+      "R0154386",
+      "R0154387",
+      "R0154388",
+      "R0154389",
+      "R0154390",
+      "R0159742",
+      "R0176810",
+      "R0180272",
+      "R0184778",
+      "R0189426"
+    ]
+  },
+  {
+    "rank": 42,
+    "component_id": "R0037726",
+    "size": 10,
+    "edge_counts": {
+      "MARKER_SAME": 9
+    },
+    "mechanical_kinds": {
+      "payload": 10
+    },
+    "top_markers": [
+      [
+        "[123]",
+        8
+      ],
+      [
+        "[ENCODED BLOB 21866]",
+        2
+      ],
+      [
+        "[195]",
+        2
+      ],
+      [
+        "[ENCODED BLOB 1182]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 23163]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 25092]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 26387]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 26489]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 28322]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0029763",
+        "degree": 3
+      },
+      {
+        "id": "R0015493",
+        "degree": 2
+      },
+      {
+        "id": "R0029597",
+        "degree": 2
+      },
+      {
+        "id": "R0031492",
+        "degree": 2
+      },
+      {
+        "id": "R0034371",
+        "degree": 2
+      },
+      {
+        "id": "R0035643",
+        "degree": 2
+      },
+      {
+        "id": "R0037726",
+        "degree": 2
+      },
+      {
+        "id": "R0004702",
+        "degree": 1
+      }
+    ],
+    "sample_members": [
+      "R0004702",
+      "R0015493",
+      "R0029597",
+      "R0029763",
+      "R0031492",
+      "R0034371",
+      "R0035490",
+      "R0035643",
+      "R0037715",
+      "R0037726"
+    ]
+  },
+  {
+    "rank": 43,
+    "component_id": "R0038506",
+    "size": 10,
+    "edge_counts": {
+      "MARKER_SAME": 9
+    },
+    "mechanical_kinds": {
+      "payload": 10
+    },
+    "top_markers": [
+      [
+        "[107]",
+        10
+      ],
+      [
+        "[ENCODED BLOB 25326]",
+        2
+      ],
+      [
+        "[ENCODED BLOB 1179]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 1221]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 20636]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 22435]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 23986]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 24549]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 28306]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 29110]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0004795",
+        "degree": 2
+      },
+      {
+        "id": "R0028774",
+        "degree": 2
+      },
+      {
+        "id": "R0030536",
+        "degree": 2
+      },
+      {
+        "id": "R0032600",
+        "degree": 2
+      },
+      {
+        "id": "R0033414",
+        "degree": 2
+      },
+      {
+        "id": "R0034518",
+        "degree": 2
+      },
+      {
+        "id": "R0035639",
+        "degree": 2
+      },
+      {
+        "id": "R0037707",
+        "degree": 2
+      }
+    ],
+    "sample_members": [
+      "R0004698",
+      "R0004795",
+      "R0028774",
+      "R0030536",
+      "R0032600",
+      "R0033414",
+      "R0034518",
+      "R0035639",
+      "R0037707",
+      "R0038506"
+    ]
+  },
+  {
+    "rank": 44,
+    "component_id": "R0042765",
+    "size": 10,
+    "edge_counts": {
+      "EXACT_BODY": 6,
+      "MARKER_SAME": 9
+    },
+    "mechanical_kinds": {
+      "payload": 4,
+      "recovered_text": 3,
+      "response": 3
+    },
+    "top_markers": [
+      [
+        "[REDACTED:query_value:000660]",
+        10
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0056349",
+        "degree": 4
+      },
+      {
+        "id": "R0056350",
+        "degree": 4
+      },
+      {
+        "id": "R0056351",
+        "degree": 4
+      },
+      {
+        "id": "R0018336",
+        "degree": 3
+      },
+      {
+        "id": "R0018338",
+        "degree": 3
+      },
+      {
+        "id": "R0067999",
+        "degree": 3
+      },
+      {
+        "id": "R0068000",
+        "degree": 3
+      },
+      {
+        "id": "R0018334",
+        "degree": 2
+      }
+    ],
+    "sample_members": [
+      "R0018334",
+      "R0018336",
+      "R0018338",
+      "R0042765",
+      "R0056349",
+      "R0056350",
+      "R0056351",
+      "R0067999",
+      "R0068000",
+      "R0068001"
+    ]
+  },
+  {
+    "rank": 45,
+    "component_id": "R0103302",
+    "size": 10,
+    "edge_counts": {
+      "MARKER_ENDPOINT": 1,
+      "MARKER_SAME": 8
+    },
+    "mechanical_kinds": {
+      "recovered_text": 10
+    },
+    "top_markers": [
+      [
+        "[REDACTED:source_identifier:006848]",
+        9
+      ],
+      [
+        "[REDACTED:destination:011491]",
+        2
+      ],
+      [
+        "[REDACTED:destination:011919]",
+        1
+      ],
+      [
+        "[REDACTED:destination:016116]",
+        1
+      ],
+      [
+        "[REDACTED:destination:017262]",
+        1
+      ],
+      [
+        "[REDACTED:destination:017265]",
+        1
+      ],
+      [
+        "[REDACTED:destination:017510]",
+        1
+      ],
+      [
+        "[REDACTED:destination:017627]",
+        1
+      ],
+      [
+        "[REDACTED:destination:018471]",
+        1
+      ],
+      [
+        "[REDACTED:destination:019896]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0089825",
+        "degree": 3
+      },
+      {
+        "id": "R0095644",
+        "degree": 2
+      },
+      {
+        "id": "R0097828",
+        "degree": 2
+      },
+      {
+        "id": "R0097832",
+        "degree": 2
+      },
+      {
+        "id": "R0098285",
+        "degree": 2
+      },
+      {
+        "id": "R0098511",
+        "degree": 2
+      },
+      {
+        "id": "R0100103",
+        "degree": 2
+      },
+      {
+        "id": "R0086566",
+        "degree": 1
+      }
+    ],
+    "sample_members": [
+      "R0086566",
+      "R0087294",
+      "R0089825",
+      "R0095644",
+      "R0097828",
+      "R0097832",
+      "R0098285",
+      "R0098511",
+      "R0100103",
+      "R0103302"
+    ]
+  },
+  {
+    "rank": 46,
+    "component_id": "R0112702",
+    "size": 10,
+    "edge_counts": {
+      "MARKER_SAME": 10
+    },
+    "mechanical_kinds": {
+      "recovered_text": 10
+    },
+    "top_markers": [
+      [
+        "[REDACTED:opaque_base64:002005]",
+        6
+      ],
+      [
+        "[ENCODED BLOB 62000]",
+        3
+      ],
+      [
+        "[ENCODED BLOB 61444]",
+        2
+      ],
+      [
+        "[REDACTED:opaque_base64:002156]",
+        2
+      ],
+      [
+        "[REDACTED:opaque_base64:002290]",
+        2
+      ],
+      [
+        "[ENCODED BLOB 59350]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 61019]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 61736]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 63249]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 63357]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0111697",
+        "degree": 3
+      },
+      {
+        "id": "R0095350",
+        "degree": 2
+      },
+      {
+        "id": "R0096692",
+        "degree": 2
+      },
+      {
+        "id": "R0097899",
+        "degree": 2
+      },
+      {
+        "id": "R0099084",
+        "degree": 2
+      },
+      {
+        "id": "R0103439",
+        "degree": 2
+      },
+      {
+        "id": "R0103867",
+        "degree": 2
+      },
+      {
+        "id": "R0104061",
+        "degree": 2
+      }
+    ],
+    "sample_members": [
+      "R0090081",
+      "R0095350",
+      "R0096692",
+      "R0097899",
+      "R0099084",
+      "R0103439",
+      "R0103867",
+      "R0104061",
+      "R0111697",
+      "R0112702"
+    ]
+  },
+  {
+    "rank": 47,
+    "component_id": "R0042591",
+    "size": 9,
+    "edge_counts": {
+      "MARKER_SAME": 8
+    },
+    "mechanical_kinds": {
+      "payload": 9
+    },
+    "top_markers": [
+      [
+        "[exec(u.urlopen('[SHORTENER-1-HOST]",
+        9
+      ],
+      [
+        "[SHORTENER CODE 62477]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 62478]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 62479]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 62481]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 62482]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 62483]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 62486]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 62487]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 62971]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 62972]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 62973]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0026698",
+        "degree": 2
+      },
+      {
+        "id": "R0026699",
+        "degree": 2
+      },
+      {
+        "id": "R0041965",
+        "degree": 2
+      },
+      {
+        "id": "R0041967",
+        "degree": 2
+      },
+      {
+        "id": "R0041970",
+        "degree": 2
+      },
+      {
+        "id": "R0042417",
+        "degree": 2
+      },
+      {
+        "id": "R0042584",
+        "degree": 2
+      },
+      {
+        "id": "R0026697",
+        "degree": 1
+      }
+    ],
+    "sample_members": [
+      "R0026697",
+      "R0026698",
+      "R0026699",
+      "R0041965",
+      "R0041967",
+      "R0041970",
+      "R0042417",
+      "R0042584",
+      "R0042591"
+    ]
+  },
+  {
+    "rank": 48,
+    "component_id": "R0062513",
+    "size": 9,
+    "edge_counts": {
+      "EXACT_BODY": 7,
+      "MARKER_ENDPOINT": 8,
+      "NORMALIZED_REPLAY": 1
+    },
+    "mechanical_kinds": {
+      "payload": 3,
+      "recovered_text": 3,
+      "response": 3
+    },
+    "top_markers": [
+      [
+        "[REDACTED:destination:000020]",
+        9
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0000156",
+        "degree": 4
+      },
+      {
+        "id": "R0000158",
+        "degree": 4
+      },
+      {
+        "id": "R0053451",
+        "degree": 4
+      },
+      {
+        "id": "R0053452",
+        "degree": 4
+      },
+      {
+        "id": "R0053453",
+        "degree": 4
+      },
+      {
+        "id": "R0062511",
+        "degree": 4
+      },
+      {
+        "id": "R0000155",
+        "degree": 3
+      },
+      {
+        "id": "R0062512",
+        "degree": 3
+      }
+    ],
+    "sample_members": [
+      "R0000155",
+      "R0000156",
+      "R0000158",
+      "R0053451",
+      "R0053452",
+      "R0053453",
+      "R0062511",
+      "R0062512",
+      "R0062513"
+    ]
+  },
+  {
+    "rank": 49,
+    "component_id": "R0064229",
+    "size": 9,
+    "edge_counts": {
+      "EXACT_BODY": 6,
+      "MARKER_SAME": 8,
+      "PARENT_DIRECT": 6,
+      "SAME_PARENT_SIBLING": 3
+    },
+    "mechanical_kinds": {
+      "payload": 3,
+      "recovered_text": 3,
+      "response": 3
+    },
+    "top_markers": [
+      [
+        "[SERVICE 21 URL 20]",
+        9
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0054152",
+        "degree": 6
+      },
+      {
+        "id": "R0054156",
+        "degree": 6
+      },
+      {
+        "id": "R0054172",
+        "degree": 6
+      },
+      {
+        "id": "R0005298",
+        "degree": 5
+      },
+      {
+        "id": "R0005430",
+        "degree": 5
+      },
+      {
+        "id": "R0064177",
+        "degree": 5
+      },
+      {
+        "id": "R0064181",
+        "degree": 5
+      },
+      {
+        "id": "R0005292",
+        "degree": 4
+      }
+    ],
+    "sample_members": [
+      "R0005292",
+      "R0005298",
+      "R0005430",
+      "R0054152",
+      "R0054156",
+      "R0054172",
+      "R0064177",
+      "R0064181",
+      "R0064229"
+    ]
+  },
+  {
+    "rank": 50,
+    "component_id": "R0067071",
+    "size": 9,
+    "edge_counts": {
+      "EXACT_BODY": 6,
+      "MARKER_ENDPOINT": 14,
+      "MARKER_SAME": 6
+    },
+    "mechanical_kinds": {
+      "payload": 3,
+      "recovered_text": 3,
+      "response": 3
+    },
+    "top_markers": [
+      [
+        "[REDACTED:destination:001931]",
+        9
+      ],
+      [
+        "[REDACTED:destination:001930]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:000467]",
+        3
+      ],
+      [
+        "[REDACTED:destination:001932]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:000468]",
+        3
+      ],
+      [
+        "[REDACTED:destination:001934]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:000470]",
+        3
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0055747",
+        "degree": 8
+      },
+      {
+        "id": "R0055748",
+        "degree": 8
+      },
+      {
+        "id": "R0055749",
+        "degree": 8
+      },
+      {
+        "id": "R0014520",
+        "degree": 5
+      },
+      {
+        "id": "R0014523",
+        "degree": 5
+      },
+      {
+        "id": "R0067069",
+        "degree": 5
+      },
+      {
+        "id": "R0067070",
+        "degree": 5
+      },
+      {
+        "id": "R0014519",
+        "degree": 4
+      }
+    ],
+    "sample_members": [
+      "R0014519",
+      "R0014520",
+      "R0014523",
+      "R0055747",
+      "R0055748",
+      "R0055749",
+      "R0067069",
+      "R0067070",
+      "R0067071"
+    ]
+  },
+  {
+    "rank": 51,
+    "component_id": "R0068800",
+    "size": 9,
+    "edge_counts": {
+      "EXACT_BODY": 6,
+      "MARKER_SAME": 8
+    },
+    "mechanical_kinds": {
+      "payload": 3,
+      "recovered_text": 3,
+      "response": 3
+    },
+    "top_markers": [
+      [
+        "[REDACTED:query_value:000827]",
+        9
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0056956",
+        "degree": 4
+      },
+      {
+        "id": "R0056957",
+        "degree": 4
+      },
+      {
+        "id": "R0057003",
+        "degree": 4
+      },
+      {
+        "id": "R0021279",
+        "degree": 3
+      },
+      {
+        "id": "R0021528",
+        "degree": 3
+      },
+      {
+        "id": "R0068754",
+        "degree": 3
+      },
+      {
+        "id": "R0068755",
+        "degree": 3
+      },
+      {
+        "id": "R0021278",
+        "degree": 2
+      }
+    ],
+    "sample_members": [
+      "R0021278",
+      "R0021279",
+      "R0021528",
+      "R0056956",
+      "R0056957",
+      "R0057003",
+      "R0068754",
+      "R0068755",
+      "R0068800"
+    ]
+  },
+  {
+    "rank": 52,
+    "component_id": "R0068986",
+    "size": 9,
+    "edge_counts": {
+      "EXACT_BODY": 6,
+      "MARKER_ENDPOINT": 6,
+      "MARKER_SAME": 8
+    },
+    "mechanical_kinds": {
+      "payload": 3,
+      "recovered_text": 3,
+      "response": 3
+    },
+    "top_markers": [
+      [
+        "[REDACTED:query_value:000892]",
+        9
+      ],
+      [
+        "[REDACTED:destination:002990]",
+        3
+      ],
+      [
+        "[REDACTED:destination:002991]",
+        3
+      ],
+      [
+        "[REDACTED:destination:002992]",
+        3
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0057140",
+        "degree": 6
+      },
+      {
+        "id": "R0057141",
+        "degree": 6
+      },
+      {
+        "id": "R0057142",
+        "degree": 6
+      },
+      {
+        "id": "R0022346",
+        "degree": 4
+      },
+      {
+        "id": "R0022351",
+        "degree": 4
+      },
+      {
+        "id": "R0068984",
+        "degree": 4
+      },
+      {
+        "id": "R0068985",
+        "degree": 4
+      },
+      {
+        "id": "R0022342",
+        "degree": 3
+      }
+    ],
+    "sample_members": [
+      "R0022342",
+      "R0022346",
+      "R0022351",
+      "R0057140",
+      "R0057141",
+      "R0057142",
+      "R0068984",
+      "R0068985",
+      "R0068986"
+    ]
+  },
+  {
+    "rank": 53,
+    "component_id": "R0070077",
+    "size": 9,
+    "edge_counts": {
+      "EXACT_BODY": 6,
+      "MARKER_ENDPOINT": 7,
+      "MARKER_SAME": 7
+    },
+    "mechanical_kinds": {
+      "payload": 3,
+      "recovered_text": 3,
+      "response": 3
+    },
+    "top_markers": [
+      [
+        "[REDACTED:destination:002960]",
+        6
+      ],
+      [
+        "[REDACTED:query_value:001012]",
+        6
+      ],
+      [
+        "[REDACTED:query_value:000878]",
+        3
+      ],
+      [
+        "[REDACTED:destination:003518]",
+        3
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0057098",
+        "degree": 6
+      },
+      {
+        "id": "R0057956",
+        "degree": 6
+      },
+      {
+        "id": "R0057957",
+        "degree": 6
+      },
+      {
+        "id": "R0024599",
+        "degree": 5
+      },
+      {
+        "id": "R0068933",
+        "degree": 4
+      },
+      {
+        "id": "R0070076",
+        "degree": 4
+      },
+      {
+        "id": "R0022134",
+        "degree": 3
+      },
+      {
+        "id": "R0024596",
+        "degree": 3
+      }
+    ],
+    "sample_members": [
+      "R0022134",
+      "R0024596",
+      "R0024599",
+      "R0057098",
+      "R0057956",
+      "R0057957",
+      "R0068933",
+      "R0070076",
+      "R0070077"
+    ]
+  },
+  {
+    "rank": 54,
+    "component_id": "R0071766",
+    "size": 9,
+    "edge_counts": {
+      "EXACT_BODY": 6,
+      "MARKER_ENDPOINT": 8,
+      "MARKER_SAME": 6
+    },
+    "mechanical_kinds": {
+      "payload": 3,
+      "recovered_text": 3,
+      "response": 3
+    },
+    "top_markers": [
+      [
+        "[REDACTED:destination:004583]",
+        9
+      ],
+      [
+        "[REDACTED:query_value:001119]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:001147]",
+        3
+      ],
+      [
+        "[REDACTED:query_value:001160]",
+        3
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0058662",
+        "degree": 6
+      },
+      {
+        "id": "R0058812",
+        "degree": 6
+      },
+      {
+        "id": "R0058913",
+        "degree": 6
+      },
+      {
+        "id": "R0030508",
+        "degree": 4
+      },
+      {
+        "id": "R0031088",
+        "degree": 4
+      },
+      {
+        "id": "R0071368",
+        "degree": 4
+      },
+      {
+        "id": "R0071605",
+        "degree": 4
+      },
+      {
+        "id": "R0029657",
+        "degree": 3
+      }
+    ],
+    "sample_members": [
+      "R0029657",
+      "R0030508",
+      "R0031088",
+      "R0058662",
+      "R0058812",
+      "R0058913",
+      "R0071368",
+      "R0071605",
+      "R0071766"
+    ]
+  },
+  {
+    "rank": 55,
+    "component_id": "R0072587",
+    "size": 9,
+    "edge_counts": {
+      "EXACT_BODY": 6,
+      "MARKER_ENDPOINT": 6,
+      "MARKER_SAME": 8
+    },
+    "mechanical_kinds": {
+      "payload": 3,
+      "recovered_text": 3,
+      "response": 3
+    },
+    "top_markers": [
+      [
+        "[REDACTED:repo_locator:000875]",
+        9
+      ],
+      [
+        "[REDACTED:destination:005199]",
+        3
+      ],
+      [
+        "[REDACTED:destination:005200]",
+        3
+      ],
+      [
+        "[REDACTED:destination:005202]",
+        3
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0059356",
+        "degree": 6
+      },
+      {
+        "id": "R0059358",
+        "degree": 6
+      },
+      {
+        "id": "R0059359",
+        "degree": 6
+      },
+      {
+        "id": "R0034140",
+        "degree": 4
+      },
+      {
+        "id": "R0034143",
+        "degree": 4
+      },
+      {
+        "id": "R0072582",
+        "degree": 4
+      },
+      {
+        "id": "R0072586",
+        "degree": 4
+      },
+      {
+        "id": "R0034136",
+        "degree": 3
+      }
+    ],
+    "sample_members": [
+      "R0034136",
+      "R0034140",
+      "R0034143",
+      "R0059356",
+      "R0059358",
+      "R0059359",
+      "R0072582",
+      "R0072586",
+      "R0072587"
+    ]
+  },
+  {
+    "rank": 56,
+    "component_id": "R0074929",
+    "size": 9,
+    "edge_counts": {
+      "EXACT_BODY": 6,
+      "MARKER_SAME": 8
+    },
+    "mechanical_kinds": {
+      "payload": 3,
+      "recovered_text": 3,
+      "response": 3
+    },
+    "top_markers": [
+      [
+        "[REDACTED:query_value:001396]",
+        9
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0060303",
+        "degree": 4
+      },
+      {
+        "id": "R0060775",
+        "degree": 4
+      },
+      {
+        "id": "R0060776",
+        "degree": 4
+      },
+      {
+        "id": "R0041424",
+        "degree": 3
+      },
+      {
+        "id": "R0041425",
+        "degree": 3
+      },
+      {
+        "id": "R0074193",
+        "degree": 3
+      },
+      {
+        "id": "R0074928",
+        "degree": 3
+      },
+      {
+        "id": "R0038668",
+        "degree": 2
+      }
+    ],
+    "sample_members": [
+      "R0038668",
+      "R0041424",
+      "R0041425",
+      "R0060303",
+      "R0060775",
+      "R0060776",
+      "R0074193",
+      "R0074928",
+      "R0074929"
+    ]
+  },
+  {
+    "rank": 57,
+    "component_id": "R0077781",
+    "size": 9,
+    "edge_counts": {
+      "EXACT_BODY": 6,
+      "MARKER_ENDPOINT": 8
+    },
+    "mechanical_kinds": {
+      "payload": 3,
+      "recovered_text": 3,
+      "response": 3
+    },
+    "top_markers": [
+      [
+        "[REDACTED:destination:008073]",
+        9
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0062183",
+        "degree": 4
+      },
+      {
+        "id": "R0062184",
+        "degree": 4
+      },
+      {
+        "id": "R0062185",
+        "degree": 4
+      },
+      {
+        "id": "R0050735",
+        "degree": 3
+      },
+      {
+        "id": "R0050736",
+        "degree": 3
+      },
+      {
+        "id": "R0077779",
+        "degree": 3
+      },
+      {
+        "id": "R0077780",
+        "degree": 3
+      },
+      {
+        "id": "R0050734",
+        "degree": 2
+      }
+    ],
+    "sample_members": [
+      "R0050734",
+      "R0050735",
+      "R0050736",
+      "R0062183",
+      "R0062184",
+      "R0062185",
+      "R0077779",
+      "R0077780",
+      "R0077781"
+    ]
+  },
+  {
+    "rank": 58,
+    "component_id": "R0077903",
+    "size": 9,
+    "edge_counts": {
+      "EXACT_BODY": 2,
+      "MARKER_ENDPOINT": 4,
+      "MARKER_SAME": 8
+    },
+    "mechanical_kinds": {
+      "payload": 5,
+      "recovered_text": 2,
+      "response": 2
+    },
+    "top_markers": [
+      [
+        "[ENCODED BLOB 2523]",
+        7
+      ],
+      [
+        "[SHORTENER URL 80728]",
+        3
+      ],
+      [
+        "[ENCODED BLOB 48010]",
+        3
+      ],
+      [
+        "[SHORTENER URL 80729]",
+        3
+      ],
+      [
+        "[SERVICE 3 URL 428]",
+        1
+      ],
+      [
+        "[PROXY 4 URL 504]",
+        1
+      ],
+      [
+        "[PROXY 4 URL 590]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0051132",
+        "degree": 5
+      },
+      {
+        "id": "R0062226",
+        "degree": 5
+      },
+      {
+        "id": "R0062227",
+        "degree": 5
+      },
+      {
+        "id": "R0077902",
+        "degree": 4
+      },
+      {
+        "id": "R0077903",
+        "degree": 3
+      },
+      {
+        "id": "R0118990",
+        "degree": 2
+      },
+      {
+        "id": "R0122281",
+        "degree": 2
+      },
+      {
+        "id": "R0008498",
+        "degree": 1
+      }
+    ],
+    "sample_members": [
+      "R0008498",
+      "R0051132",
+      "R0062226",
+      "R0062227",
+      "R0077902",
+      "R0077903",
+      "R0118990",
+      "R0122281",
+      "R0124624"
+    ]
+  },
+  {
+    "rank": 59,
+    "component_id": "R0110423",
+    "size": 9,
+    "edge_counts": {
+      "MARKER_ENDPOINT": 6,
+      "MARKER_SAME": 10
+    },
+    "mechanical_kinds": {
+      "recovered_text": 9
+    },
+    "top_markers": [
+      [
+        "[REDACTED:opaque_base64:001944]",
+        8
+      ],
+      [
+        "[ENCODED BLOB 12280]",
+        3
+      ],
+      [
+        "[REDACTED:destination:011523]",
+        3
+      ],
+      [
+        "[REDACTED:destination:013211]",
+        3
+      ],
+      [
+        "[REDACTED:destination:016588]",
+        3
+      ],
+      [
+        "[CREDENTIAL 919]",
+        2
+      ],
+      [
+        "[REDACTED:bearer_token:000031]",
+        2
+      ],
+      [
+        "[ENCODED BLOB 9565]",
+        2
+      ],
+      [
+        "[ENCODED BLOB 61440]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 12279]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 62663]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 62802]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0099778",
+        "degree": 6
+      },
+      {
+        "id": "R0089900",
+        "degree": 4
+      },
+      {
+        "id": "R0101810",
+        "degree": 4
+      },
+      {
+        "id": "R0101873",
+        "degree": 4
+      },
+      {
+        "id": "R0103642",
+        "degree": 4
+      },
+      {
+        "id": "R0086622",
+        "degree": 3
+      },
+      {
+        "id": "R0096673",
+        "degree": 3
+      },
+      {
+        "id": "R0101181",
+        "degree": 3
+      }
+    ],
+    "sample_members": [
+      "R0086622",
+      "R0089900",
+      "R0096673",
+      "R0099778",
+      "R0101181",
+      "R0101810",
+      "R0101873",
+      "R0103642",
+      "R0110423"
+    ]
+  },
+  {
+    "rank": 60,
+    "component_id": "R0112938",
+    "size": 9,
+    "edge_counts": {
+      "MARKER_ENDPOINT": 8,
+      "PARENT_DIRECT": 1
+    },
+    "mechanical_kinds": {
+      "payload": 8,
+      "recovered_text": 1
+    },
+    "top_markers": [
+      [
+        "[REDACTED:destination:024299]",
+        9
+      ],
+      [
+        "[SERVICE 21 URL 1598]",
+        2
+      ],
+      [
+        "[SERVICE 21 URL 1599]",
+        2
+      ],
+      [
+        "[SERVICE 21 URL 1600]",
+        2
+      ],
+      [
+        "[SERVICE 21 URL 1601]",
+        2
+      ],
+      [
+        "[SERVICE 21 URL 1602]",
+        2
+      ],
+      [
+        "[SERVICE 21 URL 1603]",
+        2
+      ],
+      [
+        "[SERVICE 21 URL 1604]",
+        2
+      ],
+      [
+        "[SERVICE 21 URL 1605]",
+        2
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0112931",
+        "degree": 2
+      },
+      {
+        "id": "R0112932",
+        "degree": 2
+      },
+      {
+        "id": "R0112933",
+        "degree": 2
+      },
+      {
+        "id": "R0112934",
+        "degree": 2
+      },
+      {
+        "id": "R0112935",
+        "degree": 2
+      },
+      {
+        "id": "R0112936",
+        "degree": 2
+      },
+      {
+        "id": "R0112937",
+        "degree": 2
+      },
+      {
+        "id": "R0112938",
+        "degree": 2
+      }
+    ],
+    "sample_members": [
+      "R0112931",
+      "R0112932",
+      "R0112933",
+      "R0112934",
+      "R0112935",
+      "R0112936",
+      "R0112937",
+      "R0112938",
+      "R0169348"
+    ]
+  },
+  {
+    "rank": 61,
+    "component_id": "R0184127",
+    "size": 9,
+    "edge_counts": {
+      "EXACT_BODY": 6,
+      "MARKER_ENDPOINT": 8,
+      "PARENT_DIRECT": 6,
+      "SAME_PARENT_SIBLING": 3
+    },
+    "mechanical_kinds": {
+      "payload": 3,
+      "recovered_text": 3,
+      "response": 3
+    },
+    "top_markers": [
+      [
+        "[REDACTED:destination:024485]",
+        9
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0147732",
+        "degree": 6
+      },
+      {
+        "id": "R0147733",
+        "degree": 6
+      },
+      {
+        "id": "R0147734",
+        "degree": 6
+      },
+      {
+        "id": "R0113254",
+        "degree": 5
+      },
+      {
+        "id": "R0113255",
+        "degree": 5
+      },
+      {
+        "id": "R0179073",
+        "degree": 5
+      },
+      {
+        "id": "R0184127",
+        "degree": 5
+      },
+      {
+        "id": "R0113253",
+        "degree": 4
+      }
+    ],
+    "sample_members": [
+      "R0113253",
+      "R0113254",
+      "R0113255",
+      "R0147732",
+      "R0147733",
+      "R0147734",
+      "R0179073",
+      "R0184127",
+      "R0187194"
+    ]
+  },
+  {
+    "rank": 62,
+    "component_id": "R0185167",
+    "size": 9,
+    "edge_counts": {
+      "EXACT_BODY": 4,
+      "MARKER_ENDPOINT": 6,
+      "MARKER_SAME": 4,
+      "PARENT_DIRECT": 8,
+      "SAME_PARENT_SIBLING": 7
+    },
+    "mechanical_kinds": {
+      "payload": 1,
+      "recovered_text": 4,
+      "response": 4
+    },
+    "top_markers": [
+      [
+        "[REDACTED:destination:026465]",
+        5
+      ],
+      [
+        "[SERVICE 25 URL 359]",
+        5
+      ],
+      [
+        "[REDACTED:destination:026464]",
+        3
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0117987",
+        "degree": 11
+      },
+      {
+        "id": "R0155625",
+        "degree": 8
+      },
+      {
+        "id": "R0185155",
+        "degree": 7
+      },
+      {
+        "id": "R0155624",
+        "degree": 6
+      },
+      {
+        "id": "R0155626",
+        "degree": 6
+      },
+      {
+        "id": "R0168494",
+        "degree": 6
+      },
+      {
+        "id": "R0155623",
+        "degree": 5
+      },
+      {
+        "id": "R0181679",
+        "degree": 5
+      }
+    ],
+    "sample_members": [
+      "R0117987",
+      "R0155623",
+      "R0155624",
+      "R0155625",
+      "R0155626",
+      "R0168494",
+      "R0181679",
+      "R0185155",
+      "R0185167"
+    ]
+  },
+  {
+    "rank": 63,
+    "component_id": "R0186806",
+    "size": 9,
+    "edge_counts": {
+      "EXACT_BODY": 4,
+      "MARKER_ENDPOINT": 4,
+      "MARKER_SAME": 4,
+      "PARENT_DIRECT": 8,
+      "SAME_PARENT_SIBLING": 7
+    },
+    "mechanical_kinds": {
+      "payload": 1,
+      "recovered_text": 4,
+      "response": 4
+    },
+    "top_markers": [
+      [
+        "[REDACTED:destination:025691]",
+        5
+      ],
+      [
+        "[SERVICE 3 URL 400]",
+        3
+      ],
+      [
+        "[ENCODED BLOB 69647]",
+        3
+      ],
+      [
+        "[REDACTED:opaque_marker_tail:000844]",
+        3
+      ],
+      [
+        "[ENCODED BLOB 69648]",
+        3
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0117277",
+        "degree": 11
+      },
+      {
+        "id": "R0153570",
+        "degree": 6
+      },
+      {
+        "id": "R0153571",
+        "degree": 6
+      },
+      {
+        "id": "R0153572",
+        "degree": 6
+      },
+      {
+        "id": "R0163261",
+        "degree": 6
+      },
+      {
+        "id": "R0153569",
+        "degree": 5
+      },
+      {
+        "id": "R0174649",
+        "degree": 5
+      },
+      {
+        "id": "R0183636",
+        "degree": 5
+      }
+    ],
+    "sample_members": [
+      "R0117277",
+      "R0153569",
+      "R0153570",
+      "R0153571",
+      "R0153572",
+      "R0163261",
+      "R0174649",
+      "R0183636",
+      "R0186806"
+    ]
+  },
+  {
+    "rank": 64,
+    "component_id": "R0187920",
+    "size": 9,
+    "edge_counts": {
+      "EXACT_BODY": 4,
+      "MARKER_SAME": 8,
+      "PARENT_DIRECT": 8,
+      "SAME_PARENT_SIBLING": 7
+    },
+    "mechanical_kinds": {
+      "payload": 1,
+      "recovered_text": 4,
+      "response": 4
+    },
+    "top_markers": [
+      [
+        "[SERVICE 25 URL 342]",
+        5
+      ],
+      [
+        "[SERVICE 25 URL 341]",
+        3
+      ],
+      [
+        "[ENCODED BLOB 70748]",
+        3
+      ],
+      [
+        "[ENCODED BLOB 70749]",
+        3
+      ],
+      [
+        "[SERVICE 25 URL 343]",
+        3
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0117749",
+        "degree": 11
+      },
+      {
+        "id": "R0154978",
+        "degree": 6
+      },
+      {
+        "id": "R0154979",
+        "degree": 6
+      },
+      {
+        "id": "R0154980",
+        "degree": 6
+      },
+      {
+        "id": "R0164795",
+        "degree": 6
+      },
+      {
+        "id": "R0154977",
+        "degree": 5
+      },
+      {
+        "id": "R0171282",
+        "degree": 5
+      },
+      {
+        "id": "R0178053",
+        "degree": 5
+      }
+    ],
+    "sample_members": [
+      "R0117749",
+      "R0154977",
+      "R0154978",
+      "R0154979",
+      "R0154980",
+      "R0164795",
+      "R0171282",
+      "R0178053",
+      "R0187920"
+    ]
+  },
+  {
+    "rank": 65,
+    "component_id": "R0004914",
+    "size": 8,
+    "edge_counts": {
+      "NORMALIZED_REPLAY": 7
+    },
+    "mechanical_kinds": {
+      "payload": 8
+    },
+    "top_markers": [],
+    "top_hubs": [
+      {
+        "id": "R0004889",
+        "degree": 2
+      },
+      {
+        "id": "R0004893",
+        "degree": 2
+      },
+      {
+        "id": "R0004898",
+        "degree": 2
+      },
+      {
+        "id": "R0004902",
+        "degree": 2
+      },
+      {
+        "id": "R0004906",
+        "degree": 2
+      },
+      {
+        "id": "R0004910",
+        "degree": 2
+      },
+      {
+        "id": "R0004885",
+        "degree": 1
+      },
+      {
+        "id": "R0004914",
+        "degree": 1
+      }
+    ],
+    "sample_members": [
+      "R0004885",
+      "R0004889",
+      "R0004893",
+      "R0004898",
+      "R0004902",
+      "R0004906",
+      "R0004910",
+      "R0004914"
+    ]
+  },
+  {
+    "rank": 66,
+    "component_id": "R0004915",
+    "size": 8,
+    "edge_counts": {
+      "NORMALIZED_REPLAY": 7
+    },
+    "mechanical_kinds": {
+      "payload": 8
+    },
+    "top_markers": [],
+    "top_hubs": [
+      {
+        "id": "R0004890",
+        "degree": 2
+      },
+      {
+        "id": "R0004894",
+        "degree": 2
+      },
+      {
+        "id": "R0004899",
+        "degree": 2
+      },
+      {
+        "id": "R0004903",
+        "degree": 2
+      },
+      {
+        "id": "R0004907",
+        "degree": 2
+      },
+      {
+        "id": "R0004911",
+        "degree": 2
+      },
+      {
+        "id": "R0004886",
+        "degree": 1
+      },
+      {
+        "id": "R0004915",
+        "degree": 1
+      }
+    ],
+    "sample_members": [
+      "R0004886",
+      "R0004890",
+      "R0004894",
+      "R0004899",
+      "R0004903",
+      "R0004907",
+      "R0004911",
+      "R0004915"
+    ]
+  },
+  {
+    "rank": 67,
+    "component_id": "R0015753",
+    "size": 8,
+    "edge_counts": {
+      "MARKER_SAME": 7
+    },
+    "mechanical_kinds": {
+      "payload": 8
+    },
+    "top_markers": [
+      [
+        "[HF REPO 186]",
+        8
+      ],
+      [
+        "[REDACTED:destination:001889]",
+        1
+      ],
+      [
+        "[REDACTED:destination:002015]",
+        1
+      ],
+      [
+        "[REDACTED:destination:002085]",
+        1
+      ],
+      [
+        "[REDACTED:destination:002090]",
+        1
+      ],
+      [
+        "[REDACTED:destination:002102]",
+        1
+      ],
+      [
+        "[REDACTED:destination:002105]",
+        1
+      ],
+      [
+        "[REDACTED:destination:002111]",
+        1
+      ],
+      [
+        "[REDACTED:destination:002112]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0015171",
+        "degree": 2
+      },
+      {
+        "id": "R0015721",
+        "degree": 2
+      },
+      {
+        "id": "R0015729",
+        "degree": 2
+      },
+      {
+        "id": "R0015735",
+        "degree": 2
+      },
+      {
+        "id": "R0015739",
+        "degree": 2
+      },
+      {
+        "id": "R0015750",
+        "degree": 2
+      },
+      {
+        "id": "R0014377",
+        "degree": 1
+      },
+      {
+        "id": "R0015753",
+        "degree": 1
+      }
+    ],
+    "sample_members": [
+      "R0014377",
+      "R0015171",
+      "R0015721",
+      "R0015729",
+      "R0015735",
+      "R0015739",
+      "R0015750",
+      "R0015753"
+    ]
+  },
+  {
+    "rank": 68,
+    "component_id": "R0068828",
+    "size": 8,
+    "edge_counts": {
+      "EXACT_BODY": 3,
+      "MARKER_SAME": 3,
+      "PARENT_DIRECT": 7,
+      "SAME_PARENT_SIBLING": 6
+    },
+    "mechanical_kinds": {
+      "payload": 1,
+      "recovered_text": 4,
+      "response": 3
+    },
+    "top_markers": [
+      [
+        "[ENCODED BLOB 14180]",
+        3
+      ],
+      [
+        "[SHORTENER CODE 86804]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 86805]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 86806]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 86807]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 86808]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 86809]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 86810]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 86811]",
+        2
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0021628",
+        "degree": 8
+      },
+      {
+        "id": "R0057024",
+        "degree": 6
+      },
+      {
+        "id": "R0068826",
+        "degree": 5
+      },
+      {
+        "id": "R0057023",
+        "degree": 4
+      },
+      {
+        "id": "R0057025",
+        "degree": 4
+      },
+      {
+        "id": "R0068827",
+        "degree": 4
+      },
+      {
+        "id": "R0068828",
+        "degree": 4
+      },
+      {
+        "id": "R0068825",
+        "degree": 3
+      }
+    ],
+    "sample_members": [
+      "R0021628",
+      "R0057023",
+      "R0057024",
+      "R0057025",
+      "R0068825",
+      "R0068826",
+      "R0068827",
+      "R0068828"
+    ]
+  },
+  {
+    "rank": 69,
+    "component_id": "R0072723",
+    "size": 8,
+    "edge_counts": {
+      "EXACT_BODY": 2,
+      "MARKER_SAME": 11,
+      "PARENT_DIRECT": 6,
+      "SAME_PARENT_SIBLING": 4
+    },
+    "mechanical_kinds": {
+      "payload": 2,
+      "recovered_text": 2,
+      "response": 4
+    },
+    "top_markers": [
+      [
+        "[REDACTED:opaque_base64:000690]",
+        6
+      ],
+      [
+        "[ENCODED BLOB 23199]",
+        3
+      ],
+      [
+        "[ENCODED BLOB 25340]",
+        3
+      ],
+      [
+        "[SHORTENER CODE 45850]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 45851]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 45852]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 45853]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 45854]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 45855]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 45856]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 45857]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 45858]",
+        2
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0059431",
+        "degree": 8
+      },
+      {
+        "id": "R0034535",
+        "degree": 7
+      },
+      {
+        "id": "R0058958",
+        "degree": 7
+      },
+      {
+        "id": "R0031529",
+        "degree": 6
+      },
+      {
+        "id": "R0071863",
+        "degree": 6
+      },
+      {
+        "id": "R0072723",
+        "degree": 5
+      },
+      {
+        "id": "R0058959",
+        "degree": 4
+      },
+      {
+        "id": "R0059430",
+        "degree": 3
+      }
+    ],
+    "sample_members": [
+      "R0031529",
+      "R0034535",
+      "R0058958",
+      "R0058959",
+      "R0059430",
+      "R0059431",
+      "R0071863",
+      "R0072723"
+    ]
+  },
+  {
+    "rank": 70,
+    "component_id": "R0072999",
+    "size": 8,
+    "edge_counts": {
+      "EXACT_BODY": 3,
+      "MARKER_ENDPOINT": 7
+    },
+    "mechanical_kinds": {
+      "payload": 2,
+      "recovered_text": 3,
+      "response": 3
+    },
+    "top_markers": [
+      [
+        "[SHORTENER URL 52651]",
+        6
+      ],
+      [
+        "[SHORTENER URL 52652]",
+        4
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0035561",
+        "degree": 3
+      },
+      {
+        "id": "R0059597",
+        "degree": 3
+      },
+      {
+        "id": "R0059598",
+        "degree": 3
+      },
+      {
+        "id": "R0059630",
+        "degree": 3
+      },
+      {
+        "id": "R0072998",
+        "degree": 3
+      },
+      {
+        "id": "R0072999",
+        "degree": 2
+      },
+      {
+        "id": "R0073062",
+        "degree": 2
+      },
+      {
+        "id": "R0035367",
+        "degree": 1
+      }
+    ],
+    "sample_members": [
+      "R0035367",
+      "R0035561",
+      "R0059597",
+      "R0059598",
+      "R0059630",
+      "R0072998",
+      "R0072999",
+      "R0073062"
+    ]
+  },
+  {
+    "rank": 71,
+    "component_id": "R0092332",
+    "size": 8,
+    "edge_counts": {
+      "MARKER_ENDPOINT": 5,
+      "MARKER_SAME": 3
+    },
+    "mechanical_kinds": {
+      "recovered_text": 8
+    },
+    "top_markers": [
+      [
+        "[REDACTED:destination:011902]",
+        6
+      ],
+      [
+        "[CREDENTIAL 3121]",
+        2
+      ],
+      [
+        "[INTERNAL HOST 92]",
+        2
+      ],
+      [
+        "[CREDENTIAL 3132]",
+        2
+      ],
+      [
+        "[CREDENTIAL 3143]",
+        1
+      ],
+      [
+        "[CREDENTIAL 1106]",
+        1
+      ],
+      [
+        "[CREDENTIAL 3464]",
+        1
+      ],
+      [
+        "[CREDENTIAL 3495]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0089923",
+        "degree": 3
+      },
+      {
+        "id": "R0087270",
+        "degree": 2
+      },
+      {
+        "id": "R0088005",
+        "degree": 2
+      },
+      {
+        "id": "R0088454",
+        "degree": 2
+      },
+      {
+        "id": "R0092332",
+        "degree": 2
+      },
+      {
+        "id": "R0097320",
+        "degree": 2
+      },
+      {
+        "id": "R0109844",
+        "degree": 2
+      },
+      {
+        "id": "R0111232",
+        "degree": 1
+      }
+    ],
+    "sample_members": [
+      "R0087270",
+      "R0088005",
+      "R0088454",
+      "R0089923",
+      "R0092332",
+      "R0097320",
+      "R0109844",
+      "R0111232"
+    ]
+  },
+  {
+    "rank": 72,
+    "component_id": "R0108227",
+    "size": 8,
+    "edge_counts": {
+      "MARKER_ENDPOINT": 6,
+      "MARKER_SAME": 1
+    },
+    "mechanical_kinds": {
+      "recovered_text": 8
+    },
+    "top_markers": [
+      [
+        "[REDACTED:destination:011354]",
+        7
+      ],
+      [
+        "[REDACTED:opaque_base64:002348]",
+        2
+      ],
+      [
+        "[REDACTED:destination:022059]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0090134",
+        "degree": 2
+      },
+      {
+        "id": "R0093439",
+        "degree": 2
+      },
+      {
+        "id": "R0098614",
+        "degree": 2
+      },
+      {
+        "id": "R0101051",
+        "degree": 2
+      },
+      {
+        "id": "R0108196",
+        "degree": 2
+      },
+      {
+        "id": "R0108227",
+        "degree": 2
+      },
+      {
+        "id": "R0086344",
+        "degree": 1
+      },
+      {
+        "id": "R0107979",
+        "degree": 1
+      }
+    ],
+    "sample_members": [
+      "R0086344",
+      "R0090134",
+      "R0093439",
+      "R0098614",
+      "R0101051",
+      "R0107979",
+      "R0108196",
+      "R0108227"
+    ]
+  },
+  {
+    "rank": 73,
+    "component_id": "R0184090",
+    "size": 8,
+    "edge_counts": {
+      "EXACT_BODY": 2,
+      "MARKER_ENDPOINT": 4,
+      "MARKER_SAME": 5,
+      "NORMALIZED_REPLAY": 2,
+      "PARENT_DIRECT": 6,
+      "SAME_PARENT_SIBLING": 4
+    },
+    "mechanical_kinds": {
+      "payload": 2,
+      "recovered_text": 4,
+      "response": 2
+    },
+    "top_markers": [
+      [
+        "[SERVICE 25 URL 215]",
+        6
+      ],
+      [
+        "[REDACTED:destination:024577]",
+        3
+      ],
+      [
+        "[REDACTED:destination:024579]",
+        3
+      ],
+      [
+        "[REDACTED:destination:030128]",
+        1
+      ],
+      [
+        "[REDACTED:destination:030182]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0147780",
+        "degree": 8
+      },
+      {
+        "id": "R0147781",
+        "degree": 8
+      },
+      {
+        "id": "R0113329",
+        "degree": 7
+      },
+      {
+        "id": "R0161971",
+        "degree": 7
+      },
+      {
+        "id": "R0113328",
+        "degree": 6
+      },
+      {
+        "id": "R0185648",
+        "degree": 5
+      },
+      {
+        "id": "R0168008",
+        "degree": 3
+      },
+      {
+        "id": "R0184090",
+        "degree": 2
+      }
+    ],
+    "sample_members": [
+      "R0113328",
+      "R0113329",
+      "R0147780",
+      "R0147781",
+      "R0161971",
+      "R0168008",
+      "R0184090",
+      "R0185648"
+    ]
+  },
+  {
+    "rank": 74,
+    "component_id": "R0004912",
+    "size": 7,
+    "edge_counts": {
+      "NORMALIZED_REPLAY": 6
+    },
+    "mechanical_kinds": {
+      "payload": 7
+    },
+    "top_markers": [],
+    "top_hubs": [
+      {
+        "id": "R0004891",
+        "degree": 2
+      },
+      {
+        "id": "R0004896",
+        "degree": 2
+      },
+      {
+        "id": "R0004900",
+        "degree": 2
+      },
+      {
+        "id": "R0004904",
+        "degree": 2
+      },
+      {
+        "id": "R0004908",
+        "degree": 2
+      },
+      {
+        "id": "R0004887",
+        "degree": 1
+      },
+      {
+        "id": "R0004912",
+        "degree": 1
+      }
+    ],
+    "sample_members": [
+      "R0004887",
+      "R0004891",
+      "R0004896",
+      "R0004900",
+      "R0004904",
+      "R0004908",
+      "R0004912"
+    ]
+  },
+  {
+    "rank": 75,
+    "component_id": "R0004913",
+    "size": 7,
+    "edge_counts": {
+      "NORMALIZED_REPLAY": 6
+    },
+    "mechanical_kinds": {
+      "payload": 7
+    },
+    "top_markers": [],
+    "top_hubs": [
+      {
+        "id": "R0004892",
+        "degree": 2
+      },
+      {
+        "id": "R0004897",
+        "degree": 2
+      },
+      {
+        "id": "R0004901",
+        "degree": 2
+      },
+      {
+        "id": "R0004905",
+        "degree": 2
+      },
+      {
+        "id": "R0004909",
+        "degree": 2
+      },
+      {
+        "id": "R0004888",
+        "degree": 1
+      },
+      {
+        "id": "R0004913",
+        "degree": 1
+      }
+    ],
+    "sample_members": [
+      "R0004888",
+      "R0004892",
+      "R0004897",
+      "R0004901",
+      "R0004905",
+      "R0004909",
+      "R0004913"
+    ]
+  },
+  {
+    "rank": 76,
+    "component_id": "R0029904",
+    "size": 7,
+    "edge_counts": {
+      "EXACT_BODY": 5,
+      "MARKER_ENDPOINT": 6
+    },
+    "mechanical_kinds": {
+      "payload": 7
+    },
+    "top_markers": [
+      [
+        "[SHORTENER URL 34240]",
+        7
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0023811",
+        "degree": 4
+      },
+      {
+        "id": "R0023853",
+        "degree": 4
+      },
+      {
+        "id": "R0023920",
+        "degree": 4
+      },
+      {
+        "id": "R0028552",
+        "degree": 3
+      },
+      {
+        "id": "R0029904",
+        "degree": 3
+      },
+      {
+        "id": "R0023747",
+        "degree": 2
+      },
+      {
+        "id": "R0042360",
+        "degree": 2
+      }
+    ],
+    "sample_members": [
+      "R0023747",
+      "R0023811",
+      "R0023853",
+      "R0023920",
+      "R0028552",
+      "R0029904",
+      "R0042360"
+    ]
+  },
+  {
+    "rank": 77,
+    "component_id": "R0037710",
+    "size": 7,
+    "edge_counts": {
+      "MARKER_SAME": 6
+    },
+    "mechanical_kinds": {
+      "payload": 7
+    },
+    "top_markers": [
+      [
+        "[110]",
+        7
+      ],
+      [
+        "[ENCODED BLOB 25325]",
+        2
+      ],
+      [
+        "[ENCODED BLOB 1180]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 19735]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 23150]",
+        1
+      ],
+      [
+        "[REDACTED:opaque_base64:000739]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 28310]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0027662",
+        "degree": 2
+      },
+      {
+        "id": "R0031482",
+        "degree": 2
+      },
+      {
+        "id": "R0033415",
+        "degree": 2
+      },
+      {
+        "id": "R0034517",
+        "degree": 2
+      },
+      {
+        "id": "R0035472",
+        "degree": 2
+      },
+      {
+        "id": "R0004699",
+        "degree": 1
+      },
+      {
+        "id": "R0037710",
+        "degree": 1
+      }
+    ],
+    "sample_members": [
+      "R0004699",
+      "R0027662",
+      "R0031482",
+      "R0033415",
+      "R0034517",
+      "R0035472",
+      "R0037710"
+    ]
+  },
+  {
+    "rank": 78,
+    "component_id": "R0043254",
+    "size": 7,
+    "edge_counts": {
+      "MARKER_SAME": 6
+    },
+    "mechanical_kinds": {
+      "payload": 7
+    },
+    "top_markers": [
+      [
+        "[SHORTENER CODE 64504]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 64505]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 64506]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 64507]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 64508]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 64509]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 64510]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 64511]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 64512]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 64513]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 64515]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 64516]",
+        2
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0043231",
+        "degree": 2
+      },
+      {
+        "id": "R0043232",
+        "degree": 2
+      },
+      {
+        "id": "R0043251",
+        "degree": 2
+      },
+      {
+        "id": "R0043252",
+        "degree": 2
+      },
+      {
+        "id": "R0043254",
+        "degree": 2
+      },
+      {
+        "id": "R0043230",
+        "degree": 1
+      },
+      {
+        "id": "R0043234",
+        "degree": 1
+      }
+    ],
+    "sample_members": [
+      "R0043230",
+      "R0043231",
+      "R0043232",
+      "R0043234",
+      "R0043251",
+      "R0043252",
+      "R0043254"
+    ]
+  },
+  {
+    "rank": 79,
+    "component_id": "R0073801",
+    "size": 7,
+    "edge_counts": {
+      "MARKER_ENDPOINT": 6,
+      "PARENT_DIRECT": 4,
+      "SAME_PARENT_SIBLING": 1
+    },
+    "mechanical_kinds": {
+      "payload": 3,
+      "recovered_text": 4
+    },
+    "top_markers": [
+      [
+        "[REDACTED:destination:005669]",
+        8
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0073777",
+        "degree": 4
+      },
+      {
+        "id": "R0073778",
+        "degree": 4
+      },
+      {
+        "id": "R0037281",
+        "degree": 3
+      },
+      {
+        "id": "R0037346",
+        "degree": 3
+      },
+      {
+        "id": "R0037449",
+        "degree": 3
+      },
+      {
+        "id": "R0073794",
+        "degree": 3
+      },
+      {
+        "id": "R0073801",
+        "degree": 2
+      }
+    ],
+    "sample_members": [
+      "R0037281",
+      "R0037346",
+      "R0037449",
+      "R0073777",
+      "R0073778",
+      "R0073794",
+      "R0073801"
+    ]
+  },
+  {
+    "rank": 80,
+    "component_id": "R0106316",
+    "size": 7,
+    "edge_counts": {
+      "MARKER_ENDPOINT": 6
+    },
+    "mechanical_kinds": {
+      "recovered_text": 7
+    },
+    "top_markers": [
+      [
+        "[REDACTED:destination:010716]",
+        7
+      ],
+      [
+        "[REDACTED:destination:010717]",
+        1
+      ],
+      [
+        "[REDACTED:destination:011128]",
+        1
+      ],
+      [
+        "[REDACTED:destination:013974]",
+        1
+      ],
+      [
+        "[REDACTED:destination:018628]",
+        1
+      ],
+      [
+        "[REDACTED:destination:019721]",
+        1
+      ],
+      [
+        "[REDACTED:destination:020423]",
+        1
+      ],
+      [
+        "[REDACTED:destination:021307]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0085897",
+        "degree": 2
+      },
+      {
+        "id": "R0091132",
+        "degree": 2
+      },
+      {
+        "id": "R0100387",
+        "degree": 2
+      },
+      {
+        "id": "R0102880",
+        "degree": 2
+      },
+      {
+        "id": "R0104588",
+        "degree": 2
+      },
+      {
+        "id": "R0085135",
+        "degree": 1
+      },
+      {
+        "id": "R0106316",
+        "degree": 1
+      }
+    ],
+    "sample_members": [
+      "R0085135",
+      "R0085897",
+      "R0091132",
+      "R0100387",
+      "R0102880",
+      "R0104588",
+      "R0106316"
+    ]
+  },
+  {
+    "rank": 81,
+    "component_id": "R0110817",
+    "size": 7,
+    "edge_counts": {
+      "MARKER_ENDPOINT": 6
+    },
+    "mechanical_kinds": {
+      "recovered_text": 7
+    },
+    "top_markers": [
+      [
+        "[REDACTED:destination:015441]",
+        4
+      ],
+      [
+        "[REDACTED:destination:010803]",
+        3
+      ],
+      [
+        "[REDACTED:destination:010805]",
+        3
+      ],
+      [
+        "[REDACTED:destination:020384]",
+        2
+      ],
+      [
+        "[REDACTED:destination:010804]",
+        1
+      ],
+      [
+        "[REDACTED:destination:015442]",
+        1
+      ],
+      [
+        "[REDACTED:destination:015471]",
+        1
+      ],
+      [
+        "[REDACTED:destination:021809]",
+        1
+      ],
+      [
+        "[REDACTED:destination:022306]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0104502",
+        "degree": 3
+      },
+      {
+        "id": "R0094244",
+        "degree": 2
+      },
+      {
+        "id": "R0107339",
+        "degree": 2
+      },
+      {
+        "id": "R0110817",
+        "degree": 2
+      },
+      {
+        "id": "R0085278",
+        "degree": 1
+      },
+      {
+        "id": "R0094181",
+        "degree": 1
+      },
+      {
+        "id": "R0108559",
+        "degree": 1
+      }
+    ],
+    "sample_members": [
+      "R0085278",
+      "R0094181",
+      "R0094244",
+      "R0104502",
+      "R0107339",
+      "R0108559",
+      "R0110817"
+    ]
+  },
+  {
+    "rank": 82,
+    "component_id": "R0112946",
+    "size": 7,
+    "edge_counts": {
+      "MARKER_ENDPOINT": 6
+    },
+    "mechanical_kinds": {
+      "payload": 7
+    },
+    "top_markers": [
+      [
+        "[REDACTED:destination:024300]",
+        7
+      ],
+      [
+        "[SERVICE 21 URL 1606]",
+        2
+      ],
+      [
+        "[SERVICE 21 URL 1607]",
+        2
+      ],
+      [
+        "[SERVICE 21 URL 1608]",
+        2
+      ],
+      [
+        "[SERVICE 21 URL 1610]",
+        2
+      ],
+      [
+        "[SERVICE 21 URL 1611]",
+        2
+      ],
+      [
+        "[SERVICE 21 URL 1612]",
+        2
+      ],
+      [
+        "[SERVICE 21 URL 1613]",
+        2
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0112940",
+        "degree": 2
+      },
+      {
+        "id": "R0112941",
+        "degree": 2
+      },
+      {
+        "id": "R0112943",
+        "degree": 2
+      },
+      {
+        "id": "R0112944",
+        "degree": 2
+      },
+      {
+        "id": "R0112945",
+        "degree": 2
+      },
+      {
+        "id": "R0112939",
+        "degree": 1
+      },
+      {
+        "id": "R0112946",
+        "degree": 1
+      }
+    ],
+    "sample_members": [
+      "R0112939",
+      "R0112940",
+      "R0112941",
+      "R0112943",
+      "R0112944",
+      "R0112945",
+      "R0112946"
+    ]
+  },
+  {
+    "rank": 83,
+    "component_id": "R0125183",
+    "size": 7,
+    "edge_counts": {
+      "MARKER_ENDPOINT": 4,
+      "MARKER_SAME": 6
+    },
+    "mechanical_kinds": {
+      "payload": 7
+    },
+    "top_markers": [
+      [
+        "[ENCODED BLOB 67690]",
+        7
+      ],
+      [
+        "[PROXY 126 URL 2]",
+        5
+      ],
+      [
+        "[REDACTED:destination:024896]",
+        1
+      ],
+      [
+        "[REDACTED:destination:025586]",
+        1
+      ],
+      [
+        "[REDACTED:destination:025667]",
+        1
+      ],
+      [
+        "[REDACTED:destination:026517]",
+        1
+      ],
+      [
+        "[REDACTED:destination:026801]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0117156",
+        "degree": 4
+      },
+      {
+        "id": "R0117263",
+        "degree": 4
+      },
+      {
+        "id": "R0118051",
+        "degree": 4
+      },
+      {
+        "id": "R0118353",
+        "degree": 3
+      },
+      {
+        "id": "R0116545",
+        "degree": 2
+      },
+      {
+        "id": "R0121298",
+        "degree": 2
+      },
+      {
+        "id": "R0125183",
+        "degree": 1
+      }
+    ],
+    "sample_members": [
+      "R0116545",
+      "R0117156",
+      "R0117263",
+      "R0118051",
+      "R0118353",
+      "R0121298",
+      "R0125183"
+    ]
+  },
+  {
+    "rank": 84,
+    "component_id": "R0172061",
+    "size": 7,
+    "edge_counts": {
+      "EXACT_BODY": 3,
+      "MARKER_ENDPOINT": 6,
+      "MARKER_SAME": 2,
+      "PARENT_DIRECT": 6,
+      "SAME_PARENT_SIBLING": 5
+    },
+    "mechanical_kinds": {
+      "payload": 1,
+      "recovered_text": 3,
+      "response": 3
+    },
+    "top_markers": [
+      [
+        "[REDACTED:destination:025824]",
+        5
+      ],
+      [
+        "[PROXY 37 URL 32]",
+        3
+      ],
+      [
+        "[ENCODED BLOB 69976]",
+        3
+      ],
+      [
+        "[REDACTED:opaque_base64:002917]",
+        3
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0117407",
+        "degree": 9
+      },
+      {
+        "id": "R0153915",
+        "degree": 7
+      },
+      {
+        "id": "R0153916",
+        "degree": 6
+      },
+      {
+        "id": "R0153917",
+        "degree": 6
+      },
+      {
+        "id": "R0166083",
+        "degree": 6
+      },
+      {
+        "id": "R0167745",
+        "degree": 6
+      },
+      {
+        "id": "R0172061",
+        "degree": 4
+      }
+    ],
+    "sample_members": [
+      "R0117407",
+      "R0153915",
+      "R0153916",
+      "R0153917",
+      "R0166083",
+      "R0167745",
+      "R0172061"
+    ]
+  },
+  {
+    "rank": 85,
+    "component_id": "R0180291",
+    "size": 7,
+    "edge_counts": {
+      "EXACT_BODY": 3,
+      "MARKER_ENDPOINT": 4,
+      "MARKER_SAME": 2,
+      "PARENT_DIRECT": 6,
+      "SAME_PARENT_SIBLING": 5
+    },
+    "mechanical_kinds": {
+      "payload": 1,
+      "recovered_text": 3,
+      "response": 3
+    },
+    "top_markers": [
+      [
+        "[REDACTED:destination:024993]",
+        5
+      ],
+      [
+        "[SERVICE 25 URL 244]",
+        3
+      ],
+      [
+        "[ENCODED BLOB 67901]",
+        3
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0116645",
+        "degree": 8
+      },
+      {
+        "id": "R0151508",
+        "degree": 6
+      },
+      {
+        "id": "R0151509",
+        "degree": 6
+      },
+      {
+        "id": "R0163280",
+        "degree": 6
+      },
+      {
+        "id": "R0151507",
+        "degree": 5
+      },
+      {
+        "id": "R0169896",
+        "degree": 5
+      },
+      {
+        "id": "R0180291",
+        "degree": 4
+      }
+    ],
+    "sample_members": [
+      "R0116645",
+      "R0151507",
+      "R0151508",
+      "R0151509",
+      "R0163280",
+      "R0169896",
+      "R0180291"
+    ]
+  },
+  {
+    "rank": 86,
+    "component_id": "R0183986",
+    "size": 7,
+    "edge_counts": {
+      "EXACT_BODY": 3,
+      "MARKER_ENDPOINT": 4,
+      "MARKER_SAME": 2,
+      "PARENT_DIRECT": 6,
+      "SAME_PARENT_SIBLING": 5
+    },
+    "mechanical_kinds": {
+      "payload": 1,
+      "recovered_text": 3,
+      "response": 3
+    },
+    "top_markers": [
+      [
+        "[PROXY 4 URL 360]",
+        3
+      ],
+      [
+        "[ENCODED BLOB 72441]",
+        3
+      ],
+      [
+        "[PROXY 4 URL 361]",
+        3
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0118579",
+        "degree": 9
+      },
+      {
+        "id": "R0157275",
+        "degree": 6
+      },
+      {
+        "id": "R0157276",
+        "degree": 6
+      },
+      {
+        "id": "R0157274",
+        "degree": 5
+      },
+      {
+        "id": "R0168597",
+        "degree": 5
+      },
+      {
+        "id": "R0183465",
+        "degree": 5
+      },
+      {
+        "id": "R0183986",
+        "degree": 4
+      }
+    ],
+    "sample_members": [
+      "R0118579",
+      "R0157274",
+      "R0157275",
+      "R0157276",
+      "R0168597",
+      "R0183465",
+      "R0183986"
+    ]
+  },
+  {
+    "rank": 87,
+    "component_id": "R0184764",
+    "size": 7,
+    "edge_counts": {
+      "EXACT_BODY": 3,
+      "MARKER_ENDPOINT": 4,
+      "MARKER_SAME": 2,
+      "PARENT_DIRECT": 6,
+      "SAME_PARENT_SIBLING": 5
+    },
+    "mechanical_kinds": {
+      "payload": 1,
+      "recovered_text": 3,
+      "response": 3
+    },
+    "top_markers": [
+      [
+        "[REDACTED:destination:026252]",
+        5
+      ],
+      [
+        "[SERVICE 25 URL 348]",
+        3
+      ],
+      [
+        "[ENCODED BLOB 70811]",
+        3
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0117786",
+        "degree": 8
+      },
+      {
+        "id": "R0155079",
+        "degree": 6
+      },
+      {
+        "id": "R0155080",
+        "degree": 6
+      },
+      {
+        "id": "R0171533",
+        "degree": 6
+      },
+      {
+        "id": "R0155078",
+        "degree": 5
+      },
+      {
+        "id": "R0166255",
+        "degree": 5
+      },
+      {
+        "id": "R0184764",
+        "degree": 4
+      }
+    ],
+    "sample_members": [
+      "R0117786",
+      "R0155078",
+      "R0155079",
+      "R0155080",
+      "R0166255",
+      "R0171533",
+      "R0184764"
+    ]
+  },
+  {
+    "rank": 88,
+    "component_id": "R0188221",
+    "size": 7,
+    "edge_counts": {
+      "EXACT_BODY": 3,
+      "MARKER_ENDPOINT": 6,
+      "MARKER_SAME": 4,
+      "PARENT_DIRECT": 6,
+      "SAME_PARENT_SIBLING": 5
+    },
+    "mechanical_kinds": {
+      "payload": 1,
+      "recovered_text": 3,
+      "response": 3
+    },
+    "top_markers": [
+      [
+        "[SERVICE 12 URL 8]",
+        6
+      ],
+      [
+        "[REDACTED:destination:026243]",
+        6
+      ],
+      [
+        "[REDACTED:destination:026244]",
+        3
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0117773",
+        "degree": 9
+      },
+      {
+        "id": "R0155046",
+        "degree": 8
+      },
+      {
+        "id": "R0155047",
+        "degree": 8
+      },
+      {
+        "id": "R0186866",
+        "degree": 7
+      },
+      {
+        "id": "R0176452",
+        "degree": 6
+      },
+      {
+        "id": "R0155045",
+        "degree": 5
+      },
+      {
+        "id": "R0188221",
+        "degree": 5
+      }
+    ],
+    "sample_members": [
+      "R0117773",
+      "R0155045",
+      "R0155046",
+      "R0155047",
+      "R0176452",
+      "R0186866",
+      "R0188221"
+    ]
+  },
+  {
+    "rank": 89,
+    "component_id": "R0002630",
+    "size": 6,
+    "edge_counts": {
+      "MARKER_SAME": 5
+    },
+    "mechanical_kinds": {
+      "payload": 6
+    },
+    "top_markers": [
+      [
+        "[SHORTENER CODE 1900]",
+        6
+      ],
+      [
+        "[SHORTENER CODE 1901]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 2295]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 2396]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 2527]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 2575]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 2592]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0002364",
+        "degree": 2
+      },
+      {
+        "id": "R0002502",
+        "degree": 2
+      },
+      {
+        "id": "R0002553",
+        "degree": 2
+      },
+      {
+        "id": "R0002598",
+        "degree": 2
+      },
+      {
+        "id": "R0002190",
+        "degree": 1
+      },
+      {
+        "id": "R0002630",
+        "degree": 1
+      }
+    ],
+    "sample_members": [
+      "R0002190",
+      "R0002364",
+      "R0002502",
+      "R0002553",
+      "R0002598",
+      "R0002630"
+    ]
+  },
+  {
+    "rank": 90,
+    "component_id": "R0002632",
+    "size": 6,
+    "edge_counts": {
+      "MARKER_SAME": 5
+    },
+    "mechanical_kinds": {
+      "payload": 6
+    },
+    "top_markers": [
+      [
+        "[SHORTENER CODE 1903]",
+        6
+      ],
+      [
+        "[SHORTENER CODE 1904]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 2297]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 2398]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 2529]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 2577]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 2594]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0002366",
+        "degree": 2
+      },
+      {
+        "id": "R0002504",
+        "degree": 2
+      },
+      {
+        "id": "R0002556",
+        "degree": 2
+      },
+      {
+        "id": "R0002600",
+        "degree": 2
+      },
+      {
+        "id": "R0002192",
+        "degree": 1
+      },
+      {
+        "id": "R0002632",
+        "degree": 1
+      }
+    ],
+    "sample_members": [
+      "R0002192",
+      "R0002366",
+      "R0002504",
+      "R0002556",
+      "R0002600",
+      "R0002632"
+    ]
+  },
+  {
+    "rank": 91,
+    "component_id": "R0002634",
+    "size": 6,
+    "edge_counts": {
+      "MARKER_SAME": 5
+    },
+    "mechanical_kinds": {
+      "payload": 6
+    },
+    "top_markers": [
+      [
+        "[SHORTENER CODE 1906]",
+        6
+      ],
+      [
+        "[SHORTENER CODE 1907]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 2299]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 2400]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 2531]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 2579]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 2596]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0002368",
+        "degree": 2
+      },
+      {
+        "id": "R0002507",
+        "degree": 2
+      },
+      {
+        "id": "R0002559",
+        "degree": 2
+      },
+      {
+        "id": "R0002602",
+        "degree": 2
+      },
+      {
+        "id": "R0002194",
+        "degree": 1
+      },
+      {
+        "id": "R0002634",
+        "degree": 1
+      }
+    ],
+    "sample_members": [
+      "R0002194",
+      "R0002368",
+      "R0002507",
+      "R0002559",
+      "R0002602",
+      "R0002634"
+    ]
+  },
+  {
+    "rank": 92,
+    "component_id": "R0002636",
+    "size": 6,
+    "edge_counts": {
+      "MARKER_SAME": 5
+    },
+    "mechanical_kinds": {
+      "payload": 6
+    },
+    "top_markers": [
+      [
+        "[SHORTENER CODE 1909]",
+        6
+      ],
+      [
+        "[SHORTENER CODE 1910]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 2301]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 2402]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 2533]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 2581]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 2598]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0002370",
+        "degree": 2
+      },
+      {
+        "id": "R0002510",
+        "degree": 2
+      },
+      {
+        "id": "R0002561",
+        "degree": 2
+      },
+      {
+        "id": "R0002605",
+        "degree": 2
+      },
+      {
+        "id": "R0002197",
+        "degree": 1
+      },
+      {
+        "id": "R0002636",
+        "degree": 1
+      }
+    ],
+    "sample_members": [
+      "R0002197",
+      "R0002370",
+      "R0002510",
+      "R0002561",
+      "R0002605",
+      "R0002636"
+    ]
+  },
+  {
+    "rank": 93,
+    "component_id": "R0002643",
+    "size": 6,
+    "edge_counts": {
+      "MARKER_SAME": 5
+    },
+    "mechanical_kinds": {
+      "payload": 6
+    },
+    "top_markers": [
+      [
+        "[SHORTENER CODE 1915]",
+        6
+      ],
+      [
+        "[SHORTENER CODE 1916]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 2306]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 2407]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 2538]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 2587]",
+        1
+      ],
+      [
+        "[SHORTENER CODE 2603]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0002376",
+        "degree": 2
+      },
+      {
+        "id": "R0002515",
+        "degree": 2
+      },
+      {
+        "id": "R0002566",
+        "degree": 2
+      },
+      {
+        "id": "R0002611",
+        "degree": 2
+      },
+      {
+        "id": "R0002203",
+        "degree": 1
+      },
+      {
+        "id": "R0002643",
+        "degree": 1
+      }
+    ],
+    "sample_members": [
+      "R0002203",
+      "R0002376",
+      "R0002515",
+      "R0002566",
+      "R0002611",
+      "R0002643"
+    ]
+  },
+  {
+    "rank": 94,
+    "component_id": "R0018386",
+    "size": 6,
+    "edge_counts": {
+      "EXACT_BODY": 2,
+      "MARKER_SAME": 4,
+      "PARENT_DIRECT": 4,
+      "SAME_PARENT_SIBLING": 3
+    },
+    "mechanical_kinds": {
+      "payload": 2,
+      "recovered_text": 2,
+      "response": 2
+    },
+    "top_markers": [
+      [
+        "[ENCODED BLOB 10699]",
+        4
+      ],
+      [
+        "[SHORTENER CODE 86699]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 86700]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 86701]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 86702]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 86703]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 86704]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 86705]",
+        2
+      ],
+      [
+        "[SHORTENER CODE 86706]",
+        2
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0018130",
+        "degree": 5
+      },
+      {
+        "id": "R0056318",
+        "degree": 5
+      },
+      {
+        "id": "R0056319",
+        "degree": 5
+      },
+      {
+        "id": "R0067954",
+        "degree": 5
+      },
+      {
+        "id": "R0067955",
+        "degree": 4
+      },
+      {
+        "id": "R0018386",
+        "degree": 2
+      }
+    ],
+    "sample_members": [
+      "R0018130",
+      "R0018386",
+      "R0056318",
+      "R0056319",
+      "R0067954",
+      "R0067955"
+    ]
+  },
+  {
+    "rank": 95,
+    "component_id": "R0032597",
+    "size": 6,
+    "edge_counts": {
+      "MARKER_SAME": 5
+    },
+    "mechanical_kinds": {
+      "payload": 6
+    },
+    "top_markers": [
+      [
+        "[104]",
+        6
+      ],
+      [
+        "[ENCODED BLOB 1178]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 1207]",
+        1
+      ],
+      [
+        "[REDACTED:opaque_base64:000559]",
+        1
+      ],
+      [
+        "[REDACTED:opaque_base64:000581]",
+        1
+      ],
+      [
+        "[REDACTED:opaque_base64:000616]",
+        1
+      ],
+      [
+        "[REDACTED:opaque_base64:000719]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0004752",
+        "degree": 2
+      },
+      {
+        "id": "R0027865",
+        "degree": 2
+      },
+      {
+        "id": "R0028771",
+        "degree": 2
+      },
+      {
+        "id": "R0029761",
+        "degree": 2
+      },
+      {
+        "id": "R0004697",
+        "degree": 1
+      },
+      {
+        "id": "R0032597",
+        "degree": 1
+      }
+    ],
+    "sample_members": [
+      "R0004697",
+      "R0004752",
+      "R0027865",
+      "R0028771",
+      "R0029761",
+      "R0032597"
+    ]
+  },
+  {
+    "rank": 96,
+    "component_id": "R0035470",
+    "size": 6,
+    "edge_counts": {
+      "MARKER_SAME": 5
+    },
+    "mechanical_kinds": {
+      "payload": 6
+    },
+    "top_markers": [
+      [
+        "[100]",
+        6
+      ],
+      [
+        "[REDACTED:opaque_base64:000174]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0028769",
+        "degree": 2
+      },
+      {
+        "id": "R0029200",
+        "degree": 2
+      },
+      {
+        "id": "R0029590",
+        "degree": 2
+      },
+      {
+        "id": "R0029759",
+        "degree": 2
+      },
+      {
+        "id": "R0013673",
+        "degree": 1
+      },
+      {
+        "id": "R0035470",
+        "degree": 1
+      }
+    ],
+    "sample_members": [
+      "R0013673",
+      "R0028769",
+      "R0029200",
+      "R0029590",
+      "R0029759",
+      "R0035470"
+    ]
+  },
+  {
+    "rank": 97,
+    "component_id": "R0037130",
+    "size": 6,
+    "edge_counts": {
+      "MARKER_SAME": 5
+    },
+    "mechanical_kinds": {
+      "payload": 6
+    },
+    "top_markers": [
+      [
+        "[121]",
+        6
+      ],
+      [
+        "[ENCODED BLOB 1181]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 19741]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 23989]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 24551]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 25091]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 27646]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0027669",
+        "degree": 2
+      },
+      {
+        "id": "R0032605",
+        "degree": 2
+      },
+      {
+        "id": "R0033417",
+        "degree": 2
+      },
+      {
+        "id": "R0034370",
+        "degree": 2
+      },
+      {
+        "id": "R0004701",
+        "degree": 1
+      },
+      {
+        "id": "R0037130",
+        "degree": 1
+      }
+    ],
+    "sample_members": [
+      "R0004701",
+      "R0027669",
+      "R0032605",
+      "R0033417",
+      "R0034370",
+      "R0037130"
+    ]
+  },
+  {
+    "rank": 98,
+    "component_id": "R0038507",
+    "size": 6,
+    "edge_counts": {
+      "MARKER_SAME": 5
+    },
+    "mechanical_kinds": {
+      "payload": 6
+    },
+    "top_markers": [
+      [
+        "[105]",
+        6
+      ],
+      [
+        "[ENCODED BLOB 6648]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 21569]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 22433]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 24548]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 28305]",
+        1
+      ],
+      [
+        "[ENCODED BLOB 29111]",
+        1
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0029592",
+        "degree": 2
+      },
+      {
+        "id": "R0030534",
+        "degree": 2
+      },
+      {
+        "id": "R0033413",
+        "degree": 2
+      },
+      {
+        "id": "R0037706",
+        "degree": 2
+      },
+      {
+        "id": "R0013678",
+        "degree": 1
+      },
+      {
+        "id": "R0038507",
+        "degree": 1
+      }
+    ],
+    "sample_members": [
+      "R0013678",
+      "R0029592",
+      "R0030534",
+      "R0033413",
+      "R0037706",
+      "R0038507"
+    ]
+  },
+  {
+    "rank": 99,
+    "component_id": "R0062507",
+    "size": 6,
+    "edge_counts": {
+      "EXACT_BODY": 4,
+      "NORMALIZED_REPLAY": 1
+    },
+    "mechanical_kinds": {
+      "payload": 2,
+      "recovered_text": 2,
+      "response": 2
+    },
+    "top_markers": [],
+    "top_hubs": [
+      {
+        "id": "R0000141",
+        "degree": 2
+      },
+      {
+        "id": "R0000142",
+        "degree": 2
+      },
+      {
+        "id": "R0053446",
+        "degree": 2
+      },
+      {
+        "id": "R0053447",
+        "degree": 2
+      },
+      {
+        "id": "R0062506",
+        "degree": 1
+      },
+      {
+        "id": "R0062507",
+        "degree": 1
+      }
+    ],
+    "sample_members": [
+      "R0000141",
+      "R0000142",
+      "R0053446",
+      "R0053447",
+      "R0062506",
+      "R0062507"
+    ]
+  },
+  {
+    "rank": 100,
+    "component_id": "R0062509",
+    "size": 6,
+    "edge_counts": {
+      "EXACT_BODY": 4,
+      "MARKER_ENDPOINT": 5,
+      "NORMALIZED_REPLAY": 1
+    },
+    "mechanical_kinds": {
+      "payload": 2,
+      "recovered_text": 2,
+      "response": 2
+    },
+    "top_markers": [
+      [
+        "[REDACTED:destination:000018]",
+        6
+      ]
+    ],
+    "top_hubs": [
+      {
+        "id": "R0000150",
+        "degree": 4
+      },
+      {
+        "id": "R0053445",
+        "degree": 4
+      },
+      {
+        "id": "R0053449",
+        "degree": 4
+      },
+      {
+        "id": "R0000134",
+        "degree": 3
+      },
+      {
+        "id": "R0062505",
+        "degree": 3
+      },
+      {
+        "id": "R0062509",
+        "degree": 2
+      }
+    ],
+    "sample_members": [
+      "R0000134",
+      "R0000150",
+      "R0053445",
+      "R0053449",
+      "R0062505",
+      "R0062509"
+    ]
+  }
+]

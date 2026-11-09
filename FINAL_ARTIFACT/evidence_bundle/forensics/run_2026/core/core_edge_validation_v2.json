@@ -1,0 +1,277 @@
+{
+  "audit": "core graph edge validation v2",
+  "version": 2,
+  "generated_at": "2026-11-09T04:47:16.446192+05:30",
+  "read_only": true,
+  "paths": {
+    "rows": "/Users/id19/Programming/AI_research/Apart_agent_swarm/forensics/run_2026/core/core_rows.ndjson",
+    "edges": "/Users/id19/Programming/AI_research/Apart_agent_swarm/forensics/run_2026/core/core_edges.ndjson",
+    "source": "/Users/id19/Programming/AI_research/Apart_agent_swarm/Data/redacted_filtered.jsonl"
+  },
+  "hashes": {
+    "source_sha256": "5a048060a8fc2a90246b42c10c5bdd2e35d1b59f98b48b2849155853e4dc28ee",
+    "core_rows_sha256": "2e10714a42eb782c022329c9a74b4af78c5036cef2f4213715845b993d5e6850",
+    "core_edges_sha256": "22290d5aeb0f7555651c3c3098ebc3a944223260bdd01d1f36f425fcbb80cde4"
+  },
+  "row_count": 187242,
+  "edge_count": 506242,
+  "edge_class_counts": {
+    "EXACT_BODY": 23471,
+    "MARKER_ENDPOINT": 121104,
+    "MARKER_SAME": 267062,
+    "NORMALIZED_REPLAY": 1826,
+    "PARENT_DIRECT": 59313,
+    "SAME_PARENT_SIBLING": 33466
+  },
+  "components": {
+    "row_nodes": 187242,
+    "components": 19575,
+    "singletons": 17514,
+    "largest_component": 153561,
+    "component_nodes_accounted": 187242,
+    "top_25_component_sizes": [
+      153561,
+      9280,
+      253,
+      51,
+      44,
+      42,
+      32,
+      30,
+      27,
+      26,
+      24,
+      20,
+      19,
+      18,
+      18,
+      18,
+      15,
+      15,
+      15,
+      15,
+      14,
+      14,
+      14,
+      14,
+      13
+    ]
+  },
+  "structural_checks": {
+    "rebuilt_expected_edge_set_missing": 0,
+    "rebuilt_expected_edge_set_extra": 0,
+    "rebuilt_expected_edge_total": 506242,
+    "endpoints_missing_from_index": 2,
+    "external_source_count": 1,
+    "external_sources": [
+      "R0113768"
+    ],
+    "marker_type_mismatches": 0
+  },
+  "validation_rules": {
+    "row_resolution": "Both source and target IDs must be present in core_rows.ndjson (plan gate).",
+    "EXACT_BODY": "sha256(row.text) == proof text_sha256 for both endpoints.",
+    "NORMALIZED_REPLAY": "row.canonical_sha256 == proof canonical hash for both endpoints; endpoint raw text_sha256 values differ; proof raw_class_count equals recomputed distinct raw classes.",
+    "PARENT_DIRECT": "target.parent_id == source; source row must exist (external parent edges are flagged).",
+    "SAME_PARENT_SIBLING": "Both endpoints share a non-null parent_id.",
+    "MARKER_SAME": "Proof marker is in both endpoints' markers list and marker is non-endpoint.",
+    "MARKER_ENDPOINT": "Proof marker is in both endpoints' markers list and marker matches endpoint classification."
+  },
+  "proof_mapping": {
+    "EXACT_BODY": "proof = text_sha256=<sha256(raw text)> rows=<group size>; group size is the number of rows sharing that raw text hash.",
+    "NORMALIZED_REPLAY": "proof = canonical_sha256=<sha256(canonical text)>; raw_class_count=<number of distinct raw text hashes in the normalized group> rows=<number of representatives/raw classes>; edges connect one representative from each raw class.",
+    "PARENT_DIRECT": "proof = stored parent_id=<parent row id>; one edge per row whose stored parent_id is not null.",
+    "SAME_PARENT_SIBLING": "proof = shared_parent=<parent row id> rows=<number of siblings for that parent>; edges form a position-ordered chain over sibling rows.",
+    "MARKER_SAME": "proof = <exact bracketed marker> rows=<number of rows containing that exact marker>; edges form a position-ordered chain.",
+    "MARKER_ENDPOINT": "proof = <exact bracketed marker> rows=<number of rows containing that exact marker>; edge type is endpoint/transit markers matching is_endpoint()."
+  },
+  "samples": {
+    "accepted_10pct": {
+      "method": "random.Random(20260325).sample(class_edges, max(1, len(class_edges)//10))",
+      "seed": 20260325,
+      "total_sampled": 50622,
+      "total_loopholes": 0,
+      "per_class": {
+        "EXACT_BODY": {
+          "edges": 23471,
+          "sampled_10pct": 2347,
+          "accepted": 2347,
+          "loopholes": 0,
+          "loophole_samples": []
+        },
+        "MARKER_ENDPOINT": {
+          "edges": 121104,
+          "sampled_10pct": 12110,
+          "accepted": 12110,
+          "loopholes": 0,
+          "loophole_samples": []
+        },
+        "MARKER_SAME": {
+          "edges": 267062,
+          "sampled_10pct": 26706,
+          "accepted": 26706,
+          "loopholes": 0,
+          "loophole_samples": []
+        },
+        "NORMALIZED_REPLAY": {
+          "edges": 1826,
+          "sampled_10pct": 182,
+          "accepted": 182,
+          "loopholes": 0,
+          "loophole_samples": []
+        },
+        "PARENT_DIRECT": {
+          "edges": 59313,
+          "sampled_10pct": 5931,
+          "accepted": 5931,
+          "loopholes": 0,
+          "loophole_samples": []
+        },
+        "SAME_PARENT_SIBLING": {
+          "edges": 33466,
+          "sampled_10pct": 3346,
+          "accepted": 3346,
+          "loopholes": 0,
+          "loophole_samples": []
+        }
+      }
+    },
+    "adversarial_5pct": {
+      "method": "random.Random(20260326).sample(class_edges, min(len(class_edges), max(1, len(class_edges)//20)))",
+      "seed": 20260326,
+      "total_sampled": 25310,
+      "total_loopholes": 0,
+      "per_class": {
+        "EXACT_BODY": {
+          "edges": 23471,
+          "sampled_5pct": 1173,
+          "disproof_reviewed": 1173,
+          "loopholes": 0,
+          "loophole_samples": []
+        },
+        "MARKER_ENDPOINT": {
+          "edges": 121104,
+          "sampled_5pct": 6055,
+          "disproof_reviewed": 6055,
+          "loopholes": 0,
+          "loophole_samples": []
+        },
+        "MARKER_SAME": {
+          "edges": 267062,
+          "sampled_5pct": 13353,
+          "disproof_reviewed": 13353,
+          "loopholes": 0,
+          "loophole_samples": []
+        },
+        "NORMALIZED_REPLAY": {
+          "edges": 1826,
+          "sampled_5pct": 91,
+          "disproof_reviewed": 91,
+          "loopholes": 0,
+          "loophole_samples": []
+        },
+        "PARENT_DIRECT": {
+          "edges": 59313,
+          "sampled_5pct": 2965,
+          "disproof_reviewed": 2965,
+          "loopholes": 0,
+          "loophole_samples": []
+        },
+        "SAME_PARENT_SIBLING": {
+          "edges": 33466,
+          "sampled_5pct": 1673,
+          "disproof_reviewed": 1673,
+          "loopholes": 0,
+          "loophole_samples": []
+        }
+      }
+    }
+  },
+  "canonical_replay": {
+    "normalized_groups": 1794,
+    "normalized_edges": 1826,
+    "raw_classes_accounted": "raw_class_count field in each proof, validated against distinct text_sha256 values among rows sharing canonical_sha256",
+    "endpoint_raw_bodies_differ": true,
+    "status": "all NORMALIZED_REPLAY proofs map correctly; no opcode/alias normalization beyond approved hugging face/hf and whitespace handling"
+  },
+  "loophole_count": 2,
+  "loopholes": [
+    {
+      "edge_type": "PARENT_DIRECT",
+      "source": "R0113768",
+      "target": "R0149891",
+      "proof": "stored parent_id=R0113768",
+      "reason": "unresolved endpoint: at least one ID is not in core_rows.ndjson",
+      "row_resolution": "source_in_index=False, target_in_index=True",
+      "gate_violated": "G_CORE_ROW_RESOLUTION: every graph edge must resolve both endpoint sample IDs"
+    },
+    {
+      "edge_type": "PARENT_DIRECT",
+      "source": "R0113768",
+      "target": "R0168370",
+      "proof": "stored parent_id=R0113768",
+      "reason": "unresolved endpoint: at least one ID is not in core_rows.ndjson",
+      "row_resolution": "source_in_index=False, target_in_index=True",
+      "gate_violated": "G_CORE_ROW_RESOLUTION: every graph edge must resolve both endpoint sample IDs"
+    }
+  ],
+  "loophole_details": [
+    {
+      "id": "L1",
+      "class": "PARENT_DIRECT",
+      "count": 2,
+      "source": "R0113768",
+      "targets": [
+        "R0149891",
+        "R0168370"
+      ],
+      "proof": "stored parent_id=R0113768",
+      "reason": "R0113768 is absent from the filtered row index (present in Data/redacted.jsonl but not redacted_filtered.jsonl), so two PARENT_DIRECT edges have an unresolved source endpoint.",
+      "gate": "G_CORE_ROW_RESOLUTION",
+      "semantics": "Stored parent_id links are recorded from filtered rows; children retain the parent reference even though the parent row was filtered out.",
+      "action": "Reported, not corrected: graph data left unchanged."
+    },
+    {
+      "id": "L2",
+      "class": "validation-method",
+      "count": 1,
+      "source": "verify_core_graph.py / audit_core_graph.py",
+      "targets": [],
+      "proof": "PARENT_DIRECT trust check: `a not in src or (b in src and src[b].get('parent_id')==a)`",
+      "reason": "The prior PARENT_DIRECT check short-circuits to true when the parent/source is missing, hiding unresolved-parent edges. v2 requires both endpoint row IDs to resolve before class proof checks.",
+      "gate": "audit-trust-correctness",
+      "semantics": "Validation-method loophole; corrected by the universal row-resolution gate.",
+      "action": "Documented in v2; no graph data altered."
+    }
+  ],
+  "unresolved_disputes": [
+    {
+      "edge_type": "PARENT_DIRECT",
+      "source": "R0113768",
+      "target": "R0149891",
+      "proof": "stored parent_id=R0113768",
+      "reason": "unresolved endpoint: at least one ID is not in core_rows.ndjson",
+      "row_resolution": "source_in_index=False, target_in_index=True",
+      "gate_violated": "G_CORE_ROW_RESOLUTION: every graph edge must resolve both endpoint sample IDs"
+    },
+    {
+      "edge_type": "PARENT_DIRECT",
+      "source": "R0113768",
+      "target": "R0168370",
+      "proof": "stored parent_id=R0113768",
+      "reason": "unresolved endpoint: at least one ID is not in core_rows.ndjson",
+      "row_resolution": "source_in_index=False, target_in_index=True",
+      "gate_violated": "G_CORE_ROW_RESOLUTION: every graph edge must resolve both endpoint sample IDs"
+    }
+  ],
+  "sampled_vs_global": {
+    "random_10pct_loopholes": 0,
+    "adversarial_5pct_loopholes": 0,
+    "global_loopholes": 2
+  },
+  "conclusion": {
+    "all_sampled_edges_passed": true,
+    "global_loopholes_found": 2,
+    "summary": "All 50,622 row-resolving 10% sample edges and 25,310 adversarial 5% sample edges pass class-specific validation. Two PARENT_DIRECT edges reference filtered-out parent R0113768 and are the only unresolved-endpoint loopholes; graph data was not altered."
+  }
+}
