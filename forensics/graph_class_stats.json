@@ -1,0 +1,30 @@
+{
+  "rows": 187242,
+  "edge_classes": {
+    "exact_body": 66313,
+    "intent_signature": 249052,
+    "marker_endpoint": 134537,
+    "marker_same": 350851,
+    "normalized_replay": 8941,
+    "parent_direct": 59311,
+    "parent_mutation": 58045,
+    "same_parent_sibling": 577520,
+    "timestamp_anchor": 945
+  },
+  "total_edges": 1505515,
+  "distinct_endpoints": 178410,
+  "edge_class_files": [
+    "/Users/id19/Programming/AI_research/Apart_agent_swarm/forensics/projections/exact_body.ndjson",
+    "/Users/id19/Programming/AI_research/Apart_agent_swarm/forensics/projections/intent_signature.ndjson",
+    "/Users/id19/Programming/AI_research/Apart_agent_swarm/forensics/projections/marker_endpoint.ndjson",
+    "/Users/id19/Programming/AI_research/Apart_agent_swarm/forensics/projections/marker_same.ndjson",
+    "/Users/id19/Programming/AI_research/Apart_agent_swarm/forensics/projections/near_body_d1.ndjson",
+    "/Users/id19/Programming/AI_research/Apart_agent_swarm/forensics/projections/near_body_d2.ndjson",
+    "/Users/id19/Programming/AI_research/Apart_agent_swarm/forensics/projections/near_body_d3.ndjson",
+    "/Users/id19/Programming/AI_research/Apart_agent_swarm/forensics/projections/normalized_replay.ndjson",
+    "/Users/id19/Programming/AI_research/Apart_agent_swarm/forensics/projections/parent_direct.ndjson",
+    "/Users/id19/Programming/AI_research/Apart_agent_swarm/forensics/projections/parent_mutation.ndjson",
+    "/Users/id19/Programming/AI_research/Apart_agent_swarm/forensics/projections/same_parent_sibling.ndjson",
+    "/Users/id19/Programming/AI_research/Apart_agent_swarm/forensics/projections/timestamp_anchor.ndjson"
+  ]
+}
