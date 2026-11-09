@@ -1,0 +1,34 @@
+{
+  "orphan_parent_ids": [
+    "R0113768"
+  ],
+  "orphan_edge_count": 2,
+  "orphan_edges": [
+    {
+      "source": "R0113768",
+      "dest": "R0149891",
+      "edge_class": "PARENT_DIRECT",
+      "edge_sub_class": {
+        "source_id": "R0113768",
+        "destination_id": "R0149891",
+        "trigger": "stored parent_id=R0113768",
+        "distance": null,
+        "direction": "directed"
+      }
+    },
+    {
+      "source": "R0113768",
+      "dest": "R0168370",
+      "edge_class": "PARENT_DIRECT",
+      "edge_sub_class": {
+        "source_id": "R0113768",
+        "destination_id": "R0168370",
+        "trigger": "stored parent_id=R0113768",
+        "distance": null,
+        "direction": "directed"
+      }
+    }
+  ],
+  "treatment": "quarantined retention only; edges documented but excluded from causality and root traversal",
+  "source_probe_note": "R0113768 absent from Data/redacted_filtered.jsonl and core rows"
+}
