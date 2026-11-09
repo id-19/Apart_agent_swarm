@@ -1,0 +1,65 @@
+{
+  "candidate_lines": 18359221,
+  "unique_pair_keys": 18359221,
+  "duplicate_keys": 0,
+  "distance_counts": {
+    "0": 66592,
+    "1": 301267,
+    "2": 2815018,
+    "3": 15176344
+  },
+  "verified_samples": {
+    "0": {
+      "count": 100,
+      "mismatches": 0
+    },
+    "1": {
+      "count": 100,
+      "mismatches": 2
+    },
+    "2": {
+      "count": 100,
+      "mismatches": 1
+    },
+    "3": {
+      "count": 100,
+      "mismatches": 0
+    }
+  },
+  "mismatch_examples": [
+    {
+      "candidate_d": 1,
+      "actual": 4,
+      "source": "R0072175",
+      "target": "R0065969",
+      "lengths": [
+        5,
+        6
+      ],
+      "candidate_stored": 1
+    },
+    {
+      "candidate_d": 1,
+      "actual": 9,
+      "source": "R0057949",
+      "target": "R0055405",
+      "lengths": [
+        57,
+        57
+      ],
+      "candidate_stored": 1
+    },
+    {
+      "candidate_d": 2,
+      "actual": 9,
+      "source": "R0023478",
+      "target": "R0025257",
+      "lengths": [
+        61,
+        61
+      ],
+      "candidate_stored": 2
+    }
+  ],
+  "verification_rule": "C++ raw Levenshtein distances 0..3 checked independently with banded Levenshtein at limit 3. D0 is exact text identity."
+}

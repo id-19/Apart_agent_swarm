@@ -1,0 +1,957 @@
+{
+  "row_count": 459448,
+  "distinct_classes": 6,
+  "distinct_triggers": 108725,
+  "top_50": [
+    {
+      "edge_type": "MARKER_ENDPOINT",
+      "trigger": "[REDACTED:destination:000003]",
+      "count": 13879,
+      "samples": [
+        [
+          "R0000025",
+          "R0000027"
+        ],
+        [
+          "R0000027",
+          "R0000029"
+        ],
+        [
+          "R0000029",
+          "R0000031"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_ENDPOINT",
+      "trigger": "[PROXY 4 URL 72]",
+      "count": 11961,
+      "samples": [
+        [
+          "R0004650",
+          "R0004793"
+        ],
+        [
+          "R0004793",
+          "R0005898"
+        ],
+        [
+          "R0005898",
+          "R0005910"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[SERVICE 3 URL 209]",
+      "count": 11228,
+      "samples": [
+        [
+          "R0078985",
+          "R0078988"
+        ],
+        [
+          "R0078988",
+          "R0078990"
+        ],
+        [
+          "R0078990",
+          "R0078996"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[SERVICE 14 URL 4]",
+      "count": 9267,
+      "samples": [
+        [
+          "R0079768",
+          "R0080098"
+        ],
+        [
+          "R0080098",
+          "R0080160"
+        ],
+        [
+          "R0080160",
+          "R0080189"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[REDACTED:opaque_marker_tail:000008]",
+      "count": 6626,
+      "samples": [
+        [
+          "R0006911",
+          "R0007025"
+        ],
+        [
+          "R0007025",
+          "R0007043"
+        ],
+        [
+          "R0007043",
+          "R0007050"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[SHORTENER-1-HOST]",
+      "count": 6313,
+      "samples": [
+        [
+          "R0000029",
+          "R0000040"
+        ],
+        [
+          "R0000040",
+          "R0000057"
+        ],
+        [
+          "R0000057",
+          "R0000060"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[CREDENTIAL 1]",
+      "count": 6055,
+      "samples": [
+        [
+          "R0000001",
+          "R0000002"
+        ],
+        [
+          "R0000002",
+          "R0000003"
+        ],
+        [
+          "R0000003",
+          "R0000004"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_ENDPOINT",
+      "trigger": "[SERVICE HOST 1]",
+      "count": 5937,
+      "samples": [
+        [
+          "R0000032",
+          "R0000100"
+        ],
+        [
+          "R0000100",
+          "R0000126"
+        ],
+        [
+          "R0000126",
+          "R0000129"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_ENDPOINT",
+      "trigger": "[REDACTED:destination:000002]",
+      "count": 5619,
+      "samples": [
+        [
+          "R0000001",
+          "R0000002"
+        ],
+        [
+          "R0000002",
+          "R0000003"
+        ],
+        [
+          "R0000003",
+          "R0000004"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[REDACTED:opaque_marker_tail:000015]",
+      "count": 5115,
+      "samples": [
+        [
+          "R0008200",
+          "R0008228"
+        ],
+        [
+          "R0008228",
+          "R0049250"
+        ],
+        [
+          "R0049250",
+          "R0055094"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[CREDENTIAL 169]",
+      "count": 5050,
+      "samples": [
+        [
+          "R0005222",
+          "R0005235"
+        ],
+        [
+          "R0005235",
+          "R0005243"
+        ],
+        [
+          "R0005243",
+          "R0005244"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_ENDPOINT",
+      "trigger": "[SERVICE HOST 25]",
+      "count": 5005,
+      "samples": [
+        [
+          "R0005876",
+          "R0007533"
+        ],
+        [
+          "R0007533",
+          "R0007535"
+        ],
+        [
+          "R0007535",
+          "R0007536"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[CREDENTIAL 170]",
+      "count": 4705,
+      "samples": [
+        [
+          "R0005273",
+          "R0005276"
+        ],
+        [
+          "R0005276",
+          "R0005280"
+        ],
+        [
+          "R0005280",
+          "R0005286"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[CREDENTIAL 220]",
+      "count": 4574,
+      "samples": [
+        [
+          "R0006907",
+          "R0006908"
+        ],
+        [
+          "R0006908",
+          "R0006909"
+        ],
+        [
+          "R0006909",
+          "R0006910"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[REDACTED:opaque_marker_tail:000004]",
+      "count": 3004,
+      "samples": [
+        [
+          "R0005946",
+          "R0006906"
+        ],
+        [
+          "R0006907",
+          "R0006912"
+        ],
+        [
+          "R0006912",
+          "R0006917"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[USER 8]",
+      "count": 2863,
+      "samples": [
+        [
+          "R0000560",
+          "R0000567"
+        ],
+        [
+          "R0000567",
+          "R0000572"
+        ],
+        [
+          "R0000572",
+          "R0000573"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_ENDPOINT",
+      "trigger": "[REDACTED:destination:000058]",
+      "count": 2777,
+      "samples": [
+        [
+          "R0000560",
+          "R0000571"
+        ],
+        [
+          "R0000571",
+          "R0000572"
+        ],
+        [
+          "R0000572",
+          "R0000573"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[SERVICE 3 URL 245]",
+      "count": 2698,
+      "samples": [
+        [
+          "R0079729",
+          "R0079747"
+        ],
+        [
+          "R0079747",
+          "R0079759"
+        ],
+        [
+          "R0079759",
+          "R0079780"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[REDACTED:opaque_marker_tail:000007]",
+      "count": 2669,
+      "samples": [
+        [
+          "R0006905",
+          "R0006908"
+        ],
+        [
+          "R0006910",
+          "R0006919"
+        ],
+        [
+          "R0006919",
+          "R0006921"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[SERVICE 2 URL 1]",
+      "count": 2523,
+      "samples": [
+        [
+          "R0000001",
+          "R0000003"
+        ],
+        [
+          "R0000003",
+          "R0000007"
+        ],
+        [
+          "R0000010",
+          "R0000014"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[SERVICE 25 URL 113]",
+      "count": 2436,
+      "samples": [
+        [
+          "R0079453",
+          "R0079582"
+        ],
+        [
+          "R0079582",
+          "R0079997"
+        ],
+        [
+          "R0079997",
+          "R0080376"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[CREDENTIAL [ENCODED BLOB]",
+      "count": 1820,
+      "samples": [
+        [
+          "R0000008",
+          "R0000020"
+        ],
+        [
+          "R0000020",
+          "R0000022"
+        ],
+        [
+          "R0000022",
+          "R0000034"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[SERVICE 2 URL 3]",
+      "count": 1767,
+      "samples": [
+        [
+          "R0000006",
+          "R0000008"
+        ],
+        [
+          "R0000008",
+          "R0000013"
+        ],
+        [
+          "R0000013",
+          "R0000023"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[SERVICE 9 URL 2]",
+      "count": 1684,
+      "samples": [
+        [
+          "R0000338",
+          "R0000575"
+        ],
+        [
+          "R0000575",
+          "R0000576"
+        ],
+        [
+          "R0000576",
+          "R0000595"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[SERVICE 1 URL 1]",
+      "count": 1541,
+      "samples": [
+        [
+          "R0000173",
+          "R0000331"
+        ],
+        [
+          "R0000331",
+          "R0000332"
+        ],
+        [
+          "R0000332",
+          "R0000341"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_ENDPOINT",
+      "trigger": "[PROXY 4 URL 1]",
+      "count": 1360,
+      "samples": [
+        [
+          "R0000007",
+          "R0000009"
+        ],
+        [
+          "R0000009",
+          "R0000016"
+        ],
+        [
+          "R0000016",
+          "R0000018"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[REDACTED:jwt_claim_identifier:000004]",
+      "count": 1357,
+      "samples": [
+        [
+          "R0005753",
+          "R0006526"
+        ],
+        [
+          "R0006526",
+          "R0006543"
+        ],
+        [
+          "R0006543",
+          "R0006688"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_ENDPOINT",
+      "trigger": "[PROXY 4 URL 325]",
+      "count": 1315,
+      "samples": [
+        [
+          "R0079970",
+          "R0080021"
+        ],
+        [
+          "R0080021",
+          "R0080063"
+        ],
+        [
+          "R0080063",
+          "R0080087"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_ENDPOINT",
+      "trigger": "[REDACTED:destination:000280]",
+      "count": 1303,
+      "samples": [
+        [
+          "R0003359",
+          "R0006904"
+        ],
+        [
+          "R0006912",
+          "R0006914"
+        ],
+        [
+          "R0006914",
+          "R0006926"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_ENDPOINT",
+      "trigger": "[REDACTED:destination:002666]",
+      "count": 1216,
+      "samples": [
+        [
+          "R0019748",
+          "R0020551"
+        ],
+        [
+          "R0020551",
+          "R0021918"
+        ],
+        [
+          "R0021918",
+          "R0022011"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[SERVICE 3 URL 1]",
+      "count": 1173,
+      "samples": [
+        [
+          "R0000003",
+          "R0000005"
+        ],
+        [
+          "R0000006",
+          "R0000010"
+        ],
+        [
+          "R0000010",
+          "R0000012"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[CREDENTIAL 15]",
+      "count": 1081,
+      "samples": [
+        [
+          "R0000585",
+          "R0000588"
+        ],
+        [
+          "R0000588",
+          "R0000593"
+        ],
+        [
+          "R0000603",
+          "R0000607"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[REDACTED:query_value:000124]",
+      "count": 1055,
+      "samples": [
+        [
+          "R0005753",
+          "R0006232"
+        ],
+        [
+          "R0006232",
+          "R0006460"
+        ],
+        [
+          "R0006463",
+          "R0007131"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[REDACTED:opaque_marker_tail:000021]",
+      "count": 1052,
+      "samples": [
+        [
+          "R0011570",
+          "R0024660"
+        ],
+        [
+          "R0024660",
+          "R0030666"
+        ],
+        [
+          "R0030666",
+          "R0031132"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[SERVICE 3 URL 233]",
+      "count": 986,
+      "samples": [
+        [
+          "R0079411",
+          "R0079882"
+        ],
+        [
+          "R0079882",
+          "R0079901"
+        ],
+        [
+          "R0079901",
+          "R0079910"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_ENDPOINT",
+      "trigger": "[REDACTED:destination:000281]",
+      "count": 909,
+      "samples": [
+        [
+          "R0003359",
+          "R0006947"
+        ],
+        [
+          "R0006947",
+          "R0006948"
+        ],
+        [
+          "R0006948",
+          "R0006968"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_ENDPOINT",
+      "trigger": "[PROXY 5 URL 1]",
+      "count": 897,
+      "samples": [
+        [
+          "R0000022",
+          "R0000033"
+        ],
+        [
+          "R0000033",
+          "R0000034"
+        ],
+        [
+          "R0000035",
+          "R0000041"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[\"submit-function\",\"{\\\"task_id\\\":\\\"[REDACTED:runtime_identifier:000001]",
+      "count": 890,
+      "samples": [
+        [
+          "R0010339",
+          "R0012738"
+        ],
+        [
+          "R0012738",
+          "R0013304"
+        ],
+        [
+          "R0013304",
+          "R0013913"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[REDACTED:opaque_marker_tail:000005]",
+      "count": 869,
+      "samples": [
+        [
+          "R0040696",
+          "R0054226"
+        ],
+        [
+          "R0054226",
+          "R0054365"
+        ],
+        [
+          "R0054365",
+          "R0054369"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[REDACTED:query_value:000102]",
+      "count": 860,
+      "samples": [
+        [
+          "R0003359",
+          "R0006947"
+        ],
+        [
+          "R0006948",
+          "R0006968"
+        ],
+        [
+          "R0006968",
+          "R0007123"
+        ]
+      ]
+    },
+    {
+      "edge_type": "PARENT_DIRECT",
+      "trigger": "stored parent_id=R0024455",
+      "count": 858,
+      "samples": [
+        [
+          "R0024455",
+          "R0057507"
+        ],
+        [
+          "R0024455",
+          "R0057508"
+        ],
+        [
+          "R0024455",
+          "R0057509"
+        ]
+      ]
+    },
+    {
+      "edge_type": "SAME_PARENT_SIBLING",
+      "trigger": "R0024455",
+      "count": 857,
+      "samples": [
+        [
+          "R0057507",
+          "R0057508"
+        ],
+        [
+          "R0057508",
+          "R0057509"
+        ],
+        [
+          "R0057509",
+          "R0057510"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[REDACTED:opaque_marker_tail:000183]",
+      "count": 829,
+      "samples": [
+        [
+          "R0025265",
+          "R0025293"
+        ],
+        [
+          "R0025293",
+          "R0025296"
+        ],
+        [
+          "R0025296",
+          "R0025332"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[WORKLOAD ID]",
+      "count": 827,
+      "samples": [
+        [
+          "R0023526",
+          "R0023650"
+        ],
+        [
+          "R0023650",
+          "R0024326"
+        ],
+        [
+          "R0024326",
+          "R0024380"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_ENDPOINT",
+      "trigger": "[REDACTED:destination:002985]",
+      "count": 745,
+      "samples": [
+        [
+          "R0022290",
+          "R0022326"
+        ],
+        [
+          "R0022326",
+          "R0022345"
+        ],
+        [
+          "R0022345",
+          "R0022665"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[REDACTED:query_value:000027]",
+      "count": 719,
+      "samples": [
+        [
+          "R0000664",
+          "R0000684"
+        ],
+        [
+          "R0000684",
+          "R0000695"
+        ],
+        [
+          "R0000706",
+          "R0000710"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[CREDENTIAL 1720]",
+      "count": 694,
+      "samples": [
+        [
+          "R0036030",
+          "R0036139"
+        ],
+        [
+          "R0036139",
+          "R0036148"
+        ],
+        [
+          "R0036148",
+          "R0036263"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[r.status,t]",
+      "count": 685,
+      "samples": [
+        [
+          "R0000010",
+          "R0000018"
+        ],
+        [
+          "R0000018",
+          "R0000026"
+        ],
+        [
+          "R0000030",
+          "R0000041"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[:500]",
+      "count": 683,
+      "samples": [
+        [
+          "R0000617",
+          "R0000658"
+        ],
+        [
+          "R0000658",
+          "R0000664"
+        ],
+        [
+          "R0000664",
+          "R0000688"
+        ]
+      ]
+    },
+    {
+      "edge_type": "MARKER_SAME",
+      "trigger": "[80,50,48,66]",
+      "count": 679,
+      "samples": [
+        [
+          "R0009493",
+          "R0009650"
+        ],
+        [
+          "R0009672",
+          "R0009704"
+        ],
+        [
+          "R0009704",
+          "R0009816"
+        ]
+      ]
+    }
+  ]
+}

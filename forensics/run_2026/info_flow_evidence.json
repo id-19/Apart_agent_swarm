@@ -1,0 +1,15 @@
+{
+  "edge_count": 60256,
+  "edge_type_counts": {
+    "BODY_REVISION_OR_REPLAY": 59481,
+    "OPERATION_SIGNATURE_FLOW": 775
+  },
+  "direction_rule": "parent->child only for body revision/replay; grounded structural links retain stored direction; no reverse invention",
+  "required_classes_not_separately_materialized": [
+    "SHARED_INFO_READ",
+    "WRITE_THEN_USE",
+    "SAME_WRITE_TARGET",
+    "META_INJECTION_PATTERN"
+  ],
+  "note": "Classes requiring explicit read/write/target roles beyond available annotations remain candidate conceptual classes; exported edges cover BODY_REVISION_OR_REPLAY and OPERATION_SIGNATURE_FLOW only."
+}
