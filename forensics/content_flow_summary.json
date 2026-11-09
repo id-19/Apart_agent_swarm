@@ -1,0 +1,186 @@
+{
+  "dataset": "/Users/id19/Programming/AI_research/Apart_agent_swarm/Data/redacted.jsonl",
+  "records": 189579,
+  "edge_file": "/Users/id19/Programming/AI_research/Apart_agent_swarm/forensics/content_flow_edges.csv",
+  "edge_definition": {
+    "row_order_proxy_time": "records sorted by id (R000...); time_utc null for all rows",
+    "direction": "first occurrence (lowest id) -> each later occurrence (higher id) for a given exact token",
+    "rarity_filter": "2 <= distinct_record_occurrences <= 30",
+    "dedup": "star edges (first->each later); one row per token per later occurrence; edges are not collapsed across different tokens"
+  },
+  "edge_types": {
+    "command_template_edge": {
+      "distinct_tokens": 451,
+      "edges": 999
+    },
+    "rare_marker_edge": {
+      "distinct_tokens": 14818,
+      "edges": 32124
+    },
+    "shared_pivot_edge": {
+      "distinct_tokens": 31597,
+      "edges": 68738
+    },
+    "url_identifier_edge": {
+      "distinct_tokens": 2734,
+      "edges": 8346
+    }
+  },
+  "total_edges": 110207,
+  "components_involving_edged_nodes": 19883,
+  "largest_component_size": 11552,
+  "top_component_sizes": [
+    11552,
+    497,
+    247,
+    239,
+    215,
+    170,
+    164,
+    141,
+    132,
+    119
+  ],
+  "hub_count_top20": 20,
+  "top_hubs": [
+    {
+      "id": "R0018789",
+      "degree": 2262,
+      "out_degree": 2261,
+      "in_degree": 1
+    },
+    {
+      "id": "R0004939",
+      "degree": 753,
+      "out_degree": 753,
+      "in_degree": 0
+    },
+    {
+      "id": "R0005587",
+      "degree": 677,
+      "out_degree": 677,
+      "in_degree": 0
+    },
+    {
+      "id": "R0020517",
+      "degree": 663,
+      "out_degree": 658,
+      "in_degree": 5
+    },
+    {
+      "id": "R0005176",
+      "degree": 569,
+      "out_degree": 569,
+      "in_degree": 0
+    },
+    {
+      "id": "R0036422",
+      "degree": 542,
+      "out_degree": 542,
+      "in_degree": 0
+    },
+    {
+      "id": "R0005360",
+      "degree": 533,
+      "out_degree": 528,
+      "in_degree": 5
+    },
+    {
+      "id": "R0032358",
+      "degree": 312,
+      "out_degree": 312,
+      "in_degree": 0
+    },
+    {
+      "id": "R0072102",
+      "degree": 312,
+      "out_degree": 0,
+      "in_degree": 312
+    },
+    {
+      "id": "R0051388",
+      "degree": 295,
+      "out_degree": 295,
+      "in_degree": 0
+    },
+    {
+      "id": "R0007448",
+      "degree": 282,
+      "out_degree": 275,
+      "in_degree": 7
+    },
+    {
+      "id": "R0001912",
+      "degree": 276,
+      "out_degree": 276,
+      "in_degree": 0
+    },
+    {
+      "id": "R0005771",
+      "degree": 269,
+      "out_degree": 269,
+      "in_degree": 0
+    },
+    {
+      "id": "R0090324",
+      "degree": 269,
+      "out_degree": 0,
+      "in_degree": 269
+    },
+    {
+      "id": "R0057007",
+      "degree": 264,
+      "out_degree": 260,
+      "in_degree": 4
+    },
+    {
+      "id": "R0090048",
+      "degree": 260,
+      "out_degree": 258,
+      "in_degree": 2
+    },
+    {
+      "id": "R0019698",
+      "degree": 252,
+      "out_degree": 6,
+      "in_degree": 246
+    },
+    {
+      "id": "R0004940",
+      "degree": 251,
+      "out_degree": 0,
+      "in_degree": 251
+    },
+    {
+      "id": "R0054076",
+      "degree": 251,
+      "out_degree": 0,
+      "in_degree": 251
+    },
+    {
+      "id": "R0064026",
+      "degree": 251,
+      "out_degree": 0,
+      "in_degree": 251
+    }
+  ],
+  "temporal_direction": {
+    "forward_edges_src_order_less_than_dst": 110207,
+    "backward_edges_src_order_greater_than_dst": 0,
+    "equal_order_pairs": 0
+  },
+  "token_type_distinct_edge_count": {
+    "command_template_edge": {
+      "distinct_tokens": 451
+    },
+    "rare_marker_edge": {
+      "distinct_tokens": 14818
+    },
+    "shared_pivot_edge": {
+      "distinct_tokens": 31597
+    },
+    "url_identifier_edge": {
+      "distinct_tokens": 2734
+    }
+  }
+}

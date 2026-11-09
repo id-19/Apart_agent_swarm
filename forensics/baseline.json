@@ -1,0 +1,62 @@
+{
+  "rows": 189579,
+  "unique_ids": 189579,
+  "duplicate_ids": 0,
+  "kinds": {
+    "payload": 91037,
+    "recovered_text": 75534,
+    "response": 23008
+  },
+  "null_time_utc": 189579,
+  "null_or_empty_tags": 189542,
+  "parented": 61125,
+  "unparented": 128454,
+  "dangling_parents": 0,
+  "parent_ids_always_less": 61125,
+  "family_rows_payload": 58044,
+  "unclassified_payloads": 32993,
+  "template_count_payload": 71211,
+  "top_templates": [
+    [
+      "3e11c682a3e541bc",
+      7188
+    ],
+    [
+      "46665422a28b28c5",
+      6453
+    ],
+    [
+      "04c95b026e032c6e",
+      3626
+    ],
+    [
+      "14fbbdf63f797d36",
+      3466
+    ],
+    [
+      "60d1f56ab13f34e7",
+      3440
+    ],
+    [
+      "7744c0afe7af159d",
+      2834
+    ],
+    [
+      "840e7770e01173c7",
+      2720
+    ],
+    [
+      "cc9d3b2a9d4795ed",
+      2708
+    ],
+    [
+      "3aa75e33cf918539",
+      2674
+    ],
+    [
+      "e006459ccb9bebea",
+      2477
+    ]
+  ],
+  "top_family": "family"
+}

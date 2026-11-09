@@ -1,0 +1,35 @@
+[
+  {
+    "size": 141970,
+    "sample_rows": [
+      "R0162489",
+      "R0116490",
+      "R0127716",
+      "R0176131",
+      "R0142500"
+    ],
+    "plain_language": "Component links rows by exact body repetition, shared parent group, and exact marker overlap; manually inspect selected rows for operation chains."
+  },
+  {
+    "size": 9280,
+    "sample_rows": [
+      "R0085832",
+      "R0098534",
+      "R0087984",
+      "R0083658",
+      "R0080763"
+    ],
+    "plain_language": "Component links rows by exact body repetition, shared parent group, and exact marker overlap; manually inspect selected rows for operation chains."
+  },
+  {
+    "size": 266,
+    "sample_rows": [
+      "R0155890",
+      "R0150955",
+      "R0165531",
+      "R0152254",
+      "R0189161"
+    ],
+    "plain_language": "Component links rows by exact body repetition, shared parent group, and exact marker overlap; manually inspect selected rows for operation chains."
+  }
+]

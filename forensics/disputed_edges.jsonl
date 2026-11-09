@@ -1,0 +1,5 @@
+{"dispute_id":"DE-0001","edge_class":"PARENT_DIRECT","issue":"2 unresolved parent endpoints remain; ghost parent R0113768","evidence":["core_edge_validation_v2.json"],"status":"retained"}
+{"dispute_id":"DE-0002","edge_class":"MARKER_SAME","issue":"144,075-row G_CORE component is held by shared marker/endpoint co-occurrence and is not a behavioral cluster","evidence":["core/core_rows.ndjson","component_summary.json"],"status":"quarantined_as_broad_hub"}
+{"dispute_id":"DE-0003","edge_class":"NEAR_BODY","issue":"D1-D3 candidate matrix is intentionally not materialized; candidate adjacency is not evidence","population":18852564,"status":"retained"}
+{"dispute_id":"DE-0004","edge_class":"TIMESTAMP_ANCHOR","issue":"time_utc null for all 187,242 rows; only 1,851 valid anchors; 0 grounded strict-order conflicts at coarse resolution","status":"retained"}
+{"dispute_id":"DE-0005","edge_class":"CORE_GRAPH","issue":"INTENT_SIGNATURE population/acceptance mixes broad structural family labels; requires trigger-level re-validation before causal use","status":"retained"}
