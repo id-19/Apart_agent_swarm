@@ -1,0 +1,13 @@
+{
+  "all_edges_scanned": 459448,
+  "edges_with_both_endpoints_resolved": 459446,
+  "unresolved_endpoint_count": 2,
+  "orphan_parent_count": 1,
+  "curated_nodes": 1000,
+  "curated_isolated_nodes": 259,
+  "broad_hub_quarantined": 144075,
+  "segment_signature_bucket_count": 100,
+  "segment_signature_covered_rows": 87438,
+  "audit_depth": "exhaustive endpoint scan, no sampling",
+  "pass_all_exhaustive_endpoint_checks": true
+}

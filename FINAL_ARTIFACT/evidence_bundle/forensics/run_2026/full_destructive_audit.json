@@ -1,0 +1,35 @@
+{
+  "checks": {
+    "source_rows": true,
+    "distinct_ids": true,
+    "source_sha256": true,
+    "core_edges": true,
+    "cluster_profiles": true,
+    "cluster_coverage": true,
+    "taxonomy_labels": true,
+    "temporal_anchors": true,
+    "temporal_chains": true,
+    "info_flow_edges": true,
+    "curated_nodes": true,
+    "curated_node_unique": true,
+    "all_selected_rows_exist": true,
+    "report_numbers_consistent": true
+  },
+  "all_pass": true,
+  "unresolved_disputes": [
+    {
+      "id": "R0113768",
+      "issue": "2 unresolved parent endpoints"
+    },
+    {
+      "id": "SC-L4-COMP-00001",
+      "issue": "144075-row broad hub not one intent"
+    },
+    {
+      "issue": "candidate matrix unmaterialized"
+    },
+    {
+      "issue": "time_utc null for all rows"
+    }
+  ]
+}

