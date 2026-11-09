@@ -1,0 +1,9 @@
+{
+  "generated_at": "2026-11-09T08:00:11Z",
+  "source_sha256": "5a048060a8fc2a90246b42c10c5bdd2e35d1b59f98b48b2849155853e4dc28ee",
+  "bundle": {
+    "file": "evidence_bundle.tar.gz",
+    "bytes": 80141716,
+    "sha256": "e2ce43471c3e95e5077cff5c2c88ee75d971e4466d83a224483d8c596358a209"
+  }
+}
