@@ -1,0 +1,24 @@
+{
+  "cleaned_rows": 187242,
+  "L1_exact_body_cluster_count": 161945,
+  "L3_repeating_marker_cluster_count": 79451,
+  "L4_component_cluster_count": 26043,
+  "rows_with_at_least_one_L1_cluster": 187242,
+  "percent_rows_with_at_least_one_cluster": 100.0,
+  "broad_hub_rows": 153874,
+  "singleton_component_count": 22894,
+  "gate_95_percent_coverage_met": true,
+  "nontrivial_recurring_L1_rows": 44025,
+  "nontrivial_recurring_L1_percent": 23.5124,
+  "L4_multirow_component_rows": 164348,
+  "L4_multirow_component_percent": 87.773,
+  "L4_singleton_rows": 22894,
+  "L4_singleton_percent": 12.227,
+  "honest_claims": {
+    "all_rows_have_singleton_L1_assignment": true,
+    "all_rows_have_singleton_L1_is_not_coordination_evidence": true,
+    "recurring_body_evidence_rows": 44025,
+    "multirow_component_evidence_rows": 164348
+  },
+  "disputes_reference": "cluster_disputes.jsonl"
+}

@@ -1,0 +1,13 @@
+{
+  "L1_recurring_clusters_tested": 60,
+  "L1_adversaries_tested": 295,
+  "L1_trigger_fail_rate_percent": 100.0,
+  "L3_marker_clusters_tested": 628,
+  "L3_adversaries_tested": 3115,
+  "L3_trigger_fail_rate_percent": 100.0,
+  "L4_components_tested": 85,
+  "L4_adversaries_tested": 425,
+  "L4_nonmembership_fail_rate_percent": 100.0,
+  "sampling_rule": "up to 5 family-local adversarial rows per tested significant cluster",
+  "seed": 731
+}
