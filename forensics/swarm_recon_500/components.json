@@ -1,0 +1,188 @@
+{
+  "top_components": [
+    {
+      "component_id": "ATOMIC:marker:[referer]",
+      "size": 429,
+      "representative_nodes": [
+        "R0000001",
+        "R0000003",
+        "R0000005",
+        "R0000006",
+        "R0000008",
+        "R0000010",
+        "R0000011",
+        "R0000012",
+        "R0000013",
+        "R0000014",
+        "R0000015",
+        "R0000017"
+      ]
+    },
+    {
+      "component_id": "ATOMIC:sha:fab86896c078b07a90bcd027298b8ec6dd67e4297869775c99a544518281d373",
+      "size": 7,
+      "representative_nodes": [
+        "R0000062",
+        "R0000081",
+        "R0000092",
+        "R0000106",
+        "R0000184",
+        "R0000216",
+        "ATOMIC:sha:fab86896c078b07a90bcd027298b8ec6dd67e4297869775c99a544518281d373"
+      ]
+    },
+    {
+      "component_id": "ATOMIC:sha:cf91076c812149d037824a7228074171893012eac9c32ba1df0442dceab308f6",
+      "size": 6,
+      "representative_nodes": [
+        "R0000068",
+        "R0000085",
+        "R0000203",
+        "R0000313",
+        "R0000353",
+        "ATOMIC:sha:cf91076c812149d037824a7228074171893012eac9c32ba1df0442dceab308f6"
+      ]
+    },
+    {
+      "component_id": "ATOMIC:sha:cb5b2e881898f52eb1d8e3c77f9132727e47bf9d7d0bed3e9f53cc979f057465",
+      "size": 4,
+      "representative_nodes": [
+        "R0000030",
+        "R0000272",
+        "R0000285",
+        "ATOMIC:sha:cb5b2e881898f52eb1d8e3c77f9132727e47bf9d7d0bed3e9f53cc979f057465"
+      ]
+    },
+    {
+      "component_id": "ATOMIC:sha:1a3469d3568e6119b62d9566948c80995b671d0edf24b2e8facaffcaf7a2624e",
+      "size": 4,
+      "representative_nodes": [
+        "R0000305",
+        "R0000342",
+        "R0000390",
+        "ATOMIC:sha:1a3469d3568e6119b62d9566948c80995b671d0edf24b2e8facaffcaf7a2624e"
+      ]
+    },
+    {
+      "component_id": "ATOMIC:sha:cd357ba3b2fa574ee2cb5e969a7c96cec186951722f4058db738d11e0b1b3220",
+      "size": 4,
+      "representative_nodes": [
+        "R0000385",
+        "R0000405",
+        "R0000408",
+        "ATOMIC:sha:cd357ba3b2fa574ee2cb5e969a7c96cec186951722f4058db738d11e0b1b3220"
+      ]
+    },
+    {
+      "component_id": "ATOMIC:sha:84f4d3c131dfa30e23cea4e72cdf8decae2ac1ff6d557359390b6603fd470ec0",
+      "size": 4,
+      "representative_nodes": [
+        "R0000429",
+        "R0000445",
+        "R0000486",
+        "ATOMIC:sha:84f4d3c131dfa30e23cea4e72cdf8decae2ac1ff6d557359390b6603fd470ec0"
+      ]
+    },
+    {
+      "component_id": "ATOMIC:sha:44799675c1d6af19a0b6e3d98f90ad18b15c22bb0c91b15c65e5147a4116ebfc",
+      "size": 3,
+      "representative_nodes": [
+        "R0000002",
+        "R0000102",
+        "ATOMIC:sha:44799675c1d6af19a0b6e3d98f90ad18b15c22bb0c91b15c65e5147a4116ebfc"
+      ]
+    },
+    {
+      "component_id": "ATOMIC:marker:[redacted:url_fragment:N]",
+      "size": 3,
+      "representative_nodes": [
+        "R0000096",
+        "R0000441",
+        "ATOMIC:marker:[redacted:url_fragment:N]"
+      ]
+    },
+    {
+      "component_id": "ATOMIC:sha:ee041291cbc2da8b46458fccf95b72e70cb39ec2f4e230e41bc42ded3ca5d7b8",
+      "size": 3,
+      "representative_nodes": [
+        "R0000111",
+        "R0000144",
+        "ATOMIC:sha:ee041291cbc2da8b46458fccf95b72e70cb39ec2f4e230e41bc42ded3ca5d7b8"
+      ]
+    },
+    {
+      "component_id": "ATOMIC:sha:a47f15112b212211592f9cc63fcb3461eb9b364b70f64ccea368407fe34ec3c1",
+      "size": 3,
+      "representative_nodes": [
+        "R0000208",
+        "R0000253",
+        "ATOMIC:sha:a47f15112b212211592f9cc63fcb3461eb9b364b70f64ccea368407fe34ec3c1"
+      ]
+    },
+    {
+      "component_id": "ATOMIC:sha:83219cd63fb055c7cc965907fab4bbe035ecb6c60cdcaf14635565709f22e4ca",
+      "size": 3,
+      "representative_nodes": [
+        "R0000356",
+        "R0000359",
+        "ATOMIC:sha:83219cd63fb055c7cc965907fab4bbe035ecb6c60cdcaf14635565709f22e4ca"
+      ]
+    },
+    {
+      "component_id": "R0000004",
+      "size": 1,
+      "representative_nodes": [
+        "R0000004"
+      ]
+    },
+    {
+      "component_id": "R0000007",
+      "size": 1,
+      "representative_nodes": [
+        "R0000007"
+      ]
+    },
+    {
+      "component_id": "R0000009",
+      "size": 1,
+      "representative_nodes": [
+        "R0000009"
+      ]
+    },
+    {
+      "component_id": "R0000016",
+      "size": 1,
+      "representative_nodes": [
+        "R0000016"
+      ]
+    },
+    {
+      "component_id": "R0000018",
+      "size": 1,
+      "representative_nodes": [
+        "R0000018"
+      ]
+    },
+    {
+      "component_id": "R0000019",
+      "size": 1,
+      "representative_nodes": [
+        "R0000019"
+      ]
+    },
+    {
+      "component_id": "R0000021",
+      "size": 1,
+      "representative_nodes": [
+        "R0000021"
+      ]
+    },
+    {
+      "component_id": "R0000022",
+      "size": 1,
+      "representative_nodes": [
+        "R0000022"
+      ]
+    }
+  ]
+}
