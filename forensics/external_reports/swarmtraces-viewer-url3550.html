@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="referrer" content="no-referrer">
+<title>Evidence viewer · Swarm traces</title>
+<meta name="description" content="The redacted dataset behind the Swarm traces report: every recovered payload, decoded layer and response, searchable in full.">
+<meta property="og:title" content="Evidence viewer · Swarm traces">
+<meta property="og:description" content="The redacted dataset behind the Swarm traces report: every recovered payload, decoded layer and response, searchable in full.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Swarm traces">
+<meta property="og:image" content="https://swarmtraces.org/assets/opengraph-preview.jpg">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Swarm traces: the report and its evidence viewer">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Evidence viewer · Swarm traces">
+<meta name="twitter:description" content="The redacted dataset behind the Swarm traces report, searchable in full.">
+<meta name="twitter:image" content="https://swarmtraces.org/assets/x-preview.jpg">
+<meta name="twitter:image:alt" content="Swarm traces: the report and its evidence viewer">
+<link rel="icon" type="image/vnd.microsoft.icon" href="/favicon.ico?v=2021a12">
+<link rel="stylesheet" href="/assets/base.css">
+<link rel="stylesheet" href="/viewer/viewer.css">
+</head>
+<body>
+<header class="topbar">
+  <a class="topbar-brand" href="/">Swarm traces</a>
+  <nav class="site-nav">
+    <a href="/">Report</a>
+    <a href="/viewer/">Evidence</a>
+    <a href="/data/final/redacted.jsonl.gz" download>Download<span class="nav-more"> dataset</span></a>
+  </nav>
+</header>
+
+<main class="viewer" id="app">
+  <section class="search-pane" id="search-pane">
+    <div class="v-intro">
+      <p class="kicker">Swarm traces</p>
+      <h1>Evidence viewer</h1>
+      <p class="v-sub">Search the report’s payloads, decoded layers and responses. Redacted values appear in brackets.</p>
+      <p class="v-sub"><a href="/data/final/redacted.jsonl.gz" download>Download the full redacted dataset</a> (JSON Lines, gzipped, 16 MB).</p>
+    </div>
+
+    <form id="search-form" autocomplete="off">
+      <div class="search-row">
+        <input type="search" id="q" name="q" placeholder="Search the captured text…" spellcheck="false" aria-label="search query">
+        <button type="submit" class="btn btn-primary">Search</button>
+      </div>
+      <div class="controls">
+        <label class="ctl">Mode
+          <select id="mode">
+            <option value="words">words</option>
+            <option value="literal" selected>literal</option>
+            <option value="regex">regex</option>
+          </select>
+        </label>
+        <label class="ctl chk"><input type="checkbox" id="ci" checked> case-insensitive</label>
+        <label class="ctl chk"><input type="checkbox" id="roots"> roots only</label>
+        <label class="ctl">kind
+          <select id="kind"><option value="">any</option></select>
+        </label>
+        <span class="tagbox">
+          <input type="text" id="tagfilter" placeholder="tag (exact or prefix*)" aria-label="tag filter">
+          <span id="tagchips" class="tagchips"></span>
+        </span>
+      </div>
+      <p class="hint" id="hint"></p>
+    </form>
+
+    <div id="results" class="results" aria-live="polite"></div>
+    <div class="more-wrap"><button id="more" class="btn more" hidden>Load more</button></div>
+  </section>
+
+  <section class="row-pane" id="row-pane" hidden></section>
+</main>
+
+<footer class="site-foot">
+  <span id="foot-meta"></span>
+</footer>
+
+<script src="/assets/site.js"></script>
+<script src="/assets/redact.js"></script>
+<script src="/viewer/viewer.js"></script>
+</body>
+</html>

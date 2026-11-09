@@ -1,0 +1,68 @@
+{
+  "EXACT_BODY": {
+    "population": 66313,
+    "sampled": 1000,
+    "accepted": 1000,
+    "acceptance_rate": 1.0
+  },
+  "INTENT_SIGNATURE": {
+    "population": 249052,
+    "sampled": 1000,
+    "accepted": 1000,
+    "acceptance_rate": 1.0
+  },
+  "MARKER_ENDPOINT": {
+    "population": 134537,
+    "sampled": 1000,
+    "accepted": 1000,
+    "acceptance_rate": 1.0
+  },
+  "MARKER_SAME": {
+    "population": 350851,
+    "sampled": 1000,
+    "accepted": 1000,
+    "acceptance_rate": 1.0
+  },
+  "near_body_d1": {
+    "population": 0,
+    "sampled": 0
+  },
+  "near_body_d2": {
+    "population": 0,
+    "sampled": 0
+  },
+  "near_body_d3": {
+    "population": 0,
+    "sampled": 0
+  },
+  "NORMALIZED_REPLAY": {
+    "population": 8941,
+    "sampled": 894,
+    "accepted": 894,
+    "acceptance_rate": 1.0
+  },
+  "PARENT_DIRECT": {
+    "population": 59311,
+    "sampled": 1000,
+    "accepted": 1000,
+    "acceptance_rate": 1.0
+  },
+  "PARENT_MUTATION": {
+    "population": 58045,
+    "sampled": 1000,
+    "accepted": 1000,
+    "acceptance_rate": 1.0
+  },
+  "SAME_PARENT_SIBLING": {
+    "population": 577520,
+    "sampled": 1000,
+    "accepted": 1000,
+    "acceptance_rate": 1.0
+  },
+  "TIMESTAMP_ANCHOR": {
+    "population": 945,
+    "sampled": 94,
+    "accepted": 94,
+    "acceptance_rate": 1.0
+  }
+}

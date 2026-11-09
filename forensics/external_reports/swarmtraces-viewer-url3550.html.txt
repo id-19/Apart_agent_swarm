@@ -1,0 +1,87 @@
+
+
+
+
+
+
+Evidence viewer · Swarm traces
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Swarm traces
+  
+    Report
+    Evidence
+    Download dataset
+  
+
+
+
+  
+    
+      Swarm traces
+      Evidence viewer
+      Search the report’s payloads, decoded layers and responses. Redacted values appear in brackets.
+      Download the full redacted dataset (JSON Lines, gzipped, 16 MB).
+    
+
+    
+      
+        
+        Search
+      
+      
+        Mode
+          
+            words
+            literal
+            regex
+          
+        
+         case-insensitive
+         roots only
+        kind
+          any
+        
+        
+          
+          
+        
+      
+      
+    
+
+    
+    Load more
+  
+
+  
+
+
+
+  
+
+
+
+
+
+
+
